@@ -1,162 +1,134 @@
 <?php
 
-include('./players.php');
+require_once('players.php');
+require_once('functions.php');
+require_once('definitions.php');
 
 $starttime = microtime(true);
 
-$dir    = '/var/log/openarena';
+$logdir     = '/var/log/openarena';
+$logfiles   = getLogFiles($logdir);
 
-$files  = scandir($dir);
-$logs   = array();
-$size   = 0;
-foreach($files as $file) {
-    if(preg_match('/openarena_([0-9-]+)\.log/', $file)) {
-        $logs[] = $file;
-        $size   = $size + filesize($dir.'/'.$file);
-    }
-}
+$stats      = generatePlayerSkeletons($known_players);
 
-$stats = array();
-foreach($logs as $log) {
-    $h = fopen($dir.'/'.$log, 'r');
-    while(($line = fgets($h, 4096)) !== false) {
+$kill_pattern = '/(?P<killer>[a-zA-Z0-9-_\ ]+)\ killed\ (?P<victim>[a-zA-Z0-9-_\ ]+)\ by\ (?P<weapon>[A-Z_]+)/';
 
-        $line = substr($line, 0, -1);
+$taken_pattern   = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ got\ the\ (RED|BLUE)\ flag/';
+$capture_pattern = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ captured\ the\ (RED|BLUE)\ flag/';
+$return_pattern  = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ returned\ the\ (RED|BLUE)\ flag/';
+$frag_pattern    = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ fragged\ (RED|BLUE)\'s\ flag\ carrier/';
+
+$award_pattern = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ gained\ the\ (?P<award>[A-Z]+)\ award/';
+
+// Loop through all returned logfiles
+foreach($logfiles as $log) {
+    // Open the current logfile
+    $handle = fopen($log, 'r');
+    // Walk through all lines in the logfile
+    while(($line = fgets($handle, 4096)) !== false) {
+
+        // We're currently having three different timestamp types
         $parts = explode('|', $line);
-        if (isset($parts[1])) {
-            $parts = explode(': ', $parts[1]);
-        } else {
-            $parts = explode(': ', $line);
+        if (count($parts) == 1) {
+            // No "|" character, assume the "01:00 TYPE" format
+            $parts      = array();
+            $parts[0]   = substr($line, 1, 5);
+            $parts[1]   = substr($line, 7);
         }
 
-        switch($parts[0]) {
-            // Player info
-            case 'ClientUserinfoChanged':
-            break;
+        // Rename for clarity
+        $time = $parts[0];
+        $text = $parts[1];
 
-            // Player joins round
-            case 'ClientBegin':
+        // Explode string
+        $exploded = explode(': ', $text);
 
-            break;
+        if (count($exploded) <= 1) {
+            // We can skip this line, nothing interesting
+            continue;
+        }
 
-            // Capture the flag
+        $type = $exploded[0];
+        $ids  = explode(' ', $exploded[1]);
+
+        switch($type) {
             case 'CTF':
-                $length = 5;
-                $info   = array_reverse(explode(' ', $parts[2]));
-                $total  = count($info);
-                $player = getPlayerName($info, $length, $known_players);
+                switch($ids[2]) {
+                    case 0:
+                        if (preg_match($taken_pattern, $exploded[2], $taken_match)) {
+                            if (isset($known_players[$taken_match['player']])) {
+                                $player = $known_players[$taken_match['player']];
 
-                if (!isset($stats[$player]['CTF'])) {
-                    //$stats[$player]['CTF']['fragged'] = 0;
-                    //$stats[$player]['CTF']['got'] = 0;
-                    $stats[$player]['CTF']['captured'] = 0;
-                    //$stats[$player]['CTF']['returned'] = 0;
-                }
+                                $stats[$player]['CTF']['Flags taken']++;
+                            }
+                        }
+                    break;
 
-                if($info[3] == 'captured') {
-                    $stats[$player]['CTF'][$info[3]] += 1;
-                }
-            break;
+                    case 1:
+                        if (preg_match($capture_pattern, $exploded[2], $capture_match)) {
+                            if (isset($known_players[$capture_match['player']])) {
+                                $player = $known_players[$capture_match['player']];
 
-            // Frags
-            case 'Kill':
-                if (preg_match('/([a-zA-Z0-9-_\ ]+)\ killed\ ([a-zA-Z0-9-_\ ]+)\ by\ ([A-Z_]+)/', $parts[2], $match)) {
-                    $player = $known_players[$match[1]];
-                    $victim = $known_players[$match[2]];
-                    $weapon = $match[3];
+                                $stats[$player]['CTF']['Flags captured']++;
+                            }
+                        }
+                    break;
 
-                    if(!isset($stats[$player]['KILLS'])) {
-                        $stats[$player]['KILLS']['frags'] = 0;
-                        $stats[$player]['KILLS']['deaths'] = 0;
-                        $stats[$player]['KILLS']['suicides'] = 0;
-                    }
+                    case 2:
+                        if (preg_match($return_pattern, $exploded[2], $return_match)) {
+                            if (isset($known_players[$return_match['player']])) {
+                                $player = $known_players[$return_match['player']];
 
-                    if(!isset($stats[$player]['WEAPONS'][$weapon])) {
-                        $stats[$player]['WEAPONS'][$weapon] = 0;
-                    }
+                                $stats[$player]['CTF']['Flags returned']++;
+                            }
+                        }
+                    break;
 
-                    if(!isset($stats[$player]['VICTIMS'][$victim])) {
-                        $stats[$player]['VICTIMS'][$victim] = 0;
-                    }
+                    case 3:
+                        if (preg_match($frag_pattern, $exploded[2], $frag_match)) {
+                            if (isset($known_players[$frag_match['player']])) {
+                                $player = $known_players[$frag_match['player']];
 
-                    if(!isset($stats[$victim]['ENEMIES'][$player])) {
-                        $stats[$victim]['ENEMIES'][$player] = 0;
-                    }
-
-                    $stats[$player]['VICTIMS'][$victim]++;
-                    $stats[$victim]['ENEMIES'][$player]++;
-
-                    if(!isset($stats[$victim]['KILLS'])) {
-                        $stats[$victim]['KILLS']['frags'] = 0;
-                        $stats[$victim]['KILLS']['deaths'] = 0;
-                        $stats[$victim]['KILLS']['suicides'] = 0;
-                    }
-
-                    if ($player == $victim || $player == '<world>') {
-                        $stats[$victim]['KILLS']['suicides']++;
-                    } else {
-                        $stats[$player]['KILLS']['frags']++;
-                        $stats[$victim]['KILLS']['deaths']++;
-                        $stats[$player]['WEAPONS'][$weapon]++;
-                    }
-                } else if (preg_match('/\<world\>\ killed\ ([a-zA-Z0-9-_\ ]+)\ by\ ([A-Z_]+)/', $parts[2], $match)) {
-                    $player = $known_players[$match[1]];
-                    if(!isset($stats[$player]['KILLS'])) {
-                        $stats[$player]['KILLS']['frags'] = 0;
-                        $stats[$player]['KILLS']['deaths'] = 0;
-                        $stats[$player]['KILLS']['suicides'] = 0;
-                    }
-                    $stats[$player]['KILLS']['suicides']++;
+                                $stats[$player]['CTF']['Flagcarriers killed']++;
+                            }
+                        }
+                    break;
                 }
             break;
 
-            // Awards
             case 'Award':
-                $length = 5;
-                $info   = array_reverse(explode(' ', $parts[2]));
-                $total  = count($info);
-                $player = getPlayerName($info, $length, $known_players);
+                if (preg_match($award_pattern, $exploded[2], $award_match)) {
+                    if (isset($known_players[$award_match['player']])) {
+                        $player = $known_players[$award_match['player']];
 
-                if (!isset($stats[$player]['AWARDS'])) {
-                    $stats[$player]['AWARDS']['GAUNTLET'] = 0;
-                    $stats[$player]['AWARDS']['IMPRESSIVE'] = 0;
-                    $stats[$player]['AWARDS']['EXCELLENT'] = 0;
-                    $stats[$player]['AWARDS']['CAPTURE'] = 0;
-                    $stats[$player]['AWARDS']['ASSIST'] = 0;
-                    $stats[$player]['AWARDS']['DEFENCE'] = 0;
+                        $stats[$player]['AWARDS'][ucfirst(strtolower($award_match['award']))]++;
+                    }
                 }
+            break;
 
-                $stats[$player]['AWARDS'][$info[1]] += 1;
+            case 'Kill':
+                if(preg_match($kill_pattern, $exploded[2], $kill_match)) {
+                    if (isset($known_players[$kill_match['killer']]) && isset($known_players[$kill_match['victim']])) {
+                        $killer = $known_players[$kill_match['killer']];
+                        $victim = $known_players[$kill_match['victim']];
+
+                        if($kill_match['killer'] != $kill_match['victim']) {
+                            $stats[$killer]['KILLS']['Frags']++;
+                            $stats[$killer]['VICTIMS'][$victim]++;
+                            $stats[$killer]['WEAPONS'][$kill_match['weapon']]++;
+
+                            $stats[$victim]['KILLS']['Deaths']++;
+                            $stats[$victim]['ENEMIES'][$killer]++;
+                        } else {
+                            $stats[$killer]['KILLS']['Suicides']++;
+                            $stats[$killer]['WEAPONS'][$kill_match['weapon']]++;
+                        }
+                    }
+                }
             break;
         }
 
     }
-    fclose($h);
-}
-
-function getPlayerName($info, $minLength, $known_players) {
-    $player = '';
-
-    if (count($info) == $minLength) {
-        $player = $info[count($info)-1];
-    } else if (count($info) > $minLength) {
-        for($i = count($info)-1; $i >= $minLength-1; $i--) {
-            $player .= $info[$i].' ';
-        }
-        $player = substr($player, 0, -1);
-    } else {
-        $player = 'Unkown';
-    }
-
-    if (empty($player)) {
-        $player = 'Unknown';
-    }
-
-    if(isset($known_players[$player])) {
-        $player = $known_players[$player];
-    }
-
-    return trim($player);
 }
 
 // Sort by name
@@ -176,9 +148,10 @@ foreach($stats as $player => $info) {
     arsort($stats[$player]['ENEMIES']);
 
     // Calculate K/D ratio
-    $stats[$player]['KILLS']['ratio'] = number_format($stats[$player]['KILLS']['frags'] / $stats[$player]['KILLS']['deaths'], 2);
+    if ($stats[$player]['KILLS']['Frags'] > 0 && $stats[$player]['KILLS']['Deaths'] > 0) {
+        $stats[$player]['KILLS']['Ratio'] = number_format($stats[$player]['KILLS']['Frags'] / $stats[$player]['KILLS']['Deaths'], 2);
+    }
 }
 
-$endtime = microtime(true);
-
-$totaltime = ($endtime - $starttime);
+$endtime    = microtime(true);
+$totaltime  = ($endtime - $starttime);

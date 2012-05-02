@@ -38,7 +38,7 @@
                     <table>
                     <?php
                     foreach($stats[$_GET['player']]['KILLS'] as $stat => $amount) {
-                        echo '<tr><td class="stat">'. ucfirst($stat) .'</td><td>'. $amount .'</td></tr>';
+                        echo '<tr><td class="stat">'. $stat .'</td><td>'. $amount .'</td></tr>';
                     }
                     ?>
                     </table>
@@ -68,7 +68,9 @@
                     <table>
                     <?php
                     foreach($stats[$_GET['player']]['WEAPONS'] as $weapon => $amount) {
-                        echo '<tr><td class="stat">'. $weapon .'</td><td>'. $amount .'</td></tr>';
+                        if($amount > 0) {
+                            echo '<tr><td class="stat">'. $weapon .'</td><td>'. $amount .'</td></tr>';
+                        }
                     }
                     ?>
                     </table>
@@ -77,12 +79,12 @@
 
             <section id="awards">
                 <h3>Awards</h3>
-                <div><img src="/images/excellent.png" alt="Awarded when the player gains two frags within two seconds." title="Awarded when the player gains two frags within two seconds." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['EXCELLENT'])) ? $stats[$_GET['player']]['AWARDS']['EXCELLENT'] : 0; ?></span></div>
-                <div><img src="/images/impressive.png" alt="Awarded when the player achieves two consecutive hits with the railgun." title="Awarded when the player achieves two consecutive hits with the railgun." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['IMPRESSIVE'])) ? $stats[$_GET['player']]['AWARDS']['IMPRESSIVE'] : 0; ?></span></div>
-                <div><img src="/images/gauntlet.png" alt="Awarded when the player successfully frags someone with the gauntlet." title="Awarded when the player successfully frags someone with the gauntlet." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['GAUNTLET'])) ? $stats[$_GET['player']]['AWARDS']['GAUNTLET'] : 0; ?></span></div>
-                <div><img src="/images/capture.jpg" alt="Awarded when the player captures the flag." title="Awarded when the player captures the flag." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['CAPTURE'])) ? $stats[$_GET['player']]['AWARDS']['CAPTURE'] : 0; ?></span></div>
-                <div><img src="/images/assist.jpg" alt="Awarded when player returns the flag within ten seconds before a teammate makes a capture." title="Awarded when player returns the flag within ten seconds before a teammate makes a capture." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['ASSIST'])) ? $stats[$_GET['player']]['AWARDS']['ASSIST'] : 0; ?></span></div>
-                <div><img src="/images/defence.jpg" alt="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." title="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['DEFENCE'])) ? $stats[$_GET['player']]['AWARDS']['DEFENCE'] : 0; ?></span></div>
+                <div><img src="/images/excellent.png" alt="Awarded when the player gains two frags within two seconds." title="Awarded when the player gains two frags within two seconds." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['Excellent'])) ? $stats[$_GET['player']]['AWARDS']['Excellent'] : 0; ?></span></div>
+                <div><img src="/images/impressive.png" alt="Awarded when the player achieves two consecutive hits with the railgun." title="Awarded when the player achieves two consecutive hits with the railgun." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['Impressive'])) ? $stats[$_GET['player']]['AWARDS']['Impressive'] : 0; ?></span></div>
+                <div><img src="/images/gauntlet.png" alt="Awarded when the player successfully frags someone with the gauntlet." title="Awarded when the player successfully frags someone with the gauntlet." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['Gauntlet'])) ? $stats[$_GET['player']]['AWARDS']['Gauntlet'] : 0; ?></span></div>
+                <div><img src="/images/capture.jpg" alt="Awarded when the player captures the flag." title="Awarded when the player captures the flag." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['Capture'])) ? $stats[$_GET['player']]['AWARDS']['Capture'] : 0; ?></span></div>
+                <div><img src="/images/assist.jpg" alt="Awarded when player returns the flag within ten seconds before a teammate makes a capture." title="Awarded when player returns the flag within ten seconds before a teammate makes a capture." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['Assist'])) ? $stats[$_GET['player']]['AWARDS']['Assist'] : 0; ?></span></div>
+                <div><img src="/images/defence.jpg" alt="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." title="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." width="65" height="65" /><span><?php echo (isset($stats[$_GET['player']]['AWARDS']['Defence'])) ? $stats[$_GET['player']]['AWARDS']['Defence'] : 0; ?></span></div>
             </section>
         </div>
         <?php else: ?>
@@ -92,7 +94,7 @@
 
     </div>
 
-    <footer><p>Parsed <?php echo count($logs); ?> logfiles (<?php echo round($size/1024, 1); ?> Kb) in <?php echo number_format($totaltime, 2); ?> seconds.</p></footer>
+    <footer><p>Parsed <?php echo count($logfiles); ?> logfiles (<?php echo round($size/1024, 1); ?> Kb) in <?php echo number_format($totaltime, 2); ?> seconds.</p></footer>
 
 </body>
 </html>
