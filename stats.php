@@ -8,6 +8,7 @@ $starttime = microtime(true);
 
 $logdir     = '/var/log/openarena';
 $logfiles   = getLogFiles($logdir);
+$size       = 0;
 
 $stats      = generatePlayerSkeletons($known_players);
 
@@ -129,6 +130,8 @@ foreach($logfiles as $log) {
         }
 
     }
+    $size += filesize($log);
+    fclose($handle);
 }
 
 // Sort by name
