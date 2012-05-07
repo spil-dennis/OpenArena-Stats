@@ -137,6 +137,21 @@ section#awards > div > span {
     display: block;
 }
 
+section#ctf td {
+    line-height: 15px;
+    border-bottom: 1px solid #DDD;
+    padding: 5px;
+}
+
+section#ctf td.stat {
+    width: 125px;
+    font-weight: bold;
+}
+
+section#ctf tr:last-child td {
+    border-bottom: none;
+}
+
 footer {
     position: relative;
     margin-top: -20px;
