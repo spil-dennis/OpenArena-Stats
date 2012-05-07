@@ -116,6 +116,17 @@
                 <div><img src="/images/assist.jpg" alt="Awarded when player returns the flag within ten seconds before a teammate makes a capture." title="Awarded when player returns the flag within ten seconds before a teammate makes a capture." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Assist'])) ? $stats[$curr_player]['AWARDS']['Assist'] : 0; ?></span></div>
                 <div><img src="/images/defence.jpg" alt="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." title="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Defence'])) ? $stats[$curr_player]['AWARDS']['Defence'] : 0; ?></span></div>
             </section>
+
+            <section id="ctf">
+                <h3>CTF</h3>
+                <table>
+                    <?php
+                    foreach($stats[$curr_player]['CTF'] as $stat => $amount) {
+                        echo '<tr><td class="stat">'. $stat .'</td><td>'. $amount .'</td></tr>';
+                    }
+                    ?>
+                </table>
+            </section>
         </div>
         <?php else: ?>
             <div id="select"><p>Select a player from the list above to see his/her statistics.</p></div>
