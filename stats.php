@@ -23,6 +23,9 @@ $award_pattern = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ gained\ the\ (?P<award>[A-Z]+)\
 
 // Loop through all returned logfiles
 foreach($logfiles as $log) {
+    // Reset the current streaks
+    resetCurrentStreaks( $stats );
+
     // Open the current logfile
     $handle = fopen($log, 'r');
     // Walk through all lines in the logfile
@@ -120,9 +123,14 @@ foreach($logfiles as $log) {
 
                             $stats[$victim]['KILLS']['Deaths']++;
                             $stats[$victim]['ENEMIES'][$killer]++;
+
+                            increaseStreak( $stats, $killer, 'kill' );
+                            increaseStreak( $stats, $victim, 'death' );
                         } else {
                             $stats[$killer]['KILLS']['Suicides']++;
                             $stats[$killer]['WEAPONS'][$kill_match['weapon']]++;
+
+                            increaseStreak( $stats, $victim, 'death' );
                         }
                     }
                 }
@@ -133,6 +141,9 @@ foreach($logfiles as $log) {
     $size += filesize($log);
     fclose($handle);
 }
+
+//Remove current streak counters
+removeCurrentStreaks( $stats );
 
 // Sort by name
 uksort($stats, 'strnatcmp');

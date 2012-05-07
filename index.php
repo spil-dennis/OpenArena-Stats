@@ -3,15 +3,26 @@
 
     if ( $curr_player == 'All' ) {
         $allstats = array();
+        $max_kill_streak = 0;
+        $max_death_streak = 0;
         foreach ( $stats as $player ) {
             foreach ( $player as $stat => $data ) {
                 foreach ( $data as $key => $value ) {
                     @$allstats[$stat][$key] += $value;
                 }
             }
+
+            if ( $player['KILLS']['Kill streak'] > $max_kill_streak ) {
+                $max_kill_streak = $player['KILLS']['Kill streak'];
+            }
+            if ( $player['KILLS']['Death streak'] > $max_death_streak ) {
+                $max_death_streak = $player['KILLS']['Death streak'];
+            }
         }
 
         $allstats['KILLS']['Ratio'] = number_format($allstats['KILLS']['Frags'] / ($allstats['KILLS']['Deaths']), 2);
+        $allstats['KILLS']['Kill streak'] = $max_kill_streak;
+        $allstats['KILLS']['Death streak'] = $max_death_streak;
         $stats['All'] = $allstats;
 
         // Sort awards
