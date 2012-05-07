@@ -49,6 +49,8 @@ function generatePlayerSkeletons($known_players) {
                 'Deaths'    => 0,
                 'Suicides'  => 0,
                 'Ratio'     => 0.0,
+                'Kill streak' => 0,
+                'Death streak' => 0,
             ),
             'VICTIMS'   => $filtered_players,
             'ENEMIES'   => $filtered_players,
@@ -87,4 +89,44 @@ function generatePlayerSkeletons($known_players) {
     }
 
     return $stats;
+}
+
+function resetCurrentStreaks( &$stats ) {
+    foreach ( $stats as &$stat ) {
+        $stat['KILLS']['kill_streak'] = 0;
+        $stat['KILLS']['death_streak'] = 0;
+    }
+}
+
+function removeCurrentStreaks( &$stats ) {
+    foreach ( $stats as &$stat ) {
+        unset( $stat['KILLS']['kill_streak']);
+        unset( $stat['KILLS']['death_streak']);
+    }
+}
+
+// increase one (death or kill) streak, will reset the other
+function increaseStreak( &$stats, $player, $type ) {
+    switch ( $type ) {
+        case 'kill': {
+            $curr = 'kill_streak';
+            $max = 'Kill streak';
+            $other = 'death_streak';
+        } break;
+        case 'death': {
+            $curr = 'death_streak';
+            $max = 'Death streak';
+            $other = 'kill_streak';
+        } break;
+        default: {
+            // Unknown
+            return;
+        }
+    }
+    $new = ++$stats[$player]['KILLS'][$curr];
+    if ( $stats[$player]['KILLS'][$max] < $new ) {
+        $stats[$player]['KILLS'][$max] = $new;
+    }
+    // Reset other streak
+    $stats[$player]['KILLS'][$other] = 0;
 }
