@@ -23,6 +23,7 @@
         $allstats['KILLS']['Ratio'] = number_format($allstats['KILLS']['Frags'] / ($allstats['KILLS']['Deaths']), 2);
         $allstats['KILLS']['Kill streak'] = $max_kill_streak;
         $allstats['KILLS']['Death streak'] = $max_death_streak;
+	$allstats['KILLS']['Position'] = 'N/A';
         $stats['All'] = $allstats;
 
         // Sort awards
@@ -138,6 +139,26 @@
                     ?>
                 </table>
             </section>
+
+            <section id="ctf">
+                <h3>Fraglimit Rankings (non-ctf)</h3>
+                <table>
+                    <?php
+		    ksort($stats[$curr_player]['RANKINGS']);
+	            $total=0;
+		    $total_count=0;
+                    foreach($stats[$curr_player]['RANKINGS'] as $position => $count) {
+			$total += ($position+1)*$count;
+			$total_count += $count;
+                        echo '<tr><td class="stat">'. ($position+1) .'</td><td>'. $count .'</td></tr>';
+                    }
+		    if($count>0) {
+		    	echo '<tr><td class="stat">average</td><td>'. round($total/$total_count, 2) .'</td></tr>';
+                    }
+                    ?>
+                </table>
+            </section>
+
         </div>
         <?php else: ?>
             <div id="select"><p>Select a player from the list above to see his/her statistics.</p></div>
