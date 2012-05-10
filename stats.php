@@ -117,15 +117,15 @@ foreach($logfiles as $log) {
             break;
 
             case 'Exit':
-		$fraglimit_hit = strcasecmp(trim($exploded[1]), 'Fraglimit hit.');
-                if ($fraglimit_hit==0) {
+		        $fraglimit_test = strcasecmp(trim($exploded[1]), 'Fraglimit hit.');
+                if ($fraglimit_test==0) {
                     $fraglimit_stats=true;
-	            $fraglimit_pos=0;
+	                $fraglimit_pos=0;
                 }
-		else {
-		    $fraglimit_stats=false;
-		    $fraglimit_pos=0;
-		}
+		        else {
+		            $fraglimit_stats=false;
+		            $fraglimit_pos=0;
+		        }
             break;
 
             case 'score':
@@ -134,7 +134,7 @@ foreach($logfiles as $log) {
                         $player = $known_players[$score_match['player']];
                         $stats[$player]['RANKINGS'][$fraglimit_pos]++;
                     }
-		    $fraglimit_pos++;
+		            $fraglimit_pos++;
                 }
             break;
 
@@ -195,14 +195,14 @@ foreach($stats as $player => $info) {
     }
 
     // Calculate average position
-    $total=0;
-    $total_count=0;
+    $position_total=0;
+    $position_count=0;
     foreach($stats[$player]['RANKINGS'] as $position => $count) {
-	$total += ($position+1)*$count;
-	$total_count += $count;
+	    $position_total += ($position+1)*$count;
+	    $position_count += $count;
     }
-    if($total_count>0) {
-	$stats[$player]['KILLS']['Position'] = number_format($total/$total_count, 2);
+    if($position_count>0) {
+	    $stats[$player]['KILLS']['Position'] = number_format($position_total/$position_count, 2);
     }
 }
 
