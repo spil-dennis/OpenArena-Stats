@@ -21,10 +21,16 @@ $frag_pattern    = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ fragged\ (RED|BLUE)\'s\ flag\
 
 $award_pattern = '/(?P<player>[a-zA-Z0-9-_\ ]+)\ gained\ the\ (?P<award>[A-Z]+)\ award/';
 
+$score_pattern = '/[0-9]+\ (?P<player>[a-zA-Z0-9-_\ ]+)/';
+
 // Loop through all returned logfiles
 foreach($logfiles as $log) {
     // Reset the current streaks
     resetCurrentStreaks( $stats );
+
+    // Previous line was not a score, used for counting.
+    $fraglimit_stats = false;
+    $fraglimit_pos = 0;
 
     // Open the current logfile
     $handle = fopen($log, 'r');
@@ -110,6 +116,28 @@ foreach($logfiles as $log) {
                 }
             break;
 
+            case 'Exit':
+		        $fraglimit_test = strcasecmp(trim($exploded[1]), 'Fraglimit hit.');
+                if ($fraglimit_test==0) {
+                    $fraglimit_stats=true;
+	                $fraglimit_pos=0;
+                }
+		        else {
+		            $fraglimit_stats=false;
+		            $fraglimit_pos=0;
+		        }
+            break;
+
+            case 'score':
+                if ($fraglimit_stats && preg_match($score_pattern, $exploded[3], $score_match)) {
+                    if (isset($known_players[$score_match['player']])) {
+                        $player = $known_players[$score_match['player']];
+                        $stats[$player]['RANKINGS'][$fraglimit_pos]++;
+                    }
+		            $fraglimit_pos++;
+                }
+            break;
+
             case 'Kill':
                 if(preg_match($kill_pattern, $exploded[2], $kill_match)) {
                     if (isset($known_players[$kill_match['killer']]) && isset($known_players[$kill_match['victim']])) {
@@ -164,6 +192,17 @@ foreach($stats as $player => $info) {
     // Calculate K/D ratio
     if ($stats[$player]['KILLS']['Frags'] > 0 && $stats[$player]['KILLS']['Deaths'] > 0) {
         $stats[$player]['KILLS']['Ratio'] = number_format($stats[$player]['KILLS']['Frags'] / $stats[$player]['KILLS']['Deaths'], 2);
+    }
+
+    // Calculate average position
+    $position_total=0;
+    $position_count=0;
+    foreach($stats[$player]['RANKINGS'] as $position => $count) {
+	    $position_total += ($position+1)*$count;
+	    $position_count += $count;
+    }
+    if($position_count>0) {
+	    $stats[$player]['KILLS']['Position'] = number_format($position_total/$position_count, 2);
     }
 }
 
