@@ -15,6 +15,7 @@ $known_players = array(
     'dennis'        => 'Dennis',
     'Schoende'      => 'Sven',
     'Archangel'     => 'Sven',
+    'ArchAngel'     => 'Sven',
     'TT'            => 'Thijs T',
     'Thz'           => 'Thijs Z',
     'Sitting Duck'  => 'Martin',

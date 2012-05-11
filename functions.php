@@ -85,6 +85,7 @@ function generatePlayerSkeletons($known_players) {
                 'MOD_JUICED'            => 0,
                 'MOD_GRAPPLE'           => 0,
             ),
+            'RANKINGS'  => array(),
         );
     }
 
