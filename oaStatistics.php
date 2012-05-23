@@ -214,10 +214,6 @@ class oaStatistics {
         if(strlen($data)) {
         	$this->currentGame['endreason'] = $data;
         }
-        if(!$this->currentGame['endreason'] && $this->currentGame['voted']) {
-        	$this->currentGame['endreason']="Vote passed.";
-        }
-        
     }
 
     /**
@@ -245,11 +241,14 @@ class oaStatistics {
             $this->playerEnd($player, $timestamp);
         }
 
-        //$this->currentTree['games'][$this->currentGame['timestamp']]=$this->currentGame;
 
+        if(!isset($this->currentGame['endreason']) && $this->currentGame['voted']) {
+        	$this->currentGame['endreason']="Vote passed.";
+        }
+        
         $file = $this->getGameFilename($this->currentGame['timestamp']);
         
-        file_put_contents($file, "<?php\n\$games[".$this->currentGame['timestamp']."]=".var_export($this->currentGame, true));
+        file_put_contents($file, "<?php\n\$games[".$this->currentGame['timestamp']."]=".var_export($this->currentGame, true).";\n");
         
         echo "Saved ".$file."\r\n";
         
