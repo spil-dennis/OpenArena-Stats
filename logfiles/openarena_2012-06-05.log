@@ -1,0 +1,156 @@
+1338893123|ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012
+1338893123|Have SSE support
+1338893123|----- FS_Startup -----
+1338893123|Current search path:
+1338893123|/home/jeroen/.openarena/baseoa
+1338893123|/usr/lib/openarena-server/baseoa
+1338893123|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338893123|
+1338893123|----------------------
+1338893123|5433 files in pk3 files
+1338893123|execing default.cfg
+1338893123|execing q3config_server.cfg
+1338893123|execing autoexec.cfg
+1338893123|Hunk_Clear: reset the hunk ok
+1338893123|^3Couldn't write /tmp/ioq3_server.pid.
+1338893123|--- Common Initialization Complete ---
+1338893123|IP: 127.0.0.1
+1338893123|IP: 192.168.96.9
+1338893123|IP6: ::1
+1338893123|IP6: fe80::224:e8ff:fe23:4f72%eth0
+1338893123|Opening IP6 socket: [::]:27960
+1338893123|WARNING: NET_IP6Socket: bind: Address already in use
+1338893123|Opening IP6 socket: [::]:27961
+1338893123|Opening IP socket: 192.168.96.9:27960
+1338893123|WARNING: NET_IPSocket: bind: Address already in use
+1338893123|Opening IP socket: 192.168.96.9:27961
+1338893123|tty console mode disabled
+1338893123|execing old.cfg
+1338893123|------ Server Initialization ------
+1338893123|Server: aggressor
+1338893123|Hunk_Clear: reset the hunk ok
+1338893123|----- FS_Startup -----
+1338893123|Current search path:
+1338893123|/home/jeroen/.openarena/baseoa
+1338893123|/usr/lib/openarena-server/baseoa
+1338893123|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338893123|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338893123|
+1338893123|----------------------
+1338893123|5433 files in pk3 files
+1338893123|Loading vm file vm/qagame.qvm...
+1338893123|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338893123|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338893123|... trying pak6-patch088/qagame
+1338893123|... trying qagame
+1338893123|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338893123|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338893123|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7fc915609ab6
+1338893123|------- Game Initialization -------
+1338893123|gamename: baseoa
+1338893123|gamedate: Apr  1 2012
+1338893123|------------------------------------------------------------
+1338893123|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\aggressor\gamename\baseoa\elimflags\0\voteflags\0\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-05 12:45:23
+1338893123|Info: ServerInfo length: 774 of 1024
+1338893123|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338893123|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338893123|0 teams with 0 entities
+1338893123|17 items registered
+1338893123|-----------------------------------
+1338893123|------- BotLib Initialization -------
+1338893123|loaded weapons.c
+1338893123|loaded items.c
+1338893123|loaded syn.c
+1338893123|loaded rnd.c
+1338893123|loaded match.c
+1338893123|loaded rchat.c
+1338893123|------------ Map Loading ------------
+1338893123|trying to load maps/aggressor.aas
+1338893123|loaded maps/aggressor.aas
+1338893123|found 29 level items
+1338893123|-------------------------------------
+1338893123|33 bots parsed
+1338893123|58 arenas parsed
+1338893123|AAS initialized.
+1338893123|-----------------------------------
+1338893205|ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012
+1338893205|Have SSE support
+1338893205|----- FS_Startup -----
+1338893205|Current search path:
+1338893205|/home/jeroen/.openarena/baseoa
+1338893205|/usr/lib/openarena-server/baseoa
+1338893205|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338893205|
+1338893205|----------------------
+1338893205|5433 files in pk3 files
+1338893205|execing default.cfg
+1338893205|execing q3config_server.cfg
+1338893205|execing autoexec.cfg
+1338893205|Hunk_Clear: reset the hunk ok
+1338893205|^3Couldn't write /tmp/ioq3_server.pid.
+1338893205|--- Common Initialization Complete ---
+1338893205|IP: 127.0.0.1
+1338893205|IP: 192.168.96.9
+1338893205|IP6: ::1
+1338893205|IP6: fe80::224:e8ff:fe23:4f72%eth0
+1338893205|Opening IP6 socket: [::]:27960
+1338893205|Opening IP socket: 192.168.96.9:27960
+1338893205|tty console mode disabled
+1338893205|execing old.cfg
+1338893205|------ Server Initialization ------
+1338893205|Server: aggressor
+1338893205|Hunk_Clear: reset the hunk ok
+1338893205|----- FS_Startup -----
+1338893205|Current search path:
+1338893205|/home/jeroen/.openarena/baseoa
+1338893205|/usr/lib/openarena-server/baseoa
+1338893205|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338893205|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338893205|
+1338893205|----------------------
+1338893205|5433 files in pk3 files
+1338893205|Loading vm file vm/qagame.qvm...
+1338893205|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338893205|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338893205|... trying pak6-patch088/qagame
+1338893205|... trying qagame
+1338893205|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338893205|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338893205|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1338893205|------- Game Initialization -------
+1338893205|gamename: baseoa
+1338893205|gamedate: Apr  1 2012
+1338893205|------------------------------------------------------------
+1338893205|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\aggressor\gamename\baseoa\elimflags\0\voteflags\0\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-05 12:46:45
+1338893205|Info: ServerInfo length: 774 of 1024
+1338893205|!readconfig: loaded 0 leve
