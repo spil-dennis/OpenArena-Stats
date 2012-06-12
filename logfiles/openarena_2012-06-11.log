@@ -1,0 +1,3327 @@
+1339409770|Client 0 connecting with 40 challenge ping
+1339409770|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339409770|ClientConnect: 2
+1339409770|broadcast: print "TT^7 connected\n"
+1339409773|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339409773|ClientBegin: 2
+1339409775|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1339409775|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1339409775|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1339409775|broadcast: print "TT^7 entered the game\n"
+1339409775|ClientBegin: 2
+1339409776|Item: 2 weapon_railgun
+1339409778|Item: 2 item_quad
+1339409780|Item: 2 item_health_small
+1339409780|Item: 2 item_health_small
+1339409781|Item: 2 item_health_small
+1339409781|Item: 2 item_health_small
+1339409782|Item: 2 ammo_bullets
+1339409782|Item: 2 ammo_rockets
+1339409782|Item: 2 ammo_slugs
+1339409782|Item: 2 ammo_bullets
+1339409785|Item: 2 team_CTF_blueflag
+1339409785|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409785|CTF: 2 2 0: TT got the BLUE flag!
+1339409785|PlayerScore: 2 0: TT now has 0 points
+1339409790|Item: 2 item_health_small
+1339409790|Item: 2 item_health_small
+1339409791|Item: 2 item_health_small
+1339409791|Item: 2 item_health_small
+1339409792|Item: 2 ammo_rockets
+1339409792|Item: 2 ammo_slugs
+1339409795|Item: 2 team_CTF_redflag
+1339409795|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409795|CTF: 2 2 1: TT captured the BLUE flag!
+1339409795|Award: 2 4: TT gained the CAPTURE award!
+1339409795|PlayerScore: 2 5: TT now has 5 points
+1339409806|Item: 2 team_CTF_blueflag
+1339409806|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409806|CTF: 2 2 0: TT got the BLUE flag!
+1339409806|PlayerScore: 2 5: TT now has 5 points
+1339409816|Item: 2 team_CTF_redflag
+1339409816|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409816|CTF: 2 2 1: TT captured the BLUE flag!
+1339409816|Award: 2 4: TT gained the CAPTURE award!
+1339409816|PlayerScore: 2 10: TT now has 10 points
+1339409824|Item: 2 item_health_small
+1339409824|Item: 2 item_health_small
+1339409824|Item: 2 item_health_small
+1339409825|Item: 2 ammo_rockets
+1339409825|Item: 2 ammo_slugs
+1339409828|Item: 2 team_CTF_blueflag
+1339409828|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409828|CTF: 2 2 0: TT got the BLUE flag!
+1339409828|PlayerScore: 2 10: TT now has 10 points
+1339409833|Item: 2 item_health_small
+1339409833|Item: 2 item_health_small
+1339409834|Item: 2 item_health_small
+1339409834|Item: 2 item_health_small
+1339409835|Item: 2 ammo_rockets
+1339409835|Item: 2 ammo_slugs
+1339409838|Item: 2 team_CTF_redflag
+1339409838|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409838|CTF: 2 2 1: TT captured the BLUE flag!
+1339409838|Award: 2 4: TT gained the CAPTURE award!
+1339409838|PlayerScore: 2 15: TT now has 15 points
+1339409844|Item: 2 item_health_small
+1339409848|Item: 2 team_CTF_blueflag
+1339409848|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409848|CTF: 2 2 0: TT got the BLUE flag!
+1339409848|PlayerScore: 2 15: TT now has 15 points
+1339409857|Item: 2 team_CTF_redflag
+1339409857|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409857|CTF: 2 2 1: TT captured the BLUE flag!
+1339409857|Award: 2 4: TT gained the CAPTURE award!
+1339409857|PlayerScore: 2 20: TT now has 20 points
+1339409863|Item: 2 item_health_small
+1339409863|Item: 2 item_health_small
+1339409863|Item: 2 item_health_small
+1339409867|Item: 2 team_CTF_blueflag
+1339409867|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409867|CTF: 2 2 0: TT got the BLUE flag!
+1339409867|PlayerScore: 2 20: TT now has 20 points
+1339409872|Item: 2 item_health_small
+1339409873|Item: 2 item_health_small
+1339409873|Item: 2 item_health_small
+1339409877|Item: 2 team_CTF_redflag
+1339409877|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409877|CTF: 2 2 1: TT captured the BLUE flag!
+1339409877|Award: 2 4: TT gained the CAPTURE award!
+1339409877|PlayerScore: 2 25: TT now has 25 points
+1339409888|Item: 2 ammo_rockets
+1339409888|Item: 2 ammo_slugs
+1339409891|Item: 2 team_CTF_blueflag
+1339409891|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409891|CTF: 2 2 0: TT got the BLUE flag!
+1339409891|PlayerScore: 2 25: TT now has 25 points
+1339409898|Item: 2 ammo_rockets
+1339409898|Item: 2 ammo_slugs
+1339409900|Item: 2 team_CTF_redflag
+1339409900|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409900|CTF: 2 2 1: TT captured the BLUE flag!
+1339409900|Award: 2 4: TT gained the CAPTURE award!
+1339409900|PlayerScore: 2 30: TT now has 30 points
+1339409904|Item: 2 item_quad
+1339409906|Item: 2 item_health_small
+1339409906|Item: 2 item_health_small
+1339409906|Item: 2 item_health_small
+1339409910|Item: 2 team_CTF_blueflag
+1339409910|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409910|CTF: 2 2 0: TT got the BLUE flag!
+1339409910|PlayerScore: 2 30: TT now has 30 points
+1339409915|Item: 2 item_health_small
+1339409916|Item: 2 item_health_small
+1339409916|Item: 2 item_health_small
+1339409920|Item: 2 team_CTF_redflag
+1339409920|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409920|CTF: 2 2 1: TT captured the BLUE flag!
+1339409920|Award: 2 4: TT gained the CAPTURE award!
+1339409920|PlayerScore: 2 35: TT now has 35 points
+1339409926|Item: 2 item_health_small
+1339409930|Item: 2 team_CTF_blueflag
+1339409930|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409930|CTF: 2 2 0: TT got the BLUE flag!
+1339409930|PlayerScore: 2 35: TT now has 35 points
+1339409936|Item: 2 item_health_small
+1339409939|Item: 2 team_CTF_redflag
+1339409939|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409939|CTF: 2 2 1: TT captured the BLUE flag!
+1339409939|Award: 2 4: TT gained the CAPTURE award!
+1339409939|PlayerScore: 2 40: TT now has 40 points
+1339409949|Item: 2 item_health_small
+1339409950|Item: 2 item_health_small
+1339409950|Item: 2 item_health_small
+1339409951|Item: 2 ammo_rockets
+1339409951|Item: 2 ammo_slugs
+1339409954|Item: 2 team_CTF_blueflag
+1339409954|broadcast: print "TT^7 got the BLUE flag!\n"
+1339409954|CTF: 2 2 0: TT got the BLUE flag!
+1339409954|PlayerScore: 2 40: TT now has 40 points
+1339409959|Item: 2 item_health_small
+1339409959|Item: 2 item_health_small
+1339409961|Item: 2 ammo_rockets
+1339409961|Item: 2 ammo_slugs
+1339409963|Item: 2 team_CTF_redflag
+1339409963|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339409963|CTF: 2 2 1: TT captured the BLUE flag!
+1339409963|Award: 2 4: TT gained the CAPTURE award!
+1339409963|PlayerScore: 2 45: TT now has 45 points
+1339409966|Client 1 connecting with 0 challenge ping
+1339409966|ClientUserinfoChanged: 3 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339409966|ClientConnect: 3
+1339409966|broadcast: print "Revell^7 connected\n"
+1339409968|ClientUserinfoChanged: 3 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339409968|ClientBegin: 3
+1339409971|ClientUserinfoChanged: 3 n\Revell\t\2\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\978E21D180BF6D8EBEAA5D3897170E94
+1339409971|ClientUserinfoChanged: 3 n\Revell\t\2\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\978E21D180BF6D8EBEAA5D3897170E94
+1339409971|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1339409971|broadcast: print "Revell^7 entered the game\n"
+1339409971|ClientBegin: 3
+1339409971|broadcast: print "Red hit the capturelimit.\n"
+1339409971|Exit: Capturelimit hit.
+1339409971|red:9  blue:0
+1339409971|score: 45  ping: 2  client: 2 TT
+1339409971|score: 0  ping: 0  client: 3 Revell
+1339409995|g_gametype will be changed upon restarting.
+1339409995|==== ShutdownGame ====
+1339409995|ShutdownGame:
+1339409995|------------------------------------------------------------
+1339409995|AAS shutdown.
+1339409995|------ Server Initialization ------
+1339409995|Server: oa_dm4
+1339409995|Hunk_Clear: reset the hunk ok
+1339409995|----- FS_Startup -----
+1339409995|Current search path:
+1339409995|/home/jeroen/.openarena/baseoa
+1339409995|/usr/lib/openarena-server/baseoa
+1339409995|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1339409995|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1339409995|
+1339409995|----------------------
+1339409995|5433 files in pk3 files
+1339409995|Loading vm file vm/qagame.qvm...
+1339409995|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1339409995|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1339409995|... trying pak6-patch088/qagame
+1339409995|... trying qagame
+1339409995|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1339409995|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1339409995|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1339409995|------- Game Initialization -------
+1339409995|gamename: baseoa
+1339409995|gamedate: Apr  1 2012
+1339409995|------------------------------------------------------------
+1339409995|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_dm4\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-11 12:19:55
+1339409995|Info: ServerInfo length: 788 of 1024
+1339409995|Gametype changed, clearing session data.
+1339409995|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1339409995|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1339409995|0 teams with 0 entities
+1339409995|19 items registered
+1339409995|-----------------------------------
+1339409995|------- BotLib Initialization -------
+1339409995|loaded weapons.c
+1339409995|loaded items.c
+1339409995|loaded syn.c
+1339409995|loaded rnd.c
+1339409995|loaded match.c
+1339409995|loaded rchat.c
+1339409995|------------ Map Loading ------------
+1339409995|trying to load maps/oa_dm4.aas
+1339409995|loaded maps/oa_dm4.aas
+1339409995|found 41 level items
+1339409995|-------------------------------------
+1339409995|33 bots parsed
+1339409995|58 arenas parsed
+1339409995|AAS initialized.
+1339409995|ClientUserinfoChanged: 2 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339409995|ClientConnect: 2
+1339409995|ClientUserinfoChanged: 3 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339409995|ClientConnect: 3
+1339409995|-----------------------------------
+1339409997|ClientUserinfoChanged: 3 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339409997|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1339409997|broadcast: print "Revell^7 entered the game\n"
+1339409997|ClientBegin: 3
+1339409997|ClientUserinfoChanged: 2 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339409997|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1339409997|broadcast: print "TT^7 entered the game\n"
+1339409997|ClientBegin: 2
+1339409999|Item: 2 ammo_cells
+1339410000|Item: 3 ammo_bullets
+1339410000|Item: 2 weapon_lightning
+1339410001|Item: 2 item_armor_combat
+1339410002|Item: 3 item_armor_shard
+1339410002|Item: 3 item_armor_shard
+1339410002|Item: 3 item_armor_shard
+1339410002|Item: 3 item_armor_shard
+1339410002|Item: 3 weapon_rocketlauncher
+1339410002|Item: 3 item_armor_shard
+1339410002|Item: 3 weapon_plasmagun
+1339410003|Item: 3 ammo_shells
+1339410004|Item: 2 weapon_rocketlauncher
+1339410009|Kill: 1022 2 16: <world> killed TT by MOD_LAVA
+1339410009|PlayerScore: 2 0: TT now has 0 points
+1339410011|Item: 3 ammo_lightning
+1339410011|Item: 3 item_health_mega
+1339410012|Item: 2 ammo_cells
+1339410013|Item: 2 weapon_lightning
+1339410013|Item: 3 weapon_rocketlauncher
+1339410016|Item: 2 item_armor_combat
+1339410018|Item: 2 ammo_bullets
+1339410018|Item: 3 weapon_rocketlauncher
+1339410021|Item: 2 weapon_shotgun
+1339410022|Item: 2 ammo_rockets
+1339410024|Item: 2 weapon_lightning
+1339410024|Item: 3 weapon_plasmagun
+1339410031|Client 2 connecting with 0 challenge ping
+1339410031|ClientUserinfoChanged: 4 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410031|ClientConnect: 4
+1339410031|broadcast: print "Gerb^7 connected\n"
+1339410036|ClientUserinfoChanged: 4 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410036|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1339410036|broadcast: print "Gerb^7 entered the game\n"
+1339410036|ClientBegin: 4
+1339410038|Kill: 3 2 7: Revell killed TT by MOD_ROCKET_SPLASH
+1339410038|PlayerScore: 3 2: Revell now has 2 points
+1339410038|Challenge: 3 205 1: Client 3 got award 205
+1339410038|Challenge: 3 1 1: Client 3 got award 1
+1339410038|Challenge: 2 2 1: Client 2 got award 2
+1339410040|Item: 3 weapon_lightning
+1339410040|Item: 3 ammo_cells
+1339410041|Item: 3 item_health
+1339410043|Item: 2 item_health
+1339410044|Item: 4 item_health
+1339410045|Item: 2 ammo_shells
+1339410045|Item: 2 weapon_rocketlauncher
+1339410045|Item: 2 item_armor_shard
+1339410045|Item: 2 item_armor_shard
+1339410045|Item: 2 weapon_plasmagun
+1339410045|Item: 2 ammo_shells
+1339410046|Item: 4 item_armor_shard
+1339410046|Item: 4 item_armor_shard
+1339410046|Item: 4 item_armor_shard
+1339410050|Item: 2 weapon_plasmagun
+1339410051|Item: 4 weapon_rocketlauncher
+1339410054|Kill: 1022 4 16: <world> killed Gerb by MOD_LAVA
+1339410057|Item: 2 item_health
+1339410058|Item: 3 weapon_lightning
+1339410058|Item: 2 item_armor_combat
+1339410059|Item: 2 ammo_bullets
+1339410059|Item: 3 item_armor_combat
+1339410062|Item: 4 ammo_cells
+1339410065|Kill: 1022 3 16: <world> killed Revell by MOD_LAVA
+1339410065|PlayerScore: 3 1: Revell now has 1 points
+1339410065|Kill: 2 4 16: TT killed Gerb by MOD_LAVA
+1339410065|PlayerScore: 2 1: TT now has 1 points
+1339410065|Challenge: 2 214 1: Client 2 got award 214
+1339410065|Challenge: 2 1 1: Client 2 got award 1
+1339410065|Challenge: 4 2 1: Client 4 got award 2
+1339410066|Item: 2 weapon_lightning
+1339410068|Item: 4 weapon_shotgun
+1339410069|Item: 4 ammo_rockets
+1339410069|Item: 4 ammo_rockets
+1339410071|Item: 3 weapon_lightning
+1339410073|Item: 3 weapon_grenadelauncher
+1339410078|Kill: 2 4 6: TT killed Gerb by MOD_ROCKET
+1339410078|PlayerScore: 2 2: TT now has 2 points
+1339410078|Challenge: 2 205 1: Client 2 got award 205
+1339410078|Challenge: 2 1 1: Client 2 got award 1
+1339410078|Challenge: 4 2 1: Client 4 got award 2
+1339410080|Item: 3 item_quad
+1339410082|Item: 2 weapon_shotgun
+1339410082|Item: 2 item_health
+1339410082|Item: 3 weapon_railgun
+1339410082|Item: 2 item_health
+1339410084|Item: 4 weapon_shotgun
+1339410085|Kill: 2 3 6: TT killed Revell by MOD_ROCKET
+1339410085|PlayerScore: 2 3: TT now has 3 points
+1339410085|Challenge: 2 205 1: Client 2 got award 205
+1339410085|Challenge: 2 1 1: Client 2 got award 1
+1339410085|Challenge: 3 2 1: Client 3 got award 2
+1339410085|Challenge: 2 406 1: Client 2 got award 406
+1339410085|Item: 2 weapon_lightning
+1339410086|Item: 2 item_armor_combat
+1339410088|Kill: 3 4 3: Revell killed Gerb by MOD_MACHINEGUN
+1339410088|PlayerScore: 3 2: Revell now has 2 points
+1339410088|Challenge: 3 202 1: Client 3 got award 202
+1339410088|Challenge: 3 1 1: Client 3 got award 1
+1339410088|Challenge: 4 2 1: Client 4 got award 2
+1339410089|Item: 3 weapon_shotgun
+1339410089|Item: 2 item_armor_combat
+1339410089|Item: 3 ammo_cells
+1339410090|Item: 3 weapon_lightning
+1339410095|Item: 3 item_quad
+1339410095|Item: 3 ammo_shells
+1339410096|Item: 3 weapon_plasmagun
+1339410096|Kill: 3 4 1: Revell killed Gerb by MOD_SHOTGUN
+1339410096|PlayerScore: 3 3: Revell now has 3 points
+1339410096|Challenge: 3 203 1: Client 3 got award 203
+1339410096|Challenge: 3 1 1: Client 3 got award 1
+1339410096|Challenge: 4 2 1: Client 4 got award 2
+1339410096|Challenge: 3 401 1: Client 3 got award 401
+1339410099|Item: 3 ammo_bullets
+1339410100|Item: 4 ammo_bullets
+1339410101|Item: 4 item_armor_shard
+1339410101|Item: 4 item_armor_shard
+1339410101|Item: 4 item_armor_shard
+1339410101|Item: 4 item_armor_shard
+1339410101|Item: 4 weapon_rocketlauncher
+1339410101|Item: 4 item_armor_shard
+1339410102|Item: 4 weapon_plasmagun
+1339410102|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410102|PlayerScore: 3 4: Revell now has 4 points
+1339410102|Challenge: 3 203 1: Client 3 got award 203
+1339410102|Challenge: 3 1 1: Client 3 got award 1
+1339410102|Challenge: 2 2 1: Client 2 got award 2
+1339410102|Challenge: 3 401 1: Client 3 got award 401
+1339410102|Item: 3 weapon_lightning
+1339410102|Item: 3 weapon_rocketlauncher
+1339410105|Item: 3 ammo_cells
+1339410106|Item: 2 weapon_rocketlauncher
+1339410106|Item: 3 item_health
+1339410107|Item: 3 weapon_shotgun
+1339410108|Item: 3 ammo_rockets
+1339410108|Item: 3 ammo_shells
+1339410108|Item: 3 ammo_bullets
+1339410112|Kill: 3 4 1: Revell killed Gerb by MOD_SHOTGUN
+1339410112|PlayerScore: 3 5: Revell now has 5 points
+1339410112|Challenge: 3 203 1: Client 3 got award 203
+1339410112|Challenge: 3 1 1: Client 3 got award 1
+1339410112|Challenge: 4 2 1: Client 4 got award 2
+1339410112|Challenge: 3 401 1: Client 3 got award 401
+1339410115|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339410115|PlayerScore: 2 4: TT now has 4 points
+1339410115|Challenge: 2 205 1: Client 2 got award 205
+1339410115|Challenge: 2 1 1: Client 2 got award 1
+1339410115|Challenge: 3 2 1: Client 3 got award 2
+1339410115|Challenge: 2 406 1: Client 2 got award 406
+1339410117|Item: 2 item_quad
+1339410117|Item: 2 weapon_shotgun
+1339410117|Item: 4 ammo_cells
+1339410119|Item: 4 ammo_bullets
+1339410119|Item: 4 item_armor_body
+1339410121|Item: 2 weapon_lightning
+1339410122|Item: 2 item_armor_combat
+1339410124|Item: 4 ammo_shells
+1339410124|Item: 4 weapon_rocketlauncher
+1339410125|Item: 4 weapon_plasmagun
+1339410126|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339410126|PlayerScore: 2 5: TT now has 5 points
+1339410126|Challenge: 2 205 1: Client 2 got award 205
+1339410126|Challenge: 2 1 1: Client 2 got award 1
+1339410126|Challenge: 3 2 1: Client 3 got award 2
+1339410129|Kill: 2 2 7: TT killed TT by MOD_ROCKET_SPLASH
+1339410129|PlayerScore: 2 4: TT now has 4 points
+1339410129|Item: 4 weapon_rocketlauncher
+1339410131|Item: 3 weapon_rocketlauncher
+1339410132|Item: 4 ammo_cells
+1339410133|Item: 2 weapon_lightning
+1339410134|Item: 3 ammo_lightning
+1339410134|Item: 3 item_health_mega
+1339410136|Item: 2 item_armor_combat
+1339410136|Item: 4 item_health
+1339410140|Kill: 3 4 7: Revell killed Gerb by MOD_ROCKET_SPLASH
+1339410140|PlayerScore: 3 6: Revell now has 6 points
+1339410140|Challenge: 3 205 1: Client 3 got award 205
+1339410140|Challenge: 3 1 1: Client 3 got award 1
+1339410140|Challenge: 4 2 1: Client 4 got award 2
+1339410140|Item: 2 weapon_rocketlauncher
+1339410141|Kill: 2 3 16: TT killed Revell by MOD_LAVA
+1339410141|PlayerScore: 2 5: TT now has 5 points
+1339410141|Challenge: 2 214 1: Client 2 got award 214
+1339410141|Challenge: 2 1 1: Client 2 got award 1
+1339410141|Challenge: 3 2 1: Client 3 got award 2
+1339410142|Item: 2 item_health
+1339410145|Item: 4 ammo_bullets
+1339410147|Item: 3 item_armor_body
+1339410148|Item: 4 weapon_shotgun
+1339410149|Item: 2 item_health
+1339410149|Item: 2 item_health
+1339410150|Item: 4 ammo_rockets
+1339410150|Item: 4 ammo_rockets
+1339410150|Item: 2 item_health
+1339410150|Kill: 4 2 2: Gerb killed TT by MOD_GAUNTLET
+1339410150|PlayerScore: 4 1: Gerb now has 1 points
+1339410150|Challenge: 4 201 1: Client 4 got award 201
+1339410150|Award: 4 0: Gerb gained the GAUNTLET award!
+1339410150|Challenge: 4 201 1: Client 4 got award 201
+1339410150|Challenge: 4 1 1: Client 4 got award 1
+1339410150|Challenge: 2 2 1: Client 2 got award 2
+1339410150|Item: 4 weapon_rocketlauncher
+1339410151|Item: 3 item_armor_shard
+1339410151|Item: 3 item_armor_shard
+1339410151|Item: 3 item_armor_shard
+1339410151|Item: 3 item_armor_shard
+1339410151|Item: 3 item_armor_shard
+1339410151|Item: 3 weapon_rocketlauncher
+1339410153|Item: 3 weapon_plasmagun
+1339410153|Item: 4 ammo_bullets
+1339410153|Item: 4 ammo_shells
+1339410153|Item: 3 ammo_shells
+1339410153|Item: 4 ammo_rockets
+1339410154|Item: 2 weapon_rocketlauncher
+1339410155|Item: 4 weapon_lightning
+1339410156|Item: 4 item_armor_combat
+1339410161|Item: 3 weapon_rocketlauncher
+1339410161|Kill: 2 4 6: TT killed Gerb by MOD_ROCKET
+1339410161|PlayerScore: 2 6: TT now has 6 points
+1339410161|Challenge: 2 205 1: Client 2 got award 205
+1339410161|Challenge: 2 1 1: Client 2 got award 1
+1339410161|Challenge: 4 2 1: Client 4 got award 2
+1339410161|Kill: 2 2 7: TT killed TT by MOD_ROCKET_SPLASH
+1339410161|PlayerScore: 2 5: TT now has 5 points
+1339410164|Item: 4 weapon_shotgun
+1339410165|Item: 3 weapon_rocketlauncher
+1339410166|Item: 3 weapon_rocketlauncher
+1339410166|Item: 4 ammo_cells
+1339410166|Item: 3 item_armor_combat
+1339410167|Item: 2 weapon_plasmagun
+1339410169|Kill: 2 4 8: TT killed Gerb by MOD_PLASMA
+1339410169|PlayerScore: 2 6: TT now has 6 points
+1339410169|Challenge: 2 207 1: Client 2 got award 207
+1339410169|Challenge: 2 1 1: Client 2 got award 1
+1339410169|Challenge: 4 2 1: Client 4 got award 2
+1339410170|Kill: 3 2 7: Revell killed TT by MOD_ROCKET_SPLASH
+1339410170|PlayerScore: 3 7: Revell now has 7 points
+1339410170|Challenge: 3 205 1: Client 3 got award 205
+1339410170|Challenge: 3 1 1: Client 3 got award 1
+1339410170|Challenge: 2 2 1: Client 2 got award 2
+1339410171|Item: 3 weapon_plasmagun
+1339410171|Item: 3 weapon_shotgun
+1339410172|Item: 2 weapon_shotgun
+1339410174|Kill: 3 4 7: Revell killed Gerb by MOD_ROCKET_SPLASH
+1339410174|PlayerScore: 3 8: Revell now has 8 points
+1339410174|Challenge: 3 205 1: Client 3 got award 205
+1339410174|Challenge: 3 1 1: Client 3 got award 1
+1339410174|Challenge: 4 2 1: Client 4 got award 2
+1339410175|Item: 2 weapon_lightning
+1339410179|Item: 3 ammo_cells
+1339410180|Kill: 3 2 7: Revell killed TT by MOD_ROCKET_SPLASH
+1339410180|PlayerScore: 3 9: Revell now has 9 points
+1339410180|Challenge: 3 205 1: Client 3 got award 205
+1339410180|Challenge: 3 1 1: Client 3 got award 1
+1339410180|Challenge: 2 2 1: Client 2 got award 2
+1339410181|Item: 4 weapon_lightning
+1339410184|Item: 2 weapon_lightning
+1339410185|Item: 3 ammo_bullets
+1339410185|Item: 2 item_armor_combat
+1339410187|Kill: 3 4 6: Revell killed Gerb by MOD_ROCKET
+1339410187|PlayerScore: 3 10: Revell now has 10 points
+1339410187|Challenge: 3 205 1: Client 3 got award 205
+1339410187|Challenge: 3 1 1: Client 3 got award 1
+1339410187|Challenge: 4 2 1: Client 4 got award 2
+1339410188|Item: 3 weapon_lightning
+1339410190|Item: 4 ammo_rockets
+1339410190|Item: 4 ammo_rockets
+1339410191|Kill: 3 4 7: Revell killed Gerb by MOD_ROCKET_SPLASH
+1339410191|PlayerScore: 3 11: Revell now has 11 points
+1339410191|Challenge: 3 205 1: Client 3 got award 205
+1339410191|Challenge: 3 1 1: Client 3 got award 1
+1339410191|Challenge: 4 2 1: Client 4 got award 2
+1339410192|Kill: 2 3 11: TT killed Revell by MOD_LIGHTNING
+1339410192|PlayerScore: 2 7: TT now has 7 points
+1339410192|Challenge: 2 206 1: Client 2 got award 206
+1339410192|Challenge: 2 1 1: Client 2 got award 1
+1339410192|Challenge: 3 2 1: Client 3 got award 2
+1339410192|Item: 4 ammo_cells
+1339410193|Item: 2 weapon_rocketlauncher
+1339410195|Item: 3 weapon_shotgun
+1339410196|Kill: 2 4 6: TT killed Gerb by MOD_ROCKET
+1339410196|PlayerScore: 2 8: TT now has 8 points
+1339410196|Challenge: 2 205 1: Client 2 got award 205
+1339410196|Challenge: 2 1 1: Client 2 got award 1
+1339410196|Challenge: 4 2 1: Client 4 got award 2
+1339410198|Item: 3 weapon_lightning
+1339410199|Item: 2 item_armor_combat
+1339410206|Item: 3 weapon_lightning
+1339410207|Kill: 3 4 11: Revell killed Gerb by MOD_LIGHTNING
+1339410207|PlayerScore: 3 12: Revell now has 12 points
+1339410207|Challenge: 3 206 1: Client 3 got award 206
+1339410207|Challenge: 3 1 1: Client 3 got award 1
+1339410207|Challenge: 4 2 1: Client 4 got award 2
+1339410209|Item: 2 item_health
+1339410210|Kill: 1022 3 16: <world> killed Revell by MOD_LAVA
+1339410210|PlayerScore: 3 11: Revell now has 11 points
+1339410215|Item: 4 item_health_mega
+1339410216|Item: 3 weapon_railgun
+1339410216|Item: 4 ammo_lightning
+1339410216|Item: 3 item_quad
+1339410219|Kill: 1022 4 16: <world> killed Gerb by MOD_LAVA
+1339410219|PlayerScore: 4 0: Gerb now has 0 points
+1339410220|Kill: 1022 2 16: <world> killed TT by MOD_LAVA
+1339410220|PlayerScore: 2 7: TT now has 7 points
+1339410221|Item: 3 weapon_railgun
+1339410224|Item: 2 ammo_shells
+1339410224|Item: 2 weapon_rocketlauncher
+1339410224|Item: 4 ammo_cells
+1339410225|Item: 2 weapon_plasmagun
+1339410225|Item: 2 ammo_shells
+1339410227|Kill: 2 4 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1339410227|PlayerScore: 2 8: TT now has 8 points
+1339410227|Challenge: 2 205 1: Client 2 got award 205
+1339410227|Challenge: 2 1 1: Client 2 got award 1
+1339410227|Challenge: 4 2 1: Client 4 got award 2
+1339410227|Item: 3 weapon_lightning
+1339410228|Item: 3 item_armor_combat
+1339410229|Item: 2 item_armor_combat
+1339410230|Item: 2 item_health
+1339410231|Item: 4 weapon_rocketlauncher
+1339410233|Kill: 3 2 11: Revell killed TT by MOD_LIGHTNING
+1339410233|PlayerScore: 3 12: Revell now has 12 points
+1339410233|Challenge: 3 206 1: Client 3 got award 206
+1339410233|Challenge: 3 1 1: Client 3 got award 1
+1339410233|Challenge: 2 2 1: Client 2 got award 2
+1339410233|Challenge: 3 401 1: Client 3 got award 401
+1339410234|Item: 4 weapon_rocketlauncher
+1339410234|Kill: 4 4 7: Gerb killed Gerb by MOD_ROCKET_SPLASH
+1339410234|Item: 3 weapon_rocketlauncher
+1339410236|Item: 2 weapon_shotgun
+1339410237|Item: 3 weapon_rocketlauncher
+1339410238|Item: 2 ammo_cells
+1339410238|Item: 2 weapon_lightning
+1339410241|Kill: 2 4 11: TT killed Gerb by MOD_LIGHTNING
+1339410241|PlayerScore: 2 9: TT now has 9 points
+1339410241|Challenge: 2 206 1: Client 2 got award 206
+1339410241|Challenge: 2 1 1: Client 2 got award 1
+1339410241|Challenge: 4 2 1: Client 4 got award 2
+1339410245|Item: 2 ammo_bullets
+1339410246|Item: 4 ammo_bullets
+1339410247|Item: 4 item_armor_shard
+1339410247|Item: 4 item_armor_shard
+1339410247|Item: 4 item_armor_shard
+1339410247|Item: 4 item_armor_shard
+1339410247|Item: 4 weapon_rocketlauncher
+1339410247|Item: 4 item_armor_shard
+1339410248|Item: 2 weapon_lightning
+1339410248|Item: 4 weapon_plasmagun
+1339410251|Kill: 4 2 2: Gerb killed TT by MOD_GAUNTLET
+1339410251|PlayerScore: 4 1: Gerb now has 1 points
+1339410251|Challenge: 4 201 1: Client 4 got award 201
+1339410251|Award: 4 0: Gerb gained the GAUNTLET award!
+1339410251|Challenge: 4 201 1: Client 4 got award 201
+1339410251|Challenge: 4 1 1: Client 4 got award 1
+1339410251|Challenge: 2 2 1: Client 2 got award 2
+1339410251|Item: 4 weapon_lightning
+1339410254|Kill: 4 3 2: Gerb killed Revell by MOD_GAUNTLET
+1339410254|PlayerScore: 4 2: Gerb now has 2 points
+1339410254|Challenge: 4 201 1: Client 4 got award 201
+1339410254|Award: 4 0: Gerb gained the GAUNTLET award!
+1339410254|Challenge: 4 201 1: Client 4 got award 201
+1339410254|Challenge: 4 1 1: Client 4 got award 1
+1339410254|Challenge: 3 2 1: Client 3 got award 2
+1339410254|Item: 4 weapon_railgun
+1339410255|Item: 2 weapon_rocketlauncher
+1339410255|Item: 2 weapon_plasmagun
+1339410259|Item: 3 weapon_lightning
+1339410259|Item: 4 weapon_shotgun
+1339410260|Item: 4 item_health
+1339410260|Item: 4 item_health
+1339410260|Item: 4 item_health
+1339410260|Item: 3 item_armor_combat
+1339410260|Item: 4 ammo_rockets
+1339410261|Item: 4 ammo_rockets
+1339410261|Kill: 2 4 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1339410261|PlayerScore: 2 10: TT now has 10 points
+1339410261|Challenge: 2 205 1: Client 2 got award 205
+1339410261|Challenge: 2 1 1: Client 2 got award 1
+1339410261|Challenge: 4 2 1: Client 4 got award 2
+1339410262|Item: 2 weapon_shotgun
+1339410265|Item: 2 ammo_bullets
+1339410265|Item: 3 weapon_lightning
+1339410266|Kill: 3 4 11: Revell killed Gerb by MOD_LIGHTNING
+1339410266|PlayerScore: 3 13: Revell now has 13 points
+1339410266|Challenge: 3 206 1: Client 3 got award 206
+1339410266|Challenge: 3 1 1: Client 3 got award 1
+1339410266|Challenge: 4 2 1: Client 4 got award 2
+1339410267|Item: 2 weapon_shotgun
+1339410268|Item: 2 ammo_shells
+1339410270|Item: 4 weapon_rocketlauncher
+1339410271|Item: 3 item_armor_combat
+1339410272|Item: 3 item_health
+1339410273|Item: 4 ammo_shells
+1339410273|Item: 4 weapon_plasmagun
+1339410274|Item: 2 weapon_lightning
+1339410276|Kill: 2 3 6: TT killed Revell by MOD_ROCKET
+1339410276|PlayerScore: 2 11: TT now has 11 points
+1339410276|Challenge: 2 205 1: Client 2 got award 205
+1339410276|Challenge: 2 1 1: Client 2 got award 1
+1339410276|Challenge: 3 2 1: Client 3 got award 2
+1339410276|Kill: 2 2 7: TT killed TT by MOD_ROCKET_SPLASH
+1339410276|PlayerScore: 2 10: TT now has 10 points
+1339410277|Item: 4 weapon_lightning
+1339410277|Item: 4 weapon_rocketlauncher
+1339410280|Item: 2 weapon_rocketlauncher
+1339410281|Item: 3 ammo_cells
+1339410282|Kill: 4 3 7: Gerb killed Revell by MOD_ROCKET_SPLASH
+1339410282|PlayerScore: 4 3: Gerb now has 3 points
+1339410282|Challenge: 4 205 1: Client 4 got award 205
+1339410282|Challenge: 4 1 1: Client 4 got award 1
+1339410282|Challenge: 3 2 1: Client 3 got award 2
+1339410284|Item: 4 item_health
+1339410284|Item: 3 item_armor_shard
+1339410284|Item: 3 item_armor_shard
+1339410287|Item: 3 item_armor_shard
+1339410287|Item: 3 item_armor_shard
+1339410287|Item: 3 weapon_rocketlauncher
+1339410287|Item: 3 item_armor_shard
+1339410288|Item: 3 ammo_shells
+1339410288|Kill: 1022 4 16: <world> killed Gerb by MOD_LAVA
+1339410288|PlayerScore: 4 2: Gerb now has 2 points
+1339410289|Item: 3 weapon_plasmagun
+1339410289|Item: 2 weapon_lightning
+1339410294|Item: 2 item_armor_combat
+1339410294|Kill: 4 3 3: Gerb killed Revell by MOD_MACHINEGUN
+1339410294|PlayerScore: 4 3: Gerb now has 3 points
+1339410294|Challenge: 4 202 1: Client 4 got award 202
+1339410294|Challenge: 4 1 1: Client 4 got award 1
+1339410294|Challenge: 3 2 1: Client 3 got award 2
+1339410296|Item: 4 weapon_rocketlauncher
+1339410298|Item: 2 item_armor_combat
+1339410299|Item: 2 ammo_bullets
+1339410299|Item: 3 weapon_lightning
+1339410301|Item: 2 weapon_shotgun
+1339410302|Item: 3 ammo_cells
+1339410303|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339410303|PlayerScore: 2 11: TT now has 11 points
+1339410303|Challenge: 2 205 1: Client 2 got award 205
+1339410303|Challenge: 2 1 1: Client 2 got award 1
+1339410303|Challenge: 3 2 1: Client 3 got award 2
+1339410305|Item: 2 ammo_rockets
+1339410305|Item: 2 ammo_rockets
+1339410305|Item: 2 weapon_lightning
+1339410306|Item: 4 ammo_lightning
+1339410307|Item: 4 item_health_mega
+1339410307|Item: 2 weapon_lightning
+1339410309|Item: 3 weapon_rocketlauncher
+1339410310|Item: 2 item_health
+1339410310|Kill: 4 3 7: Gerb killed Revell by MOD_ROCKET_SPLASH
+1339410310|PlayerScore: 4 4: Gerb now has 4 points
+1339410310|Challenge: 4 205 1: Client 4 got award 205
+1339410310|Challenge: 4 1 1: Client 4 got award 1
+1339410310|Challenge: 3 2 1: Client 3 got award 2
+1339410312|Item: 3 ammo_cells
+1339410312|Item: 4 weapon_rocketlauncher
+1339410314|Item: 2 weapon_lightning
+1339410319|Kill: 2 4 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1339410319|PlayerScore: 2 12: TT now has 12 points
+1339410319|Challenge: 2 205 1: Client 2 got award 205
+1339410319|Challenge: 2 1 1: Client 2 got award 1
+1339410319|Challenge: 4 2 1: Client 4 got award 2
+1339410320|Item: 3 weapon_railgun
+1339410323|Item: 2 weapon_rocketlauncher
+1339410323|Kill: 2 4 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1339410323|PlayerScore: 2 13: TT now has 13 points
+1339410323|Challenge: 2 205 1: Client 2 got award 205
+1339410323|Challenge: 2 1 1: Client 2 got award 1
+1339410323|Challenge: 4 2 1: Client 4 got award 2
+1339410325|Item: 2 ammo_cells
+1339410326|Item: 2 item_armor_combat
+1339410327|Item: 4 weapon_rocketlauncher
+1339410327|Item: 3 weapon_railgun
+1339410327|Item: 2 weapon_lightning
+1339410329|Item: 2 item_armor_combat
+1339410337|Item: 3 item_quad
+1339410339|Item: 3 weapon_railgun
+1339410339|Kill: 1022 2 16: <world> killed TT by MOD_LAVA
+1339410339|PlayerScore: 2 12: TT now has 12 points
+1339410340|Kill: 1022 4 16: <world> killed Gerb by MOD_LAVA
+1339410340|PlayerScore: 4 3: Gerb now has 3 points
+1339410343|Item: 4 weapon_rocketlauncher
+1339410344|Item: 2 weapon_lightning
+1339410346|Item: 4 item_health_mega
+1339410347|Item: 2 ammo_bullets
+1339410349|Item: 3 ammo_rockets
+1339410349|Item: 3 ammo_rockets
+1339410349|Item: 3 item_health
+1339410350|Item: 3 weapon_shotgun
+1339410351|Item: 3 ammo_shells
+1339410351|Item: 3 ammo_bullets
+1339410351|Kill: 2 3 11: TT killed Revell by MOD_LIGHTNING
+1339410351|PlayerScore: 2 13: TT now has 13 points
+1339410351|Challenge: 2 206 1: Client 2 got award 206
+1339410351|Challenge: 2 1 1: Client 2 got award 1
+1339410351|Challenge: 3 2 1: Client 3 got award 2
+1339410351|Challenge: 2 406 1: Client 2 got award 406
+1339410351|Item: 4 ammo_shells
+1339410351|Item: 4 weapon_plasmagun
+1339410352|Item: 2 item_quad
+1339410354|Kill: 3 2 3: Revell killed TT by MOD_MACHINEGUN
+1339410354|PlayerScore: 3 14: Revell now has 14 points
+1339410354|Challenge: 3 202 1: Client 3 got award 202
+1339410354|Challenge: 3 1 1: Client 3 got award 1
+1339410354|Challenge: 2 2 1: Client 2 got award 2
+1339410354|Challenge: 3 406 1: Client 3 got award 406
+1339410355|Item: 3 weapon_lightning
+1339410355|Item: 3 item_quad
+1339410355|Item: 3 ammo_cells
+1339410356|Item: 3 weapon_lightning
+1339410356|Item: 3 item_armor_combat
+1339410359|Item: 4 item_armor_combat
+1339410362|Item: 3 weapon_shotgun
+1339410362|Kill: 3 2 11: Revell killed TT by MOD_LIGHTNING
+1339410362|PlayerScore: 3 15: Revell now has 15 points
+1339410362|Exit: Fraglimit hit.
+1339410362|score: 15  ping: 0  client: 3 Revell
+1339410362|score: 13  ping: 2  client: 2 TT
+1339410362|score: 3  ping: 1  client: 4 Gerb
+1339410362|broadcast: print "Revell^7 hit the fraglimit.\n"
+1339410362|Challenge: 3 206 1: Client 3 got award 206
+1339410362|Challenge: 3 1 1: Client 3 got award 1
+1339410362|Challenge: 2 2 1: Client 2 got award 2
+1339410362|Challenge: 3 401 1: Client 3 got award 401
+1339410368|g_gametype will be changed upon restarting.
+1339410368|==== ShutdownGame ====
+1339410368|ShutdownGame:
+1339410368|------------------------------------------------------------
+1339410368|AAS shutdown.
+1339410368|------ Server Initialization ------
+1339410368|Server: oa_ctf4ish
+1339410368|Hunk_Clear: reset the hunk ok
+1339410368|----- FS_Startup -----
+1339410368|Current search path:
+1339410368|/home/jeroen/.openarena/baseoa
+1339410368|/usr/lib/openarena-server/baseoa
+1339410368|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1339410368|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1339410368|
+1339410368|----------------------
+1339410368|5433 files in pk3 files
+1339410368|Loading vm file vm/qagame.qvm...
+1339410368|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1339410368|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1339410368|... trying pak6-patch088/qagame
+1339410368|... trying qagame
+1339410368|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1339410368|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1339410368|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1339410368|------- Game Initialization -------
+1339410368|gamename: baseoa
+1339410368|gamedate: Apr  1 2012
+1339410368|------------------------------------------------------------
+1339410368|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\4\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_ctf4ish\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-11 12:26:08
+1339410368|Info: ServerInfo length: 792 of 1024
+1339410368|Gametype changed, clearing session data.
+1339410368|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1339410368|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1339410368|0 teams with 0 entities
+1339410368|12 items registered
+1339410368|-----------------------------------
+1339410368|------- BotLib Initialization -------
+1339410368|loaded weapons.c
+1339410368|loaded items.c
+1339410368|loaded syn.c
+1339410368|loaded rnd.c
+1339410368|loaded match.c
+1339410368|loaded rchat.c
+1339410368|------------ Map Loading ------------
+1339410368|trying to load maps/oa_ctf4ish.aas
+1339410368|loaded maps/oa_ctf4ish.aas
+1339410368|found 25 level items
+1339410368|-------------------------------------
+1339410368|33 bots parsed
+1339410368|58 arenas parsed
+1339410368|AAS initialized.
+1339410368|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339410368|ClientConnect: 2
+1339410368|ClientUserinfoChanged: 3 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410368|ClientConnect: 3
+1339410368|ClientUserinfoChanged: 4 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410368|ClientConnect: 4
+1339410368|-----------------------------------
+1339410370|ClientUserinfoChanged: 3 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410370|ClientBegin: 3
+1339410370|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339410370|ClientBegin: 2
+1339410372|ClientUserinfoChanged: 4 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410372|ClientBegin: 4
+1339410372|ClientUserinfoChanged: 3 n\Revell\t\2\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410372|ClientUserinfoChanged: 3 n\Revell\t\2\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410372|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1339410372|Item: 3 weapon_shotgun
+1339410372|broadcast: print "Revell^7 entered the game\n"
+1339410372|ClientBegin: 3
+1339410375|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1339410375|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1339410375|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1339410375|Item: 2 weapon_shotgun
+1339410375|broadcast: print "TT^7 entered the game\n"
+1339410375|ClientBegin: 2
+1339410375|ClientUserinfoChanged: 4 n\Gerb\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410375|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1339410375|Item: 4 weapon_shotgun
+1339410375|broadcast: print "Gerb^7 entered the game\n"
+1339410375|ClientBegin: 4
+1339410380|Item: 4 item_guard
+1339410381|Item: 3 item_armor_combat
+1339410382|Item: 3 weapon_rocketlauncher
+1339410383|Item: 2 weapon_rocketlauncher
+1339410385|Item: 4 weapon_rocketlauncher
+1339410386|Item: 3 item_health_mega
+1339410387|Item: 2 weapon_railgun
+1339410392|Item: 2 weapon_railgun
+1339410392|Item: 4 team_CTF_redflag
+1339410392|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410392|CTF: 4 1 0: Gerb got the RED flag!
+1339410392|PlayerScore: 4 0: Gerb now has 0 points
+1339410396|Item: 4 weapon_rocketlauncher
+1339410399|Item: 2 weapon_railgun
+1339410399|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410399|PlayerScore: 3 1: Revell now has 1 points
+1339410399|Challenge: 3 203 1: Client 3 got award 203
+1339410399|Challenge: 3 1 1: Client 3 got award 1
+1339410399|Challenge: 2 2 1: Client 2 got award 2
+1339410401|Item: 2 weapon_shotgun
+1339410403|Kill: 1022 2 22: <world> killed TT by MOD_TRIGGER_HURT
+1339410405|Item: 4 team_CTF_blueflag
+1339410405|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339410405|CTF: 4 1 1: Gerb captured the RED flag!
+1339410405|Award: 4 4: Gerb gained the CAPTURE award!
+1339410405|Challenge: 4 303 1: Client 4 got award 303
+1339410405|PlayerScore: 4 5: Gerb now has 5 points
+1339410405|PlayerScore: 3 1: Revell now has 1 points
+1339410406|Item: 2 weapon_shotgun
+1339410406|Item: 2 item_armor_combat
+1339410408|Kill: 2 3 1: TT killed Revell by MOD_SHOTGUN
+1339410408|PlayerScore: 2 1: TT now has 1 points
+1339410408|Challenge: 2 203 1: Client 2 got award 203
+1339410408|Challenge: 2 1 1: Client 2 got award 1
+1339410408|Challenge: 3 2 1: Client 3 got award 2
+1339410408|PlayerScore: 2 2: TT now has 2 points
+1339410408|Challenge: 2 305 1: Client 2 got award 305
+1339410408|Award: 2 3: TT gained the DEFENCE award!
+1339410409|Item: 2 weapon_shotgun
+1339410410|Item: 3 weapon_shotgun
+1339410413|Item: 3 item_armor_combat
+1339410413|Item: 4 weapon_rocketlauncher
+1339410418|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410418|PlayerScore: 3 2: Revell now has 2 points
+1339410418|Challenge: 3 203 1: Client 3 got award 203
+1339410418|Challenge: 3 1 1: Client 3 got award 1
+1339410418|Challenge: 2 2 1: Client 2 got award 2
+1339410418|PlayerScore: 3 3: Revell now has 3 points
+1339410418|Challenge: 3 305 1: Client 3 got award 305
+1339410418|Award: 3 3: Revell gained the DEFENCE award!
+1339410419|Item: 3 weapon_shotgun
+1339410420|Item: 2 weapon_shotgun
+1339410421|Item: 4 team_CTF_redflag
+1339410421|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410421|CTF: 4 1 0: Gerb got the RED flag!
+1339410421|PlayerScore: 4 5: Gerb now has 5 points
+1339410421|Item: 2 item_guard
+1339410426|Item: 3 item_armor_combat
+1339410426|Item: 3 weapon_rocketlauncher
+1339410426|Kill: 1022 2 22: <world> killed TT by MOD_TRIGGER_HURT
+1339410426|PlayerScore: 2 1: TT now has 1 points
+1339410428|Item: 2 weapon_shotgun
+1339410428|Item: 4 weapon_rocketlauncher
+1339410431|Item: 3 weapon_railgun
+1339410435|Item: 4 team_CTF_blueflag
+1339410435|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339410435|CTF: 4 1 1: Gerb captured the RED flag!
+1339410435|Award: 4 4: Gerb gained the CAPTURE award!
+1339410435|Challenge: 4 303 1: Client 4 got award 303
+1339410435|PlayerScore: 4 10: Gerb now has 10 points
+1339410435|PlayerScore: 3 3: Revell now has 3 points
+1339410436|Item: 3 weapon_railgun
+1339410437|Kill: 3 2 22: Revell killed TT by MOD_TRIGGER_HURT
+1339410437|PlayerScore: 3 4: Revell now has 4 points
+1339410437|Challenge: 3 214 1: Client 3 got award 214
+1339410437|Challenge: 3 1 1: Client 3 got award 1
+1339410437|Challenge: 2 2 1: Client 2 got award 2
+1339410437|PlayerScore: 3 5: Revell now has 5 points
+1339410437|Challenge: 3 305 1: Client 3 got award 305
+1339410437|Award: 3 3: Revell gained the DEFENCE award!
+1339410439|Item: 2 weapon_shotgun
+1339410440|Item: 4 weapon_rocketlauncher
+1339410441|Item: 3 weapon_railgun
+1339410443|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410443|Challenge: 3 301 1: Client 3 got award 301
+1339410446|Item: 3 weapon_railgun
+1339410446|Kill: 3 2 22: Revell killed TT by MOD_TRIGGER_HURT
+1339410446|PlayerScore: 3 6: Revell now has 6 points
+1339410446|Challenge: 3 214 1: Client 3 got award 214
+1339410446|Challenge: 3 1 1: Client 3 got award 1
+1339410446|Challenge: 2 2 1: Client 2 got award 2
+1339410446|PlayerScore: 3 7: Revell now has 7 points
+1339410446|Challenge: 3 305 1: Client 3 got award 305
+1339410446|Award: 3 3: Revell gained the DEFENCE award!
+1339410447|Item: 4 team_CTF_redflag
+1339410447|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410447|CTF: 4 1 0: Gerb got the RED flag!
+1339410447|PlayerScore: 4 10: Gerb now has 10 points
+1339410448|Item: 2 weapon_shotgun
+1339410451|Item: 3 weapon_railgun
+1339410451|Item: 4 weapon_rocketlauncher
+1339410456|Item: 2 item_armor_combat
+1339410457|Item: 4 item_armor_combat
+1339410458|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339410458|PlayerScore: 3 8: Revell now has 8 points
+1339410458|Challenge: 3 208 1: Client 3 got award 208
+1339410458|Challenge: 3 1 1: Client 3 got award 1
+1339410458|Challenge: 2 2 1: Client 2 got award 2
+1339410458|PlayerScore: 3 9: Revell now has 9 points
+1339410458|Challenge: 3 305 1: Client 3 got award 305
+1339410458|Award: 3 3: Revell gained the DEFENCE award!
+1339410458|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410458|Challenge: 3 301 1: Client 3 got award 301
+1339410459|Item: 3 weapon_railgun
+1339410459|Item: 2 weapon_shotgun
+1339410460|Item: 4 team_CTF_blueflag
+1339410460|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339410460|CTF: 4 1 1: Gerb captured the RED flag!
+1339410460|Award: 4 4: Gerb gained the CAPTURE award!
+1339410460|Challenge: 4 303 1: Client 4 got award 303
+1339410460|PlayerScore: 4 15: Gerb now has 15 points
+1339410460|PlayerScore: 3 9: Revell now has 9 points
+1339410461|Item: 2 item_guard
+1339410464|Item: 3 weapon_railgun
+1339410464|Item: 4 weapon_rocketlauncher
+1339410464|Kill: 3 2 22: Revell killed TT by MOD_TRIGGER_HURT
+1339410464|PlayerScore: 3 10: Revell now has 10 points
+1339410464|Challenge: 3 214 1: Client 3 got award 214
+1339410464|Challenge: 3 1 1: Client 3 got award 1
+1339410464|Challenge: 2 2 1: Client 2 got award 2
+1339410464|PlayerScore: 3 11: Revell now has 11 points
+1339410464|Challenge: 3 305 1: Client 3 got award 305
+1339410464|Award: 3 3: Revell gained the DEFENCE award!
+1339410467|Item: 2 weapon_shotgun
+1339410469|Item: 3 weapon_railgun
+1339410471|Item: 4 team_CTF_redflag
+1339410471|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410471|CTF: 4 1 0: Gerb got the RED flag!
+1339410471|PlayerScore: 4 15: Gerb now has 15 points
+1339410473|Item: 2 item_guard
+1339410474|Item: 3 weapon_railgun
+1339410475|Item: 4 weapon_rocketlauncher
+1339410479|Item: 3 weapon_railgun
+1339410484|Item: 3 weapon_railgun
+1339410484|Item: 4 team_CTF_blueflag
+1339410484|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339410484|CTF: 4 1 1: Gerb captured the RED flag!
+1339410484|Award: 4 4: Gerb gained the CAPTURE award!
+1339410484|Challenge: 4 303 1: Client 4 got award 303
+1339410484|PlayerScore: 4 20: Gerb now has 20 points
+1339410484|PlayerScore: 3 11: Revell now has 11 points
+1339410485|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410485|Challenge: 3 301 1: Client 3 got award 301
+1339410488|Item: 4 weapon_rocketlauncher
+1339410489|Item: 3 weapon_railgun
+1339410494|Item: 3 weapon_railgun
+1339410495|Kill: 4 2 22: Gerb killed TT by MOD_TRIGGER_HURT
+1339410495|PlayerScore: 4 21: Gerb now has 21 points
+1339410495|Challenge: 4 214 1: Client 4 got award 214
+1339410495|Challenge: 4 1 1: Client 4 got award 1
+1339410495|Challenge: 2 2 1: Client 2 got award 2
+1339410497|Item: 2 weapon_shotgun
+1339410497|Item: 4 item_armor_combat
+1339410499|Item: 3 weapon_railgun
+1339410500|Item: 4 team_CTF_redflag
+1339410500|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410500|CTF: 4 1 0: Gerb got the RED flag!
+1339410500|PlayerScore: 4 21: Gerb now has 21 points
+1339410502|Kill: 3 2 22: Revell killed TT by MOD_TRIGGER_HURT
+1339410502|PlayerScore: 3 12: Revell now has 12 points
+1339410502|Challenge: 3 214 1: Client 3 got award 214
+1339410502|Challenge: 3 1 1: Client 3 got award 1
+1339410502|Challenge: 2 2 1: Client 2 got award 2
+1339410502|PlayerScore: 3 13: Revell now has 13 points
+1339410502|Challenge: 3 305 1: Client 3 got award 305
+1339410502|Award: 3 3: Revell gained the DEFENCE award!
+1339410504|Item: 3 weapon_railgun
+1339410504|Item: 4 weapon_rocketlauncher
+1339410506|Item: 2 weapon_shotgun
+1339410508|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410508|Challenge: 3 301 1: Client 3 got award 301
+1339410508|Item: 2 item_guard
+1339410509|Item: 3 weapon_railgun
+1339410512|Item: 4 team_CTF_blueflag
+1339410512|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339410512|CTF: 4 1 1: Gerb captured the RED flag!
+1339410512|Award: 4 4: Gerb gained the CAPTURE award!
+1339410512|Challenge: 4 303 1: Client 4 got award 303
+1339410512|PlayerScore: 4 26: Gerb now has 26 points
+1339410512|broadcast: print "Blue hit the capturelimit.\n"
+1339410512|Exit: Capturelimit hit.
+1339410512|red:0  blue:5
+1339410512|score: 26  ping: 1  client: 4 Gerb
+1339410512|score: 13  ping: 0  client: 3 Revell
+1339410512|score: 1  ping: 1  client: 2 TT
+1339410512|PlayerScore: 3 13: Revell now has 13 points
+1339410521|g_gametype will be changed upon restarting.
+1339410521|==== ShutdownGame ====
+1339410521|ShutdownGame:
+1339410521|------------------------------------------------------------
+1339410521|AAS shutdown.
+1339410521|------ Server Initialization ------
+1339410521|Server: aggressor
+1339410521|Hunk_Clear: reset the hunk ok
+1339410521|----- FS_Startup -----
+1339410521|Current search path:
+1339410521|/home/jeroen/.openarena/baseoa
+1339410521|/usr/lib/openarena-server/baseoa
+1339410521|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1339410521|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1339410521|
+1339410521|----------------------
+1339410521|5433 files in pk3 files
+1339410521|Loading vm file vm/qagame.qvm...
+1339410521|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1339410521|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1339410521|... trying pak6-patch088/qagame
+1339410521|... trying qagame
+1339410521|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1339410521|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1339410521|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1339410521|------- Game Initialization -------
+1339410521|gamename: baseoa
+1339410521|gamedate: Apr  1 2012
+1339410521|------------------------------------------------------------
+1339410521|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\aggressor\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-11 12:28:41
+1339410521|Info: ServerInfo length: 791 of 1024
+1339410521|Gametype changed, clearing session data.
+1339410521|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1339410521|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1339410521|0 teams with 0 entities
+1339410521|17 items registered
+1339410521|-----------------------------------
+1339410521|------- BotLib Initialization -------
+1339410521|loaded weapons.c
+1339410521|loaded items.c
+1339410521|loaded syn.c
+1339410521|loaded rnd.c
+1339410521|loaded match.c
+1339410521|loaded rchat.c
+1339410521|------------ Map Loading ------------
+1339410521|trying to load maps/aggressor.aas
+1339410521|loaded maps/aggressor.aas
+1339410521|found 29 level items
+1339410521|-------------------------------------
+1339410521|33 bots parsed
+1339410521|58 arenas parsed
+1339410521|AAS initialized.
+1339410521|ClientUserinfoChanged: 2 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339410521|ClientConnect: 2
+1339410521|ClientUserinfoChanged: 3 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410521|ClientConnect: 3
+1339410521|ClientUserinfoChanged: 4 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410521|ClientConnect: 4
+1339410521|-----------------------------------
+1339410522|ClientUserinfoChanged: 3 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410522|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1339410522|broadcast: print "Revell^7 entered the game\n"
+1339410522|ClientBegin: 3
+1339410523|ClientUserinfoChanged: 2 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339410523|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1339410523|broadcast: print "TT^7 entered the game\n"
+1339410523|ClientBegin: 2
+1339410523|Item: 3 ammo_cells
+1339410523|ClientUserinfoChanged: 4 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410523|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1339410523|broadcast: print "Gerb^7 entered the game\n"
+1339410523|ClientBegin: 4
+1339410524|Item: 3 weapon_railgun
+1339410524|Item: 2 item_health_small
+1339410524|Item: 2 item_health_small
+1339410524|Item: 4 weapon_shotgun
+1339410526|Item: 2 weapon_grenadelauncher
+1339410528|Item: 2 item_armor_combat
+1339410530|Item: 2 weapon_railgun
+1339410530|Item: 3 weapon_lightning
+1339410530|Kill: 2 4 10: TT killed Gerb by MOD_RAILGUN
+1339410530|PlayerScore: 2 1: TT now has 1 points
+1339410530|Challenge: 2 208 1: Client 2 got award 208
+1339410530|Challenge: 2 1 1: Client 2 got award 1
+1339410530|Challenge: 4 2 1: Client 4 got award 2
+1339410530|Item: 3 item_armor_combat
+1339410531|Item: 3 item_health
+1339410531|Item: 3 ammo_shells
+1339410533|Item: 3 ammo_bullets
+1339410533|Item: 3 ammo_cells
+1339410535|Item: 3 ammo_rockets
+1339410535|Item: 3 item_health
+1339410536|Item: 4 item_health_small
+1339410536|Item: 4 item_health_small
+1339410537|Item: 2 weapon_rocketlauncher
+1339410537|Item: 2 ammo_rockets
+1339410539|Item: 2 item_health
+1339410540|Item: 4 item_armor_shard
+1339410540|Item: 4 item_armor_shard
+1339410540|Item: 4 item_armor_shard
+1339410540|Item: 4 item_armor_shard
+1339410541|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339410541|PlayerScore: 2 2: TT now has 2 points
+1339410541|Challenge: 2 205 1: Client 2 got award 205
+1339410541|Challenge: 2 1 1: Client 2 got award 1
+1339410541|Challenge: 3 2 1: Client 3 got award 2
+1339410541|Item: 2 weapon_plasmagun
+1339410543|Item: 2 item_armor_combat
+1339410544|Item: 2 weapon_lightning
+1339410544|Item: 3 weapon_grenadelauncher
+1339410545|Item: 4 weapon_lightning
+1339410550|Item: 2 item_health
+1339410551|Kill: 2 4 18: TT killed Gerb by MOD_TELEFRAG
+1339410551|PlayerScore: 2 3: TT now has 3 points
+1339410551|Challenge: 2 216 1: Client 2 got award 216
+1339410551|Challenge: 2 1 1: Client 2 got award 1
+1339410551|Challenge: 4 2 1: Client 4 got award 2
+1339410552|Item: 2 weapon_railgun
+1339410553|Item: 4 weapon_shotgun
+1339410554|Item: 3 weapon_plasmagun
+1339410554|Item: 3 ammo_bullets
+1339410556|Item: 4 item_armor_combat
+1339410558|Item: 3 weapon_rocketlauncher
+1339410558|Item: 4 weapon_railgun
+1339410565|Item: 3 ammo_cells
+1339410565|Item: 3 weapon_railgun
+1339410567|Item: 4 weapon_shotgun
+1339410571|Item: 2 weapon_rocketlauncher
+1339410571|Kill: 3 4 2: Revell killed Gerb by MOD_GAUNTLET
+1339410571|PlayerScore: 3 1: Revell now has 1 points
+1339410571|Challenge: 3 201 1: Client 3 got award 201
+1339410571|Award: 3 0: Revell gained the GAUNTLET award!
+1339410571|Challenge: 3 201 1: Client 3 got award 201
+1339410571|Challenge: 3 1 1: Client 3 got award 1
+1339410571|Challenge: 4 2 1: Client 4 got award 2
+1339410574|Item: 2 weapon_plasmagun
+1339410576|Item: 2 ammo_shells
+1339410576|Item: 2 item_health
+1339410577|Item: 2 item_armor_combat
+1339410577|Item: 2 weapon_lightning
+1339410577|Item: 4 item_armor_combat
+1339410578|Kill: 4 3 2: Gerb killed Revell by MOD_GAUNTLET
+1339410578|PlayerScore: 4 1: Gerb now has 1 points
+1339410578|Challenge: 4 201 1: Client 4 got award 201
+1339410578|Award: 4 0: Gerb gained the GAUNTLET award!
+1339410578|Challenge: 4 201 1: Client 4 got award 201
+1339410578|Challenge: 4 1 1: Client 4 got award 1
+1339410578|Challenge: 3 2 1: Client 3 got award 2
+1339410578|Item: 4 weapon_rocketlauncher
+1339410581|Item: 3 weapon_railgun
+1339410582|Item: 2 item_health
+1339410584|Item: 4 weapon_lightning
+1339410585|Item: 2 weapon_rocketlauncher
+1339410585|Item: 2 ammo_rockets
+1339410586|Item: 2 item_health
+1339410588|Item: 3 item_armor_combat
+1339410591|Item: 4 weapon_rocketlauncher
+1339410591|Item: 2 weapon_lightning
+1339410596|Kill: 3 4 2: Revell killed Gerb by MOD_GAUNTLET
+1339410596|PlayerScore: 3 2: Revell now has 2 points
+1339410596|Challenge: 3 201 1: Client 3 got award 201
+1339410596|Award: 3 0: Revell gained the GAUNTLET award!
+1339410596|Challenge: 3 201 1: Client 3 got award 201
+1339410596|Challenge: 3 1 1: Client 3 got award 1
+1339410596|Challenge: 4 2 1: Client 4 got award 2
+1339410596|Item: 3 weapon_rocketlauncher
+1339410598|Item: 3 weapon_grenadelauncher
+1339410599|Item: 4 weapon_railgun
+1339410599|Item: 2 weapon_lightning
+1339410599|Item: 3 item_armor_shard
+1339410599|Item: 3 item_armor_shard
+1339410600|Item: 3 item_armor_shard
+1339410600|Item: 3 item_armor_shard
+1339410602|Item: 4 item_health
+1339410604|Kill: 2 4 6: TT killed Gerb by MOD_ROCKET
+1339410604|PlayerScore: 2 4: TT now has 4 points
+1339410604|Challenge: 2 205 1: Client 2 got award 205
+1339410604|Challenge: 2 1 1: Client 2 got award 1
+1339410604|Challenge: 4 2 1: Client 4 got award 2
+1339410604|Item: 2 weapon_railgun
+1339410604|Item: 3 item_armor_combat
+1339410604|Item: 3 weapon_lightning
+1339410606|Item: 2 ammo_rockets
+1339410608|Item: 4 weapon_grenadelauncher
+1339410611|Kill: 4 3 4: Gerb killed Revell by MOD_GRENADE
+1339410611|PlayerScore: 4 2: Gerb now has 2 points
+1339410611|Challenge: 4 204 1: Client 4 got award 204
+1339410611|Challenge: 4 1 1: Client 4 got award 1
+1339410611|Challenge: 3 2 1: Client 3 got award 2
+1339410613|Item: 2 item_armor_combat
+1339410614|Item: 3 ammo_cells
+1339410614|Item: 3 weapon_railgun
+1339410614|Item: 4 weapon_railgun
+1339410615|Item: 3 weapon_shotgun
+1339410617|Item: 3 weapon_lightning
+1339410618|Item: 3 ammo_shells
+1339410620|Kill: 2 4 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1339410620|PlayerScore: 2 5: TT now has 5 points
+1339410620|Challenge: 2 205 1: Client 2 got award 205
+1339410620|Challenge: 2 1 1: Client 2 got award 1
+1339410620|Challenge: 4 2 1: Client 4 got award 2
+1339410621|Item: 2 weapon_railgun
+1339410624|Item: 4 weapon_shotgun
+1339410625|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410625|PlayerScore: 3 3: Revell now has 3 points
+1339410625|Challenge: 3 203 1: Client 3 got award 203
+1339410625|Challenge: 3 1 1: Client 3 got award 1
+1339410625|Challenge: 2 2 1: Client 2 got award 2
+1339410626|Item: 3 item_armor_combat
+1339410628|Item: 2 weapon_railgun
+1339410628|Item: 4 weapon_grenadelauncher
+1339410629|Item: 3 weapon_plasmagun
+1339410629|Item: 3 ammo_bullets
+1339410632|Item: 3 item_armor_combat
+1339410632|Item: 3 weapon_lightning
+1339410636|Item: 3 ammo_bullets
+1339410636|Item: 3 ammo_cells
+1339410637|Item: 3 item_health_small
+1339410637|Item: 3 item_health_small
+1339410638|Item: 3 item_health_small
+1339410638|Item: 3 item_health_small
+1339410638|Item: 2 weapon_plasmagun
+1339410641|Kill: 2 4 8: TT killed Gerb by MOD_PLASMA
+1339410641|PlayerScore: 2 6: TT now has 6 points
+1339410641|Challenge: 2 207 1: Client 2 got award 207
+1339410641|Challenge: 2 1 1: Client 2 got award 1
+1339410641|Challenge: 4 2 1: Client 4 got award 2
+1339410642|Item: 2 weapon_rocketlauncher
+1339410643|Item: 4 weapon_lightning
+1339410644|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410644|PlayerScore: 3 4: Revell now has 4 points
+1339410644|Challenge: 3 203 1: Client 3 got award 203
+1339410644|Challenge: 3 1 1: Client 3 got award 1
+1339410644|Challenge: 2 2 1: Client 2 got award 2
+1339410645|Item: 4 item_armor_combat
+1339410647|Item: 2 weapon_railgun
+1339410648|Item: 2 weapon_shotgun
+1339410649|Item: 3 weapon_grenadelauncher
+1339410650|Item: 3 ammo_rockets
+1339410652|Item: 4 item_health
+1339410652|Item: 3 item_armor_shard
+1339410655|Item: 4 item_armor_shard
+1339410655|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410655|PlayerScore: 3 5: Revell now has 5 points
+1339410655|Challenge: 3 203 1: Client 3 got award 203
+1339410655|Challenge: 3 1 1: Client 3 got award 1
+1339410655|Challenge: 2 2 1: Client 2 got award 2
+1339410656|Item: 4 weapon_shotgun
+1339410657|Item: 3 item_armor_shard
+1339410658|Item: 3 item_armor_shard
+1339410663|Kill: 2 3 3: TT killed Revell by MOD_MACHINEGUN
+1339410663|PlayerScore: 2 7: TT now has 7 points
+1339410663|Challenge: 2 202 1: Client 2 got award 202
+1339410663|Challenge: 2 1 1: Client 2 got award 1
+1339410663|Challenge: 3 2 1: Client 3 got award 2
+1339410663|Item: 2 weapon_shotgun
+1339410664|Item: 2 ammo_shells
+1339410665|Item: 2 weapon_lightning
+1339410665|Item: 2 item_armor_combat
+1339410666|Item: 4 item_health
+1339410667|Item: 2 weapon_rocketlauncher
+1339410667|Item: 2 ammo_rockets
+1339410671|Kill: 2 4 6: TT killed Gerb by MOD_ROCKET
+1339410671|PlayerScore: 2 8: TT now has 8 points
+1339410671|Challenge: 2 205 1: Client 2 got award 205
+1339410671|Challenge: 2 1 1: Client 2 got award 1
+1339410671|Challenge: 4 2 1: Client 4 got award 2
+1339410672|Item: 2 weapon_plasmagun
+1339410672|Item: 2 ammo_bullets
+1339410672|Item: 3 weapon_shotgun
+1339410674|Item: 2 item_armor_combat
+1339410674|Item: 4 weapon_railgun
+1339410674|Item: 4 ammo_cells
+1339410675|Item: 3 weapon_lightning
+1339410677|Item: 4 item_armor_combat
+1339410679|Item: 2 weapon_plasmagun
+1339410680|Item: 4 weapon_railgun
+1339410681|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339410681|PlayerScore: 2 9: TT now has 9 points
+1339410681|Challenge: 2 205 1: Client 2 got award 205
+1339410681|Challenge: 2 1 1: Client 2 got award 1
+1339410681|Challenge: 3 2 1: Client 3 got award 2
+1339410685|Item: 4 weapon_railgun
+1339410686|Item: 2 weapon_lightning
+1339410686|Item: 3 weapon_shotgun
+1339410688|Item: 2 item_health
+1339410690|Item: 4 weapon_railgun
+1339410693|Item: 2 item_armor_shard
+1339410693|Item: 2 item_armor_shard
+1339410694|Item: 3 weapon_grenadelauncher
+1339410696|Item: 3 item_armor_shard
+1339410696|Item: 3 item_armor_shard
+1339410696|Item: 2 item_health_small
+1339410696|Item: 2 item_health_small
+1339410696|Item: 2 item_health_small
+1339410696|Item: 2 item_health_small
+1339410697|Item: 4 weapon_railgun
+1339410699|Item: 4 weapon_shotgun
+1339410700|Item: 3 item_armor_combat
+1339410700|Item: 3 weapon_lightning
+1339410701|Kill: 3 4 1: Revell killed Gerb by MOD_SHOTGUN
+1339410701|PlayerScore: 3 6: Revell now has 6 points
+1339410701|Challenge: 3 203 1: Client 3 got award 203
+1339410701|Challenge: 3 1 1: Client 3 got award 1
+1339410701|Challenge: 4 2 1: Client 4 got award 2
+1339410701|Item: 3 weapon_railgun
+1339410703|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339410703|PlayerScore: 2 10: TT now has 10 points
+1339410703|Challenge: 2 205 1: Client 2 got award 205
+1339410703|Challenge: 2 1 1: Client 2 got award 1
+1339410703|Challenge: 3 2 1: Client 3 got award 2
+1339410703|Item: 2 item_health
+1339410705|Item: 4 ammo_cells
+1339410705|Item: 2 ammo_bullets
+1339410706|Item: 3 weapon_railgun
+1339410707|Item: 3 weapon_shotgun
+1339410709|Item: 3 weapon_shotgun
+1339410709|Kill: 2 4 8: TT killed Gerb by MOD_PLASMA
+1339410709|PlayerScore: 2 11: TT now has 11 points
+1339410709|Challenge: 2 207 1: Client 2 got award 207
+1339410709|Challenge: 2 1 1: Client 2 got award 1
+1339410709|Challenge: 4 2 1: Client 4 got award 2
+1339410709|Item: 3 weapon_lightning
+1339410710|Item: 3 ammo_shells
+1339410712|Kill: 3 2 1: Revell killed TT by MOD_SHOTGUN
+1339410712|PlayerScore: 3 7: Revell now has 7 points
+1339410712|Challenge: 3 203 1: Client 3 got award 203
+1339410712|Challenge: 3 1 1: Client 3 got award 1
+1339410712|Challenge: 2 2 1: Client 2 got award 2
+1339410712|Item: 4 weapon_railgun
+1339410714|Item: 3 weapon_plasmagun
+1339410715|Item: 4 weapon_rocketlauncher
+1339410715|Item: 4 ammo_rockets
+1339410715|Item: 2 weapon_grenadelauncher
+1339410717|Item: 2 item_armor_combat
+1339410718|Item: 2 ammo_cells
+1339410718|Item: 2 weapon_railgun
+1339410720|Item: 4 item_armor_combat
+1339410720|Item: 2 weapon_shotgun
+1339410726|Item: 2 weapon_rocketlauncher
+1339410726|Item: 3 weapon_lightning
+1339410727|Item: 3 item_armor_combat
+1339410730|Item: 3 ammo_rockets
+1339410732|Kill: 4 2 6: Gerb killed TT by MOD_ROCKET
+1339410732|PlayerScore: 4 3: Gerb now has 3 points
+1339410732|Challenge: 4 205 1: Client 4 got award 205
+1339410732|Challenge: 4 1 1: Client 4 got award 1
+1339410732|Challenge: 2 2 1: Client 2 got award 2
+1339410733|Item: 4 weapon_rocketlauncher
+1339410734|Item: 4 weapon_plasmagun
+1339410734|Item: 4 ammo_bullets
+1339410735|Item: 3 weapon_railgun
+1339410735|Item: 2 weapon_shotgun
+1339410737|Item: 4 weapon_lightning
+1339410739|Item: 3 item_health_mega
+1339410741|Item: 4 item_health
+1339410741|Item: 2 weapon_rocketlauncher
+1339410744|Item: 4 weapon_plasmagun
+1339410747|Kill: 2 4 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1339410747|PlayerScore: 2 12: TT now has 12 points
+1339410747|Challenge: 2 205 1: Client 2 got award 205
+1339410747|Challenge: 2 1 1: Client 2 got award 1
+1339410747|Challenge: 4 2 1: Client 4 got award 2
+1339410747|Item: 2 ammo_bullets
+1339410748|Item: 2 ammo_cells
+1339410750|Item: 3 weapon_rocketlauncher
+1339410750|Item: 4 weapon_rocketlauncher
+1339410752|Item: 3 item_health_small
+1339410752|Item: 3 item_health_small
+1339410752|Item: 3 item_health_small
+1339410753|Item: 2 item_armor_combat
+1339410753|Item: 2 weapon_lightning
+1339410754|Item: 4 item_armor_combat
+1339410756|Item: 2 item_armor_combat
+1339410756|Item: 4 weapon_plasmagun
+1339410757|Item: 2 item_health
+1339410758|Item: 4 ammo_shells
+1339410759|Item: 4 weapon_lightning
+1339410761|Item: 2 item_health
+1339410763|Item: 3 item_armor_shard
+1339410763|Item: 3 item_armor_shard
+1339410763|Item: 3 item_armor_shard
+1339410763|Item: 3 item_armor_shard
+1339410765|Item: 4 weapon_rocketlauncher
+1339410765|Item: 4 ammo_rockets
+1339410766|Kill: 2 3 11: TT killed Revell by MOD_LIGHTNING
+1339410766|PlayerScore: 2 13: TT now has 13 points
+1339410766|Challenge: 2 206 1: Client 2 got award 206
+1339410766|Challenge: 2 1 1: Client 2 got award 1
+1339410766|Challenge: 3 2 1: Client 3 got award 2
+1339410768|Item: 4 weapon_plasmagun
+1339410769|Item: 3 weapon_shotgun
+1339410771|Item: 2 item_health_small
+1339410777|Item: 2 weapon_plasmagun
+1339410777|Item: 2 ammo_bullets
+1339410777|Item: 4 weapon_rocketlauncher
+1339410779|Kill: 2 3 8: TT killed Revell by MOD_PLASMA
+1339410779|PlayerScore: 2 14: TT now has 14 points
+1339410779|Challenge: 2 207 1: Client 2 got award 207
+1339410779|Challenge: 2 1 1: Client 2 got award 1
+1339410779|Challenge: 3 2 1: Client 3 got award 2
+1339410780|Kill: 4 2 6: Gerb killed TT by MOD_ROCKET
+1339410780|PlayerScore: 4 4: Gerb now has 4 points
+1339410780|Challenge: 4 205 1: Client 4 got award 205
+1339410780|Challenge: 4 1 1: Client 4 got award 1
+1339410780|Challenge: 2 2 1: Client 2 got award 2
+1339410781|Item: 4 weapon_plasmagun
+1339410784|Item: 2 weapon_shotgun
+1339410784|Item: 4 item_armor_combat
+1339410784|Item: 4 weapon_lightning
+1339410786|Item: 3 item_armor_combat
+1339410787|Item: 2 weapon_grenadelauncher
+1339410788|Item: 2 ammo_rockets
+1339410789|Item: 2 item_armor_shard
+1339410789|Item: 2 item_armor_shard
+1339410789|Item: 2 item_armor_shard
+1339410789|Item: 2 item_armor_shard
+1339410793|Item: 3 weapon_shotgun
+1339410793|Item: 3 weapon_plasmagun
+1339410794|Item: 4 weapon_grenadelauncher
+1339410795|Item: 2 weapon_lightning
+1339410798|Item: 3 item_armor_combat
+1339410799|Item: 4 item_health
+1339410803|Item: 2 ammo_shells
+1339410804|Item: 2 item_health
+1339410804|Kill: 4 3 8: Gerb killed Revell by MOD_PLASMA
+1339410804|PlayerScore: 4 5: Gerb now has 5 points
+1339410804|Challenge: 4 207 1: Client 4 got award 207
+1339410804|Challenge: 4 1 1: Client 4 got award 1
+1339410804|Challenge: 3 2 1: Client 3 got award 2
+1339410805|Item: 4 weapon_shotgun
+1339410806|Kill: 2 4 11: TT killed Gerb by MOD_LIGHTNING
+1339410806|PlayerScore: 2 15: TT now has 15 points
+1339410806|Exit: Fraglimit hit.
+1339410806|score: 15  ping: 3  client: 2 TT
+1339410806|score: 7  ping: 0  client: 3 Revell
+1339410806|score: 5  ping: 1  client: 4 Gerb
+1339410806|broadcast: print "TT^7 hit the fraglimit.\n"
+1339410806|Challenge: 2 206 1: Client 2 got award 206
+1339410806|Challenge: 2 1 1: Client 2 got award 1
+1339410806|Challenge: 4 2 1: Client 4 got award 2
+1339410806|Item: 2 weapon_plasmagun
+1339410812|g_gametype will be changed upon restarting.
+1339410812|==== ShutdownGame ====
+1339410812|ShutdownGame:
+1339410812|------------------------------------------------------------
+1339410812|AAS shutdown.
+1339410812|------ Server Initialization ------
+1339410812|Server: ps37ctf
+1339410812|Hunk_Clear: reset the hunk ok
+1339410812|----- FS_Startup -----
+1339410812|Current search path:
+1339410812|/home/jeroen/.openarena/baseoa
+1339410812|/usr/lib/openarena-server/baseoa
+1339410812|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1339410812|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1339410812|
+1339410812|----------------------
+1339410812|5433 files in pk3 files
+1339410812|Loading vm file vm/qagame.qvm...
+1339410812|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1339410812|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1339410812|... trying pak6-patch088/qagame
+1339410812|... trying qagame
+1339410812|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1339410812|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1339410812|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1339410812|------- Game Initialization -------
+1339410812|gamename: baseoa
+1339410812|gamedate: Apr  1 2012
+1339410812|------------------------------------------------------------
+1339410812|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\4\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\ps37ctf\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-11 12:33:32
+1339410812|Info: ServerInfo length: 789 of 1024
+1339410812|Gametype changed, clearing session data.
+1339410812|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1339410812|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1339410812|0 teams with 0 entities
+1339410812|20 items registered
+1339410812|-----------------------------------
+1339410812|------- BotLib Initialization -------
+1339410812|loaded weapons.c
+1339410812|loaded items.c
+1339410812|loaded syn.c
+1339410812|loaded rnd.c
+1339410812|loaded match.c
+1339410812|loaded rchat.c
+1339410812|------------ Map Loading ------------
+1339410812|trying to load maps/ps37ctf.aas
+1339410812|loaded maps/ps37ctf.aas
+1339410812|found 58 level items
+1339410812|-------------------------------------
+1339410812|33 bots parsed
+1339410812|58 arenas parsed
+1339410812|AAS initialized.
+1339410812|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339410812|ClientConnect: 2
+1339410812|ClientUserinfoChanged: 3 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410812|ClientConnect: 3
+1339410812|ClientUserinfoChanged: 4 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410812|ClientConnect: 4
+1339410812|-----------------------------------
+1339410813|ClientUserinfoChanged: 3 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410813|ClientBegin: 3
+1339410814|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339410814|ClientBegin: 2
+1339410815|ClientUserinfoChanged: 4 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410815|ClientBegin: 4
+1339410816|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1339410816|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1339410816|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1339410816|broadcast: print "TT^7 entered the game\n"
+1339410816|ClientBegin: 2
+1339410819|Item: 2 item_armor_combat
+1339410820|ClientUserinfoChanged: 3 n\Revell\t\2\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410820|ClientUserinfoChanged: 3 n\Revell\t\2\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\978E21D180BF6D8EBEAA5D3897170E94
+1339410820|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1339410820|broadcast: print "Revell^7 entered the game\n"
+1339410820|ClientBegin: 3
+1339410820|ClientUserinfoChanged: 4 n\Gerb\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339410820|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1339410820|broadcast: print "Gerb^7 entered the game\n"
+1339410820|ClientBegin: 4
+1339410820|Item: 2 weapon_nailgun
+1339410822|Item: 4 weapon_railgun
+1339410827|Item: 2 item_health_mega
+1339410829|Item: 3 weapon_railgun
+1339410831|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339410831|PlayerScore: 2 1: TT now has 1 points
+1339410831|Challenge: 2 212 1: Client 2 got award 212
+1339410831|Challenge: 2 1 1: Client 2 got award 1
+1339410831|Challenge: 4 2 1: Client 4 got award 2
+1339410835|Item: 4 item_armor_combat
+1339410835|Item: 2 team_CTF_blueflag
+1339410835|broadcast: print "TT^7 got the BLUE flag!\n"
+1339410835|CTF: 2 2 0: TT got the BLUE flag!
+1339410835|PlayerScore: 2 1: TT now has 1 points
+1339410836|Item: 4 weapon_nailgun
+1339410838|Item: 4 weapon_railgun
+1339410839|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339410839|PlayerScore: 2 2: TT now has 2 points
+1339410839|Challenge: 2 212 1: Client 2 got award 212
+1339410839|Challenge: 2 1 1: Client 2 got award 1
+1339410839|Challenge: 4 2 1: Client 4 got award 2
+1339410843|Item: 4 weapon_rocketlauncher
+1339410843|Item: 2 weapon_railgun
+1339410846|Item: 4 weapon_railgun
+1339410846|Item: 2 weapon_rocketlauncher
+1339410848|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410848|Challenge: 3 301 1: Client 3 got award 301
+1339410849|Item: 2 item_armor_shard
+1339410850|Item: 2 item_armor_shard
+1339410852|Item: 2 team_CTF_redflag
+1339410852|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339410852|CTF: 2 2 1: TT captured the BLUE flag!
+1339410852|Award: 2 4: TT gained the CAPTURE award!
+1339410852|Challenge: 2 303 1: Client 2 got award 303
+1339410852|PlayerScore: 2 7: TT now has 7 points
+1339410853|Item: 2 item_health
+1339410854|Item: 2 item_health
+1339410854|Item: 4 team_CTF_redflag
+1339410854|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410854|CTF: 4 1 0: Gerb got the RED flag!
+1339410854|PlayerScore: 4 0: Gerb now has 0 points
+1339410855|Item: 2 weapon_plasmagun
+1339410860|Item: 2 item_armor_shard
+1339410860|Item: 4 weapon_rocketlauncher
+1339410861|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339410861|PlayerScore: 2 8: TT now has 8 points
+1339410861|Challenge: 2 212 1: Client 2 got award 212
+1339410861|Challenge: 2 1 1: Client 2 got award 1
+1339410861|Challenge: 4 2 1: Client 4 got award 2
+1339410861|PlayerScore: 2 10: TT now has 10 points
+1339410861|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339410861|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339410864|Item: 2 team_CTF_redflag
+1339410864|broadcast: print "TT^7 returned the RED flag!\n"
+1339410864|PlayerScore: 2 11: TT now has 11 points
+1339410864|CTF: 2 1 2: TT returned the RED flag!
+1339410865|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339410865|PlayerScore: 3 1: Revell now has 1 points
+1339410865|Challenge: 3 208 1: Client 3 got award 208
+1339410865|Challenge: 3 1 1: Client 3 got award 1
+1339410865|Challenge: 2 2 1: Client 2 got award 2
+1339410866|Item: 4 weapon_rocketlauncher
+1339410868|Item: 3 weapon_railgun
+1339410868|Item: 2 weapon_railgun
+1339410873|Kill: 4 2 7: Gerb killed TT by MOD_ROCKET_SPLASH
+1339410873|PlayerScore: 4 1: Gerb now has 1 points
+1339410873|Challenge: 4 205 1: Client 4 got award 205
+1339410873|Challenge: 4 1 1: Client 4 got award 1
+1339410873|Challenge: 2 2 1: Client 2 got award 2
+1339410876|Item: 4 weapon_railgun
+1339410879|Item: 3 ammo_shells
+1339410880|Item: 3 ammo_bullets
+1339410880|Item: 2 item_armor_combat
+1339410881|Item: 2 weapon_nailgun
+1339410888|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339410888|PlayerScore: 2 12: TT now has 12 points
+1339410888|Challenge: 2 212 1: Client 2 got award 212
+1339410888|Challenge: 2 1 1: Client 2 got award 1
+1339410888|Challenge: 4 2 1: Client 4 got award 2
+1339410888|PlayerScore: 2 13: TT now has 13 points
+1339410888|Challenge: 2 305 1: Client 2 got award 305
+1339410888|Award: 2 3: TT gained the DEFENCE award!
+1339410891|Item: 2 weapon_nailgun
+1339410891|Item: 4 weapon_rocketlauncher
+1339410891|Item: 2 item_health_large
+1339410892|Item: 4 weapon_railgun
+1339410894|Item: 2 weapon_railgun
+1339410894|Item: 4 weapon_railgun
+1339410895|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339410895|PlayerScore: 3 2: Revell now has 2 points
+1339410895|Challenge: 3 208 1: Client 3 got award 208
+1339410895|Challenge: 3 1 1: Client 3 got award 1
+1339410895|Challenge: 2 2 1: Client 2 got award 2
+1339410899|Item: 2 weapon_rocketlauncher
+1339410900|Item: 4 weapon_nailgun
+1339410902|Item: 2 weapon_railgun
+1339410905|Item: 2 item_armor_combat
+1339410907|Item: 4 team_CTF_redflag
+1339410907|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410907|CTF: 4 1 0: Gerb got the RED flag!
+1339410907|PlayerScore: 4 1: Gerb now has 1 points
+1339410911|Item: 2 team_CTF_blueflag
+1339410911|broadcast: print "TT^7 got the BLUE flag!\n"
+1339410911|CTF: 2 2 0: TT got the BLUE flag!
+1339410911|PlayerScore: 2 13: TT now has 13 points
+1339410913|Item: 4 item_health_mega
+1339410919|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410919|Challenge: 3 301 1: Client 3 got award 301
+1339410923|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339410923|PlayerScore: 3 3: Revell now has 3 points
+1339410923|Challenge: 3 208 1: Client 3 got award 208
+1339410923|Challenge: 3 1 1: Client 3 got award 1
+1339410923|Challenge: 2 2 1: Client 2 got award 2
+1339410923|PlayerScore: 3 5: Revell now has 5 points
+1339410923|broadcast: print "Revell^7 fragged RED's flag carrier!\n"
+1339410923|CTF: 3 1 3: Revell fragged RED's flag carrier!
+1339410924|Item: 4 item_armor_combat
+1339410925|Item: 3 weapon_rocketlauncher
+1339410925|Item: 3 team_CTF_blueflag
+1339410925|broadcast: print "Revell^7 returned the BLUE flag!\n"
+1339410925|PlayerScore: 3 6: Revell now has 6 points
+1339410925|CTF: 3 2 2: Revell returned the BLUE flag!
+1339410928|Item: 4 weapon_railgun
+1339410928|Item: 2 weapon_plasmagun
+1339410930|Item: 4 weapon_rocketlauncher
+1339410931|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410931|Challenge: 3 301 1: Client 3 got award 301
+1339410933|Item: 4 item_armor_shard
+1339410934|Item: 4 item_armor_shard
+1339410934|Item: 4 item_armor_shard
+1339410934|Item: 4 item_armor_shard
+1339410935|Item: 2 weapon_nailgun
+1339410935|Item: 4 weapon_plasmagun
+1339410936|Item: 2 item_health_large
+1339410937|Item: 4 team_CTF_blueflag
+1339410937|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339410937|CTF: 4 1 1: Gerb captured the RED flag!
+1339410937|Award: 4 4: Gerb gained the CAPTURE award!
+1339410937|Challenge: 4 303 1: Client 4 got award 303
+1339410937|PlayerScore: 4 6: Gerb now has 6 points
+1339410937|PlayerScore: 3 6: Revell now has 6 points
+1339410939|Item: 2 weapon_railgun
+1339410939|Item: 4 weapon_shotgun
+1339410941|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339410941|PlayerScore: 3 7: Revell now has 7 points
+1339410941|Challenge: 3 208 1: Client 3 got award 208
+1339410941|Challenge: 3 1 1: Client 3 got award 1
+1339410941|Challenge: 2 2 1: Client 2 got award 2
+1339410946|Item: 3 ammo_bullets
+1339410946|Item: 3 ammo_shells
+1339410947|Item: 2 weapon_nailgun
+1339410949|Item: 3 item_armor_combat
+1339410949|Item: 3 item_health_large
+1339410950|Item: 3 weapon_nailgun
+1339410950|Item: 4 team_CTF_redflag
+1339410950|broadcast: print "Gerb^7 got the RED flag!\n"
+1339410950|CTF: 4 1 0: Gerb got the RED flag!
+1339410950|PlayerScore: 4 6: Gerb now has 6 points
+1339410952|Item: 4 item_health
+1339410952|Item: 2 item_armor_shard
+1339410953|Item: 4 weapon_plasmagun
+1339410955|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339410955|PlayerScore: 2 14: TT now has 14 points
+1339410955|Challenge: 2 212 1: Client 2 got award 212
+1339410955|Challenge: 2 1 1: Client 2 got award 1
+1339410955|Challenge: 4 2 1: Client 4 got award 2
+1339410955|PlayerScore: 2 16: TT now has 16 points
+1339410955|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339410955|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339410956|Item: 2 weapon_plasmagun
+1339410956|Item: 2 team_CTF_redflag
+1339410956|broadcast: print "TT^7 returned the RED flag!\n"
+1339410956|PlayerScore: 2 17: TT now has 17 points
+1339410956|CTF: 2 1 2: TT returned the RED flag!
+1339410958|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339410958|PlayerScore: 3 8: Revell now has 8 points
+1339410958|Challenge: 3 208 1: Client 3 got award 208
+1339410958|Challenge: 3 1 1: Client 3 got award 1
+1339410958|Challenge: 2 2 1: Client 2 got award 2
+1339410960|Item: 4 weapon_rocketlauncher
+1339410962|Item: 4 item_health_small
+1339410962|Item: 4 item_health_small
+1339410962|Item: 4 item_health_small
+1339410963|Item: 4 item_health_small
+1339410963|Item: 2 weapon_plasmagun
+1339410963|Item: 4 item_health_small
+1339410963|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339410963|Challenge: 3 301 1: Client 3 got award 301
+1339410964|Item: 4 weapon_plasmagun
+1339410967|Item: 4 weapon_railgun
+1339410970|Item: 2 item_armor_combat
+1339410971|Kill: 4 2 8: Gerb killed TT by MOD_PLASMA
+1339410971|PlayerScore: 4 7: Gerb now has 7 points
+1339410971|Challenge: 4 207 1: Client 4 got award 207
+1339410971|Challenge: 4 1 1: Client 4 got award 1
+1339410971|Challenge: 2 2 1: Client 2 got award 2
+1339410973|Item: 4 weapon_plasmagun
+1339410977|Kill: 2 4 3: TT killed Gerb by MOD_MACHINEGUN
+1339410977|PlayerScore: 2 18: TT now has 18 points
+1339410977|Challenge: 2 202 1: Client 2 got award 202
+1339410977|Challenge: 2 1 1: Client 2 got award 1
+1339410977|Challenge: 4 2 1: Client 4 got award 2
+1339410977|PlayerScore: 2 19: TT now has 19 points
+1339410977|Challenge: 2 305 1: Client 2 got award 305
+1339410977|Award: 2 3: TT gained the DEFENCE award!
+1339410978|Item: 2 weapon_plasmagun
+1339410980|Item: 3 item_health_mega
+1339410980|Item: 4 item_armor_combat
+1339410981|Item: 4 weapon_nailgun
+1339410987|Item: 2 weapon_nailgun
+1339410989|Item: 4 weapon_shotgun
+1339410989|Item: 3 weapon_railgun
+1339410990|Kill: 2 3 8: TT killed Revell by MOD_PLASMA
+1339410990|PlayerScore: 2 20: TT now has 20 points
+1339410990|Challenge: 2 207 1: Client 2 got award 207
+1339410990|Challenge: 2 1 1: Client 2 got award 1
+1339410990|Challenge: 3 2 1: Client 3 got award 2
+1339410995|Item: 2 weapon_rocketlauncher
+1339410995|Item: 3 weapon_plasmagun
+1339410996|Item: 4 weapon_shotgun
+1339410998|Item: 2 item_armor_shard
+1339410998|Item: 2 item_armor_shard
+1339410998|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339410998|PlayerScore: 2 21: TT now has 21 points
+1339410998|Challenge: 2 212 1: Client 2 got award 212
+1339410998|Challenge: 2 1 1: Client 2 got award 1
+1339410998|Challenge: 3 2 1: Client 3 got award 2
+1339410998|Item: 2 item_armor_shard
+1339411000|Kill: 4 2 23: Gerb killed TT by MOD_NAIL
+1339411000|PlayerScore: 4 8: Gerb now has 8 points
+1339411000|Challenge: 4 212 1: Client 4 got award 212
+1339411000|Challenge: 4 1 1: Client 4 got award 1
+1339411000|Challenge: 2 2 1: Client 2 got award 2
+1339411000|PlayerScore: 4 9: Gerb now has 9 points
+1339411000|Challenge: 4 305 1: Client 4 got award 305
+1339411000|Award: 4 3: Gerb gained the DEFENCE award!
+1339411002|Item: 4 weapon_nailgun
+1339411003|Item: 3 weapon_plasmagun
+1339411004|Item: 2 weapon_railgun
+1339411007|Item: 2 item_armor_combat
+1339411011|Item: 3 weapon_railgun
+1339411018|Item: 4 item_health_mega
+1339411023|Client 3 connecting with 40 challenge ping
+1339411023|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1339411023|ClientConnect: 5
+1339411023|broadcast: print "dennis^7 connected\n"
+1339411025|Item: 4 weapon_plasmagun
+1339411026|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1339411026|ClientBegin: 5
+1339411029|Kill: 2 3 10: TT killed Revell by MOD_RAILGUN
+1339411029|PlayerScore: 2 22: TT now has 22 points
+1339411029|Challenge: 2 208 1: Client 2 got award 208
+1339411029|Challenge: 2 1 1: Client 2 got award 1
+1339411029|Challenge: 3 2 1: Client 3 got award 2
+1339411030|ClientUserinfoChanged: 5 n\dennis\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1339411030|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1339411030|broadcast: print "dennis^7 entered the game\n"
+1339411030|ClientBegin: 5
+1339411031|Item: 2 weapon_railgun
+1339411032|Item: 5 weapon_rocketlauncher
+1339411034|Item: 3 weapon_rocketlauncher
+1339411035|Item: 5 weapon_railgun
+1339411036|Award: 2 2: TT gained the IMPRESSIVE award!
+1339411036|Challenge: 2 301 1: Client 2 got award 301
+1339411039|Item: 5 item_armor_combat
+1339411040|Item: 2 item_armor_body
+1339411042|Kill: 2 3 10: TT killed Revell by MOD_RAILGUN
+1339411042|PlayerScore: 2 23: TT now has 23 points
+1339411042|Challenge: 2 208 1: Client 2 got award 208
+1339411042|Challenge: 2 1 1: Client 2 got award 1
+1339411042|Challenge: 3 2 1: Client 3 got award 2
+1339411048|Item: 2 item_armor_combat
+1339411048|Item: 2 item_health_large
+1339411049|Item: 4 weapon_plasmagun
+1339411050|Kill: 5 3 3: dennis killed Revell by MOD_MACHINEGUN
+1339411050|PlayerScore: 5 1: dennis now has 1 points
+1339411050|Challenge: 5 202 1: Client 5 got award 202
+1339411050|Challenge: 5 1 1: Client 5 got award 1
+1339411050|Challenge: 3 2 1: Client 3 got award 2
+1339411051|Item: 2 weapon_nailgun
+1339411052|Item: 5 item_health_large
+1339411054|Item: 4 weapon_shotgun
+1339411054|Item: 3 weapon_railgun
+1339411055|Item: 2 item_health_mega
+1339411060|Item: 2 item_armor_shard
+1339411061|Item: 2 item_armor_shard
+1339411061|Item: 2 item_armor_shard
+1339411061|Item: 2 item_armor_shard
+1339411063|Kill: 4 5 23: Gerb killed dennis by MOD_NAIL
+1339411063|PlayerScore: 4 10: Gerb now has 10 points
+1339411063|Challenge: 4 212 1: Client 4 got award 212
+1339411063|Challenge: 4 1 1: Client 4 got award 1
+1339411063|Challenge: 5 2 1: Client 5 got award 2
+1339411063|PlayerScore: 4 11: Gerb now has 11 points
+1339411063|Challenge: 4 305 1: Client 4 got award 305
+1339411063|Award: 4 3: Gerb gained the DEFENCE award!
+1339411063|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339411063|PlayerScore: 2 24: TT now has 24 points
+1339411063|Challenge: 2 212 1: Client 2 got award 212
+1339411063|Challenge: 2 1 1: Client 2 got award 1
+1339411063|Challenge: 4 2 1: Client 4 got award 2
+1339411064|Item: 2 weapon_nailgun
+1339411065|Item: 2 weapon_rocketlauncher
+1339411065|Item: 2 team_CTF_blueflag
+1339411065|broadcast: print "TT^7 got the BLUE flag!\n"
+1339411065|CTF: 2 2 0: TT got the BLUE flag!
+1339411065|PlayerScore: 2 24: TT now has 24 points
+1339411068|Item: 5 weapon_railgun
+1339411070|Item: 5 weapon_rocketlauncher
+1339411072|Item: 2 item_health_small
+1339411073|Kill: 5 4 10: dennis killed Gerb by MOD_RAILGUN
+1339411073|PlayerScore: 5 2: dennis now has 2 points
+1339411073|Challenge: 5 208 1: Client 5 got award 208
+1339411073|Challenge: 5 1 1: Client 5 got award 1
+1339411073|Challenge: 4 2 1: Client 4 got award 2
+1339411073|PlayerScore: 5 4: dennis now has 4 points
+1339411073|Award: 5 3: dennis gained the DEFENCE award!
+1339411073|Challenge: 5 305 1: Client 5 got award 305
+1339411075|Item: 5 ammo_nails
+1339411078|Award: 5 2: dennis gained the IMPRESSIVE award!
+1339411078|Challenge: 5 301 1: Client 5 got award 301
+1339411079|Item: 4 weapon_plasmagun
+1339411080|Item: 2 item_health_small
+1339411080|Item: 5 item_health
+1339411081|Item: 2 ammo_nails
+1339411081|Item: 2 item_armor_shard
+1339411081|Item: 4 weapon_rocketlauncher
+1339411082|Item: 2 item_armor_shard
+1339411082|Item: 2 item_armor_shard
+1339411083|Item: 2 item_armor_shard
+1339411084|Item: 2 item_health
+1339411084|Item: 2 item_health
+1339411084|Item: 4 weapon_railgun
+1339411085|Item: 2 team_CTF_redflag
+1339411085|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339411085|CTF: 2 2 1: TT captured the BLUE flag!
+1339411085|Award: 2 4: TT gained the CAPTURE award!
+1339411085|Challenge: 2 303 1: Client 2 got award 303
+1339411085|PlayerScore: 2 29: TT now has 29 points
+1339411085|PlayerScore: 5 4: dennis now has 4 points
+1339411087|Item: 2 weapon_shotgun
+1339411090|Item: 4 item_armor_combat
+1339411090|Item: 4 item_health_large
+1339411094|Item: 3 ammo_bullets
+1339411096|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339411096|PlayerScore: 3 9: Revell now has 9 points
+1339411096|Challenge: 3 208 1: Client 3 got award 208
+1339411096|Challenge: 3 1 1: Client 3 got award 1
+1339411096|Challenge: 2 2 1: Client 2 got award 2
+1339411098|Item: 5 weapon_plasmagun
+1339411098|Item: 3 item_health_mega
+1339411098|Item: 4 team_CTF_redflag
+1339411098|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411098|CTF: 4 1 0: Gerb got the RED flag!
+1339411098|PlayerScore: 4 11: Gerb now has 11 points
+1339411100|Kill: 5 4 10: dennis killed Gerb by MOD_RAILGUN
+1339411100|PlayerScore: 5 5: dennis now has 5 points
+1339411100|Challenge: 5 208 1: Client 5 got award 208
+1339411100|Challenge: 5 1 1: Client 5 got award 1
+1339411100|Challenge: 4 2 1: Client 4 got award 2
+1339411100|PlayerScore: 5 7: dennis now has 7 points
+1339411100|broadcast: print "dennis^7 fragged BLUE's flag carrier!\n"
+1339411100|CTF: 5 2 3: dennis fragged BLUE's flag carrier!
+1339411101|Item: 2 weapon_nailgun
+1339411102|Item: 5 team_CTF_redflag
+1339411102|broadcast: print "dennis^7 returned the RED flag!\n"
+1339411102|PlayerScore: 5 8: dennis now has 8 points
+1339411102|CTF: 5 1 2: dennis returned the RED flag!
+1339411104|Item: 4 item_armor_combat
+1339411105|Item: 4 weapon_nailgun
+1339411106|Item: 5 weapon_shotgun
+1339411106|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339411106|Challenge: 3 301 1: Client 3 got award 301
+1339411109|Kill: 4 2 23: Gerb killed TT by MOD_NAIL
+1339411109|PlayerScore: 4 12: Gerb now has 12 points
+1339411109|Challenge: 4 212 1: Client 4 got award 212
+1339411109|Challenge: 4 1 1: Client 4 got award 1
+1339411109|Challenge: 2 2 1: Client 2 got award 2
+1339411109|PlayerScore: 4 13: Gerb now has 13 points
+1339411109|Challenge: 4 305 1: Client 4 got award 305
+1339411109|Award: 4 3: Gerb gained the DEFENCE award!
+1339411109|Item: 5 weapon_plasmagun
+1339411112|Item: 5 item_armor_shard
+1339411112|Item: 5 item_armor_shard
+1339411112|Item: 5 item_armor_shard
+1339411113|Item: 5 item_armor_shard
+1339411113|Item: 2 weapon_shotgun
+1339411114|Item: 4 weapon_plasmagun
+1339411114|Item: 5 item_health_small
+1339411115|Item: 5 item_health_small
+1339411115|Item: 5 item_health_small
+1339411115|Item: 4 item_armor_shard
+1339411116|Item: 4 item_armor_shard
+1339411116|Item: 5 item_health_small
+1339411116|Item: 4 item_armor_shard
+1339411116|Item: 5 item_health_small
+1339411116|Item: 4 item_armor_shard
+1339411116|Item: 5 item_health_small
+1339411117|Item: 4 ammo_nails
+1339411118|Item: 2 weapon_nailgun
+1339411118|Item: 4 item_health_small
+1339411118|Item: 4 item_health_small
+1339411118|Item: 2 item_armor_combat
+1339411119|Item: 4 item_health_small
+1339411119|Item: 4 item_health_small
+1339411119|Item: 4 item_health_small
+1339411120|Item: 4 item_health_small
+1339411120|Item: 4 item_health_small
+1339411122|Item: 4 weapon_rocketlauncher
+1339411122|Item: 2 weapon_railgun
+1339411123|Item: 5 weapon_plasmagun
+1339411129|Kill: 3 2 10: Revell killed TT by MOD_RAILGUN
+1339411129|PlayerScore: 3 10: Revell now has 10 points
+1339411129|Challenge: 3 208 1: Client 3 got award 208
+1339411129|Challenge: 3 1 1: Client 3 got award 1
+1339411129|Challenge: 2 2 1: Client 2 got award 2
+1339411131|Item: 4 weapon_rocketlauncher
+1339411133|Item: 2 weapon_nailgun
+1339411134|Item: 4 weapon_railgun
+1339411136|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411136|PlayerScore: 2 30: TT now has 30 points
+1339411136|Challenge: 2 212 1: Client 2 got award 212
+1339411136|Challenge: 2 1 1: Client 2 got award 1
+1339411136|Challenge: 3 2 1: Client 3 got award 2
+1339411139|Item: 2 item_health_mega
+1339411139|Kill: 4 5 23: Gerb killed dennis by MOD_NAIL
+1339411139|PlayerScore: 4 14: Gerb now has 14 points
+1339411139|Challenge: 4 212 1: Client 4 got award 212
+1339411139|Challenge: 4 1 1: Client 4 got award 1
+1339411139|Challenge: 5 2 1: Client 5 got award 2
+1339411142|Item: 3 weapon_plasmagun
+1339411143|Item: 4 item_health_large
+1339411144|Item: 5 weapon_railgun
+1339411144|Item: 5 weapon_plasmagun
+1339411144|Item: 2 team_CTF_blueflag
+1339411144|broadcast: print "TT^7 got the BLUE flag!\n"
+1339411144|CTF: 2 2 0: TT got the BLUE flag!
+1339411144|PlayerScore: 2 30: TT now has 30 points
+1339411146|Kill: 3 5 8: Revell killed dennis by MOD_PLASMA
+1339411146|PlayerScore: 3 11: Revell now has 11 points
+1339411146|Challenge: 3 207 1: Client 3 got award 207
+1339411146|Challenge: 3 1 1: Client 3 got award 1
+1339411146|Challenge: 5 2 1: Client 5 got award 2
+1339411148|Item: 4 team_CTF_redflag
+1339411148|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411148|CTF: 4 1 0: Gerb got the RED flag!
+1339411148|PlayerScore: 4 14: Gerb now has 14 points
+1339411149|Item: 4 item_health
+1339411150|Item: 2 item_armor_combat
+1339411151|Item: 5 weapon_plasmagun
+1339411153|Kill: 4 5 23: Gerb killed dennis by MOD_NAIL
+1339411153|PlayerScore: 4 15: Gerb now has 15 points
+1339411153|Challenge: 4 212 1: Client 4 got award 212
+1339411153|Challenge: 4 1 1: Client 4 got award 1
+1339411153|Challenge: 5 2 1: Client 5 got award 2
+1339411153|PlayerScore: 4 17: Gerb now has 17 points
+1339411153|Challenge: 4 305 1: Client 4 got award 305
+1339411153|Award: 4 3: Gerb gained the DEFENCE award!
+1339411153|Item: 3 item_regen
+1339411153|Item: 2 weapon_railgun
+1339411154|Item: 4 weapon_rocketlauncher
+1339411155|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339411155|PlayerScore: 2 31: TT now has 31 points
+1339411155|Challenge: 2 212 1: Client 2 got award 212
+1339411155|Challenge: 2 1 1: Client 2 got award 1
+1339411155|Challenge: 4 2 1: Client 4 got award 2
+1339411155|PlayerScore: 2 33: TT now has 33 points
+1339411155|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411155|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411156|Item: 2 team_CTF_redflag
+1339411156|broadcast: print "TT^7 returned the RED flag!\n"
+1339411156|PlayerScore: 2 34: TT now has 34 points
+1339411156|CTF: 2 1 2: TT returned the RED flag!
+1339411157|Item: 5 item_armor_combat
+1339411158|Item: 5 weapon_nailgun
+1339411158|Item: 3 item_health_small
+1339411158|Item: 4 weapon_rocketlauncher
+1339411159|Item: 4 weapon_plasmagun
+1339411159|Item: 2 item_armor_shard
+1339411160|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411160|PlayerScore: 2 35: TT now has 35 points
+1339411160|Challenge: 2 212 1: Client 2 got award 212
+1339411160|Challenge: 2 1 1: Client 2 got award 1
+1339411160|Challenge: 3 2 1: Client 3 got award 2
+1339411160|Challenge: 2 411 1: Client 2 got award 411
+1339411160|PlayerScore: 2 37: TT now has 37 points
+1339411160|Challenge: 2 305 1: Client 2 got award 305
+1339411160|Award: 2 3: TT gained the DEFENCE award!
+1339411160|Item: 2 item_armor_shard
+1339411161|Item: 4 weapon_railgun
+1339411162|Item: 4 item_health_small
+1339411163|Item: 2 team_CTF_redflag
+1339411163|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339411163|CTF: 2 2 1: TT captured the BLUE flag!
+1339411163|Award: 2 4: TT gained the CAPTURE award!
+1339411163|Challenge: 2 303 1: Client 2 got award 303
+1339411163|PlayerScore: 2 42: TT now has 42 points
+1339411163|PlayerScore: 5 8: dennis now has 8 points
+1339411163|Item: 4 item_health_small
+1339411163|Item: 4 item_health_small
+1339411164|Item: 4 item_health_small
+1339411164|Item: 4 item_health_small
+1339411164|Item: 4 item_health_small
+1339411166|Item: 5 weapon_plasmagun
+1339411166|Item: 3 weapon_nailgun
+1339411168|Item: 5 weapon_plasmagun
+1339411170|Item: 5 weapon_railgun
+1339411173|Item: 2 weapon_nailgun
+1339411176|Item: 4 weapon_railgun
+1339411178|Item: 2 item_health_mega
+1339411181|Item: 3 item_armor_combat
+1339411183|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411183|PlayerScore: 2 43: TT now has 43 points
+1339411183|Challenge: 2 212 1: Client 2 got award 212
+1339411183|Challenge: 2 1 1: Client 2 got award 1
+1339411183|Challenge: 3 2 1: Client 3 got award 2
+1339411184|Item: 4 team_CTF_redflag
+1339411184|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411184|CTF: 4 1 0: Gerb got the RED flag!
+1339411184|PlayerScore: 4 17: Gerb now has 17 points
+1339411185|Item: 2 weapon_nailgun
+1339411186|Item: 2 item_health_large
+1339411186|Item: 4 weapon_plasmagun
+1339411186|Item: 2 weapon_nailgun
+1339411188|Kill: 3 2 3: Revell killed TT by MOD_MACHINEGUN
+1339411188|PlayerScore: 3 12: Revell now has 12 points
+1339411188|Challenge: 3 202 1: Client 3 got award 202
+1339411188|Challenge: 3 1 1: Client 3 got award 1
+1339411188|Challenge: 2 2 1: Client 2 got award 2
+1339411188|PlayerScore: 3 13: Revell now has 13 points
+1339411188|Challenge: 3 305 1: Client 3 got award 305
+1339411188|Award: 3 3: Revell gained the DEFENCE award!
+1339411188|Item: 3 weapon_nailgun
+1339411190|Item: 5 team_CTF_blueflag
+1339411190|broadcast: print "dennis^7 got the BLUE flag!\n"
+1339411190|CTF: 5 2 0: dennis got the BLUE flag!
+1339411190|PlayerScore: 5 8: dennis now has 8 points
+1339411191|Item: 4 weapon_railgun
+1339411191|Item: 5 item_health
+1339411191|Item: 5 item_health
+1339411192|Item: 5 weapon_plasmagun
+1339411193|Item: 2 weapon_shotgun
+1339411196|Item: 3 weapon_rocketlauncher
+1339411197|Item: 2 weapon_nailgun
+1339411198|Item: 2 item_armor_combat
+1339411198|Item: 5 item_health
+1339411198|Item: 5 item_health
+1339411201|Item: 2 weapon_railgun
+1339411202|Item: 5 item_health_small
+1339411204|Kill: 5 3 8: dennis killed Revell by MOD_PLASMA
+1339411204|PlayerScore: 5 9: dennis now has 9 points
+1339411204|Challenge: 5 207 1: Client 5 got award 207
+1339411204|Challenge: 5 1 1: Client 5 got award 1
+1339411204|Challenge: 3 2 1: Client 3 got award 2
+1339411204|PlayerScore: 5 11: dennis now has 11 points
+1339411204|Challenge: 5 305 1: Client 5 got award 305
+1339411204|Award: 5 3: dennis gained the DEFENCE award!
+1339411207|Item: 2 item_armor_shard
+1339411207|Item: 2 item_armor_shard
+1339411208|Item: 2 item_armor_shard
+1339411208|Item: 2 item_armor_shard
+1339411209|Item: 3 item_health_small
+1339411209|Item: 4 item_armor_combat
+1339411210|Item: 4 weapon_nailgun
+1339411212|Item: 5 item_health_small
+1339411213|Item: 5 ammo_nails
+1339411213|Item: 5 item_armor_shard
+1339411214|Item: 5 item_armor_shard
+1339411214|Item: 5 item_armor_shard
+1339411214|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339411214|PlayerScore: 2 44: TT now has 44 points
+1339411214|Challenge: 2 212 1: Client 2 got award 212
+1339411214|Challenge: 2 1 1: Client 2 got award 1
+1339411214|Challenge: 4 2 1: Client 4 got award 2
+1339411214|PlayerScore: 2 46: TT now has 46 points
+1339411214|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411214|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411214|Item: 5 item_armor_shard
+1339411215|Item: 3 item_health_small
+1339411215|Item: 5 item_health
+1339411216|Item: 2 team_CTF_redflag
+1339411216|broadcast: print "TT^7 returned the RED flag!\n"
+1339411216|PlayerScore: 2 47: TT now has 47 points
+1339411216|CTF: 2 1 2: TT returned the RED flag!
+1339411216|Item: 2 weapon_nailgun
+1339411218|Kill: 4 2 3: Gerb killed TT by MOD_MACHINEGUN
+1339411218|PlayerScore: 4 18: Gerb now has 18 points
+1339411218|Challenge: 4 202 1: Client 4 got award 202
+1339411218|Challenge: 4 1 1: Client 4 got award 1
+1339411218|Challenge: 2 2 1: Client 2 got award 2
+1339411218|Item: 5 team_CTF_redflag
+1339411218|broadcast: print "dennis^7 captured the BLUE flag!\n"
+1339411218|CTF: 5 2 1: dennis captured the BLUE flag!
+1339411218|Award: 5 4: dennis gained the CAPTURE award!
+1339411218|Challenge: 5 303 1: Client 5 got award 303
+1339411218|PlayerScore: 5 16: dennis now has 16 points
+1339411218|PlayerScore: 2 47: TT now has 47 points
+1339411218|PlayerScore: 2 48: TT now has 48 points
+1339411218|Challenge: 2 304 1: Client 2 got award 304
+1339411218|Award: 2 5: TT gained the ASSIST award!
+1339411218|PlayerScore: 2 50: TT now has 50 points
+1339411218|Challenge: 2 304 1: Client 2 got award 304
+1339411218|Award: 2 5: TT gained the ASSIST award!
+1339411218|Item: 4 weapon_nailgun
+1339411219|Item: 3 weapon_plasmagun
+1339411221|Kill: 5 3 8: dennis killed Revell by MOD_PLASMA
+1339411221|PlayerScore: 5 17: dennis now has 17 points
+1339411221|Challenge: 5 207 1: Client 5 got award 207
+1339411221|Challenge: 5 1 1: Client 5 got award 1
+1339411221|Challenge: 3 2 1: Client 3 got award 2
+1339411221|PlayerScore: 5 18: dennis now has 18 points
+1339411221|Challenge: 5 305 1: Client 5 got award 305
+1339411221|Award: 5 3: dennis gained the DEFENCE award!
+1339411222|Item: 5 weapon_plasmagun
+1339411223|Item: 2 weapon_nailgun
+1339411223|Item: 5 item_health
+1339411223|Item: 4 weapon_plasmagun
+1339411225|Item: 3 weapon_rocketlauncher
+1339411226|Item: 5 weapon_rocketlauncher
+1339411227|Item: 2 item_health_mega
+1339411227|Item: 3 weapon_railgun
+1339411227|Item: 4 ammo_nails
+1339411232|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339411232|PlayerScore: 2 51: TT now has 51 points
+1339411232|Challenge: 2 212 1: Client 2 got award 212
+1339411232|Challenge: 2 1 1: Client 2 got award 1
+1339411232|Challenge: 4 2 1: Client 4 got award 2
+1339411232|Item: 5 weapon_railgun
+1339411233|Item: 2 team_CTF_blueflag
+1339411233|broadcast: print "TT^7 got the BLUE flag!\n"
+1339411233|CTF: 2 2 0: TT got the BLUE flag!
+1339411233|PlayerScore: 2 51: TT now has 51 points
+1339411235|Item: 4 weapon_nailgun
+1339411235|Item: 3 team_CTF_redflag
+1339411235|broadcast: print "Revell^7 got the RED flag!\n"
+1339411235|CTF: 3 1 0: Revell got the RED flag!
+1339411235|PlayerScore: 3 13: Revell now has 13 points
+1339411237|Item: 2 item_health_small
+1339411237|Item: 4 item_armor_shard
+1339411239|Kill: 4 2 3: Gerb killed TT by MOD_MACHINEGUN
+1339411239|PlayerScore: 4 19: Gerb now has 19 points
+1339411239|Challenge: 4 202 1: Client 4 got award 202
+1339411239|Challenge: 4 1 1: Client 4 got award 1
+1339411239|Challenge: 2 2 1: Client 2 got award 2
+1339411239|PlayerScore: 4 21: Gerb now has 21 points
+1339411239|broadcast: print "Gerb^7 fragged RED's flag carrier!\n"
+1339411239|CTF: 4 1 3: Gerb fragged RED's flag carrier!
+1339411243|Item: 2 item_armor_combat
+1339411244|Item: 3 team_CTF_blueflag
+1339411244|broadcast: print "Revell^7 returned the BLUE flag!\n"
+1339411244|PlayerScore: 3 14: Revell now has 14 points
+1339411244|CTF: 3 2 2: Revell returned the BLUE flag!
+1339411244|Item: 2 weapon_nailgun
+1339411245|Item: 5 team_CTF_blueflag
+1339411245|broadcast: print "dennis^7 got the BLUE flag!\n"
+1339411245|CTF: 5 2 0: dennis got the BLUE flag!
+1339411245|PlayerScore: 5 18: dennis now has 18 points
+1339411246|Item: 5 item_health
+1339411248|Item: 5 weapon_plasmagun
+1339411252|Kill: 3 5 7: Revell killed dennis by MOD_ROCKET_SPLASH
+1339411252|PlayerScore: 3 15: Revell now has 15 points
+1339411252|Challenge: 3 205 1: Client 3 got award 205
+1339411252|Challenge: 3 1 1: Client 3 got award 1
+1339411252|Challenge: 5 2 1: Client 5 got award 2
+1339411252|PlayerScore: 3 17: Revell now has 17 points
+1339411252|broadcast: print "Revell^7 fragged RED's flag carrier!\n"
+1339411252|CTF: 3 1 3: Revell fragged RED's flag carrier!
+1339411253|Item: 3 weapon_rocketlauncher
+1339411253|Item: 4 item_armor_shard
+1339411253|Item: 4 item_armor_shard
+1339411254|Item: 4 item_armor_shard
+1339411254|Item: 4 item_armor_shard
+1339411254|Item: 3 team_CTF_blueflag
+1339411254|broadcast: print "Revell^7 returned the BLUE flag!\n"
+1339411254|PlayerScore: 3 18: Revell now has 18 points
+1339411254|CTF: 3 2 2: Revell returned the BLUE flag!
+1339411254|Item: 3 item_health
+1339411255|Item: 4 weapon_plasmagun
+1339411255|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411255|PlayerScore: 2 52: TT now has 52 points
+1339411255|Challenge: 2 212 1: Client 2 got award 212
+1339411255|Challenge: 2 1 1: Client 2 got award 1
+1339411255|Challenge: 3 2 1: Client 3 got award 2
+1339411255|PlayerScore: 2 54: TT now has 54 points
+1339411255|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411255|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411256|Item: 2 weapon_rocketlauncher
+1339411256|Item: 2 team_CTF_redflag
+1339411256|broadcast: print "TT^7 returned the RED flag!\n"
+1339411256|PlayerScore: 2 55: TT now has 55 points
+1339411256|CTF: 2 1 2: TT returned the RED flag!
+1339411257|Item: 5 weapon_nailgun
+1339411257|Item: 4 team_CTF_redflag
+1339411257|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411257|CTF: 4 1 0: Gerb got the RED flag!
+1339411257|PlayerScore: 4 21: Gerb now has 21 points
+1339411262|Kill: 5 4 23: dennis killed Gerb by MOD_NAIL
+1339411262|PlayerScore: 5 19: dennis now has 19 points
+1339411262|Challenge: 5 212 1: Client 5 got award 212
+1339411262|Challenge: 5 1 1: Client 5 got award 1
+1339411262|Challenge: 4 2 1: Client 4 got award 2
+1339411262|PlayerScore: 5 21: dennis now has 21 points
+1339411262|broadcast: print "dennis^7 fragged BLUE's flag carrier!\n"
+1339411262|CTF: 5 2 3: dennis fragged BLUE's flag carrier!
+1339411263|Item: 5 team_CTF_redflag
+1339411263|broadcast: print "dennis^7 returned the RED flag!\n"
+1339411263|PlayerScore: 5 22: dennis now has 22 points
+1339411263|CTF: 5 1 2: dennis returned the RED flag!
+1339411264|Item: 5 weapon_plasmagun
+1339411264|Item: 2 weapon_rocketlauncher
+1339411266|Kill: 3 2 3: Revell killed TT by MOD_MACHINEGUN
+1339411266|PlayerScore: 3 19: Revell now has 19 points
+1339411266|Challenge: 3 202 1: Client 3 got award 202
+1339411266|Challenge: 3 1 1: Client 3 got award 1
+1339411266|Challenge: 2 2 1: Client 2 got award 2
+1339411267|Item: 5 weapon_nailgun
+1339411267|Item: 4 weapon_plasmagun
+1339411268|Item: 3 weapon_rocketlauncher
+1339411269|Item: 4 item_armor_shard
+1339411269|Item: 4 item_armor_shard
+1339411270|Item: 4 item_armor_shard
+1339411270|Item: 3 ammo_nails
+1339411271|Item: 2 weapon_shotgun
+1339411272|Item: 4 item_health_small
+1339411272|Item: 4 item_health_small
+1339411272|Item: 3 item_armor_shard
+1339411272|Item: 4 item_health_small
+1339411272|Item: 5 item_health_mega
+1339411273|Item: 4 item_health_small
+1339411273|Item: 3 item_health
+1339411273|Item: 4 item_health_small
+1339411274|Item: 4 item_health_small
+1339411276|Item: 2 weapon_nailgun
+1339411277|Item: 2 item_armor_combat
+1339411278|Item: 3 weapon_shotgun
+1339411280|Item: 4 ammo_nails
+1339411281|Item: 4 item_armor_shard
+1339411281|Item: 4 item_armor_shard
+1339411282|Item: 2 weapon_railgun
+1339411282|Item: 4 item_armor_shard
+1339411282|Item: 4 item_armor_shard
+1339411284|Kill: 3 5 7: Revell killed dennis by MOD_ROCKET_SPLASH
+1339411284|PlayerScore: 3 20: Revell now has 20 points
+1339411284|Challenge: 3 205 1: Client 3 got award 205
+1339411284|Challenge: 3 1 1: Client 3 got award 1
+1339411284|Challenge: 5 2 1: Client 5 got award 2
+1339411284|PlayerScore: 3 21: Revell now has 21 points
+1339411284|Challenge: 3 305 1: Client 3 got award 305
+1339411284|Award: 3 3: Revell gained the DEFENCE award!
+1339411284|Item: 4 team_CTF_redflag
+1339411284|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411284|CTF: 4 1 0: Gerb got the RED flag!
+1339411284|PlayerScore: 4 21: Gerb now has 21 points
+1339411285|Item: 2 weapon_rocketlauncher
+1339411286|Item: 3 weapon_nailgun
+1339411288|Item: 4 item_health_small
+1339411288|Item: 4 item_health_small
+1339411291|Item: 3 weapon_shotgun
+1339411291|Item: 2 team_CTF_blueflag
+1339411291|broadcast: print "TT^7 got the BLUE flag!\n"
+1339411291|CTF: 2 2 0: TT got the BLUE flag!
+1339411291|PlayerScore: 2 55: TT now has 55 points
+1339411294|Item: 2 item_armor_shard
+1339411294|Kill: 4 5 8: Gerb killed dennis by MOD_PLASMA
+1339411294|PlayerScore: 4 22: Gerb now has 22 points
+1339411294|Challenge: 4 207 1: Client 4 got award 207
+1339411294|Challenge: 4 1 1: Client 4 got award 1
+1339411294|Challenge: 5 2 1: Client 5 got award 2
+1339411294|PlayerScore: 4 24: Gerb now has 24 points
+1339411294|Challenge: 4 305 1: Client 4 got award 305
+1339411294|Award: 4 3: Gerb gained the DEFENCE award!
+1339411294|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411294|PlayerScore: 2 56: TT now has 56 points
+1339411294|Challenge: 2 212 1: Client 2 got award 212
+1339411294|Challenge: 2 1 1: Client 2 got award 1
+1339411294|Challenge: 3 2 1: Client 3 got award 2
+1339411298|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339411298|PlayerScore: 2 57: TT now has 57 points
+1339411298|Challenge: 2 212 1: Client 2 got award 212
+1339411298|Challenge: 2 1 1: Client 2 got award 1
+1339411298|Challenge: 4 2 1: Client 4 got award 2
+1339411298|PlayerScore: 2 59: TT now has 59 points
+1339411298|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411298|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411298|Item: 3 weapon_rocketlauncher
+1339411300|Item: 2 team_CTF_redflag
+1339411300|broadcast: print "TT^7 returned the RED flag!\n"
+1339411300|PlayerScore: 2 60: TT now has 60 points
+1339411300|CTF: 2 1 2: TT returned the RED flag!
+1339411300|Item: 2 weapon_plasmagun
+1339411302|Item: 5 item_health_small
+1339411302|Item: 5 item_health_small
+1339411303|Item: 4 weapon_railgun
+1339411303|Item: 5 item_health_small
+1339411303|Item: 5 item_health_small
+1339411303|Kill: 3 2 6: Revell killed TT by MOD_ROCKET
+1339411303|PlayerScore: 3 22: Revell now has 22 points
+1339411303|Challenge: 3 205 1: Client 3 got award 205
+1339411303|Challenge: 3 1 1: Client 3 got award 1
+1339411303|Challenge: 2 2 1: Client 2 got award 2
+1339411303|PlayerScore: 3 24: Revell now has 24 points
+1339411303|broadcast: print "Revell^7 fragged RED's flag carrier!\n"
+1339411303|CTF: 3 1 3: Revell fragged RED's flag carrier!
+1339411304|Item: 5 item_health_small
+1339411306|Item: 3 team_CTF_blueflag
+1339411306|broadcast: print "Revell^7 returned the BLUE flag!\n"
+1339411306|PlayerScore: 3 25: Revell now has 25 points
+1339411306|CTF: 3 2 2: Revell returned the BLUE flag!
+1339411307|Item: 2 item_armor_combat
+1339411307|Item: 3 weapon_nailgun
+1339411308|Item: 2 weapon_nailgun
+1339411309|Item: 4 weapon_rocketlauncher
+1339411311|Kill: 5 4 3: dennis killed Gerb by MOD_MACHINEGUN
+1339411311|PlayerScore: 5 23: dennis now has 23 points
+1339411311|Challenge: 5 202 1: Client 5 got award 202
+1339411311|Challenge: 5 1 1: Client 5 got award 1
+1339411311|Challenge: 4 2 1: Client 4 got award 2
+1339411312|Kill: 3 5 23: Revell killed dennis by MOD_NAIL
+1339411312|PlayerScore: 3 26: Revell now has 26 points
+1339411312|Challenge: 3 212 1: Client 3 got award 212
+1339411312|Challenge: 3 1 1: Client 3 got award 1
+1339411312|Challenge: 5 2 1: Client 5 got award 2
+1339411312|Item: 2 item_health_mega
+1339411314|Item: 3 item_armor_shard
+1339411315|Item: 3 item_armor_shard
+1339411315|Item: 3 item_armor_shard
+1339411315|Item: 3 item_armor_shard
+1339411316|Item: 5 weapon_railgun
+1339411316|Item: 4 weapon_railgun
+1339411316|Item: 3 weapon_plasmagun
+1339411317|Item: 2 team_CTF_blueflag
+1339411317|broadcast: print "TT^7 got the BLUE flag!\n"
+1339411317|CTF: 2 2 0: TT got the BLUE flag!
+1339411317|PlayerScore: 2 60: TT now has 60 points
+1339411318|Item: 3 team_CTF_redflag
+1339411318|broadcast: print "Revell^7 got the RED flag!\n"
+1339411318|CTF: 3 1 0: Revell got the RED flag!
+1339411318|PlayerScore: 3 26: Revell now has 26 points
+1339411319|Item: 4 weapon_rocketlauncher
+1339411319|Item: 4 weapon_railgun
+1339411322|Item: 4 ammo_nails
+1339411323|Item: 2 item_armor_combat
+1339411327|Item: 4 weapon_plasmagun
+1339411327|Item: 3 item_regen
+1339411331|Item: 3 item_health_small
+1339411331|Item: 2 weapon_railgun
+1339411333|Item: 3 item_armor_shard
+1339411333|Kill: 5 4 10: dennis killed Gerb by MOD_RAILGUN
+1339411333|PlayerScore: 5 24: dennis now has 24 points
+1339411333|Challenge: 5 208 1: Client 5 got award 208
+1339411333|Challenge: 5 1 1: Client 5 got award 1
+1339411333|Challenge: 4 2 1: Client 4 got award 2
+1339411333|PlayerScore: 5 26: dennis now has 26 points
+1339411333|Award: 5 3: dennis gained the DEFENCE award!
+1339411333|Challenge: 5 305 1: Client 5 got award 305
+1339411333|Award: 5 2: dennis gained the IMPRESSIVE award!
+1339411333|Challenge: 5 301 1: Client 5 got award 301
+1339411334|Item: 3 item_armor_shard
+1339411334|Item: 3 item_armor_shard
+1339411335|Item: 3 item_armor_shard
+1339411335|Item: 5 weapon_rocketlauncher
+1339411335|Item: 2 item_health_small
+1339411337|Item: 5 weapon_plasmagun
+1339411338|Item: 4 weapon_railgun
+1339411338|Kill: 4 5 10: Gerb killed dennis by MOD_RAILGUN
+1339411338|PlayerScore: 4 25: Gerb now has 25 points
+1339411338|Challenge: 4 208 1: Client 4 got award 208
+1339411338|Challenge: 4 1 1: Client 4 got award 1
+1339411338|Challenge: 5 2 1: Client 5 got award 2
+1339411340|Item: 3 weapon_shotgun
+1339411341|Item: 4 weapon_rocketlauncher
+1339411342|Item: 5 weapon_railgun
+1339411348|Item: 2 item_health_small
+1339411351|Item: 5 weapon_plasmagun
+1339411351|Kill: 2 4 23: TT killed Gerb by MOD_NAIL
+1339411351|PlayerScore: 2 61: TT now has 61 points
+1339411351|Challenge: 2 212 1: Client 2 got award 212
+1339411351|Challenge: 2 1 1: Client 2 got award 1
+1339411351|Challenge: 4 2 1: Client 4 got award 2
+1339411351|PlayerScore: 2 63: TT now has 63 points
+1339411351|Challenge: 2 305 1: Client 2 got award 305
+1339411351|Award: 2 3: TT gained the DEFENCE award!
+1339411352|Item: 2 weapon_rocketlauncher
+1339411353|Item: 5 item_health
+1339411355|Item: 2 item_armor_shard
+1339411355|Item: 4 weapon_railgun
+1339411357|Kill: 3 5 23: Revell killed dennis by MOD_NAIL
+1339411357|PlayerScore: 3 27: Revell now has 27 points
+1339411357|Challenge: 3 212 1: Client 3 got award 212
+1339411357|Challenge: 3 1 1: Client 3 got award 1
+1339411357|Challenge: 5 2 1: Client 5 got award 2
+1339411357|PlayerScore: 3 29: Revell now has 29 points
+1339411357|Challenge: 3 305 1: Client 3 got award 305
+1339411357|Award: 3 3: Revell gained the DEFENCE award!
+1339411357|Item: 4 weapon_rocketlauncher
+1339411360|Item: 5 item_armor_combat
+1339411361|Item: 4 item_armor_shard
+1339411361|Item: 5 weapon_nailgun
+1339411361|Item: 4 item_armor_shard
+1339411362|Item: 4 item_armor_shard
+1339411364|Item: 5 ammo_bullets
+1339411365|Item: 5 ammo_shells
+1339411366|Item: 2 weapon_nailgun
+1339411367|Kill: 5 4 23: dennis killed Gerb by MOD_NAIL
+1339411367|PlayerScore: 5 27: dennis now has 27 points
+1339411367|Challenge: 5 212 1: Client 5 got award 212
+1339411367|Challenge: 5 1 1: Client 5 got award 1
+1339411367|Challenge: 4 2 1: Client 4 got award 2
+1339411367|PlayerScore: 5 28: dennis now has 28 points
+1339411367|Challenge: 5 305 1: Client 5 got award 305
+1339411367|Award: 5 3: dennis gained the DEFENCE award!
+1339411367|Item: 5 weapon_rocketlauncher
+1339411370|Item: 5 ammo_nails
+1339411371|Item: 5 item_health_small
+1339411371|Item: 5 item_health_small
+1339411371|Item: 4 weapon_railgun
+1339411371|Item: 5 item_health_small
+1339411372|Item: 2 weapon_nailgun
+1339411372|Item: 5 item_health_small
+1339411373|Item: 5 item_health_small
+1339411373|Item: 5 item_health_small
+1339411374|Kill: 5 4 23: dennis killed Gerb by MOD_NAIL
+1339411374|PlayerScore: 5 29: dennis now has 29 points
+1339411374|Challenge: 5 212 1: Client 5 got award 212
+1339411374|Challenge: 5 1 1: Client 5 got award 1
+1339411374|Challenge: 4 2 1: Client 4 got award 2
+1339411377|Item: 5 weapon_railgun
+1339411381|Kill: 5 4 23: dennis killed Gerb by MOD_NAIL
+1339411381|PlayerScore: 5 30: dennis now has 30 points
+1339411381|Challenge: 5 212 1: Client 5 got award 212
+1339411381|Challenge: 5 1 1: Client 5 got award 1
+1339411381|Challenge: 4 2 1: Client 4 got award 2
+1339411384|Item: 4 weapon_railgun
+1339411385|Item: 5 item_armor_combat
+1339411385|Item: 5 item_health_large
+1339411386|Item: 3 weapon_shotgun
+1339411390|Item: 4 item_health_mega
+1339411395|Item: 4 item_armor_combat
+1339411398|Kill: 2 3 10: TT killed Revell by MOD_RAILGUN
+1339411398|PlayerScore: 2 64: TT now has 64 points
+1339411398|Challenge: 2 208 1: Client 2 got award 208
+1339411398|Challenge: 2 1 1: Client 2 got award 1
+1339411398|Challenge: 3 2 1: Client 3 got award 2
+1339411398|PlayerScore: 2 66: TT now has 66 points
+1339411398|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411398|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411398|Item: 5 weapon_nailgun
+1339411399|Item: 5 team_CTF_redflag
+1339411399|broadcast: print "dennis^7 returned the RED flag!\n"
+1339411399|PlayerScore: 5 31: dennis now has 31 points
+1339411399|CTF: 5 1 2: dennis returned the RED flag!
+1339411401|Item: 4 team_CTF_redflag
+1339411401|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411401|CTF: 4 1 0: Gerb got the RED flag!
+1339411401|PlayerScore: 4 25: Gerb now has 25 points
+1339411401|Item: 5 item_health
+1339411402|Item: 3 weapon_railgun
+1339411402|Item: 5 weapon_plasmagun
+1339411403|Item: 4 weapon_plasmagun
+1339411404|Item: 2 item_armor_shard
+1339411405|Item: 3 weapon_rocketlauncher
+1339411407|Kill: 2 3 7: TT killed Revell by MOD_ROCKET_SPLASH
+1339411407|PlayerScore: 2 67: TT now has 67 points
+1339411407|Challenge: 2 205 1: Client 2 got award 205
+1339411407|Challenge: 2 1 1: Client 2 got award 1
+1339411407|Challenge: 3 2 1: Client 3 got award 2
+1339411407|PlayerScore: 2 69: TT now has 69 points
+1339411407|Challenge: 2 305 1: Client 2 got award 305
+1339411407|Award: 2 3: TT gained the DEFENCE award!
+1339411409|Item: 2 item_armor_shard
+1339411409|Item: 4 item_armor_body
+1339411409|Item: 2 item_armor_shard
+1339411410|Item: 2 item_armor_shard
+1339411411|Item: 2 item_health
+1339411411|Item: 2 item_health
+1339411412|Item: 3 weapon_railgun
+1339411414|Award: 5 2: dennis gained the IMPRESSIVE award!
+1339411414|Challenge: 5 301 1: Client 5 got award 301
+1339411419|Item: 5 weapon_nailgun
+1339411419|Kill: 4 5 9: Gerb killed dennis by MOD_PLASMA_SPLASH
+1339411419|PlayerScore: 4 26: Gerb now has 26 points
+1339411419|Challenge: 4 207 1: Client 4 got award 207
+1339411419|Challenge: 4 1 1: Client 4 got award 1
+1339411419|Challenge: 5 2 1: Client 5 got award 2
+1339411419|PlayerScore: 4 28: Gerb now has 28 points
+1339411419|Challenge: 4 305 1: Client 4 got award 305
+1339411419|Award: 4 3: Gerb gained the DEFENCE award!
+1339411422|Item: 3 ammo_bullets
+1339411423|Item: 5 weapon_railgun
+1339411426|Item: 2 item_health_mega
+1339411426|Item: 5 weapon_rocketlauncher
+1339411428|Award: 3 2: Revell gained the IMPRESSIVE award!
+1339411428|Challenge: 3 301 1: Client 3 got award 301
+1339411428|Item: 5 item_armor_shard
+1339411429|Item: 5 item_armor_shard
+1339411429|Item: 4 item_health
+1339411429|Item: 5 item_armor_shard
+1339411430|Item: 4 weapon_plasmagun
+1339411433|Kill: 4 5 8: Gerb killed dennis by MOD_PLASMA
+1339411433|PlayerScore: 4 29: Gerb now has 29 points
+1339411433|Challenge: 4 207 1: Client 4 got award 207
+1339411433|Challenge: 4 1 1: Client 4 got award 1
+1339411433|Challenge: 5 2 1: Client 5 got award 2
+1339411433|PlayerScore: 4 31: Gerb now has 31 points
+1339411433|Challenge: 4 305 1: Client 4 got award 305
+1339411433|Award: 4 3: Gerb gained the DEFENCE award!
+1339411436|Item: 3 item_armor_shard
+1339411436|Item: 3 item_armor_shard
+1339411437|Item: 2 ammo_bullets
+1339411437|Item: 2 ammo_shells
+1339411437|Item: 5 item_armor_combat
+1339411438|Item: 5 weapon_nailgun
+1339411442|Kill: 5 3 3: dennis killed Revell by MOD_MACHINEGUN
+1339411442|PlayerScore: 5 32: dennis now has 32 points
+1339411442|Challenge: 5 202 1: Client 5 got award 202
+1339411442|Challenge: 5 1 1: Client 5 got award 1
+1339411442|Challenge: 3 2 1: Client 3 got award 2
+1339411442|PlayerScore: 5 33: dennis now has 33 points
+1339411442|Challenge: 5 305 1: Client 5 got award 305
+1339411442|Award: 5 3: dennis gained the DEFENCE award!
+1339411443|Item: 2 item_health_large
+1339411447|Item: 3 item_health_small
+1339411447|Item: 3 item_health_small
+1339411448|Item: 2 item_armor_shard
+1339411448|Item: 3 item_health_small
+1339411448|Item: 2 item_armor_shard
+1339411449|Item: 4 weapon_shotgun
+1339411449|Item: 2 weapon_plasmagun
+1339411450|Item: 2 item_health
+1339411450|Item: 2 item_health
+1339411450|Item: 3 ammo_nails
+1339411452|Item: 3 item_armor_shard
+1339411453|Item: 3 weapon_plasmagun
+1339411456|Item: 4 weapon_shotgun
+1339411460|Item: 3 weapon_nailgun
+1339411464|Item: 5 item_armor_combat
+1339411464|Item: 5 item_health_large
+1339411467|Item: 2 item_armor_combat
+1339411468|Item: 2 weapon_nailgun
+1339411469|Kill: 5 3 3: dennis killed Revell by MOD_MACHINEGUN
+1339411469|PlayerScore: 5 34: dennis now has 34 points
+1339411469|Challenge: 5 202 1: Client 5 got award 202
+1339411469|Challenge: 5 1 1: Client 5 got award 1
+1339411469|Challenge: 3 2 1: Client 3 got award 2
+1339411471|Item: 4 weapon_shotgun
+1339411471|Item: 5 weapon_nailgun
+1339411474|Item: 2 item_health_mega
+1339411475|Kill: 4 5 3: Gerb killed dennis by MOD_MACHINEGUN
+1339411475|PlayerScore: 4 32: Gerb now has 32 points
+1339411475|Challenge: 4 202 1: Client 4 got award 202
+1339411475|Challenge: 4 1 1: Client 4 got award 1
+1339411475|Challenge: 5 2 1: Client 5 got award 2
+1339411475|PlayerScore: 4 33: Gerb now has 33 points
+1339411475|Challenge: 4 305 1: Client 4 got award 305
+1339411475|Award: 4 3: Gerb gained the DEFENCE award!
+1339411477|Item: 3 weapon_nailgun
+1339411477|Item: 4 item_health
+1339411478|Item: 4 item_health
+1339411479|Item: 4 weapon_plasmagun
+1339411479|Item: 5 weapon_shotgun
+1339411482|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411482|PlayerScore: 2 70: TT now has 70 points
+1339411482|Challenge: 2 212 1: Client 2 got award 212
+1339411482|Challenge: 2 1 1: Client 2 got award 1
+1339411482|Challenge: 3 2 1: Client 3 got award 2
+1339411482|PlayerScore: 2 72: TT now has 72 points
+1339411482|Challenge: 2 305 1: Client 2 got award 305
+1339411482|Award: 2 3: TT gained the DEFENCE award!
+1339411487|Item: 3 weapon_shotgun
+1339411490|Kill: 5 4 3: dennis killed Gerb by MOD_MACHINEGUN
+1339411490|PlayerScore: 5 35: dennis now has 35 points
+1339411490|Challenge: 5 202 1: Client 5 got award 202
+1339411490|Challenge: 5 1 1: Client 5 got award 1
+1339411490|Challenge: 4 2 1: Client 4 got award 2
+1339411490|PlayerScore: 5 37: dennis now has 37 points
+1339411490|broadcast: print "dennis^7 fragged BLUE's flag carrier!\n"
+1339411490|CTF: 5 2 3: dennis fragged BLUE's flag carrier!
+1339411491|Kill: 3 5 1: Revell killed dennis by MOD_SHOTGUN
+1339411491|PlayerScore: 3 30: Revell now has 30 points
+1339411491|Challenge: 3 203 1: Client 3 got award 203
+1339411491|Challenge: 3 1 1: Client 3 got award 1
+1339411491|Challenge: 5 2 1: Client 5 got award 2
+1339411491|PlayerScore: 3 31: Revell now has 31 points
+1339411491|Challenge: 3 305 1: Client 3 got award 305
+1339411491|Award: 3 3: Revell gained the DEFENCE award!
+1339411493|Item: 3 weapon_plasmagun
+1339411493|Item: 4 weapon_plasmagun
+1339411493|Item: 4 team_CTF_redflag
+1339411493|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411493|CTF: 4 1 0: Gerb got the RED flag!
+1339411493|PlayerScore: 4 33: Gerb now has 33 points
+1339411495|Item: 5 weapon_shotgun
+1339411496|Item: 4 item_armor_shard
+1339411496|Item: 4 item_armor_shard
+1339411497|Item: 4 item_armor_shard
+1339411497|Item: 2 item_armor_combat
+1339411497|Item: 4 item_armor_shard
+1339411497|Item: 3 weapon_railgun
+1339411498|Item: 4 ammo_nails
+1339411499|Item: 4 item_health_small
+1339411499|Item: 4 item_health_small
+1339411500|Item: 4 item_health_small
+1339411500|Item: 4 item_health_small
+1339411500|Item: 4 item_health_small
+1339411501|Item: 4 item_health_small
+1339411501|Item: 4 item_health_small
+1339411502|Item: 3 ammo_shells
+1339411502|Item: 3 ammo_bullets
+1339411504|Item: 5 weapon_nailgun
+1339411505|Item: 5 item_armor_combat
+1339411505|Item: 4 weapon_rocketlauncher
+1339411505|Item: 2 weapon_shotgun
+1339411508|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411508|PlayerScore: 2 73: TT now has 73 points
+1339411508|Challenge: 2 212 1: Client 2 got award 212
+1339411508|Challenge: 2 1 1: Client 2 got award 1
+1339411508|Challenge: 3 2 1: Client 3 got award 2
+1339411508|PlayerScore: 2 75: TT now has 75 points
+1339411508|Challenge: 2 305 1: Client 2 got award 305
+1339411508|Award: 2 3: TT gained the DEFENCE award!
+1339411509|Item: 2 weapon_plasmagun
+1339411512|Item: 3 weapon_railgun
+1339411514|Item: 2 weapon_nailgun
+1339411516|Kill: 4 5 7: Gerb killed dennis by MOD_ROCKET_SPLASH
+1339411516|PlayerScore: 4 34: Gerb now has 34 points
+1339411516|Challenge: 4 205 1: Client 4 got award 205
+1339411516|Challenge: 4 1 1: Client 4 got award 1
+1339411516|Challenge: 5 2 1: Client 5 got award 2
+1339411516|PlayerScore: 4 36: Gerb now has 36 points
+1339411516|Challenge: 4 305 1: Client 4 got award 305
+1339411516|Award: 4 3: Gerb gained the DEFENCE award!
+1339411517|Item: 4 weapon_shotgun
+1339411517|Item: 4 weapon_nailgun
+1339411519|Item: 3 ammo_bullets
+1339411520|Item: 5 weapon_rocketlauncher
+1339411522|Item: 5 weapon_railgun
+1339411522|Item: 4 weapon_plasmagun
+1339411525|Item: 2 item_armor_combat
+1339411528|Item: 3 ammo_shells
+1339411533|Item: 2 item_health_mega
+1339411535|Kill: 2 5 23: TT killed dennis by MOD_NAIL
+1339411537|Kill: 2 3 23: TT killed Revell by MOD_NAIL
+1339411537|PlayerScore: 2 76: TT now has 76 points
+1339411537|Challenge: 2 212 1: Client 2 got award 212
+1339411537|Challenge: 2 1 1: Client 2 got award 1
+1339411537|Challenge: 3 2 1: Client 3 got award 2
+1339411537|PlayerScore: 2 78: TT now has 78 points
+1339411537|Challenge: 2 305 1: Client 2 got award 305
+1339411537|Award: 2 3: TT gained the DEFENCE award!
+1339411545|Item: 4 weapon_shotgun
+1339411548|Kill: 3 5 3: Revell killed dennis by MOD_MACHINEGUN
+1339411548|PlayerScore: 3 32: Revell now has 32 points
+1339411548|Challenge: 3 202 1: Client 3 got award 202
+1339411548|Challenge: 3 1 1: Client 3 got award 1
+1339411548|Challenge: 5 2 1: Client 5 got award 2
+1339411548|PlayerScore: 3 34: Revell now has 34 points
+1339411548|Award: 3 3: Revell gained the DEFENCE award!
+1339411548|Challenge: 3 305 1: Client 3 got award 305
+1339411549|Kill: 2 4 10: TT killed Gerb by MOD_RAILGUN
+1339411549|PlayerScore: 2 79: TT now has 79 points
+1339411549|Challenge: 2 208 1: Client 2 got award 208
+1339411549|Challenge: 2 1 1: Client 2 got award 1
+1339411549|Challenge: 4 2 1: Client 4 got award 2
+1339411549|PlayerScore: 2 81: TT now has 81 points
+1339411549|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411549|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411550|Item: 3 item_health
+1339411551|Item: 3 weapon_plasmagun
+1339411551|Item: 5 item_armor_combat
+1339411552|Item: 5 weapon_nailgun
+1339411552|Item: 4 item_armor_combat
+1339411554|Item: 3 weapon_nailgun
+1339411554|Item: 4 weapon_nailgun
+1339411554|Item: 3 team_CTF_redflag
+1339411554|broadcast: print "Revell^7 got the RED flag!\n"
+1339411554|CTF: 3 1 0: Revell got the RED flag!
+1339411554|PlayerScore: 3 34: Revell now has 34 points
+1339411555|Item: 3 weapon_shotgun
+1339411557|Kill: 2 3 10: TT killed Revell by MOD_RAILGUN
+1339411557|PlayerScore: 2 82: TT now has 82 points
+1339411557|Challenge: 2 208 1: Client 2 got award 208
+1339411557|Challenge: 2 1 1: Client 2 got award 1
+1339411557|Challenge: 3 2 1: Client 3 got award 2
+1339411557|PlayerScore: 2 84: TT now has 84 points
+1339411557|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1339411557|CTF: 2 2 3: TT fragged BLUE's flag carrier!
+1339411557|Award: 2 2: TT gained the IMPRESSIVE award!
+1339411557|Challenge: 2 301 1: Client 2 got award 301
+1339411559|Item: 4 weapon_shotgun
+1339411559|Item: 4 team_CTF_redflag
+1339411559|broadcast: print "Gerb^7 got the RED flag!\n"
+1339411559|CTF: 4 1 0: Gerb got the RED flag!
+1339411559|PlayerScore: 4 36: Gerb now has 36 points
+1339411561|Item: 3 weapon_railgun
+1339411566|Kill: 5 4 23: dennis killed Gerb by MOD_NAIL
+1339411566|PlayerScore: 5 38: dennis now has 38 points
+1339411566|Challenge: 5 212 1: Client 5 got award 212
+1339411566|Challenge: 5 1 1: Client 5 got award 1
+1339411566|Challenge: 4 2 1: Client 4 got award 2
+1339411566|PlayerScore: 5 40: dennis now has 40 points
+1339411566|broadcast: print "dennis^7 fragged BLUE's flag carrier!\n"
+1339411566|CTF: 5 2 3: dennis fragged BLUE's flag carrier!
+1339411567|Item: 2 item_health_large
+1339411568|Item: 5 team_CTF_redflag
+1339411568|broadcast: print "dennis^7 returned the RED flag!\n"
+1339411568|PlayerScore: 5 41: dennis now has 41 points
+1339411568|CTF: 5 1 2: dennis returned the RED flag!
+1339411568|Item: 5 weapon_nailgun
+1339411569|Item: 3 ammo_bullets
+1339411569|Item: 3 ammo_shells
+1339411571|Item: 5 weapon_plasmagun
+1339411572|Item: 2 team_CTF_redflag
+1339411572|broadcast: print "TT^7 captured the BLUE flag!\n"
+1339411572|CTF: 2 2 1: TT captured the BLUE flag!
+1339411572|Award: 2 4: TT gained the CAPTURE award!
+1339411572|Challenge: 2 303 1: Client 2 got award 303
+1339411572|PlayerScore: 2 89: TT now has 89 points
+1339411572|broadcast: print "Red hit the capturelimit.\n"
+1339411572|Exit: Capturelimit hit.
+1339411572|red:5  blue:1
+1339411572|score: 89  ping: 3  client: 2 TT
+1339411572|score: 41  ping: 0  client: 5 dennis
+1339411572|score: 36  ping: 1  client: 4 Gerb
+1339411572|score: 34  ping: 5  client: 3 Revell
+1339411572|PlayerScore: 5 41: dennis now has 41 points
+1339411572|PlayerScore: 5 42: dennis now has 42 points
+1339411572|Challenge: 5 304 1: Client 5 got award 304
+1339411572|Award: 5 5: dennis gained the ASSIST award!
+1339411572|PlayerScore: 5 44: dennis now has 44 points
+1339411572|Challenge: 5 304 1: Client 5 got award 304
+1339411572|Award: 5 5: dennis gained the ASSIST award!
+1339411576|broadcast: print "Gerb^7 disconnected\n"
+1339411576|Playerstore: Stored player with guid: 7A788D51E4ED819681A5D70F9CF0BBFB in 0
+1339411576|ClientDisconnect: 4
+1339411579|broadcast: print "Revell^7 disconnected\n"
+1339411579|Playerstore: Stored player with guid: 978E21D180BF6D8EBEAA5D3897170E94 in 1
+1339411579|ClientDisconnect: 3
+1339411579|g_gametype will be changed upon restarting.
+1339411579|==== ShutdownGame ====
+1339411579|ShutdownGame:
+1339411579|------------------------------------------------------------
+1339411579|AAS shutdown.
+1339411579|------ Server Initialization ------
+1339411579|Server: oa_dm1
+1339411579|Hunk_Clear: reset the hunk ok
+1339411579|----- FS_Startup -----
+1339411579|Current search path:
+1339411579|/home/jeroen/.openarena/baseoa
+1339411579|/usr/lib/openarena-server/baseoa
+1339411579|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1339411579|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1339411579|
+1339411579|----------------------
+1339411579|5433 files in pk3 files
+1339411579|Loading vm file vm/qagame.qvm...
+1339411579|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1339411579|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1339411579|... trying pak6-patch088/qagame
+1339411579|... trying qagame
+1339411579|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1339411579|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1339411579|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1339411579|------- Game Initialization -------
+1339411579|gamename: baseoa
+1339411579|gamedate: Apr  1 2012
+1339411579|------------------------------------------------------------
+1339411579|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_dm1\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-11 12:46:19
+1339411579|Info: ServerInfo length: 788 of 1024
+1339411579|Gametype changed, clearing session data.
+1339411579|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1339411579|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1339411579|0 teams with 0 entities
+1339411579|19 items registered
+1339411579|-----------------------------------
+1339411579|------- BotLib Initialization -------
+1339411579|loaded weapons.c
+1339411579|loaded items.c
+1339411579|loaded syn.c
+1339411579|loaded rnd.c
+1339411579|loaded match.c
+1339411579|loaded rchat.c
+1339411579|------------ Map Loading ------------
+1339411579|trying to load maps/oa_dm1.aas
+1339411580|loaded maps/oa_dm1.aas
+1339411580|found 30 level items
+1339411580|-------------------------------------
+1339411580|33 bots parsed
+1339411580|58 arenas parsed
+1339411580|AAS initialized.
+1339411580|ClientUserinfoChanged: 2 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339411580|ClientConnect: 2
+1339411580|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1339411580|ClientConnect: 5
+1339411580|-----------------------------------
+1339411581|ClientUserinfoChanged: 2 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1339411581|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1339411581|broadcast: print "TT^7 entered the game\n"
+1339411581|ClientBegin: 2
+1339411582|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1339411582|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1339411582|broadcast: print "dennis^7 entered the game\n"
+1339411582|ClientBegin: 5
+1339411584|Item: 5 ammo_bullets
+1339411585|Item: 2 weapon_lightning
+1339411587|Item: 5 ammo_rockets
+1339411587|Item: 5 item_armor_shard
+1339411587|Item: 5 item_armor_shard
+1339411587|Item: 5 item_armor_shard
+1339411587|Item: 2 weapon_shotgun
+1339411588|Item: 5 item_armor_shard
+1339411588|Item: 5 item_armor_shard
+1339411588|Item: 5 item_armor_shard
+1339411588|Item: 5 item_armor_shard
+1339411592|Item: 2 weapon_grenadelauncher
+1339411594|Item: 2 weapon_rocketlauncher
+1339411598|Item: 2 ammo_rockets
+1339411600|Item: 5 ammo_cells
+1339411600|Item: 2 item_armor_shard
+1339411606|Item: 2 weapon_lightning
+1339411612|Kill: 2 2 7: TT killed TT by MOD_ROCKET_SPLASH
+1339411612|PlayerScore: 2 0: TT now has 0 points
+1339411614|Item: 5 item_health_large
+1339411615|Item: 5 item_health_large
+1339411615|Item: 2 weapon_rocketlauncher
+1339411616|Item: 5 weapon_lightning
+1339411622|Item: 2 item_armor_shard
+1339411622|Item: 2 item_armor_shard
+1339411623|Item: 2 item_armor_shard
+1339411623|Item: 2 item_armor_shard
+1339411623|Item: 2 item_armor_shard
+1339411623|Item: 2 item_armor_shard
+1339411623|Item: 2 item_armor_shard
+1339411625|Item: 5 weapon_grenadelauncher
+1339411630|Item: 2 weapon_grenadelauncher
+1339411632|Item: 5 item_armor_shard
+1339411634|Item: 2 weapon_rocketlauncher
+1339411639|Item: 2 weapon_lightning
+1339411640|Item: 2 weapon_rocketlauncher
+1339411641|Item: 5 weapon_shotgun
+1339411647|Item: 5 weapon_shotgun
+1339411649|Item: 2 item_health_large
+1339411652|Kill: 2 5 7: TT killed dennis by MOD_ROCKET_SPLASH
+1339411652|PlayerScore: 2 1: TT now has 1 points
+1339411652|Challenge: 2 205 1: Client 2 got award 205
+1339411652|Challenge: 2 1 1: Client 2 got award 1
+1339411652|Challenge: 5 2 1: Client 5 got award 2
+1339411653|Item: 2 weapon_shotgun
+1339411655|Item: 2 weapon_lightning
+1339411655|Item: 5 weapon_rocketlauncher
+1339411656|Item: 2 item_health_large
+1339411662|Item: 2 ammo_shells
+1339411664|Item: 5 weapon_lightning
+1339411665|Item: 2 weapon_grenadelauncher
+1339411668|Item: 2 weapon_rocketlauncher
+1339411671|Kill: 5 2 6: dennis killed TT by MOD_ROCKET
+1339411671|PlayerScore: 5 2: dennis now has 2 points
+1339411671|Challenge: 5 205 1: Client 5 got award 205
+1339411671|Challenge: 5 1 1: Client 5 got award 1
+1339411671|Challenge: 2 2 1: Client 2 got award 2
+1339411671|Item: 5 item_health
+1339411672|Item: 5 weapon_rocketlauncher
+1339411673|Item: 2 ammo_rockets
+1339411673|Item: 2 item_armor_shard
+1339411674|Item: 2 item_armor_shard
+1339411674|Item: 2 item_armor_shard
+1339411674|Item: 2 item_armor_shard
+1339411674|Item: 2 item_armor_shard
+1339411674|Item: 2 item_armor_shard
+1339411675|Item: 2 item_armor_shard
+1339411675|Item: 2 item_armor_shard
+1339411676|Item: 2 item_quad
+1339411678|Item: 5 weapon_shotgun
+1339411679|Kill: 2 5 3: TT killed dennis by MOD_MACHINEGUN
+1339411679|PlayerScore: 2 2: TT now has 2 points
+1339411679|Challenge: 2 202 1: Client 2 got award 202
+1339411679|Challenge: 2 1 1: Client 2 got award 1
+1339411679|Challenge: 5 2 1: Client 5 got award 2
+1339411679|Challenge: 2 401 1: Client 2 got award 401
+1339411681|Item: 2 weapon_lightning
+1339411683|Item: 2 weapon_rocketlauncher
+1339411686|Item: 5 weapon_shotgun
+1339411687|Item: 2 weapon_grenadelauncher
+1339411692|Item: 5 item_armor_combat
+1339411694|Item: 2 ammo_rockets
+1339411699|Item: 2 item_armor_shard
+1339411699|Item: 2 item_armor_shard
+1339411701|Kill: 2 5 11: TT killed dennis by MOD_LIGHTNING
+1339411701|PlayerScore: 2 3: TT now has 3 points
+1339411701|Challenge: 2 206 1: Client 2 got award 206
+1339411701|Challenge: 2 1 1: Client 2 got award 1
+1339411701|Challenge: 5 2 1: Client 5 got award 2
+1339411701|Challenge: 2 401 1: Client 2 got award 401
+1339411705|Item: 5 ammo_cells
+1339411707|Item: 5 weapon_plasmagun
+1339411711|Kill: 2 5 11: TT killed dennis by MOD_LIGHTNING
+1339411711|PlayerScore: 2 4: TT now has 4 points
+1339411711|Challenge: 2 206 1: Client 2 got award 206
+1339411711|Challenge: 2 1 1: Client 2 got award 1
+1339411711|Challenge: 5 2 1: Client 5 got award 2
+1339411712|Item: 2 weapon_rocketlauncher
+1339411712|Item: 2 weapon_plasmagun
+1339411714|Item: 5 ammo_bullets
+1339411714|Item: 2 weapon_plasmagun
+1339411716|Item: 5 ammo_grenades
+1339411717|Item: 5 ammo_rockets
+1339411718|Item: 5 item_armor_shard
+1339411718|Item: 5 item_armor_shard
+1339411718|Item: 5 item_armor_shard
+1339411718|Item: 5 item_armor_shard
+1339411719|Item: 5 item_armor_shard
+1339411719|Item: 5 item_armor_shard
+1339411726|Kill: 2 5 11: TT killed dennis by MOD_LIGHTNING
+1339411726|PlayerScore: 2 5: TT now has 5 points
+1339411726|Challenge: 2 206 1: Client 2 got award 206
+1339411726|Challenge: 2 1 1: Client 2 got award 1
+1339411726|Challenge: 5 2 1: Client 5 got award 2
+1339411728|Item: 2 item_health_large
+1339411728|Item: 2 item_health_large
+1339411730|Item: 2 weapon_shotgun
+1339411734|Kill: 2 5 7: TT killed dennis by MOD_ROCKET_SPLASH
+1339411734|PlayerScore: 2 6: TT now has 6 points
+1339411734|Challenge: 2 205 1: Client 2 got award 205
+1339411734|Challenge: 2 1 1: Client 2 got award 1
+1339411734|Challenge: 5 2 1: Client 5 got award 2
+1339411736|Item: 2 item_health
+1339411736|Item: 2 item_health
+1339411739|Item: 2 weapon_grenadelauncher
+1339411740|Item: 5 weapon_plasmagun
+1339411742|Kill: 2 5 7: TT killed dennis by MOD_ROCKET_SPLASH
+1339411742|PlayerScore: 2 7: TT now has 7 points
+1339411742|Challenge: 2 205 1: Client 2 got award 205
+1339411742|Challenge: 2 1 1: Client 2 got award 1
+1339411742|Challenge: 5 2 1: Client 5 got award 2
+1339411743|Item: 2 item_health
+1339411744|Item: 2 weapon_rocketlauncher
+1339411744|Item: 5 item_armor_shard
+1339411744|Item: 5 item_armor_shard
+1339411745|Item: 5 item_armor_shard
+1339411745|Item: 5 item_armor_shard
+1339411745|Item: 5 item_armor_shard
+1339411745|Item: 5 item_armor_shard
+1339411745|Item: 5 item_armor_shard
+1339411746|Item: 5 item_armor_shard
+1339411747|Item: 2 ammo_cells
+1339411749|Item: 5 weapon_lightning
+1339411749|Item: 2 ammo_rockets
+1339411751|Item: 5 weapon_shotgun
+1339411756|Item: 5 weapon_grenadelauncher
+1339411757|Item: 5 weapon_rocketlauncher
+1339411768|Item: 5 ammo_rockets
+1339411769|Item: 2 weapon_lightning
+1339411774|Item: 5 item_armor_shard
+1339411774|Item: 5 item_armor_shard
+1339411775|Item: 5 item_armor_shard
+1339411775|Item: 5 item_armor_shard
+1339411775|Item: 5 item_armor_shard
+1339411783|Item: 2 weapon_lightning
+1339411787|Item: 5 ammo_cells
+1339411790|Item: 2 weapon_grenadelauncher
+1339411794|Item: 2 item_health
+1339411796|Item: 2 weapon_rocketlauncher
+1339411798|Item: 5 ammo_rockets
+1339411801|Item: 5 item_armor_shard
+1339411804|Item: 2 item_health_large
+1339411804|Item: 5 item_armor_shard
+1339411805|Item: 2 item_health_large
+1339411805|Item: 5 item_armor_shard
+1339411810|Item: 2 weapon_grenadelauncher
+1339411812|Item: 5 item_armor_shard
+1339411812|Item: 5 item_armor_shard
+1339411812|Item: 2 weapon_rocketlauncher
+1339411814|Item: 5 item_quad
+1339411817|Item: 2 weapon_lightning
+1339411824|Item: 2 weapon_grenadelauncher
+1339411826|Item: 5 item_health
+1339411827|Item: 5 item_health
+1339411830|Item: 5 weapon_grenadelauncher
+1339411831|Item: 2 item_armor_shard
+1339411831|Item: 2 item_armor_shard
+1339411832|Item: 2 item_armor_shard
+1339411833|Item: 2 ammo_grenades
+1339411837|Item: 2 item_invis
+1339411839|Item: 2 weapon_lightning
+1339411839|Item: 5 item_armor_shard
+1339411840|Item: 5 item_armor_shard
+1339411840|Item: 5 item_armor_shard
+1339411840|Item: 5 item_armor_shard
+1339411841|Item: 2 weapon_shotgun
+1339411841|Item: 5 ammo_rockets
+1339411849|Item: 5 item_armor_shard
+1339411850|Item: 2 weapon_grenadelauncher
+1339411852|Item: 5 weapon_lightning
+1339411857|Item: 2 weapon_shotgun
+1339411863|Item: 5 weapon_grenadelauncher
+1339411866|Item: 5 ammo_shells
+1339411866|Item: 2 item_health
+1339411867|Item: 2 item_health
+1339411867|Item: 5 item_armor_combat
+1339411870|Item: 2 weapon_grenadelauncher
+1339411875|Item: 2 ammo_rockets
+1339411876|Item: 5 weapon_lightning
+1339411877|Item: 2 item_armor_shard
+1339411877|Item: 2 item_armor_shard
+1339411877|Item: 2 item_armor_shard
+1339411877|Item: 5 item_health_large
+1339411877|Item: 2 item_armor_shard
+1339411878|Item: 2 item_armor_shard
+1339411878|Item: 2 item_armor_shard
+1339411878|Item: 2 item_armor_shard
+1339411878|Item: 2 item_armor_shard
+1339411879|Item: 2 item_health_large
+1339411881|Kill: 2 5 7: TT killed dennis by MOD_ROCKET_SPLASH
+1339411881|PlayerScore: 2 8: TT now has 8 points
+1339411881|Challenge: 2 205 1: Client 2 got award 205
+1339411881|Challenge: 2 1 1: Client 2 got award 1
+1339411881|Challenge: 5 2 1: Client 5 got award 2
+1339411884|Item: 2 weapon_lightning
+1339411885|Item: 2 weapon_shotgun
+1339411887|Kill: 2 5 7: TT killed dennis by MOD_ROCKET_SPLASH
+1339411887|PlayerScore: 2 9: TT now has 9 points
+1339411887|Challenge: 2 205 1: Client 2 got award 205
+1339411887|Challenge: 2 1 1: Client 2 got award 1
+1339411887|Challenge: 5 2 1: Client 5 got award 2
+1339411890|Item: 5 ammo_bullets
+1339411891|Item: 2 weapon_grenadelauncher
+1339411893|Item: 5 ammo_grenades
+1339411893|Item: 2 item_health
+1339411894|Item: 5 ammo_rockets
+1339411894|Item: 2 weapon_plasmagun
+1339411896|Item: 2 weapon_rocketlauncher
+1339411897|Item: 2 weapon_grenadelauncher
+1339411897|Item: 5 weapon_lightning
+1339411898|Item: 2 item_health
+1339411899|Item: 2 weapon_rocketlauncher
+1339411899|Item: 5 weapon_shotgun
+1339411902|Item: 5 item_health
+1339411904|Kill: 2 5 6: TT killed dennis by MOD_ROCKET
+1339411904|PlayerScore: 2 10: TT now has 10 points
+1339411904|Challenge: 2 205 1: Client 2 got award 205
+1339411904|Challenge: 2 1 1: Client 2 got award 1
+1339411904|Challenge: 5 2 1: Client 5 got award 2
+1339411905|Item: 2 weapon_lightning
+1339411905|Item: 2 item_health
+1339411907|Item: 5 weapon_rocketlauncher
+1339411908|Item: 2 weapon_grenadelauncher
+1339411912|Item: 2 ammo_cells
+1339411915|Item: 2 item_armor_shard
+1339411915|Item: 2 item_armor_shard
+1339411919|Item: 2 item_health_large
+1339411920|Item: 2 weapon_lightning
+1339411926|Item: 5 item_armor_shard
+1339411926|Item: 5 item_armor_shard
+1339411926|Item: 5 item_armor_shard
+1339411926|Item: 5 item_armor_shard
+1339411926|Item: 5 item_armor_shard
+1339411927|Item: 5 item_armor_shard
+1339411927|Item: 2 weapon_grenadelauncher
+1339411932|Item: 2 ammo_rockets
+1339411936|Item: 2 ammo_rockets
+1339411936|Item: 2 ammo_grenades
+1339411948|Item: 2 ammo_bullets
+1339411948|Item: 5 item_armor_shard
+1339411948|Item: 5 item_armor_shard
+1339411952|Item: 5 item_quad
+1339411953|Item: 2 item_armor_combat
+1339411957|Item: 2 ammo_shells
+1339411960|Item: 2 weapon_grenadelauncher
+1339411967|Item: 2 item_armor_shard
+1339411967|Item: 2 item_armor_shard
+1339411967|Item: 2 item_armor_shard
+1339411967|Item: 2 item_armor_shard
+1339411968|Item: 2 item_armor_shard
+1339411968|Item: 2 item_armor_shard
+1339411972|Item: 2 item_invis
+1339411973|Item: 5 weapon_lightning
+1339411982|Item: 5 item_health_large
+1339411983|Item: 2 weapon_lightning
+1339411987|Kill: 2 5 7: TT killed dennis by MOD_ROCKET_SPLASH
+1339411987|PlayerScore: 2 11: TT now has 11 points
+1339411987|Challenge: 2 205 1: Client 2 got award 205
+1339411987|Challenge: 2 1 1: Client 2 got award 1
+1339411987|Challenge: 5 2 1: Client 5 got award 2
+1339411987|Challenge: 2 404 1: Client 2 got award 404
+1339411989|Item: 2 weapon_shotgun
+1339411990|Item: 5 weapon_rocketlauncher
+1339411990|Item: 2 item_health
+1339411991|Item: 2 item_health
+1339411992|Item: 5 weapon_grenadelauncher
+1339411994|Item: 5 weapon_rocketlauncher
+1339411998|Item: 5 ammo_cells
+1339411998|Kill: 2 5 6: TT killed dennis by MOD_ROCKET
+1339411998|PlayerScore: 2 12: TT now has 12 points
+1339411998|Challenge: 2 205 1: Client 2 got award 205
+1339411998|Challenge: 2 1 1: Client 2 got award 1
+1339411998|Challenge: 5 2 1: Client 5 got award 2
+1339411998|Challenge: 2 404 1: Client 2 got award 404
+1339411998|Kill: 5 2 7: dennis killed TT by MOD_ROCKET_SPLASH
+1339411998|PlayerScore: 5 3: dennis now has 3 points
+1339411998|Challenge: 5 205 1: Client 5 got award 205
+1339411998|Challenge: 5 1 1: Client 5 got award 1
+1339411998|Challenge: 2 2 1: Client 2 got award 2
+1339411998|Challenge: 5 409 1: Client 5 got award 409
+1339412002|Item: 5 weapon_rocketlauncher
+1339412003|Item: 2 ammo_bullets
+1339412007|Item: 2 item_armor_combat
+1339412013|Item: 2 weapon_shotgun
+1339412015|Item: 2 item_health_large
+1339412017|Item: 2 weapon_lightning
+1339412020|Kill: 2 5 11: TT killed dennis by MOD_LIGHTNING
+1339412020|PlayerScore: 2 13: TT now has 13 points
+1339412020|Challenge: 2 206 1: Client 2 got award 206
+1339412020|Challenge: 2 1 1: Client 2 got award 1
+1339412020|Challenge: 5 2 1: Client 5 got award 2
+1339412022|Item: 2 item_health_large
+1339412023|Item: 2 weapon_shotgun
+1339412026|Kill: 2 5 1: TT killed dennis by MOD_SHOTGUN
+1339412026|PlayerScore: 2 14: TT now has 14 points
+1339412026|Challenge: 2 203 1: Client 2 got award 203
+1339412026|Challenge: 2 1 1: Client 2 got award 1
+1339412026|Challenge: 5 2 1: Client 5 got award 2
+1339412030|Item: 5 ammo_rockets
+1339412030|Item: 2 weapon_lightning
+1339412032|Item: 5 item_armor_shard
+1339412032|Item: 5 item_armor_shard
+1339412032|Item: 2 weapon_shotgun
+1339412032|Item: 5 item_armor_shard
+1339412032|Item: 5 item_armor_shard
+1339412033|Item: 5 item_armor_shard
+1339412033|Item: 5 item_armor_shard
+1339412033|Item: 5 item_armor_shard
+1339412033|Item: 5 ammo_rockets
+1339412034|Item: 2 item_health
+1339412035|Item: 2 item_health
+1339412037|Item: 2 weapon_grenadelauncher
+1339412039|Item: 2 weapon_rocketlauncher
+1339412040|Item: 2 item_health
+1339412041|Item: 2 weapon_plasmagun
+1339412042|Item: 2 weapon_grenadelauncher
+1339412043|Item: 2 item_health
+1339412043|Item: 5 item_armor_combat
+1339412044|Item: 2 weapon_rocketlauncher
+1339412049|Item: 5 weapon_rocketlauncher
+1339412053|Item: 2 weapon_lightning
+1339412056|Item: 5 item_armor_shard
+1339412060|Item: 2 weapon_grenadelauncher
+1339412062|Item: 2 weapon_rocketlauncher
+1339412069|Item: 5 weapon_grenadelauncher
+1339412074|Item: 5 weapon_grenadelauncher
+1339412075|Kill: 5 2 6: dennis killed TT by MOD_ROCKET
+1339412075|PlayerScore: 5 4: dennis now has 4 points
+1339412075|Challenge: 5 205 1: Client 5 got award 205
+1339412075|Challenge: 5 1 1: Client 5 got award 1
+1339412075|Challenge: 2 2 1: Client 2 got award 2
+1339412077|Item: 5 weapon_rocketlauncher
+1339412078|Item: 2 ammo_rockets
+1339412079|Item: 5 item_health
+1339412080|Item: 5 weapon_rocketlauncher
+1339412081|Item: 2 item_armor_shard
+1339412081|Item: 5 item_health
+1339412082|Item: 2 item_quad
+1339412085|Item: 2 weapon_lightning
+1339412087|Item: 5 ammo_shells
+1339412091|Item: 2 weapon_grenadelauncher
+1339412093|Item: 5 ammo_cells
+1339412094|Kill: 2 5 11: TT killed dennis by MOD_LIGHTNING
+1339412094|PlayerScore: 2 15: TT now has 15 points
+1339412094|Exit: Fraglimit hit.
+1339412094|score: 15  ping: 1  client: 2 TT
+1339412094|score: 4  ping: 0  client: 5 dennis
+1339412094|broadcast: print "TT^7 hit the fraglimit.\n"
+1339412094|Challenge: 2 206 1: Client 2 got award 206
+1339412094|Challenge: 2 1 1: Client 2 got award 1
+1339412094|Challenge: 5 2 1: Client 5 got award 2
+1339412094|Challenge: 2 401 1: Client 2 got award 401
+1339412102|broadcast: print "TT^7 disconnected\n"
+1339412102|Playerstore: Stored player with guid: 0FF9D843C712925CF1023CDDE010CD83 in 0
+1339412102|ClientDisconnect: 2
+1339412102|g_gametype will be changed upon restarting.
+1339412102|==== ShutdownGame ====
+1339412102|ShutdownGame:
+1339412102|------------------------------------------------------------
+1339412102|AAS shutdown.
+1339412102|------ Server Initialization ------
+1339412102|Server: pul1ctf
+1339412102|Hunk_Clear: reset the hunk ok
+1339412102|----- FS_Startup -----
+1339412102|Current search path:
+1339412102|/home/jeroen/.openarena/baseoa
+1339412102|/usr/lib/openarena-server/baseoa
+1339412102|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1339412102|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1339412102|
+1339412102|----------------------
+1339412102|5433 files in pk3 files
+1339412102|Loading vm file vm/qagame.qvm...
+1339412102|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1339412102|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1339412102|... trying pak6-patch088/qagame
+1339412102|... trying qagame
+1339412102|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1339412102|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1339412102|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1339412102|------- Game Initialization -------
+1339412102|gamename: baseoa
+1339412102|gamedate: Apr  1 2012
+1339412102|------------------------------------------------------------
+1339412102|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\4\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\pul1ctf\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-11 12:55:02
+1339412102|Info: ServerInfo length: 789 of 1024
+1339412102|Gametype changed, clearing session data.
+1339412102|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1339412102|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1339412102|0 teams with 0 entities
+1339412102|19 items registered
+1339412102|-----------------------------------
+1339412102|------- BotLib Initialization -------
+1339412102|loaded weapons.c
+1339412102|loaded items.c
+1339412102|loaded syn.c
+1339412102|loaded rnd.c
+1339412102|loaded match.c
+1339412102|loaded rchat.c
+1339412102|------------ Map Loading ------------
+1339412102|trying to load maps/pul1ctf.aas
+1339412102|loaded maps/pul1ctf.aas
+1339412102|found 65 level items
+1339412102|-------------------------------------
+1339412102|33 bots parsed
+1339412102|58 arenas parsed
+1339412102|AAS initialized.
+1339412102|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1339412102|ClientConnect: 5
+1339412102|-----------------------------------
+1339412104|Clien

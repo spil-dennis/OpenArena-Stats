@@ -1,0 +1,3914 @@
+1338375947|Client 0 connecting with 0 challenge ping
+1338375947|ClientUserinfoChanged: 2 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338375947|ClientConnect: 2
+1338375947|broadcast: print "Enrique^7 connected\n"
+1338375949|ClientUserinfoChanged: 2 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338375949|Restored player with guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338375949|broadcast: print "Enrique^7 entered the game\n"
+1338375949|ClientBegin: 2
+1338375952|Item: 2 weapon_rocketlauncher
+1338375953|Item: 2 item_health_mega
+1338375953|Item: 2 ammo_rockets
+1338375964|Item: 2 ammo_lightning
+1338375965|Item: 2 ammo_cells
+1338375966|Item: 2 ammo_shells
+1338375967|Item: 2 ammo_shells
+1338375969|Item: 2 ammo_cells
+1338375974|Item: 2 weapon_shotgun
+1338375974|Item: 2 ammo_cells
+1338375977|Item: 2 ammo_cells
+1338376005|Item: 2 weapon_shotgun
+1338376009|broadcast: print "Enrique^7 disconnected\n"
+1338376009|Kill: 1022 2 20: <world> killed Enrique by MOD_SUICIDE
+1338376009|PlayerScore: 2 0: Enrique now has 0 points
+1338376009|Playerstore: Stored player with guid: 2EF47499FF1CAD2316F9FD0918CDDAAA in 1
+1338376009|ClientDisconnect: 2
+1338376604|Client 0 connecting with 40 challenge ping
+1338376604|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338376604|ClientConnect: 2
+1338376604|broadcast: print "dennis^7 connected\n"
+1338376607|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338376607|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338376607|broadcast: print "dennis^7 entered the game\n"
+1338376607|ClientBegin: 2
+1338376623|Item: 2 item_armor_body
+1338376623|Item: 2 ammo_rockets
+1338376624|Client 1 connecting with 0 challenge ping
+1338376624|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338376624|ClientConnect: 3
+1338376624|broadcast: print "Rolph^7 connected\n"
+1338376625|Item: 2 ammo_shells
+1338376628|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338376628|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1338376628|broadcast: print "Rolph^7 entered the game\n"
+1338376628|ClientBegin: 3
+1338376629|Item: 2 ammo_shells
+1338376630|Item: 2 ammo_shells
+1338376631|Item: 2 ammo_cells
+1338376653|Item: 2 ammo_lightning
+1338376654|Item: 3 item_armor_combat
+1338376654|Item: 3 ammo_rockets
+1338376655|Item: 2 ammo_cells
+1338376655|Item: 3 ammo_cells
+1338376655|Item: 3 weapon_plasmagun
+1338376656|Item: 2 ammo_cells
+1338376656|Item: 2 ammo_cells
+1338376657|Item: 2 weapon_plasmagun
+1338376658|Item: 3 ammo_cells
+1338376667|Item: 3 weapon_plasmagun
+1338376674|Item: 2 item_armor_body
+1338376674|Item: 2 ammo_rockets
+1338376676|Item: 2 weapon_rocketlauncher
+1338376676|Item: 3 weapon_plasmagun
+1338376680|Item: 2 ammo_shells
+1338376681|Item: 2 ammo_cells
+1338376687|Item: 3 item_armor_combat
+1338376689|Item: 2 weapon_plasmagun
+1338376695|Item: 2 ammo_rockets
+1338376696|Item: 3 weapon_plasmagun
+1338376696|Item: 2 ammo_cells
+1338376699|Item: 2 ammo_cells
+1338376703|Item: 3 weapon_rocketlauncher
+1338376703|Item: 3 item_health_mega
+1338376704|Item: 3 ammo_rockets
+1338376705|Item: 3 ammo_rockets
+1338376711|Item: 3 weapon_plasmagun
+1338376714|Item: 2 item_armor_body
+1338376714|Item: 2 ammo_rockets
+1338376714|Item: 3 weapon_rocketlauncher
+1338376716|Item: 2 ammo_shells
+1338376717|Item: 3 weapon_plasmagun
+1338376718|Item: 3 ammo_cells
+1338376718|Item: 3 ammo_cells
+1338376719|Item: 3 ammo_cells
+1338376720|Client 2 connecting with 0 challenge ping
+1338376720|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338376720|ClientConnect: 4
+1338376720|broadcast: print "Enrique^7 connected\n"
+1338376721|Item: 2 weapon_rocketlauncher
+1338376722|Item: 2 weapon_shotgun
+1338376722|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338376722|Restored player with guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338376722|broadcast: print "Enrique^7 entered the game\n"
+1338376722|ClientBegin: 4
+1338376723|Item: 4 weapon_rocketlauncher
+1338376725|Item: 3 ammo_cells
+1338376726|Item: 4 weapon_plasmagun
+1338376729|Item: 2 ammo_shells
+1338376730|Item: 2 ammo_shells
+1338376732|Client 3 connecting with 40 challenge ping
+1338376732|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338376732|ClientConnect: 5
+1338376732|broadcast: print "TT^7 connected\n"
+1338376732|Item: 2 ammo_lightning
+1338376732|Item: 3 weapon_shotgun
+1338376734|Item: 3 weapon_rocketlauncher
+1338376736|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338376736|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338376736|broadcast: print "TT^7 entered the game\n"
+1338376736|ClientBegin: 5
+1338376737|Item: 5 weapon_rocketlauncher
+1338376738|Kill: 4 2 6: Enrique killed dennis by MOD_ROCKET
+1338376738|PlayerScore: 4 1: Enrique now has 1 points
+1338376738|Challenge: 4 205 1: Client 4 got award 205
+1338376738|Challenge: 4 1 1: Client 4 got award 1
+1338376738|Challenge: 2 2 1: Client 2 got award 2
+1338376739|Item: 4 weapon_rocketlauncher
+1338376742|Item: 4 ammo_cells
+1338376743|Item: 3 weapon_plasmagun
+1338376743|Item: 5 item_armor_combat
+1338376743|Item: 5 ammo_rockets
+1338376744|Item: 5 ammo_cells
+1338376746|Item: 5 ammo_cells
+1338376748|Kill: 3 2 7: Rolph killed dennis by MOD_ROCKET_SPLASH
+1338376748|PlayerScore: 3 1: Rolph now has 1 points
+1338376748|Challenge: 3 205 1: Client 3 got award 205
+1338376748|Challenge: 3 1 1: Client 3 got award 1
+1338376748|Challenge: 2 2 1: Client 2 got award 2
+1338376750|Item: 4 weapon_plasmagun
+1338376754|Kill: 4 2 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338376754|PlayerScore: 4 2: Enrique now has 2 points
+1338376754|Challenge: 4 205 1: Client 4 got award 205
+1338376754|Challenge: 4 1 1: Client 4 got award 1
+1338376754|Challenge: 2 2 1: Client 2 got award 2
+1338376755|Item: 3 ammo_rockets
+1338376755|Item: 3 item_health_mega
+1338376756|Item: 3 ammo_rockets
+1338376756|Item: 3 weapon_rocketlauncher
+1338376757|Item: 5 item_armor_body
+1338376758|Item: 4 item_health
+1338376759|Item: 2 ammo_rockets
+1338376760|Item: 3 weapon_plasmagun
+1338376761|Item: 5 weapon_rocketlauncher
+1338376761|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338376761|PlayerScore: 4 3: Enrique now has 3 points
+1338376761|Challenge: 4 205 1: Client 4 got award 205
+1338376761|Challenge: 4 1 1: Client 4 got award 1
+1338376761|Challenge: 3 2 1: Client 3 got award 2
+1338376762|Item: 2 ammo_shells
+1338376762|Item: 2 item_health
+1338376763|Item: 2 item_health
+1338376763|Item: 4 weapon_rocketlauncher
+1338376766|Item: 4 weapon_plasmagun
+1338376767|Item: 2 item_health
+1338376767|Item: 4 ammo_cells
+1338376767|Item: 3 weapon_rocketlauncher
+1338376767|Item: 4 ammo_cells
+1338376768|Item: 4 ammo_cells
+1338376768|Item: 5 ammo_cells
+1338376770|Kill: 5 2 6: TT killed dennis by MOD_ROCKET
+1338376770|PlayerScore: 5 1: TT now has 1 points
+1338376770|Challenge: 5 205 1: Client 5 got award 205
+1338376770|Challenge: 5 1 1: Client 5 got award 1
+1338376770|Challenge: 2 2 1: Client 2 got award 2
+1338376775|Item: 3 ammo_lightning
+1338376775|Item: 3 item_invis
+1338376776|Item: 3 weapon_lightning
+1338376779|Item: 2 weapon_plasmagun
+1338376781|Item: 5 weapon_rocketlauncher
+1338376782|Item: 2 item_armor_combat
+1338376783|Item: 4 weapon_lightning
+1338376784|Item: 5 ammo_cells
+1338376784|Item: 2 weapon_plasmagun
+1338376785|Item: 4 ammo_lightning
+1338376785|Item: 4 ammo_cells
+1338376787|Item: 4 ammo_shells
+1338376788|Kill: 3 4 6: Rolph killed Enrique by MOD_ROCKET
+1338376788|PlayerScore: 3 2: Rolph now has 2 points
+1338376788|Challenge: 3 205 1: Client 3 got award 205
+1338376788|Challenge: 3 1 1: Client 3 got award 1
+1338376788|Challenge: 4 2 1: Client 4 got award 2
+1338376788|Challenge: 3 404 1: Client 3 got award 404
+1338376789|Item: 3 ammo_shells
+1338376789|Item: 3 weapon_rocketlauncher
+1338376789|Kill: 5 3 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1338376789|PlayerScore: 5 2: TT now has 2 points
+1338376789|Challenge: 5 205 1: Client 5 got award 205
+1338376789|Challenge: 5 1 1: Client 5 got award 1
+1338376789|Challenge: 3 2 1: Client 3 got award 2
+1338376789|Challenge: 5 409 1: Client 5 got award 409
+1338376791|Item: 4 weapon_rocketlauncher
+1338376792|Kill: 4 5 18: Enrique killed TT by MOD_TELEFRAG
+1338376792|PlayerScore: 4 4: Enrique now has 4 points
+1338376792|Challenge: 4 216 1: Client 4 got award 216
+1338376792|Challenge: 4 1 1: Client 4 got award 1
+1338376792|Challenge: 5 2 1: Client 5 got award 2
+1338376792|Item: 4 weapon_rocketlauncher
+1338376793|Item: 4 weapon_plasmagun
+1338376795|Item: 2 ammo_lightning
+1338376798|Item: 5 weapon_rocketlauncher
+1338376798|Item: 5 ammo_rockets
+1338376798|Item: 5 item_health_mega
+1338376799|Item: 5 ammo_rockets
+1338376804|Item: 2 weapon_lightning
+1338376805|Item: 3 weapon_plasmagun
+1338376808|Item: 4 ammo_cells
+1338376809|Item: 4 ammo_cells
+1338376809|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338376809|PlayerScore: 5 3: TT now has 3 points
+1338376809|Challenge: 5 205 1: Client 5 got award 205
+1338376809|Challenge: 5 1 1: Client 5 got award 1
+1338376809|Challenge: 4 2 1: Client 4 got award 2
+1338376810|Item: 5 weapon_rocketlauncher
+1338376811|Item: 5 ammo_cells
+1338376812|Kill: 2 3 11: dennis killed Rolph by MOD_LIGHTNING
+1338376812|PlayerScore: 2 1: dennis now has 1 points
+1338376812|Challenge: 2 206 1: Client 2 got award 206
+1338376812|Challenge: 2 1 1: Client 2 got award 1
+1338376812|Challenge: 3 2 1: Client 3 got award 2
+1338376812|Item: 4 weapon_rocketlauncher
+1338376813|Item: 2 weapon_plasmagun
+1338376813|Item: 5 weapon_plasmagun
+1338376815|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338376815|PlayerScore: 5 4: TT now has 4 points
+1338376815|Challenge: 5 205 1: Client 5 got award 205
+1338376815|Challenge: 5 1 1: Client 5 got award 1
+1338376815|Challenge: 4 2 1: Client 4 got award 2
+1338376818|Item: 5 item_armor_combat
+1338376818|Item: 5 ammo_rockets
+1338376818|Item: 3 weapon_rocketlauncher
+1338376818|Item: 2 weapon_rocketlauncher
+1338376818|Item: 2 weapon_plasmagun
+1338376819|Item: 5 ammo_cells
+1338376819|Item: 5 weapon_plasmagun
+1338376820|Kill: 3 4 6: Rolph killed Enrique by MOD_ROCKET
+1338376820|PlayerScore: 3 3: Rolph now has 3 points
+1338376820|Challenge: 3 205 1: Client 3 got award 205
+1338376820|Challenge: 3 1 1: Client 3 got award 1
+1338376820|Challenge: 4 2 1: Client 4 got award 2
+1338376821|Item: 5 ammo_cells
+1338376824|Item: 4 item_armor_body
+1338376824|Item: 4 ammo_rockets
+1338376825|Item: 3 weapon_rocketlauncher
+1338376826|Item: 4 ammo_shells
+1338376828|Item: 4 weapon_rocketlauncher
+1338376829|Item: 3 weapon_plasmagun
+1338376829|Item: 2 weapon_plasmagun
+1338376831|Item: 4 ammo_cells
+1338376831|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338376831|PlayerScore: 3 4: Rolph now has 4 points
+1338376831|Challenge: 3 205 1: Client 3 got award 205
+1338376831|Challenge: 3 1 1: Client 3 got award 1
+1338376831|Challenge: 2 2 1: Client 2 got award 2
+1338376834|Item: 3 weapon_plasmagun
+1338376834|Item: 5 weapon_rocketlauncher
+1338376835|Item: 4 ammo_cells
+1338376839|Item: 5 weapon_rocketlauncher
+1338376839|Item: 5 item_health_mega
+1338376840|Item: 5 ammo_rockets
+1338376843|Item: 2 weapon_plasmagun
+1338376843|Kill: 3 2 7: Rolph killed dennis by MOD_ROCKET_SPLASH
+1338376843|PlayerScore: 3 5: Rolph now has 5 points
+1338376843|Challenge: 3 205 1: Client 3 got award 205
+1338376843|Challenge: 3 1 1: Client 3 got award 1
+1338376843|Challenge: 2 2 1: Client 2 got award 2
+1338376844|Item: 5 ammo_rockets
+1338376849|Item: 3 weapon_plasmagun
+1338376849|Item: 2 item_armor_combat
+1338376851|Item: 3 weapon_rocketlauncher
+1338376851|Kill: 5 3 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1338376851|PlayerScore: 5 5: TT now has 5 points
+1338376851|Challenge: 5 205 1: Client 5 got award 205
+1338376851|Challenge: 5 1 1: Client 5 got award 1
+1338376851|Challenge: 3 2 1: Client 3 got award 2
+1338376852|Item: 4 weapon_plasmagun
+1338376852|Item: 5 weapon_plasmagun
+1338376854|Item: 3 ammo_cells
+1338376855|Item: 3 ammo_cells
+1338376855|Item: 5 weapon_plasmagun
+1338376856|Kill: 4 2 8: Enrique killed dennis by MOD_PLASMA
+1338376856|PlayerScore: 4 5: Enrique now has 5 points
+1338376856|Challenge: 4 207 1: Client 4 got award 207
+1338376856|Challenge: 4 1 1: Client 4 got award 1
+1338376856|Challenge: 2 2 1: Client 2 got award 2
+1338376858|Kill: 4 3 8: Enrique killed Rolph by MOD_PLASMA
+1338376858|PlayerScore: 4 6: Enrique now has 6 points
+1338376858|Challenge: 4 207 1: Client 4 got award 207
+1338376858|Challenge: 4 1 1: Client 4 got award 1
+1338376858|Challenge: 3 2 1: Client 3 got award 2
+1338376858|Award: 4 1: Enrique gained the EXCELLENT award!
+1338376858|Challenge: 4 302 1: Client 4 got award 302
+1338376859|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338376859|PlayerScore: 5 6: TT now has 6 points
+1338376859|Challenge: 5 205 1: Client 5 got award 205
+1338376859|Challenge: 5 1 1: Client 5 got award 1
+1338376859|Challenge: 4 2 1: Client 4 got award 2
+1338376860|Item: 2 item_armor_body
+1338376860|Item: 5 weapon_rocketlauncher
+1338376863|Item: 3 ammo_lightning
+1338376863|Item: 2 weapon_rocketlauncher
+1338376864|Item: 4 ammo_cells
+1338376866|Item: 3 weapon_lightning
+1338376866|Item: 4 weapon_plasmagun
+1338376868|Item: 3 ammo_lightning
+1338376870|Item: 5 ammo_cells
+1338376870|Item: 4 weapon_plasmagun
+1338376871|Item: 3 ammo_shells
+1338376871|Item: 3 ammo_shells
+1338376874|Item: 3 weapon_rocketlauncher
+1338376875|Item: 5 ammo_cells
+1338376876|Item: 2 ammo_cells
+1338376877|Item: 3 ammo_cells
+1338376878|Kill: 4 5 9: Enrique killed TT by MOD_PLASMA_SPLASH
+1338376878|PlayerScore: 4 7: Enrique now has 7 points
+1338376878|Challenge: 4 207 1: Client 4 got award 207
+1338376878|Challenge: 4 1 1: Client 4 got award 1
+1338376878|Challenge: 5 2 1: Client 5 got award 2
+1338376880|Kill: 3 4 6: Rolph killed Enrique by MOD_ROCKET
+1338376880|PlayerScore: 3 6: Rolph now has 6 points
+1338376880|Challenge: 3 205 1: Client 3 got award 205
+1338376880|Challenge: 3 1 1: Client 3 got award 1
+1338376880|Challenge: 4 2 1: Client 4 got award 2
+1338376881|Item: 3 weapon_plasmagun
+1338376882|Item: 2 weapon_shotgun
+1338376882|Item: 2 ammo_cells
+1338376882|Item: 3 weapon_rocketlauncher
+1338376882|Item: 5 weapon_rocketlauncher
+1338376884|Item: 3 weapon_plasmagun
+1338376886|Item: 4 weapon_lightning
+1338376886|Item: 2 item_health
+1338376888|Item: 5 weapon_rocketlauncher
+1338376888|Item: 3 item_armor_combat
+1338376889|Item: 3 ammo_rockets
+1338376889|Item: 3 ammo_cells
+1338376890|Item: 3 weapon_plasmagun
+1338376891|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338376891|PlayerScore: 5 7: TT now has 7 points
+1338376891|Challenge: 5 205 1: Client 5 got award 205
+1338376891|Challenge: 5 1 1: Client 5 got award 1
+1338376891|Challenge: 2 2 1: Client 2 got award 2
+1338376892|Item: 5 weapon_shotgun
+1338376893|Item: 5 weapon_shotgun
+1338376895|Item: 2 weapon_plasmagun
+1338376896|Item: 2 ammo_cells
+1338376896|Item: 2 ammo_cells
+1338376897|Item: 4 weapon_rocketlauncher
+1338376902|Kill: 4 2 6: Enrique killed dennis by MOD_ROCKET
+1338376902|PlayerScore: 4 8: Enrique now has 8 points
+1338376902|Challenge: 4 205 1: Client 4 got award 205
+1338376902|Challenge: 4 1 1: Client 4 got award 1
+1338376902|Challenge: 2 2 1: Client 2 got award 2
+1338376904|Item: 5 weapon_plasmagun
+1338376905|Item: 4 ammo_lightning
+1338376905|Item: 2 weapon_rocketlauncher
+1338376906|Item: 2 ammo_rockets
+1338376906|Item: 2 item_health_mega
+1338376906|Item: 2 ammo_rockets
+1338376906|Item: 4 weapon_lightning
+1338376906|Item: 4 item_invis
+1338376910|Kill: 3 5 6: Rolph killed TT by MOD_ROCKET
+1338376910|PlayerScore: 3 7: Rolph now has 7 points
+1338376910|Challenge: 3 205 1: Client 3 got award 205
+1338376910|Challenge: 3 1 1: Client 3 got award 1
+1338376910|Challenge: 5 2 1: Client 5 got award 2
+1338376910|Kill: 3 3 7: Rolph killed Rolph by MOD_ROCKET_SPLASH
+1338376910|PlayerScore: 3 6: Rolph now has 6 points
+1338376910|Item: 4 ammo_lightning
+1338376911|Item: 2 item_health
+1338376912|Item: 4 ammo_shells
+1338376913|Item: 2 weapon_plasmagun
+1338376913|Item: 4 ammo_shells
+1338376914|Item: 5 weapon_plasmagun
+1338376915|Item: 2 ammo_cells
+1338376916|Kill: 2 3 6: dennis killed Rolph by MOD_ROCKET
+1338376916|PlayerScore: 2 2: dennis now has 2 points
+1338376916|Challenge: 2 205 1: Client 2 got award 205
+1338376916|Challenge: 2 1 1: Client 2 got award 1
+1338376916|Challenge: 3 2 1: Client 3 got award 2
+1338376917|Kill: 5 5 9: TT killed TT by MOD_PLASMA_SPLASH
+1338376917|PlayerScore: 5 6: TT now has 6 points
+1338376918|Item: 4 ammo_rockets
+1338376919|Item: 4 item_armor_body
+1338376921|Item: 3 weapon_rocketlauncher
+1338376923|Item: 2 ammo_cells
+1338376923|Item: 3 ammo_cells
+1338376924|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338376924|PlayerScore: 4 9: Enrique now has 9 points
+1338376924|Challenge: 4 205 1: Client 4 got award 205
+1338376924|Challenge: 4 1 1: Client 4 got award 1
+1338376924|Challenge: 3 2 1: Client 3 got award 2
+1338376924|Challenge: 4 404 1: Client 4 got award 404
+1338376925|Item: 4 weapon_rocketlauncher
+1338376927|Item: 2 ammo_cells
+1338376929|Item: 2 item_health
+1338376929|Item: 3 weapon_rocketlauncher
+1338376931|Item: 4 weapon_plasmagun
+1338376932|Item: 5 weapon_rocketlauncher
+1338376932|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338376932|PlayerScore: 3 7: Rolph now has 7 points
+1338376932|Challenge: 3 205 1: Client 3 got award 205
+1338376932|Challenge: 3 1 1: Client 3 got award 1
+1338376932|Challenge: 2 2 1: Client 2 got award 2
+1338376932|Item: 5 weapon_rocketlauncher
+1338376934|Item: 3 weapon_rocketlauncher
+1338376935|Item: 4 item_armor_combat
+1338376938|Item: 5 weapon_rocketlauncher
+1338376940|Kill: 4 2 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338376940|PlayerScore: 4 10: Enrique now has 10 points
+1338376940|Challenge: 4 205 1: Client 4 got award 205
+1338376940|Challenge: 4 1 1: Client 4 got award 1
+1338376940|Challenge: 2 2 1: Client 2 got award 2
+1338376941|Item: 3 weapon_lightning
+1338376943|Item: 5 item_health_mega
+1338376946|Item: 4 ammo_rockets
+1338376946|Kill: 5 3 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1338376946|PlayerScore: 5 7: TT now has 7 points
+1338376946|Challenge: 5 205 1: Client 5 got award 205
+1338376946|Challenge: 5 1 1: Client 5 got award 1
+1338376946|Challenge: 3 2 1: Client 3 got award 2
+1338376947|Item: 5 weapon_plasmagun
+1338376948|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338376948|PlayerScore: 4 11: Enrique now has 11 points
+1338376948|Challenge: 4 205 1: Client 4 got award 205
+1338376948|Challenge: 4 1 1: Client 4 got award 1
+1338376948|Challenge: 5 2 1: Client 5 got award 2
+1338376949|Item: 3 ammo_cells
+1338376950|Item: 3 weapon_rocketlauncher
+1338376951|Item: 5 weapon_rocketlauncher
+1338376952|Item: 5 ammo_rockets
+1338376952|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338376952|PlayerScore: 4 12: Enrique now has 12 points
+1338376952|Challenge: 4 205 1: Client 4 got award 205
+1338376952|Challenge: 4 1 1: Client 4 got award 1
+1338376952|Challenge: 3 2 1: Client 3 got award 2
+1338376953|Item: 2 ammo_cells
+1338376955|Item: 4 weapon_rocketlauncher
+1338376956|Item: 4 weapon_plasmagun
+1338376957|Item: 5 weapon_rocketlauncher
+1338376957|Item: 2 ammo_cells
+1338376961|Kill: 4 2 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338376961|PlayerScore: 4 13: Enrique now has 13 points
+1338376961|Challenge: 4 205 1: Client 4 got award 205
+1338376961|Challenge: 4 1 1: Client 4 got award 1
+1338376961|Challenge: 2 2 1: Client 2 got award 2
+1338376961|Item: 5 weapon_rocketlauncher
+1338376964|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338376964|PlayerScore: 4 14: Enrique now has 14 points
+1338376964|Challenge: 4 205 1: Client 4 got award 205
+1338376964|Challenge: 4 1 1: Client 4 got award 1
+1338376964|Challenge: 3 2 1: Client 3 got award 2
+1338376964|Award: 4 1: Enrique gained the EXCELLENT award!
+1338376964|Challenge: 4 302 1: Client 4 got award 302
+1338376965|Item: 5 weapon_plasmagun
+1338376966|Item: 2 item_armor_body
+1338376966|Item: 2 ammo_rockets
+1338376967|Item: 5 weapon_rocketlauncher
+1338376967|Item: 5 ammo_rockets
+1338376967|Item: 4 ammo_cells
+1338376968|Item: 2 weapon_rocketlauncher
+1338376968|Item: 4 ammo_shells
+1338376969|Item: 4 ammo_shells
+1338376970|Item: 5 weapon_plasmagun
+1338376972|Kill: 5 3 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1338376972|PlayerScore: 5 8: TT now has 8 points
+1338376972|Challenge: 5 205 1: Client 5 got award 205
+1338376972|Challenge: 5 1 1: Client 5 got award 1
+1338376972|Challenge: 3 2 1: Client 3 got award 2
+1338376974|Item: 4 item_health
+1338376977|Kill: 2 4 7: dennis killed Enrique by MOD_ROCKET_SPLASH
+1338376977|PlayerScore: 2 3: dennis now has 3 points
+1338376977|Challenge: 2 205 1: Client 2 got award 205
+1338376977|Challenge: 2 1 1: Client 2 got award 1
+1338376977|Challenge: 4 2 1: Client 4 got award 2
+1338376978|Item: 5 item_armor_combat
+1338376979|Item: 3 weapon_plasmagun
+1338376979|Item: 2 ammo_cells
+1338376979|Item: 4 weapon_rocketlauncher
+1338376979|Item: 2 weapon_rocketlauncher
+1338376979|Item: 4 item_health_mega
+1338376980|Item: 5 weapon_plasmagun
+1338376982|Item: 5 ammo_cells
+1338376983|Item: 2 ammo_cells
+1338376983|Item: 5 item_health
+1338376985|Item: 3 ammo_lightning
+1338376986|Item: 3 weapon_lightning
+1338376986|Item: 4 ammo_cells
+1338376986|Item: 2 weapon_plasmagun
+1338376987|Item: 3 ammo_lightning
+1338376989|Item: 4 ammo_cells
+1338376990|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338376990|PlayerScore: 4 15: Enrique now has 15 points
+1338376990|Exit: Fraglimit hit.
+1338376990|score: 15  ping: 0  client: 4 Enrique
+1338376990|score: 8  ping: 3  client: 5 TT
+1338376990|score: 7  ping: 2  client: 3 Rolph
+1338376990|score: 3  ping: 3  client: 2 dennis
+1338376990|broadcast: print "Enrique^7 hit the fraglimit.\n"
+1338376990|Challenge: 4 205 1: Client 4 got award 205
+1338376990|Challenge: 4 1 1: Client 4 got award 1
+1338376990|Challenge: 5 2 1: Client 5 got award 2
+1338376991|Item: 4 weapon_rocketlauncher
+1338376996|==== ShutdownGame ====
+1338376996|ShutdownGame:
+1338376996|------------------------------------------------------------
+1338376996|AAS shutdown.
+1338376996|------ Server Initialization ------
+1338376996|Server: aggressor
+1338376996|Hunk_Clear: reset the hunk ok
+1338376996|----- FS_Startup -----
+1338376996|Current search path:
+1338376996|/home/jeroen/.openarena/baseoa
+1338376996|/usr/lib/openarena-server/baseoa
+1338376996|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338376996|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338376996|
+1338376996|----------------------
+1338376996|5433 files in pk3 files
+1338376996|Loading vm file vm/qagame.qvm...
+1338376996|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338376996|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338376996|... trying pak6-patch088/qagame
+1338376996|... trying qagame
+1338376996|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338376996|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338376996|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338376996|------- Game Initialization -------
+1338376996|gamename: baseoa
+1338376996|gamedate: Apr  1 2012
+1338376996|------------------------------------------------------------
+1338376996|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\aggressor\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-30 13:23:16
+1338376996|Info: ServerInfo length: 791 of 1024
+1338376996|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338376996|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338376996|0 teams with 0 entities
+1338376996|17 items registered
+1338376996|-----------------------------------
+1338376996|------- BotLib Initialization -------
+1338376996|loaded weapons.c
+1338376996|loaded items.c
+1338376996|loaded syn.c
+1338376996|loaded rnd.c
+1338376996|loaded match.c
+1338376996|loaded rchat.c
+1338376996|------------ Map Loading ------------
+1338376996|trying to load maps/aggressor.aas
+1338376996|loaded maps/aggressor.aas
+1338376996|found 29 level items
+1338376996|-------------------------------------
+1338376996|33 bots parsed
+1338376996|58 arenas parsed
+1338376996|AAS initialized.
+1338376996|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338376996|ClientConnect: 2
+1338376996|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338376996|ClientConnect: 3
+1338376996|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338376996|ClientConnect: 4
+1338376996|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338376996|ClientConnect: 5
+1338376996|-----------------------------------
+1338376998|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338376998|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338376998|broadcast: print "Enrique^7 entered the game\n"
+1338376998|ClientBegin: 4
+1338376998|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338376998|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338376998|broadcast: print "TT^7 entered the game\n"
+1338376998|ClientBegin: 5
+1338376998|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338376998|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338376998|broadcast: print "dennis^7 entered the game\n"
+1338376998|ClientBegin: 2
+1338376998|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338376998|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1338376998|broadcast: print "Rolph^7 entered the game\n"
+1338376998|ClientBegin: 3
+1338376998|Item: 2 weapon_shotgun
+1338376999|Item: 5 weapon_grenadelauncher
+1338377000|Item: 4 item_armor_combat
+1338377003|Item: 5 ammo_cells
+1338377004|Kill: 5 4 5: TT killed Enrique by MOD_GRENADE_SPLASH
+1338377004|PlayerScore: 5 1: TT now has 1 points
+1338377004|Challenge: 5 204 1: Client 5 got award 204
+1338377004|Challenge: 5 1 1: Client 5 got award 1
+1338377004|Challenge: 4 2 1: Client 4 got award 2
+1338377004|Item: 5 weapon_railgun
+1338377005|Item: 2 item_health
+1338377006|Kill: 2 3 1: dennis killed Rolph by MOD_SHOTGUN
+1338377006|PlayerScore: 2 1: dennis now has 1 points
+1338377006|Challenge: 2 203 1: Client 2 got award 203
+1338377006|Challenge: 2 1 1: Client 2 got award 1
+1338377006|Challenge: 3 2 1: Client 3 got award 2
+1338377006|Item: 5 weapon_shotgun
+1338377010|Item: 2 weapon_grenadelauncher
+1338377010|Kill: 4 5 3: Enrique killed TT by MOD_MACHINEGUN
+1338377010|PlayerScore: 4 1: Enrique now has 1 points
+1338377010|Challenge: 4 202 1: Client 4 got award 202
+1338377010|Challenge: 4 1 1: Client 4 got award 1
+1338377010|Challenge: 5 2 1: Client 5 got award 2
+1338377011|Item: 4 weapon_railgun
+1338377011|Item: 2 ammo_rockets
+1338377011|Item: 4 weapon_railgun
+1338377012|Item: 3 weapon_rocketlauncher
+1338377012|Item: 3 ammo_rockets
+1338377013|Item: 2 item_armor_shard
+1338377013|Item: 2 item_armor_shard
+1338377013|Item: 2 item_armor_shard
+1338377013|Item: 2 item_armor_shard
+1338377013|Item: 4 weapon_shotgun
+1338377013|Item: 5 ammo_cells
+1338377015|Item: 3 item_armor_combat
+1338377016|Item: 5 item_health
+1338377019|Item: 5 weapon_rocketlauncher
+1338377019|Item: 3 ammo_shells
+1338377020|Item: 3 item_armor_combat
+1338377020|Item: 3 weapon_lightning
+1338377023|Item: 2 ammo_bullets
+1338377024|Kill: 4 2 10: Enrique killed dennis by MOD_RAILGUN
+1338377024|PlayerScore: 4 2: Enrique now has 2 points
+1338377024|Challenge: 4 208 1: Client 4 got award 208
+1338377024|Challenge: 4 1 1: Client 4 got award 1
+1338377024|Challenge: 2 2 1: Client 2 got award 2
+1338377024|Item: 3 weapon_railgun
+1338377025|Item: 4 item_health_small
+1338377025|Item: 4 item_health_small
+1338377025|Item: 4 item_health_small
+1338377025|Item: 4 item_health_small
+1338377026|Item: 3 weapon_shotgun
+1338377028|Item: 3 item_armor_combat
+1338377030|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338377030|Challenge: 4 301 1: Client 4 got award 301
+1338377032|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338377032|PlayerScore: 3 1: Rolph now has 1 points
+1338377032|Challenge: 3 205 1: Client 3 got award 205
+1338377032|Challenge: 3 1 1: Client 3 got award 1
+1338377032|Challenge: 2 2 1: Client 2 got award 2
+1338377032|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338377032|PlayerScore: 5 2: TT now has 2 points
+1338377032|Challenge: 5 205 1: Client 5 got award 205
+1338377032|Challenge: 5 1 1: Client 5 got award 1
+1338377032|Challenge: 4 2 1: Client 4 got award 2
+1338377033|Item: 5 weapon_railgun
+1338377035|Item: 4 weapon_railgun
+1338377037|Item: 2 weapon_shotgun
+1338377039|Item: 3 weapon_rocketlauncher
+1338377041|Item: 3 item_health
+1338377042|Item: 4 item_health
+1338377043|Kill: 4 2 10: Enrique killed dennis by MOD_RAILGUN
+1338377043|PlayerScore: 4 3: Enrique now has 3 points
+1338377043|Challenge: 4 208 1: Client 4 got award 208
+1338377043|Challenge: 4 1 1: Client 4 got award 1
+1338377043|Challenge: 2 2 1: Client 2 got award 2
+1338377043|Item: 5 weapon_grenadelauncher
+1338377045|Item: 3 weapon_lightning
+1338377046|Item: 4 ammo_cells
+1338377046|Item: 4 weapon_railgun
+1338377047|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338377047|PlayerScore: 5 3: TT now has 3 points
+1338377047|Challenge: 5 205 1: Client 5 got award 205
+1338377047|Challenge: 5 1 1: Client 5 got award 1
+1338377047|Challenge: 4 2 1: Client 4 got award 2
+1338377047|Kill: 5 5 7: TT killed TT by MOD_ROCKET_SPLASH
+1338377047|PlayerScore: 5 2: TT now has 2 points
+1338377048|Item: 3 item_armor_combat
+1338377049|Item: 5 weapon_railgun
+1338377049|Item: 4 weapon_shotgun
+1338377052|Item: 2 weapon_rocketlauncher
+1338377053|Item: 3 item_armor_combat
+1338377055|Item: 5 weapon_grenadelauncher
+1338377056|Item: 3 item_health
+1338377057|Item: 2 weapon_plasmagun
+1338377057|Item: 2 ammo_bullets
+1338377058|Item: 5 item_armor_combat
+1338377058|Kill: 4 5 1: Enrique killed TT by MOD_SHOTGUN
+1338377058|PlayerScore: 4 4: Enrique now has 4 points
+1338377058|Challenge: 4 203 1: Client 4 got award 203
+1338377058|Challenge: 4 1 1: Client 4 got award 1
+1338377058|Challenge: 5 2 1: Client 5 got award 2
+1338377059|Item: 4 weapon_railgun
+1338377060|Item: 2 ammo_shells
+1338377061|Item: 2 weapon_lightning
+1338377061|Item: 4 weapon_railgun
+1338377061|Item: 4 weapon_rocketlauncher
+1338377062|Item: 5 weapon_rocketlauncher
+1338377062|Item: 5 ammo_rockets
+1338377063|Kill: 4 2 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338377063|PlayerScore: 4 5: Enrique now has 5 points
+1338377063|Challenge: 4 205 1: Client 4 got award 205
+1338377063|Challenge: 4 1 1: Client 4 got award 1
+1338377063|Challenge: 2 2 1: Client 2 got award 2
+1338377064|Item: 4 weapon_shotgun
+1338377065|Item: 4 weapon_lightning
+1338377068|Item: 5 weapon_lightning
+1338377069|Item: 4 weapon_railgun
+1338377070|Kill: 3 4 10: Rolph killed Enrique by MOD_RAILGUN
+1338377070|PlayerScore: 3 2: Rolph now has 2 points
+1338377070|Challenge: 3 208 1: Client 3 got award 208
+1338377070|Challenge: 3 1 1: Client 3 got award 1
+1338377070|Challenge: 4 2 1: Client 4 got award 2
+1338377074|Item: 2 weapon_rocketlauncher
+1338377075|Item: 5 weapon_railgun
+1338377075|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338377075|PlayerScore: 5 3: TT now has 3 points
+1338377075|Challenge: 5 205 1: Client 5 got award 205
+1338377075|Challenge: 5 1 1: Client 5 got award 1
+1338377075|Challenge: 4 2 1: Client 4 got award 2
+1338377077|Kill: 5 5 7: TT killed TT by MOD_ROCKET_SPLASH
+1338377077|PlayerScore: 5 2: TT now has 2 points
+1338377078|Item: 4 weapon_rocketlauncher
+1338377079|Item: 5 weapon_grenadelauncher
+1338377080|Item: 3 weapon_rocketlauncher
+1338377081|Item: 2 item_armor_shard
+1338377081|Item: 4 item_armor_combat
+1338377083|Item: 2 item_armor_shard
+1338377083|Item: 2 item_armor_shard
+1338377083|Item: 2 item_armor_shard
+1338377083|Item: 3 item_armor_combat
+1338377084|Item: 3 weapon_railgun
+1338377085|Item: 4 item_armor_combat
+1338377086|Item: 5 ammo_cells
+1338377089|Item: 4 weapon_shotgun
+1338377090|Item: 5 weapon_rocketlauncher
+1338377091|Item: 2 weapon_lightning
+1338377093|Item: 3 item_health
+1338377093|Kill: 4 2 6: Enrique killed dennis by MOD_ROCKET
+1338377093|PlayerScore: 4 6: Enrique now has 6 points
+1338377093|Challenge: 4 205 1: Client 4 got award 205
+1338377093|Challenge: 4 1 1: Client 4 got award 1
+1338377093|Challenge: 2 2 1: Client 2 got award 2
+1338377094|Item: 4 weapon_lightning
+1338377094|Item: 5 weapon_plasmagun
+1338377095|Kill: 4 4 7: Enrique killed Enrique by MOD_ROCKET_SPLASH
+1338377095|PlayerScore: 4 5: Enrique now has 5 points
+1338377097|Item: 2 weapon_rocketlauncher
+1338377098|Item: 4 item_health_small
+1338377098|Item: 4 item_health_small
+1338377098|Item: 4 item_health_small
+1338377098|Item: 4 item_health_small
+1338377098|Kill: 3 5 10: Rolph killed TT by MOD_RAILGUN
+1338377098|PlayerScore: 3 3: Rolph now has 3 points
+1338377098|Challenge: 3 208 1: Client 3 got award 208
+1338377098|Challenge: 3 1 1: Client 3 got award 1
+1338377098|Challenge: 5 2 1: Client 5 got award 2
+1338377099|Kill: 5 3 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1338377099|PlayerScore: 5 3: TT now has 3 points
+1338377099|Challenge: 5 205 1: Client 5 got award 205
+1338377099|Challenge: 5 1 1: Client 5 got award 1
+1338377099|Challenge: 3 2 1: Client 3 got award 2
+1338377099|Item: 4 ammo_cells
+1338377101|Item: 4 weapon_grenadelauncher
+1338377104|Item: 5 weapon_plasmagun
+1338377104|Item: 5 ammo_bullets
+1338377105|Item: 4 weapon_railgun
+1338377107|Item: 3 weapon_rocketlauncher
+1338377107|Item: 3 ammo_rockets
+1338377108|Item: 4 weapon_rocketlauncher
+1338377108|Item: 2 ammo_shells
+1338377109|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338377109|PlayerScore: 5 4: TT now has 4 points
+1338377109|Challenge: 5 207 1: Client 5 got award 207
+1338377109|Challenge: 5 1 1: Client 5 got award 1
+1338377109|Challenge: 2 2 1: Client 2 got award 2
+1338377109|Item: 5 weapon_lightning
+1338377110|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338377110|PlayerScore: 4 6: Enrique now has 6 points
+1338377110|Challenge: 4 205 1: Client 4 got award 205
+1338377110|Challenge: 4 1 1: Client 4 got award 1
+1338377110|Challenge: 5 2 1: Client 5 got award 2
+1338377111|Item: 4 weapon_plasmagun
+1338377112|Item: 3 item_armor_combat
+1338377112|Item: 4 item_armor_combat
+1338377113|Item: 4 weapon_rocketlauncher
+1338377113|Item: 2 weapon_rocketlauncher
+1338377114|Item: 5 ammo_bullets
+1338377116|Item: 5 weapon_lightning
+1338377117|Item: 2 weapon_plasmagun
+1338377118|Kill: 3 4 7: Rolph killed Enrique by MOD_ROCKET_SPLASH
+1338377118|PlayerScore: 3 4: Rolph now has 4 points
+1338377118|Challenge: 3 205 1: Client 3 got award 205
+1338377118|Challenge: 3 1 1: Client 3 got award 1
+1338377118|Challenge: 4 2 1: Client 4 got award 2
+1338377119|Item: 3 weapon_rocketlauncher
+1338377120|Kill: 5 3 11: TT killed Rolph by MOD_LIGHTNING
+1338377120|PlayerScore: 5 5: TT now has 5 points
+1338377120|Challenge: 5 206 1: Client 5 got award 206
+1338377120|Challenge: 5 1 1: Client 5 got award 1
+1338377120|Challenge: 3 2 1: Client 3 got award 2
+1338377120|Item: 4 weapon_railgun
+1338377121|Item: 5 weapon_rocketlauncher
+1338377122|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377122|PlayerScore: 5 6: TT now has 6 points
+1338377122|Challenge: 5 205 1: Client 5 got award 205
+1338377122|Challenge: 5 1 1: Client 5 got award 1
+1338377122|Challenge: 2 2 1: Client 2 got award 2
+1338377122|Award: 5 1: TT gained the EXCELLENT award!
+1338377122|Challenge: 5 302 1: Client 5 got award 302
+1338377122|Item: 4 weapon_shotgun
+1338377123|Item: 4 weapon_railgun
+1338377123|Item: 5 weapon_rocketlauncher
+1338377123|Item: 5 weapon_lightning
+1338377124|Kill: 4 5 10: Enrique killed TT by MOD_RAILGUN
+1338377124|PlayerScore: 4 7: Enrique now has 7 points
+1338377124|Challenge: 4 208 1: Client 4 got award 208
+1338377124|Challenge: 4 1 1: Client 4 got award 1
+1338377124|Challenge: 5 2 1: Client 5 got award 2
+1338377125|Item: 4 weapon_rocketlauncher
+1338377125|Item: 3 item_armor_combat
+1338377126|Item: 2 weapon_rocketlauncher
+1338377128|Item: 3 weapon_grenadelauncher
+1338377128|Item: 5 weapon_plasmagun
+1338377129|Item: 3 ammo_rockets
+1338377130|Kill: 4 2 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338377130|PlayerScore: 4 8: Enrique now has 8 points
+1338377130|Challenge: 4 205 1: Client 4 got award 205
+1338377130|Challenge: 4 1 1: Client 4 got award 1
+1338377130|Challenge: 2 2 1: Client 2 got award 2
+1338377135|Item: 4 item_health
+1338377136|Item: 5 weapon_lightning
+1338377137|Item: 2 weapon_plasmagun
+1338377137|Item: 5 weapon_rocketlauncher
+1338377138|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377138|PlayerScore: 4 9: Enrique now has 9 points
+1338377138|Challenge: 4 205 1: Client 4 got award 205
+1338377138|Challenge: 4 1 1: Client 4 got award 1
+1338377138|Challenge: 3 2 1: Client 3 got award 2
+1338377139|Kill: 4 2 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338377139|PlayerScore: 4 10: Enrique now has 10 points
+1338377139|Challenge: 4 205 1: Client 4 got award 205
+1338377139|Challenge: 4 1 1: Client 4 got award 1
+1338377139|Challenge: 2 2 1: Client 2 got award 2
+1338377139|Award: 4 1: Enrique gained the EXCELLENT award!
+1338377139|Challenge: 4 302 1: Client 4 got award 302
+1338377139|Kill: 3 4 5: Rolph killed Enrique by MOD_GRENADE_SPLASH
+1338377139|PlayerScore: 3 5: Rolph now has 5 points
+1338377139|Challenge: 3 204 1: Client 3 got award 204
+1338377139|Challenge: 3 1 1: Client 3 got award 1
+1338377139|Challenge: 4 2 1: Client 4 got award 2
+1338377140|Item: 5 weapon_rocketlauncher
+1338377142|Item: 2 weapon_rocketlauncher
+1338377142|Item: 4 item_health_small
+1338377142|Item: 4 item_health_small
+1338377142|Item: 4 item_health_small
+1338377142|Item: 4 item_health_small
+1338377143|Item: 3 ammo_cells
+1338377143|Item: 5 weapon_lightning
+1338377143|Item: 3 weapon_railgun
+1338377143|Item: 5 item_armor_combat
+1338377143|Item: 2 weapon_grenadelauncher
+1338377143|Item: 4 ammo_cells
+1338377144|Item: 2 weapon_plasmagun
+1338377144|Item: 2 ammo_bullets
+1338377146|Item: 4 weapon_grenadelauncher
+1338377148|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338377148|PlayerScore: 5 7: TT now has 7 points
+1338377148|Challenge: 5 205 1: Client 5 got award 205
+1338377148|Challenge: 5 1 1: Client 5 got award 1
+1338377148|Challenge: 4 2 1: Client 4 got award 2
+1338377149|Item: 5 weapon_grenadelauncher
+1338377150|Item: 2 weapon_shotgun
+1338377152|Item: 4 item_armor_combat
+1338377152|Item: 3 weapon_railgun
+1338377155|Kill: 2 5 8: dennis killed TT by MOD_PLASMA
+1338377155|PlayerScore: 2 2: dennis now has 2 points
+1338377155|Challenge: 2 207 1: Client 2 got award 207
+1338377155|Challenge: 2 1 1: Client 2 got award 1
+1338377155|Challenge: 5 2 1: Client 5 got award 2
+1338377155|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377155|PlayerScore: 5 8: TT now has 8 points
+1338377155|Challenge: 5 205 1: Client 5 got award 205
+1338377155|Challenge: 5 1 1: Client 5 got award 1
+1338377155|Challenge: 2 2 1: Client 2 got award 2
+1338377157|Item: 4 weapon_rocketlauncher
+1338377157|Item: 5 weapon_grenadelauncher
+1338377158|Item: 4 ammo_rockets
+1338377159|Item: 5 weapon_rocketlauncher
+1338377159|Item: 2 weapon_shotgun
+1338377160|Item: 5 weapon_plasmagun
+1338377160|Item: 3 item_armor_combat
+1338377161|Item: 4 weapon_plasmagun
+1338377164|Kill: 5 2 6: TT killed dennis by MOD_ROCKET
+1338377164|PlayerScore: 5 9: TT now has 9 points
+1338377164|Challenge: 5 205 1: Client 5 got award 205
+1338377164|Challenge: 5 1 1: Client 5 got award 1
+1338377164|Challenge: 2 2 1: Client 2 got award 2
+1338377165|Item: 5 weapon_shotgun
+1338377165|Item: 5 item_health
+1338377166|Item: 2 weapon_lightning
+1338377167|Item: 5 weapon_railgun
+1338377168|Item: 4 ammo_shells
+1338377170|Item: 5 weapon_shotgun
+1338377170|Item: 4 item_armor_combat
+1338377171|Item: 2 weapon_rocketlauncher
+1338377171|Item: 3 item_health
+1338377173|Item: 3 weapon_lightning
+1338377173|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377173|PlayerScore: 4 11: Enrique now has 11 points
+1338377173|Challenge: 4 205 1: Client 4 got award 205
+1338377173|Challenge: 4 1 1: Client 4 got award 1
+1338377173|Challenge: 3 2 1: Client 3 got award 2
+1338377174|Item: 4 weapon_railgun
+1338377175|Item: 5 weapon_railgun
+1338377177|Item: 3 weapon_grenadelauncher
+1338377177|Item: 5 item_armor_combat
+1338377179|Item: 4 ammo_rockets
+1338377180|Item: 2 weapon_shotgun
+1338377180|Item: 3 item_armor_shard
+1338377181|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377181|PlayerScore: 4 12: Enrique now has 12 points
+1338377181|Challenge: 4 205 1: Client 4 got award 205
+1338377181|Challenge: 4 1 1: Client 4 got award 1
+1338377181|Challenge: 3 2 1: Client 3 got award 2
+1338377182|Item: 4 item_armor_shard
+1338377182|Item: 5 weapon_railgun
+1338377182|Item: 4 item_armor_shard
+1338377182|Item: 4 item_armor_shard
+1338377182|Item: 4 weapon_grenadelauncher
+1338377183|Item: 3 item_health_small
+1338377183|Item: 3 item_health_small
+1338377184|Item: 3 item_health_small
+1338377184|Item: 2 ammo_cells
+1338377185|Item: 4 weapon_grenadelauncher
+1338377185|Item: 3 ammo_cells
+1338377185|Item: 3 ammo_bullets
+1338377187|Item: 2 weapon_rocketlauncher
+1338377189|Item: 2 weapon_plasmagun
+1338377189|Item: 2 ammo_bullets
+1338377190|Item: 3 weapon_shotgun
+1338377190|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377190|PlayerScore: 5 10: TT now has 10 points
+1338377190|Challenge: 5 205 1: Client 5 got award 205
+1338377190|Challenge: 5 1 1: Client 5 got award 1
+1338377190|Challenge: 2 2 1: Client 2 got award 2
+1338377191|Item: 5 weapon_lightning
+1338377193|Item: 5 item_armor_combat
+1338377193|Item: 3 weapon_railgun
+1338377193|Item: 2 item_health_small
+1338377195|Item: 3 weapon_shotgun
+1338377196|Item: 2 weapon_grenadelauncher
+1338377196|Item: 5 weapon_lightning
+1338377197|Item: 5 item_armor_combat
+1338377201|Item: 5 weapon_plasmagun
+1338377202|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377202|PlayerScore: 4 13: Enrique now has 13 points
+1338377202|Challenge: 4 205 1: Client 4 got award 205
+1338377202|Challenge: 4 1 1: Client 4 got award 1
+1338377202|Challenge: 3 2 1: Client 3 got award 2
+1338377203|Item: 4 weapon_railgun
+1338377206|Item: 2 weapon_rocketlauncher
+1338377206|Item: 2 ammo_rockets
+1338377208|Item: 4 weapon_plasmagun
+1338377208|Kill: 5 4 8: TT killed Enrique by MOD_PLASMA
+1338377208|PlayerScore: 5 11: TT now has 11 points
+1338377208|Challenge: 5 207 1: Client 5 got award 207
+1338377208|Challenge: 5 1 1: Client 5 got award 1
+1338377208|Challenge: 4 2 1: Client 4 got award 2
+1338377208|Item: 5 weapon_plasmagun
+1338377209|Item: 3 weapon_railgun
+1338377210|Item: 5 ammo_shells
+1338377211|Item: 4 weapon_shotgun
+1338377211|Item: 5 item_health
+1338377211|Item: 5 weapon_lightning
+1338377212|Item: 4 item_armor_combat
+1338377216|Kill: 5 4 4: TT killed Enrique by MOD_GRENADE
+1338377216|PlayerScore: 5 12: TT now has 12 points
+1338377216|Challenge: 5 204 1: Client 5 got award 204
+1338377216|Challenge: 5 1 1: Client 5 got award 1
+1338377216|Challenge: 4 2 1: Client 4 got award 2
+1338377218|Item: 3 weapon_shotgun
+1338377219|Item: 2 weapon_lightning
+1338377220|Item: 5 weapon_rocketlauncher
+1338377220|Item: 4 weapon_shotgun
+1338377221|Item: 4 weapon_grenadelauncher
+1338377222|Item: 5 item_health
+1338377222|Item: 2 weapon_railgun
+1338377223|Item: 3 weapon_plasmagun
+1338377226|Item: 3 item_armor_combat
+1338377226|Kill: 5 3 11: TT killed Rolph by MOD_LIGHTNING
+1338377226|PlayerScore: 5 13: TT now has 13 points
+1338377226|Challenge: 5 206 1: Client 5 got award 206
+1338377226|Challenge: 5 1 1: Client 5 got award 1
+1338377226|Challenge: 3 2 1: Client 3 got award 2
+1338377226|Item: 5 weapon_railgun
+1338377227|Kill: 4 2 4: Enrique killed dennis by MOD_GRENADE
+1338377227|PlayerScore: 4 14: Enrique now has 14 points
+1338377227|Challenge: 4 204 1: Client 4 got award 204
+1338377227|Challenge: 4 1 1: Client 4 got award 1
+1338377227|Challenge: 2 2 1: Client 2 got award 2
+1338377227|Item: 4 ammo_cells
+1338377228|Item: 3 weapon_shotgun
+1338377230|Item: 5 item_armor_combat
+1338377230|Item: 3 weapon_lightning
+1338377231|Item: 5 weapon_lightning
+1338377231|Item: 4 weapon_rocketlauncher
+1338377231|Item: 2 ammo_rockets
+1338377233|Item: 2 item_armor_shard
+1338377233|Item: 2 item_armor_shard
+1338377235|Kill: 3 2 11: Rolph killed dennis by MOD_LIGHTNING
+1338377235|PlayerScore: 3 6: Rolph now has 6 points
+1338377235|Challenge: 3 206 1: Client 3 got award 206
+1338377235|Challenge: 3 1 1: Client 3 got award 1
+1338377235|Challenge: 2 2 1: Client 2 got award 2
+1338377236|Kill: 5 4 11: TT killed Enrique by MOD_LIGHTNING
+1338377236|PlayerScore: 5 14: TT now has 14 points
+1338377236|Challenge: 5 206 1: Client 5 got award 206
+1338377236|Challenge: 5 1 1: Client 5 got award 1
+1338377236|Challenge: 4 2 1: Client 4 got award 2
+1338377237|Item: 5 weapon_rocketlauncher
+1338377237|Item: 3 item_health
+1338377238|Item: 2 weapon_railgun
+1338377239|Item: 4 item_health_small
+1338377239|Item: 4 item_health_small
+1338377239|Item: 4 item_health_small
+1338377239|Item: 4 item_health_small
+1338377240|Item: 5 item_armor_combat
+1338377240|Item: 4 ammo_cells
+1338377240|Item: 5 item_health
+1338377240|Item: 3 weapon_rocketlauncher
+1338377242|Item: 4 weapon_grenadelauncher
+1338377245|Item: 2 weapon_railgun
+1338377247|Item: 3 weapon_lightning
+1338377250|Item: 3 weapon_shotgun
+1338377253|Item: 2 ammo_shells
+1338377253|Item: 2 item_health
+1338377253|Item: 3 weapon_grenadelauncher
+1338377254|Item: 4 weapon_rocketlauncher
+1338377254|Item: 4 ammo_rockets
+1338377256|Item: 2 weapon_shotgun
+1338377256|Item: 3 item_armor_shard
+1338377256|Item: 3 item_armor_shard
+1338377257|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338377257|PlayerScore: 4 15: Enrique now has 15 points
+1338377257|Exit: Fraglimit hit.
+1338377257|score: 15  ping: 0  client: 4 Enrique
+1338377257|score: 14  ping: 2  client: 5 TT
+1338377257|score: 6  ping: 1  client: 3 Rolph
+1338377257|score: 2  ping: 3  client: 2 dennis
+1338377257|broadcast: print "Enrique^7 hit the fraglimit.\n"
+1338377257|Challenge: 4 205 1: Client 4 got award 205
+1338377257|Challenge: 4 1 1: Client 4 got award 1
+1338377257|Challenge: 5 2 1: Client 5 got award 2
+1338377258|Item: 4 weapon_rocketlauncher
+1338377263|g_gametype will be changed upon restarting.
+1338377263|==== ShutdownGame ====
+1338377263|ShutdownGame:
+1338377263|------------------------------------------------------------
+1338377263|AAS shutdown.
+1338377263|------ Server Initialization ------
+1338377263|Server: cbctf1
+1338377263|Hunk_Clear: reset the hunk ok
+1338377263|----- FS_Startup -----
+1338377263|Current search path:
+1338377263|/home/jeroen/.openarena/baseoa
+1338377263|/usr/lib/openarena-server/baseoa
+1338377263|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338377263|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338377263|
+1338377263|----------------------
+1338377263|5433 files in pk3 files
+1338377263|Loading vm file vm/qagame.qvm...
+1338377263|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338377263|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338377263|... trying pak6-patch088/qagame
+1338377263|... trying qagame
+1338377263|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338377263|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338377263|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338377263|------- Game Initialization -------
+1338377263|gamename: baseoa
+1338377263|gamedate: Apr  1 2012
+1338377263|------------------------------------------------------------
+1338377263|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\4\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\cbctf1\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-30 13:27:43
+1338377263|Info: ServerInfo length: 788 of 1024
+1338377263|Gametype changed, clearing session data.
+1338377263|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338377263|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|info_location doesn't have a spawn function
+1338377263|0 teams with 0 entities
+1338377263|17 items registered
+1338377263|-----------------------------------
+1338377263|------- BotLib Initialization -------
+1338377263|loaded weapons.c
+1338377263|loaded items.c
+1338377263|loaded syn.c
+1338377263|loaded rnd.c
+1338377264|loaded match.c
+1338377264|loaded rchat.c
+1338377264|------------ Map Loading ------------
+1338377264|trying to load maps/cbctf1.aas
+1338377264|loaded maps/cbctf1.aas
+1338377264|found 39 level items
+1338377264|-------------------------------------
+1338377264|33 bots parsed
+1338377264|58 arenas parsed
+1338377264|AAS initialized.
+1338377264|ClientUserinfoChanged: 2 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377264|ClientConnect: 2
+1338377264|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377264|ClientConnect: 3
+1338377264|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377264|ClientConnect: 4
+1338377264|ClientUserinfoChanged: 5 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377264|ClientConnect: 5
+1338377264|-----------------------------------
+1338377265|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377265|ClientBegin: 4
+1338377266|ClientUserinfoChanged: 5 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377266|ClientBegin: 5
+1338377266|ClientUserinfoChanged: 2 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377266|ClientBegin: 2
+1338377267|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377267|ClientBegin: 3
+1338377269|ClientUserinfoChanged: 4 n\Enrique\t\2\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377269|ClientUserinfoChanged: 4 n\Enrique\t\2\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377269|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377269|broadcast: print "Enrique^7 entered the game\n"
+1338377269|ClientBegin: 4
+1338377270|ClientUserinfoChanged: 3 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\8D9D8FAD284359ED36F095C64975783B
+1338377270|ClientUserinfoChanged: 3 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\8D9D8FAD284359ED36F095C64975783B
+1338377270|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1338377270|broadcast: print "Rolph^7 entered the game\n"
+1338377270|ClientBegin: 3
+1338377271|ClientUserinfoChanged: 2 n\dennis\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377271|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338377271|broadcast: print "dennis^7 entered the game\n"
+1338377271|ClientBegin: 2
+1338377277|ClientUserinfoChanged: 5 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377277|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338377277|broadcast: print "TT^7 entered the game\n"
+1338377277|ClientBegin: 5
+1338377278|Item: 2 weapon_rocketlauncher
+1338377278|Item: 2 ammo_rockets
+1338377280|broadcast: print "Enrique called a vote.\n"
+1338377281|Item: 3 weapon_rocketlauncher
+1338377282|broadcast: print "Vote passed.\n"
+1338377282|Item: 3 ammo_rockets
+1338377282|Item: 4 item_health_mega
+1338377285|g_gametype will be changed upon restarting.
+1338377285|==== ShutdownGame ====
+1338377285|ShutdownGame:
+1338377285|------------------------------------------------------------
+1338377285|AAS shutdown.
+1338377285|------ Server Initialization ------
+1338377285|Server: ce1m7
+1338377285|Hunk_Clear: reset the hunk ok
+1338377285|----- FS_Startup -----
+1338377285|Current search path:
+1338377285|/home/jeroen/.openarena/baseoa
+1338377285|/usr/lib/openarena-server/baseoa
+1338377285|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338377285|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338377285|
+1338377285|----------------------
+1338377285|5433 files in pk3 files
+1338377285|Loading vm file vm/qagame.qvm...
+1338377285|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338377285|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338377285|... trying pak6-patch088/qagame
+1338377285|... trying qagame
+1338377285|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338377285|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338377285|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338377285|------- Game Initialization -------
+1338377285|gamename: baseoa
+1338377285|gamedate: Apr  1 2012
+1338377285|------------------------------------------------------------
+1338377285|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\ce1m7\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-30 13:28:05
+1338377285|Info: ServerInfo length: 787 of 1024
+1338377285|Gametype changed, clearing session data.
+1338377285|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338377285|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338377285|info_teleport_destination doesn't have a spawn function
+1338377285|trigger_relay doesn't have a spawn function
+1338377285|trigger_changelevel doesn't have a spawn function
+1338377285|event_lightning doesn't have a spawn function
+1338377285|0 teams with 0 entities
+1338377285|14 items registered
+1338377285|-----------------------------------
+1338377285|------- BotLib Initialization -------
+1338377285|loaded weapons.c
+1338377285|loaded items.c
+1338377285|loaded syn.c
+1338377285|loaded rnd.c
+1338377285|loaded match.c
+1338377285|loaded rchat.c
+1338377285|------------ Map Loading ------------
+1338377285|trying to load maps/ce1m7.aas
+1338377285|loaded maps/ce1m7.aas
+1338377285|item_health in solid at (1048.0 -376.0 216.0)
+1338377285|ammo_cells in solid at (344.0 392.0 80.0)
+1338377285|item_health_mega in solid at (1000.0 64.0 136.0)
+1338377285|found 30 level items
+1338377285|-------------------------------------
+1338377285|33 bots parsed
+1338377285|58 arenas parsed
+1338377285|AAS initialized.
+1338377285|FinishSpawningItem: item_health startsolid at (1048 -376 216)
+1338377285|FinishSpawningItem: ammo_cells startsolid at (344 392 80)
+1338377285|FinishSpawningItem: item_health_mega startsolid at (1000 64 136)
+1338377285|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377285|ClientConnect: 2
+1338377285|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377285|ClientConnect: 3
+1338377285|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377285|ClientConnect: 4
+1338377285|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377285|ClientConnect: 5
+1338377285|-----------------------------------
+1338377286|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377286|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377286|broadcast: print "Enrique^7 entered the game\n"
+1338377286|ClientBegin: 4
+1338377287|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377287|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338377287|broadcast: print "TT^7 entered the game\n"
+1338377287|ClientBegin: 5
+1338377287|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377287|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338377287|broadcast: print "dennis^7 entered the game\n"
+1338377287|ClientBegin: 2
+1338377287|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377287|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1338377287|broadcast: print "Rolph^7 entered the game\n"
+1338377287|ClientBegin: 3
+1338377288|Item: 3 weapon_shotgun
+1338377288|Item: 4 ammo_rockets
+1338377288|Item: 5 weapon_plasmagun
+1338377289|Item: 4 weapon_grenadelauncher
+1338377289|Item: 5 ammo_cells
+1338377290|Item: 3 weapon_shotgun
+1338377290|Item: 5 ammo_shells
+1338377290|Item: 2 ammo_shells
+1338377292|Item: 3 ammo_cells
+1338377292|Item: 5 weapon_grenadelauncher
+1338377293|Item: 2 weapon_plasmagun
+1338377295|Kill: 5 4 8: TT killed Enrique by MOD_PLASMA
+1338377295|PlayerScore: 5 1: TT now has 1 points
+1338377295|Challenge: 5 207 1: Client 5 got award 207
+1338377295|Challenge: 5 1 1: Client 5 got award 1
+1338377295|Challenge: 4 2 1: Client 4 got award 2
+1338377295|Item: 5 weapon_grenadelauncher
+1338377296|Item: 2 ammo_shells
+1338377298|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338377298|PlayerScore: 5 2: TT now has 2 points
+1338377298|Challenge: 5 207 1: Client 5 got award 207
+1338377298|Challenge: 5 1 1: Client 5 got award 1
+1338377298|Challenge: 2 2 1: Client 2 got award 2
+1338377298|Award: 5 1: TT gained the EXCELLENT award!
+1338377298|Challenge: 5 302 1: Client 5 got award 302
+1338377299|Item: 5 weapon_plasmagun
+1338377300|Kill: 3 5 1: Rolph killed TT by MOD_SHOTGUN
+1338377300|PlayerScore: 3 1: Rolph now has 1 points
+1338377300|Challenge: 3 203 1: Client 3 got award 203
+1338377300|Challenge: 3 1 1: Client 3 got award 1
+1338377300|Challenge: 5 2 1: Client 5 got award 2
+1338377302|Item: 2 weapon_shotgun
+1338377303|Item: 4 weapon_plasmagun
+1338377303|Item: 3 weapon_plasmagun
+1338377304|Item: 2 weapon_plasmagun
+1338377304|Item: 5 weapon_grenadelauncher
+1338377306|Item: 2 weapon_shotgun
+1338377308|Item: 4 ammo_shells
+1338377311|Item: 2 weapon_grenadelauncher
+1338377312|Item: 5 ammo_rockets
+1338377312|Item: 5 ammo_cells
+1338377313|Item: 5 item_armor_combat
+1338377314|Item: 5 ammo_cells
+1338377314|Item: 5 ammo_rockets
+1338377314|Item: 5 ammo_bullets
+1338377315|Item: 5 weapon_grenadelauncher
+1338377316|Item: 2 ammo_rockets
+1338377316|Item: 2 weapon_rocketlauncher
+1338377319|Kill: 4 3 8: Enrique killed Rolph by MOD_PLASMA
+1338377319|PlayerScore: 4 1: Enrique now has 1 points
+1338377319|Challenge: 4 207 1: Client 4 got award 207
+1338377319|Challenge: 4 1 1: Client 4 got award 1
+1338377319|Challenge: 3 2 1: Client 3 got award 2
+1338377320|Item: 4 weapon_plasmagun
+1338377320|Item: 4 weapon_grenadelauncher
+1338377321|Item: 2 weapon_rocketlauncher
+1338377322|Item: 5 weapon_plasmagun
+1338377324|Item: 2 weapon_grenadelauncher
+1338377330|Kill: 5 3 9: TT killed Rolph by MOD_PLASMA_SPLASH
+1338377330|PlayerScore: 5 3: TT now has 3 points
+1338377330|Challenge: 5 207 1: Client 5 got award 207
+1338377330|Challenge: 5 1 1: Client 5 got award 1
+1338377330|Challenge: 3 2 1: Client 3 got award 2
+1338377330|Kill: 4 2 8: Enrique killed dennis by MOD_PLASMA
+1338377330|PlayerScore: 4 2: Enrique now has 2 points
+1338377330|Challenge: 4 207 1: Client 4 got award 207
+1338377330|Challenge: 4 1 1: Client 4 got award 1
+1338377330|Challenge: 2 2 1: Client 2 got award 2
+1338377330|Item: 5 weapon_rocketlauncher
+1338377331|Kill: 4 5 8: Enrique killed TT by MOD_PLASMA
+1338377331|PlayerScore: 4 3: Enrique now has 3 points
+1338377331|Challenge: 4 207 1: Client 4 got award 207
+1338377331|Challenge: 4 1 1: Client 4 got award 1
+1338377331|Challenge: 5 2 1: Client 5 got award 2
+1338377331|Award: 4 1: Enrique gained the EXCELLENT award!
+1338377331|Challenge: 4 302 1: Client 4 got award 302
+1338377332|Item: 4 weapon_rocketlauncher
+1338377336|Item: 4 ammo_shells
+1338377336|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377336|PlayerScore: 4 4: Enrique now has 4 points
+1338377336|Challenge: 4 205 1: Client 4 got award 205
+1338377336|Challenge: 4 1 1: Client 4 got award 1
+1338377336|Challenge: 3 2 1: Client 3 got award 2
+1338377338|Item: 5 ammo_bullets
+1338377338|Item: 4 weapon_plasmagun
+1338377339|Item: 2 item_quad
+1338377339|Item: 5 weapon_grenadelauncher
+1338377339|Item: 3 weapon_rocketlauncher
+1338377340|Item: 4 ammo_shells
+1338377342|Item: 4 ammo_cells
+1338377345|Kill: 5 2 5: TT killed dennis by MOD_GRENADE_SPLASH
+1338377345|PlayerScore: 5 4: TT now has 4 points
+1338377345|Challenge: 5 204 1: Client 5 got award 204
+1338377345|Challenge: 5 1 1: Client 5 got award 1
+1338377345|Challenge: 2 2 1: Client 2 got award 2
+1338377345|Challenge: 5 406 1: Client 5 got award 406
+1338377347|Item: 3 ammo_shells
+1338377348|Item: 5 weapon_plasmagun
+1338377348|Item: 4 item_quad
+1338377348|Kill: 3 4 7: Rolph killed Enrique by MOD_ROCKET_SPLASH
+1338377348|PlayerScore: 3 2: Rolph now has 2 points
+1338377348|Challenge: 3 205 1: Client 3 got award 205
+1338377348|Challenge: 3 1 1: Client 3 got award 1
+1338377348|Challenge: 4 2 1: Client 4 got award 2
+1338377348|Challenge: 3 406 1: Client 3 got award 406
+1338377349|Item: 3 weapon_rocketlauncher
+1338377350|Item: 2 item_quad
+1338377350|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338377350|PlayerScore: 3 3: Rolph now has 3 points
+1338377350|Challenge: 3 205 1: Client 3 got award 205
+1338377350|Challenge: 3 1 1: Client 3 got award 1
+1338377350|Challenge: 2 2 1: Client 2 got award 2
+1338377350|Challenge: 3 406 1: Client 3 got award 406
+1338377350|Award: 3 1: Rolph gained the EXCELLENT award!
+1338377350|Challenge: 3 302 1: Client 3 got award 302
+1338377350|Item: 3 item_quad
+1338377351|Item: 5 weapon_rocketlauncher
+1338377353|Kill: 4 5 3: Enrique killed TT by MOD_MACHINEGUN
+1338377353|PlayerScore: 4 5: Enrique now has 5 points
+1338377353|Challenge: 4 202 1: Client 4 got award 202
+1338377353|Challenge: 4 1 1: Client 4 got award 1
+1338377353|Challenge: 5 2 1: Client 5 got award 2
+1338377353|Item: 4 weapon_rocketlauncher
+1338377354|Item: 3 ammo_shells
+1338377355|Kill: 3 4 7: Rolph killed Enrique by MOD_ROCKET_SPLASH
+1338377355|PlayerScore: 3 4: Rolph now has 4 points
+1338377355|Challenge: 3 205 1: Client 3 got award 205
+1338377355|Challenge: 3 1 1: Client 3 got award 1
+1338377355|Challenge: 4 2 1: Client 4 got award 2
+1338377355|Challenge: 3 401 1: Client 3 got award 401
+1338377358|Item: 3 weapon_rocketlauncher
+1338377358|Item: 2 ammo_rockets
+1338377358|Item: 2 weapon_grenadelauncher
+1338377359|Item: 3 weapon_plasmagun
+1338377360|Item: 5 weapon_grenadelauncher
+1338377361|Kill: 4 5 2: Enrique killed TT by MOD_GAUNTLET
+1338377361|PlayerScore: 4 6: Enrique now has 6 points
+1338377361|Challenge: 4 201 1: Client 4 got award 201
+1338377361|Award: 4 0: Enrique gained the GAUNTLET award!
+1338377361|Challenge: 4 201 1: Client 4 got award 201
+1338377361|Challenge: 4 1 1: Client 4 got award 1
+1338377361|Challenge: 5 2 1: Client 5 got award 2
+1338377361|Item: 4 weapon_grenadelauncher
+1338377363|Kill: 2 3 4: dennis killed Rolph by MOD_GRENADE
+1338377363|PlayerScore: 2 1: dennis now has 1 points
+1338377363|Challenge: 2 204 1: Client 2 got award 204
+1338377363|Challenge: 2 1 1: Client 2 got award 1
+1338377363|Challenge: 3 2 1: Client 3 got award 2
+1338377363|Challenge: 2 406 1: Client 2 got award 406
+1338377365|Item: 2 weapon_plasmagun
+1338377366|Item: 3 weapon_grenadelauncher
+1338377367|Item: 3 weapon_rocketlauncher
+1338377367|Item: 3 item_quad
+1338377368|Item: 3 ammo_rockets
+1338377368|Item: 3 weapon_rocketlauncher
+1338377371|Item: 2 weapon_grenadelauncher
+1338377371|Item: 4 weapon_plasmagun
+1338377372|Item: 5 weapon_grenadelauncher
+1338377372|Kill: 3 5 7: Rolph killed TT by MOD_ROCKET_SPLASH
+1338377372|PlayerScore: 3 5: Rolph now has 5 points
+1338377372|Challenge: 3 205 1: Client 3 got award 205
+1338377372|Challenge: 3 1 1: Client 3 got award 1
+1338377372|Challenge: 5 2 1: Client 5 got award 2
+1338377372|Challenge: 3 401 1: Client 3 got award 401
+1338377373|Item: 3 weapon_grenadelauncher
+1338377373|Item: 2 ammo_cells
+1338377373|Item: 2 weapon_plasmagun
+1338377377|Item: 5 weapon_rocketlauncher
+1338377377|Item: 4 weapon_plasmagun
+1338377379|Item: 2 weapon_shotgun
+1338377379|Item: 3 ammo_shells
+1338377379|Item: 5 weapon_grenadelauncher
+1338377383|Item: 5 weapon_plasmagun
+1338377384|Item: 3 weapon_rocketlauncher
+1338377386|Item: 2 weapon_plasmagun
+1338377386|Item: 2 item_health
+1338377388|Item: 3 ammo_cells
+1338377388|Item: 4 weapon_grenadelauncher
+1338377388|Item: 2 weapon_plasmagun
+1338377389|Kill: 1022 5 16: <world> killed TT by MOD_LAVA
+1338377389|PlayerScore: 5 3: TT now has 3 points
+1338377391|Kill: 3 4 7: Rolph killed Enrique by MOD_ROCKET_SPLASH
+1338377391|PlayerScore: 3 6: Rolph now has 6 points
+1338377391|Challenge: 3 205 1: Client 3 got award 205
+1338377391|Challenge: 3 1 1: Client 3 got award 1
+1338377391|Challenge: 4 2 1: Client 4 got award 2
+1338377392|Item: 2 weapon_plasmagun
+1338377392|Item: 3 weapon_plasmagun
+1338377393|Item: 3 ammo_shells
+1338377395|Item: 2 weapon_grenadelauncher
+1338377396|Item: 4 ammo_shells
+1338377396|Kill: 5 3 3: TT killed Rolph by MOD_MACHINEGUN
+1338377396|PlayerScore: 5 4: TT now has 4 points
+1338377396|Challenge: 5 202 1: Client 5 got award 202
+1338377396|Challenge: 5 1 1: Client 5 got award 1
+1338377396|Challenge: 3 2 1: Client 3 got award 2
+1338377398|Item: 2 weapon_plasmagun
+1338377399|Item: 5 weapon_plasmagun
+1338377400|Item: 2 weapon_plasmagun
+1338377401|Item: 3 ammo_shells
+1338377403|Item: 2 weapon_shotgun
+1338377404|Item: 5 weapon_rocketlauncher
+1338377405|Item: 4 weapon_plasmagun
+1338377405|Item: 3 ammo_rockets
+1338377405|Item: 3 weapon_grenadelauncher
+1338377406|Kill: 2 5 8: dennis killed TT by MOD_PLASMA
+1338377406|PlayerScore: 2 2: dennis now has 2 points
+1338377406|Challenge: 2 207 1: Client 2 got award 207
+1338377406|Challenge: 2 1 1: Client 2 got award 1
+1338377406|Challenge: 5 2 1: Client 5 got award 2
+1338377406|Kill: 5 2 6: TT killed dennis by MOD_ROCKET
+1338377406|PlayerScore: 5 5: TT now has 5 points
+1338377406|Challenge: 5 205 1: Client 5 got award 205
+1338377406|Challenge: 5 1 1: Client 5 got award 1
+1338377406|Challenge: 2 2 1: Client 2 got award 2
+1338377410|Item: 2 weapon_plasmagun
+1338377411|Item: 2 weapon_rocketlauncher
+1338377411|Kill: 1022 5 16: <world> killed TT by MOD_LAVA
+1338377411|PlayerScore: 5 4: TT now has 4 points
+1338377413|Kill: 3 4 4: Rolph killed Enrique by MOD_GRENADE
+1338377413|PlayerScore: 3 7: Rolph now has 7 points
+1338377413|Challenge: 3 204 1: Client 3 got award 204
+1338377413|Challenge: 3 1 1: Client 3 got award 1
+1338377413|Challenge: 4 2 1: Client 4 got award 2
+1338377414|Kill: 3 2 5: Rolph killed dennis by MOD_GRENADE_SPLASH
+1338377414|PlayerScore: 3 8: Rolph now has 8 points
+1338377414|Challenge: 3 204 1: Client 3 got award 204
+1338377414|Challenge: 3 1 1: Client 3 got award 1
+1338377414|Challenge: 2 2 1: Client 2 got award 2
+1338377414|Award: 3 1: Rolph gained the EXCELLENT award!
+1338377414|Challenge: 3 302 1: Client 3 got award 302
+1338377415|Item: 3 weapon_rocketlauncher
+1338377415|Item: 3 weapon_plasmagun
+1338377417|Kill: 3 5 4: Rolph killed TT by MOD_GRENADE
+1338377417|PlayerScore: 3 9: Rolph now has 9 points
+1338377417|Challenge: 3 204 1: Client 3 got award 204
+1338377417|Challenge: 3 1 1: Client 3 got award 1
+1338377417|Challenge: 5 2 1: Client 5 got award 2
+1338377417|Award: 3 1: Rolph gained the EXCELLENT award!
+1338377417|Challenge: 3 302 1: Client 3 got award 302
+1338377417|Kill: 3 3 5: Rolph killed Rolph by MOD_GRENADE_SPLASH
+1338377417|PlayerScore: 3 8: Rolph now has 8 points
+1338377418|Item: 2 weapon_plasmagun
+1338377420|Item: 5 weapon_grenadelauncher
+1338377420|Item: 3 weapon_rocketlauncher
+1338377420|Item: 2 weapon_shotgun
+1338377420|Item: 3 ammo_rockets
+1338377421|Item: 4 weapon_grenadelauncher
+1338377423|Item: 5 weapon_plasmagun
+1338377427|Kill: 5 4 8: TT killed Enrique by MOD_PLASMA
+1338377427|PlayerScore: 5 5: TT now has 5 points
+1338377427|Challenge: 5 207 1: Client 5 got award 207
+1338377427|Challenge: 5 1 1: Client 5 got award 1
+1338377427|Challenge: 4 2 1: Client 4 got award 2
+1338377428|Item: 2 weapon_grenadelauncher
+1338377429|Item: 5 weapon_grenadelauncher
+1338377430|Item: 5 ammo_cells
+1338377430|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338377430|PlayerScore: 3 9: Rolph now has 9 points
+1338377430|Challenge: 3 205 1: Client 3 got award 205
+1338377430|Challenge: 3 1 1: Client 3 got award 1
+1338377430|Challenge: 2 2 1: Client 2 got award 2
+1338377431|Item: 3 weapon_grenadelauncher
+1338377433|Item: 3 ammo_cells
+1338377433|Item: 3 weapon_plasmagun
+1338377435|Kill: 5 4 8: TT killed Enrique by MOD_PLASMA
+1338377435|PlayerScore: 5 6: TT now has 6 points
+1338377435|Challenge: 5 207 1: Client 5 got award 207
+1338377435|Challenge: 5 1 1: Client 5 got award 1
+1338377435|Challenge: 4 2 1: Client 4 got award 2
+1338377436|Kill: 1022 2 16: <world> killed dennis by MOD_LAVA
+1338377436|PlayerScore: 2 1: dennis now has 1 points
+1338377438|Item: 5 weapon_grenadelauncher
+1338377438|Kill: 3 5 6: Rolph killed TT by MOD_ROCKET
+1338377438|PlayerScore: 3 10: Rolph now has 10 points
+1338377438|Challenge: 3 205 1: Client 3 got award 205
+1338377438|Challenge: 3 1 1: Client 3 got award 1
+1338377438|Challenge: 5 2 1: Client 5 got award 2
+1338377439|Item: 4 weapon_plasmagun
+1338377440|Item: 2 weapon_rocketlauncher
+1338377441|Item: 3 ammo_shells
+1338377443|Item: 5 ammo_shells
+1338377443|Kill: 4 5 8: Enrique killed TT by MOD_PLASMA
+1338377443|PlayerScore: 4 7: Enrique now has 7 points
+1338377443|Challenge: 4 207 1: Client 4 got award 207
+1338377443|Challenge: 4 1 1: Client 4 got award 1
+1338377443|Challenge: 5 2 1: Client 5 got award 2
+1338377444|Item: 2 weapon_grenadelauncher
+1338377446|Kill: 3 4 6: Rolph killed Enrique by MOD_ROCKET
+1338377446|PlayerScore: 3 11: Rolph now has 11 points
+1338377446|Challenge: 3 205 1: Client 3 got award 205
+1338377446|Challenge: 3 1 1: Client 3 got award 1
+1338377446|Challenge: 4 2 1: Client 4 got award 2
+1338377447|Item: 3 weapon_plasmagun
+1338377447|Item: 5 weapon_shotgun
+1338377450|Item: 5 weapon_plasmagun
+1338377450|Item: 4 ammo_shells
+1338377451|Item: 2 ammo_rockets
+1338377451|Item: 2 weapon_grenadelauncher
+1338377452|Item: 3 weapon_grenadelauncher
+1338377452|Kill: 4 3 3: Enrique killed Rolph by MOD_MACHINEGUN
+1338377452|PlayerScore: 4 8: Enrique now has 8 points
+1338377452|Challenge: 4 202 1: Client 4 got award 202
+1338377452|Challenge: 4 1 1: Client 4 got award 1
+1338377452|Challenge: 3 2 1: Client 3 got award 2
+1338377453|Item: 4 weapon_rocketlauncher
+1338377453|Item: 4 weapon_plasmagun
+1338377456|Item: 5 item_health
+1338377457|Item: 5 weapon_shotgun
+1338377457|Item: 2 item_health
+1338377458|Item: 3 weapon_grenadelauncher
+1338377462|Kill: 4 3 6: Enrique killed Rolph by MOD_ROCKET
+1338377462|PlayerScore: 4 9: Enrique now has 9 points
+1338377462|Challenge: 4 205 1: Client 4 got award 205
+1338377462|Challenge: 4 1 1: Client 4 got award 1
+1338377462|Challenge: 3 2 1: Client 3 got award 2
+1338377464|Item: 2 weapon_grenadelauncher
+1338377465|Item: 3 weapon_shotgun
+1338377467|Item: 3 item_quad
+1338377467|Kill: 2 4 4: dennis killed Enrique by MOD_GRENADE
+1338377467|PlayerScore: 2 2: dennis now has 2 points
+1338377467|Challenge: 2 204 1: Client 2 got award 204
+1338377467|Challenge: 2 1 1: Client 2 got award 1
+1338377467|Challenge: 4 2 1: Client 4 got award 2
+1338377467|Kill: 2 2 5: dennis killed dennis by MOD_GRENADE_SPLASH
+1338377467|PlayerScore: 2 1: dennis now has 1 points
+1338377469|Item: 3 weapon_grenadelauncher
+1338377469|Item: 3 weapon_grenadelauncher
+1338377473|Item: 2 weapon_grenadelauncher
+1338377475|Item: 5 weapon_grenadelauncher
+1338377476|Kill: 2 5 4: dennis killed TT by MOD_GRENADE
+1338377476|PlayerScore: 2 2: dennis now has 2 points
+1338377476|Challenge: 2 204 1: Client 2 got award 204
+1338377476|Challenge: 2 1 1: Client 2 got award 1
+1338377476|Challenge: 5 2 1: Client 5 got award 2
+1338377478|Kill: 4 2 3: Enrique killed dennis by MOD_MACHINEGUN
+1338377478|PlayerScore: 4 10: Enrique now has 10 points
+1338377478|Challenge: 4 202 1: Client 4 got award 202
+1338377478|Challenge: 4 1 1: Client 4 got award 1
+1338377478|Challenge: 2 2 1: Client 2 got award 2
+1338377479|Item: 3 ammo_cells
+1338377481|Kill: 3 4 4: Rolph killed Enrique by MOD_GRENADE
+1338377481|PlayerScore: 3 12: Rolph now has 12 points
+1338377481|Challenge: 3 204 1: Client 3 got award 204
+1338377481|Challenge: 3 1 1: Client 3 got award 1
+1338377481|Challenge: 4 2 1: Client 4 got award 2
+1338377481|Challenge: 3 401 1: Client 3 got award 401
+1338377481|Kill: 3 3 5: Rolph killed Rolph by MOD_GRENADE_SPLASH
+1338377481|PlayerScore: 3 11: Rolph now has 11 points
+1338377482|Item: 5 weapon_grenadelauncher
+1338377483|Item: 2 ammo_rockets
+1338377484|Item: 2 weapon_rocketlauncher
+1338377484|Item: 3 weapon_shotgun
+1338377484|Item: 5 weapon_plasmagun
+1338377485|Item: 5 ammo_shells
+1338377485|Item: 4 weapon_plasmagun
+1338377486|Item: 5 weapon_grenadelauncher
+1338377487|Item: 5 ammo_shells
+1338377487|Item: 4 weapon_shotgun
+1338377488|Item: 3 item_quad
+1338377488|Item: 3 weapon_grenadelauncher
+1338377488|Item: 3 ammo_shells
+1338377489|Item: 5 weapon_plasmagun
+1338377489|Item: 2 weapon_rocketlauncher
+1338377492|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338377492|PlayerScore: 5 7: TT now has 7 points
+1338377492|Challenge: 5 207 1: Client 5 got award 207
+1338377492|Challenge: 5 1 1: Client 5 got award 1
+1338377492|Challenge: 2 2 1: Client 2 got award 2
+1338377493|Item: 5 weapon_rocketlauncher
+1338377495|Item: 5 ammo_shells
+1338377496|Item: 2 weapon_shotgun
+1338377496|Kill: 4 3 8: Enrique killed Rolph by MOD_PLASMA
+1338377496|PlayerScore: 4 11: Enrique now has 11 points
+1338377496|Challenge: 4 207 1: Client 4 got award 207
+1338377496|Challenge: 4 1 1: Client 4 got award 1
+1338377496|Challenge: 3 2 1: Client 3 got award 2
+1338377496|Challenge: 4 406 1: Client 4 got award 406
+1338377498|Item: 5 weapon_grenadelauncher
+1338377499|Item: 4 item_quad
+1338377500|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338377500|PlayerScore: 5 8: TT now has 8 points
+1338377500|Challenge: 5 205 1: Client 5 got award 205
+1338377500|Challenge: 5 1 1: Client 5 got award 1
+1338377500|Challenge: 4 2 1: Client 4 got award 2
+1338377500|Challenge: 5 406 1: Client 5 got award 406
+1338377502|Item: 5 weapon_shotgun
+1338377502|Item: 5 item_quad
+1338377503|Item: 5 weapon_grenadelauncher
+1338377504|Kill: 3 2 3: Rolph killed dennis by MOD_MACHINEGUN
+1338377504|PlayerScore: 3 12: Rolph now has 12 points
+1338377504|Challenge: 3 202 1: Client 3 got award 202
+1338377504|Challenge: 3 1 1: Client 3 got award 1
+1338377504|Challenge: 2 2 1: Client 2 got award 2
+1338377505|Item: 3 weapon_shotgun
+1338377509|Item: 5 weapon_plasmagun
+1338377510|Kill: 1022 3 16: <world> killed Rolph by MOD_LAVA
+1338377510|PlayerScore: 3 11: Rolph now has 11 points
+1338377510|Kill: 1022 2 16: <world> killed dennis by MOD_LAVA
+1338377510|PlayerScore: 2 1: dennis now has 1 points
+1338377512|Item: 5 item_health
+1338377512|Item: 5 weapon_grenadelauncher
+1338377514|Item: 2 weapon_plasmagun
+1338377515|Item: 5 ammo_cells
+1338377517|Item: 2 weapon_shotgun
+1338377517|Item: 4 weapon_plasmagun
+1338377517|Item: 5 item_health
+1338377520|Item: 5 weapon_grenadelauncher
+1338377522|Item: 3 ammo_rockets
+1338377522|Item: 3 weapon_grenadelauncher
+1338377523|Item: 2 weapon_plasmagun
+1338377525|Item: 3 ammo_rockets
+1338377525|Item: 5 ammo_shells
+1338377525|Item: 3 weapon_rocketlauncher
+1338377528|Item: 2 weapon_grenadelauncher
+1338377529|Kill: 5 4 8: TT killed Enrique by MOD_PLASMA
+1338377529|PlayerScore: 5 9: TT now has 9 points
+1338377529|Challenge: 5 207 1: Client 5 got award 207
+1338377529|Challenge: 5 1 1: Client 5 got award 1
+1338377529|Challenge: 4 2 1: Client 4 got award 2
+1338377529|Item: 5 weapon_plasmagun
+1338377530|Item: 5 ammo_shells
+1338377532|Item: 5 weapon_plasmagun
+1338377532|Item: 4 weapon_rocketlauncher
+1338377534|Kill: 1022 3 16: <world> killed Rolph by MOD_LAVA
+1338377534|PlayerScore: 3 10: Rolph now has 10 points
+1338377536|Kill: 1022 4 16: <world> killed Enrique by MOD_LAVA
+1338377536|PlayerScore: 4 10: Enrique now has 10 points
+1338377536|Item: 2 ammo_shells
+1338377536|Item: 5 weapon_grenadelauncher
+1338377537|Item: 2 ammo_cells
+1338377538|Item: 2 ammo_shells
+1338377542|Item: 2 weapon_plasmagun
+1338377543|Item: 5 weapon_rocketlauncher
+1338377546|Kill: 2 2 9: dennis killed dennis by MOD_PLASMA_SPLASH
+1338377546|PlayerScore: 2 0: dennis now has 0 points
+1338377546|Item: 4 weapon_plasmagun
+1338377548|Item: 3 weapon_rocketlauncher
+1338377548|Kill: 3 4 3: Rolph killed Enrique by MOD_MACHINEGUN
+1338377548|PlayerScore: 3 11: Rolph now has 11 points
+1338377548|Challenge: 3 202 1: Client 3 got award 202
+1338377548|Challenge: 3 1 1: Client 3 got award 1
+1338377548|Challenge: 4 2 1: Client 4 got award 2
+1338377551|Item: 4 weapon_shotgun
+1338377552|Item: 2 weapon_shotgun
+1338377553|Item: 3 weapon_rocketlauncher
+1338377555|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338377555|PlayerScore: 3 12: Rolph now has 12 points
+1338377555|Challenge: 3 205 1: Client 3 got award 205
+1338377555|Challenge: 3 1 1: Client 3 got award 1
+1338377555|Challenge: 2 2 1: Client 2 got award 2
+1338377556|Item: 4 weapon_shotgun
+1338377557|Kill: 4 3 1: Enrique killed Rolph by MOD_SHOTGUN
+1338377557|PlayerScore: 4 11: Enrique now has 11 points
+1338377557|Challenge: 4 203 1: Client 4 got award 203
+1338377557|Challenge: 4 1 1: Client 4 got award 1
+1338377557|Challenge: 3 2 1: Client 3 got award 2
+1338377557|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338377557|PlayerScore: 5 10: TT now has 10 points
+1338377557|Challenge: 5 205 1: Client 5 got award 205
+1338377557|Challenge: 5 1 1: Client 5 got award 1
+1338377557|Challenge: 4 2 1: Client 4 got award 2
+1338377559|Kill: 2 5 3: dennis killed TT by MOD_MACHINEGUN
+1338377559|PlayerScore: 2 1: dennis now has 1 points
+1338377559|Challenge: 2 202 1: Client 2 got award 202
+1338377559|Challenge: 2 1 1: Client 2 got award 1
+1338377559|Challenge: 5 2 1: Client 5 got award 2
+1338377559|Item: 2 weapon_rocketlauncher
+1338377560|Item: 3 weapon_shotgun
+1338377560|Item: 2 weapon_grenadelauncher
+1338377562|Item: 3 weapon_plasmagun
+1338377563|Item: 3 item_health
+1338377564|Item: 2 weapon_shotgun
+1338377564|Item: 2 weapon_rocketlauncher
+1338377565|Kill: 3 5 8: Rolph killed TT by MOD_PLASMA
+1338377565|PlayerScore: 3 13: Rolph now has 13 points
+1338377565|Challenge: 3 207 1: Client 3 got award 207
+1338377565|Challenge: 3 1 1: Client 3 got award 1
+1338377565|Challenge: 5 2 1: Client 5 got award 2
+1338377566|Item: 3 item_health
+1338377566|Item: 4 weapon_grenadelauncher
+1338377566|Item: 3 weapon_shotgun
+1338377569|Item: 5 weapon_rocketlauncher
+1338377569|Item: 5 ammo_rockets
+1338377571|Item: 2 weapon_plasmagun
+1338377571|Kill: 4 5 4: Enrique killed TT by MOD_GRENADE
+1338377571|PlayerScore: 4 12: Enrique now has 12 points
+1338377571|Challenge: 4 204 1: Client 4 got award 204
+1338377571|Challenge: 4 1 1: Client 4 got award 1
+1338377571|Challenge: 5 2 1: Client 5 got award 2
+1338377574|Item: 5 weapon_shotgun
+1338377575|Item: 2 weapon_rocketlauncher
+1338377576|Item: 5 weapon_plasmagun
+1338377578|Kill: 3 4 1: Rolph killed Enrique by MOD_SHOTGUN
+1338377578|PlayerScore: 3 14: Rolph now has 14 points
+1338377578|Challenge: 3 203 1: Client 3 got award 203
+1338377578|Challenge: 3 1 1: Client 3 got award 1
+1338377578|Challenge: 4 2 1: Client 4 got award 2
+1338377578|Kill: 4 3 4: Enrique killed Rolph by MOD_GRENADE
+1338377578|PlayerScore: 4 13: Enrique now has 13 points
+1338377578|Challenge: 4 204 1: Client 4 got award 204
+1338377578|Challenge: 4 1 1: Client 4 got award 1
+1338377578|Challenge: 3 2 1: Client 3 got award 2
+1338377579|Item: 2 weapon_rocketlauncher
+1338377581|Item: 2 ammo_shells
+1338377581|Item: 5 weapon_grenadelauncher
+1338377582|Item: 3 ammo_rockets
+1338377582|Item: 2 weapon_shotgun
+1338377582|Item: 4 weapon_grenadelauncher
+1338377583|Kill: 4 3 2: Enrique killed Rolph by MOD_GAUNTLET
+1338377583|PlayerScore: 4 14: Enrique now has 14 points
+1338377583|Challenge: 4 201 1: Client 4 got award 201
+1338377583|Award: 4 0: Enrique gained the GAUNTLET award!
+1338377583|Challenge: 4 201 1: Client 4 got award 201
+1338377583|Challenge: 4 1 1: Client 4 got award 1
+1338377583|Challenge: 3 2 1: Client 3 got award 2
+1338377584|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338377584|PlayerScore: 5 11: TT now has 11 points
+1338377584|Challenge: 5 207 1: Client 5 got award 207
+1338377584|Challenge: 5 1 1: Client 5 got award 1
+1338377584|Challenge: 2 2 1: Client 2 got award 2
+1338377584|Item: 5 weapon_rocketlauncher
+1338377586|Item: 4 weapon_rocketlauncher
+1338377588|Item: 4 ammo_shells
+1338377589|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338377589|PlayerScore: 5 12: TT now has 12 points
+1338377589|Challenge: 5 205 1: Client 5 got award 205
+1338377589|Challenge: 5 1 1: Client 5 got award 1
+1338377589|Challenge: 4 2 1: Client 4 got award 2
+1338377589|Item: 3 weapon_rocketlauncher
+1338377590|Item: 2 weapon_grenadelauncher
+1338377591|Kill: 5 3 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1338377591|PlayerScore: 5 13: TT now has 13 points
+1338377591|Challenge: 5 205 1: Client 5 got award 205
+1338377591|Challenge: 5 1 1: Client 5 got award 1
+1338377591|Challenge: 3 2 1: Client 3 got award 2
+1338377591|Award: 5 1: TT gained the EXCELLENT award!
+1338377591|Challenge: 5 302 1: Client 5 got award 302
+1338377592|Item: 5 ammo_cells
+1338377593|Item: 2 weapon_rocketlauncher
+1338377596|Item: 5 weapon_plasmagun
+1338377596|Item: 4 ammo_shells
+1338377597|Kill: 5 5 7: TT killed TT by MOD_ROCKET_SPLASH
+1338377597|PlayerScore: 5 12: TT now has 12 points
+1338377597|Item: 3 weapon_rocketlauncher
+1338377598|Kill: 1022 2 16: <world> killed dennis by MOD_LAVA
+1338377598|PlayerScore: 2 0: dennis now has 0 points
+1338377598|Item: 4 item_quad
+1338377599|Item: 3 weapon_grenadelauncher
+1338377599|Item: 3 item_health
+1338377600|Item: 4 weapon_grenadelauncher
+1338377600|Item: 5 weapon_shotgun
+1338377602|Item: 3 weapon_rocketlauncher
+1338377603|Item: 2 weapon_shotgun
+1338377603|Kill: 4 3 3: Enrique killed Rolph by MOD_MACHINEGUN
+1338377603|PlayerScore: 4 15: Enrique now has 15 points
+1338377603|Exit: Fraglimit hit.
+1338377603|score: 15  ping: 2  client: 4 Enrique
+1338377603|score: 14  ping: 0  client: 3 Rolph
+1338377603|score: 12  ping: 3  client: 5 TT
+1338377603|score: 0  ping: 0  client: 2 dennis
+1338377603|broadcast: print "Enrique^7 hit the fraglimit.\n"
+1338377603|Challenge: 4 202 1: Client 4 got award 202
+1338377603|Challenge: 4 1 1: Client 4 got award 1
+1338377603|Challenge: 3 2 1: Client 3 got award 2
+1338377603|Challenge: 4 401 1: Client 4 got award 401
+1338377604|Item: 4 weapon_rocketlauncher
+1338377619|g_gametype will be changed upon restarting.
+1338377619|==== ShutdownGame ====
+1338377619|ShutdownGame:
+1338377619|------------------------------------------------------------
+1338377619|AAS shutdown.
+1338377619|------ Server Initialization ------
+1338377619|Server: ctf_gate1
+1338377619|Hunk_Clear: reset the hunk ok
+1338377619|----- FS_Startup -----
+1338377619|Current search path:
+1338377619|/home/jeroen/.openarena/baseoa
+1338377619|/usr/lib/openarena-server/baseoa
+1338377619|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338377619|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338377619|
+1338377619|----------------------
+1338377619|5433 files in pk3 files
+1338377619|Loading vm file vm/qagame.qvm...
+1338377619|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338377619|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338377619|... trying pak6-patch088/qagame
+1338377619|... trying qagame
+1338377619|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338377619|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338377619|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338377619|------- Game Initialization -------
+1338377619|gamename: baseoa
+1338377619|gamedate: Apr  1 2012
+1338377619|------------------------------------------------------------
+1338377619|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\4\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\ctf_gate1\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-30 13:33:39
+1338377619|Info: ServerInfo length: 791 of 1024
+1338377619|Gametype changed, clearing session data.
+1338377619|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338377619|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338377619|0 teams with 0 entities
+1338377619|23 items registered
+1338377619|-----------------------------------
+1338377619|------- BotLib Initialization -------
+1338377619|loaded weapons.c
+1338377619|loaded items.c
+1338377619|loaded syn.c
+1338377619|loaded rnd.c
+1338377619|loaded match.c
+1338377619|loaded rchat.c
+1338377619|------------ Map Loading ------------
+1338377619|trying to load maps/ctf_gate1.aas
+1338377619|loaded maps/ctf_gate1.aas
+1338377619|found 71 level items
+1338377619|-------------------------------------
+1338377619|33 bots parsed
+1338377619|58 arenas parsed
+1338377619|AAS initialized.
+1338377619|ClientUserinfoChanged: 2 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377619|ClientConnect: 2
+1338377619|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377619|ClientConnect: 3
+1338377619|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377619|ClientConnect: 4
+1338377619|ClientUserinfoChanged: 5 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377619|ClientConnect: 5
+1338377619|-----------------------------------
+1338377621|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377621|ClientBegin: 4
+1338377621|ClientUserinfoChanged: 5 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338377621|ClientBegin: 5
+1338377621|ClientUserinfoChanged: 2 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377621|ClientBegin: 2
+1338377623|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377623|ClientBegin: 3
+1338377624|ClientUserinfoChanged: 5 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1338377624|ClientUserinfoChanged: 5 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1338377624|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338377624|broadcast: print "TT^7 entered the game\n"
+1338377624|ClientBegin: 5
+1338377625|Item: 5 weapon_shotgun
+1338377625|ClientUserinfoChanged: 4 n\Enrique\t\2\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377625|ClientUserinfoChanged: 4 n\Enrique\t\2\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377625|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338377625|broadcast: print "Enrique^7 entered the game\n"
+1338377625|ClientBegin: 4
+1338377625|ClientUserinfoChanged: 2 n\dennis\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338377625|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338377625|broadcast: print "dennis^7 entered the game\n"
+1338377625|ClientBegin: 2
+1338377626|Item: 4 weapon_shotgun
+1338377626|Item: 5 ammo_rockets
+1338377626|ClientUserinfoChanged: 3 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338377626|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1338377626|broadcast: print "Rolph^7 entered the game\n"
+1338377626|ClientBegin: 3
+1338377626|Item: 2 item_armor_body
+1338377628|Item: 2 ammo_lightning
+1338377629|Item: 5 ammo_lightning
+1338377630|Item: 2 item_health_small
+1338377630|Item: 3 ammo_rockets
+1338377630|Item: 2 item_health_small
+1338377630|Item: 5 item_armor_body
+1338377630|Item: 2 item_health_small
+1338377631|Item: 2 item_health_small
+1338377631|Item: 4 weapon_rocketlauncher
+1338377632|Item: 2 ammo_rockets
+1338377632|Item: 5 weapon_rocketlauncher
+1338377634|Item: 4 item_armor_combat
+1338377635|Item: 2 weapon_shotgun
+1338377637|Item: 4 weapon_lightning
+1338377638|Item: 4 ammo_slugs
+1338377641|Item: 4 ammo_cells
+1338377641|Item: 5 weapon_shotgun
+1338377641|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377641|PlayerScore: 5 1: TT now has 1 points
+1338377641|Challenge: 5 205 1: Client 5 got award 205
+1338377641|Challenge: 5 1 1: Client 5 got award 1
+1338377641|Challenge: 2 2 1: Client 2 got award 2
+1338377643|Item: 4 team_CTF_redflag
+1338377643|broadcast: print "Enrique^7 got the RED flag!\n"
+1338377643|CTF: 4 1 0: Enrique got the RED flag!
+1338377643|PlayerScore: 4 0: Enrique now has 0 points
+1338377643|Item: 5 item_health
+1338377644|Item: 2 weapon_railgun
+1338377645|Item: 5 team_CTF_blueflag
+1338377645|broadcast: print "TT^7 got the BLUE flag!\n"
+1338377645|CTF: 5 2 0: TT got the BLUE flag!
+1338377645|PlayerScore: 5 1: TT now has 1 points
+1338377646|Item: 3 weapon_shotgun
+1338377646|Item: 5 ammo_shells
+1338377646|Item: 4 weapon_grenadelauncher
+1338377647|Item: 2 ammo_bullets
+1338377649|Item: 3 item_health_small
+1338377650|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377650|PlayerScore: 4 1: Enrique now has 1 points
+1338377650|Challenge: 4 205 1: Client 4 got award 205
+1338377650|Challenge: 4 1 1: Client 4 got award 1
+1338377650|Challenge: 3 2 1: Client 3 got award 2
+1338377650|PlayerScore: 4 3: Enrique now has 3 points
+1338377650|Challenge: 4 305 1: Client 4 got award 305
+1338377650|Award: 4 3: Enrique gained the DEFENCE award!
+1338377651|Item: 2 item_health
+1338377651|Item: 5 item_health
+1338377654|Item: 3 weapon_rocketlauncher
+1338377655|Kill: 5 2 1: TT killed dennis by MOD_SHOTGUN
+1338377655|PlayerScore: 5 2: TT now has 2 points
+1338377655|Challenge: 5 203 1: Client 5 got award 203
+1338377655|Challenge: 5 1 1: Client 5 got award 1
+1338377655|Challenge: 2 2 1: Client 2 got award 2
+1338377656|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338377656|PlayerScore: 4 4: Enrique now has 4 points
+1338377656|Challenge: 4 205 1: Client 4 got award 205
+1338377656|Challenge: 4 1 1: Client 4 got award 1
+1338377656|Challenge: 5 2 1: Client 5 got award 2
+1338377656|PlayerScore: 4 6: Enrique now has 6 points
+1338377656|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1338377656|CTF: 4 1 3: Enrique fragged RED's flag carrier!
+1338377656|Item: 4 item_health
+1338377657|Item: 4 team_CTF_blueflag
+1338377657|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1338377657|PlayerScore: 4 7: Enrique now has 7 points
+1338377657|CTF: 4 2 2: Enrique returned the BLUE flag!
+1338377657|Item: 3 weapon_plasmagun
+1338377657|Item: 4 weapon_shotgun
+1338377659|Item: 2 item_armor_body
+1338377660|Item: 3 ammo_shells
+1338377661|Item: 4 team_CTF_blueflag
+1338377661|broadcast: print "Enrique^7 captured the RED flag!\n"
+1338377661|CTF: 4 1 1: Enrique captured the RED flag!
+1338377661|Award: 4 4: Enrique gained the CAPTURE award!
+1338377661|Challenge: 4 303 1: Client 4 got award 303
+1338377661|PlayerScore: 4 12: Enrique now has 12 points
+1338377661|PlayerScore: 2 0: dennis now has 0 points
+1338377661|Item: 3 item_armor_combat
+1338377661|Item: 5 weapon_rocketlauncher
+1338377663|Item: 2 weapon_grenadelauncher
+1338377663|Item: 4 ammo_bullets
+1338377665|Item: 2 weapon_shotgun
+1338377666|Item: 3 weapon_rocketlauncher
+1338377669|Item: 2 weapon_railgun
+1338377671|Kill: 4 3 11: Enrique killed Rolph by MOD_LIGHTNING
+1338377671|PlayerScore: 4 13: Enrique now has 13 points
+1338377671|Challenge: 4 206 1: Client 4 got award 206
+1338377671|Challenge: 4 1 1: Client 4 got award 1
+1338377671|Challenge: 3 2 1: Client 3 got award 2
+1338377671|Item: 4 weapon_rocketlauncher
+1338377673|Item: 5 team_CTF_blueflag
+1338377673|broadcast: print "TT^7 got the BLUE flag!\n"
+1338377673|CTF: 5 2 0: TT got the BLUE flag!
+1338377673|PlayerScore: 5 2: TT now has 2 points
+1338377674|Item: 2 weapon_railgun
+1338377674|Item: 5 ammo_rockets
+1338377676|Item: 3 item_armor_body
+1338377677|Item: 5 ammo_lightning
+1338377677|Item: 3 ammo_lightning
+1338377678|Item: 3 weapon_shotgun
+1338377680|Item: 3 item_health_small
+1338377680|Item: 3 item_health_small
+1338377680|Item: 4 weapon_railgun
+1338377680|Item: 3 item_health_small
+1338377681|Item: 3 ammo_rockets
+1338377684|Item: 3 ammo_shells
+1338377684|Item: 4 ammo_grenades
+1338377685|Item: 3 ammo_bullets
+1338377685|Item: 3 ammo_cells
+1338377686|Item: 4 weapon_lightning
+1338377687|Item: 3 weapon_railgun
+1338377688|Item: 5 team_CTF_redflag
+1338377688|broadcast: print "TT^7 captured the BLUE flag!\n"
+1338377688|CTF: 5 2 1: TT captured the BLUE flag!
+1338377688|Award: 5 4: TT gained the CAPTURE award!
+1338377688|Challenge: 5 303 1: Client 5 got award 303
+1338377688|PlayerScore: 5 7: TT now has 7 points
+1338377688|PlayerScore: 3 0: Rolph now has 0 points
+1338377688|Kill: 3 4 10: Rolph killed Enrique by MOD_RAILGUN
+1338377688|PlayerScore: 3 1: Rolph now has 1 points
+1338377688|Challenge: 3 208 1: Client 3 got award 208
+1338377688|Challenge: 3 1 1: Client 3 got award 1
+1338377688|Challenge: 4 2 1: Client 4 got award 2
+1338377691|Item: 3 weapon_rocketlauncher
+1338377691|Item: 4 weapon_shotgun
+1338377691|Kill: 5 2 6: TT killed dennis by MOD_ROCKET
+1338377691|PlayerScore: 5 8: TT now has 8 points
+1338377691|Challenge: 5 205 1: Client 5 got award 205
+1338377691|Challenge: 5 1 1: Client 5 got award 1
+1338377691|Challenge: 2 2 1: Client 2 got award 2
+1338377691|PlayerScore: 5 9: TT now has 9 points
+1338377691|Challenge: 5 305 1: Client 5 got award 305
+1338377691|Award: 5 3: TT gained the DEFENCE award!
+1338377693|Item: 5 weapon_shotgun
+1338377695|Item: 2 item_armor_body
+1338377696|Item: 4 weapon_rocketlauncher
+1338377696|Item: 5 weapon_grenadelauncher
+1338377696|Item: 5 item_health_small
+1338377697|Item: 4 item_enviro
+1338377698|Item: 2 ammo_rockets
+1338377699|Item: 4 item_armor_combat
+1338377701|Item: 2 weapon_shotgun
+1338377701|Item: 5 item_health
+1338377702|Item: 4 weapon_lightning
+1338377702|Item: 3 ammo_rockets
+1338377703|Item: 5 weapon_plasmagun
+1338377704|Item: 4 weapon_rocketlauncher
+1338377705|Item: 2 team_CTF_redflag
+1338377705|broadcast: print "dennis^7 got the RED flag!\n"
+1338377705|CTF: 2 1 0: dennis got the RED flag!
+1338377705|PlayerScore: 2 0: dennis now has 0 points
+1338377705|Item: 3 ammo_slugs
+1338377709|Item: 2 weapon_railgun
+1338377711|Item: 3 item_enviro
+1338377711|Item: 5 item_health_large
+1338377713|Item: 2 item_health
+1338377718|Item: 5 team_CTF_blueflag
+1338377718|broadcast: print "TT^7 got the BLUE flag!\n"
+1338377718|CTF: 5 2 0: TT got the BLUE flag!
+1338377718|PlayerScore: 5 9: TT now has 9 points
+1338377720|Item: 2 weapon_plasmagun
+1338377721|Item: 5 ammo_cells
+1338377722|Item: 5 weapon_railgun
+1338377723|Item: 2 item_health
+1338377727|Item: 2 weapon_grenadelauncher
+1338377727|Item: 2 item_health_small
+1338377727|Item: 5 item_armor_combat
+1338377727|Item: 2 item_health_small
+1338377727|Item: 2 item_health_small
+1338377728|Kill: 4 3 11: Enrique killed Rolph by MOD_LIGHTNING
+1338377728|PlayerScore: 4 14: Enrique now has 14 points
+1338377728|Challenge: 4 206 1: Client 4 got award 206
+1338377728|Challenge: 4 1 1: Client 4 got award 1
+1338377728|Challenge: 3 2 1: Client 3 got award 2
+1338377728|Challenge: 4 410 1: Client 4 got award 410
+1338377728|Item: 4 weapon_railgun
+1338377728|Item: 4 item_enviro
+1338377729|Item: 2 item_health_small
+1338377730|Item: 4 ammo_bullets
+1338377731|Item: 5 weapon_lightning
+1338377731|Item: 2 ammo_lightning
+1338377732|Item: 2 item_armor_body
+1338377734|Item: 3 weapon_railgun
+1338377735|Item: 4 weapon_shotgun
+1338377736|Item: 4 ammo_rockets
+1338377738|Item: 2 weapon_grenadelauncher
+1338377739|Item: 2 ammo_rockets
+1338377740|Item: 4 weapon_shotgun
+1338377741|Item: 5 weapon_rocketlauncher
+1338377745|Item: 3 item_health_small
+1338377745|Item: 3 weapon_grenadelauncher
+1338377745|Kill: 4 3 1: Enrique killed Rolph by MOD_SHOTGUN
+1338377745|PlayerScore: 4 15: Enrique now has 15 points
+1338377745|Challenge: 4 203 1: Client 4 got award 203
+1338377745|Challenge: 4 1 1: Client 4 got award 1
+1338377745|Challenge: 3 2 1: Client 3 got award 2
+1338377746|Item: 4 weapon_railgun
+1338377747|Item: 3 weapon_railgun
+1338377749|Item: 3 weapon_shotgun
+1338377750|Item: 2 weapon_grenadelauncher
+1338377751|Item: 5 ammo_bullets
+1338377751|Item: 4 weapon_shotgun
+1338377751|Item: 5 ammo_cells
+1338377755|Item: 4 weapon_railgun
+1338377756|Item: 5 item_health
+1338377756|Kill: 3 4 10: Rolph killed Enrique by MOD_RAILGUN
+1338377756|PlayerScore: 3 2: Rolph now has 2 points
+1338377756|Challenge: 3 208 1: Client 3 got award 208
+1338377756|Challenge: 3 1 1: Client 3 got award 1
+1338377756|Challenge: 4 2 1: Client 4 got award 2
+1338377756|PlayerScore: 3 4: Rolph now has 4 points
+1338377756|Award: 3 3: Rolph gained the DEFENCE award!
+1338377756|Challenge: 3 305 1: Client 3 got award 305
+1338377757|Item: 2 weapon_railgun
+1338377759|Item: 4 weapon_shotgun
+1338377762|Item: 4 ammo_bullets
+1338377762|Item: 2 ammo_cells
+1338377762|Item: 2 ammo_bullets
+1338377762|Item: 5 weapon_shotgun
+1338377764|Item: 4 weapon_rocketlauncher
+1338377765|Item: 5 item_health_small
+1338377765|Item: 5 item_health_small
+1338377766|Item: 5 item_health_small
+1338377767|Item: 4 ammo_rockets
+1338377767|Item: 5 ammo_lightning
+1338377768|Item: 3 ammo_rockets
+1338377769|Item: 5 item_armor_body
+1338377773|Item: 5 weapon_grenadelauncher
+1338377774|Item: 4 weapon_lightning
+1338377774|Kill: 4 3 6: Enrique killed Rolph by MOD_ROCKET
+1338377774|PlayerScore: 4 16: Enrique now has 16 points
+1338377774|Challenge: 4 205 1: Client 4 got award 205
+1338377774|Challenge: 4 1 1: Client 4 got award 1
+1338377774|Challenge: 3 2 1: Client 3 got award 2
+1338377775|Item: 4 weapon_railgun
+1338377777|Item: 4 ammo_slugs
+1338377778|Item: 3 weapon_rocketlauncher
+1338377781|Item: 3 ammo_shells
+1338377782|Item: 2 weapon_railgun
+1338377782|Item: 3 item_armor_combat
+1338377784|Item: 2 item_health
+1338377784|Item: 4 weapon_grenadelauncher
+1338377785|Item: 3 weapon_plasmagun
+1338377788|Item: 4 item_health
+1338377788|Item: 5 ammo_rockets
+1338377791|Item: 4 weapon_grenadelauncher
+1338377792|Kill: 2 3 9: dennis killed Rolph by MOD_PLASMA_SPLASH
+1338377792|PlayerScore: 2 1: dennis now has 1 points
+1338377792|Challenge: 2 207 1: Client 2 got award 207
+1338377792|Challenge: 2 1 1: Client 2 got award 1
+1338377792|Challenge: 3 2 1: Client 3 got award 2
+1338377792|Item: 2 weapon_plasmagun
+1338377794|Item: 5 weapon_rocketlauncher
+1338377795|Item: 2 item_health
+1338377795|Item: 4 ammo_bullets
+1338377796|Item: 2 ammo_shells
+1338377797|Item: 5 ammo_slugs
+1338377797|Item: 4 weapon_shotgun
+1338377799|Item: 2 weapon_railgun
+1338377799|Item: 5 weapon_lightning
+1338377800|Item: 4 item_health_large
+1338377805|Item: 4 weapon_lightning
+1338377806|Item: 5 weapon_shotgun
+1338377808|Item: 4 weapon_rocketlauncher
+1338377808|Kill: 3 4 3: Rolph killed Enrique by MOD_MACHINEGUN
+1338377808|PlayerScore: 3 5: Rolph now has 5 points
+1338377808|Challenge: 3 202 1: Client 3 got award 202
+1338377808|Challenge: 3 1 1: Client 3 got award 1
+1338377808|Challenge: 4 2 1: Client 4 got award 2
+1338377810|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377810|PlayerScore: 5 10: TT now has 10 points
+1338377810|Challenge: 5 205 1: Client 5 got award 205
+1338377810|Challenge: 5 1 1: Client 5 got award 1
+1338377810|Challenge: 2 2 1: Client 2 got award 2
+1338377810|PlayerScore: 5 12: TT now has 12 points
+1338377810|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377810|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377810|Item: 3 weapon_railgun
+1338377811|Item: 5 weapon_plasmagun
+1338377811|Item: 4 ammo_lightning
+1338377811|Item: 5 team_CTF_redflag
+1338377811|broadcast: print "TT^7 returned the RED flag!\n"
+1338377811|PlayerScore: 5 13: TT now has 13 points
+1338377811|CTF: 5 1 2: TT returned the RED flag!
+1338377812|Item: 4 item_armor_body
+1338377815|Item: 5 weapon_plasmagun
+1338377816|Item: 5 item_health
+1338377817|Kill: 4 3 3: Enrique killed Rolph by MOD_MACHINEGUN
+1338377817|PlayerScore: 4 17: Enrique now has 17 points
+1338377817|Challenge: 4 202 1: Client 4 got award 202
+1338377817|Challenge: 4 1 1: Client 4 got award 1
+1338377817|Challenge: 3 2 1: Client 3 got award 2
+1338377818|Item: 5 item_armor_combat
+1338377819|Item: 5 ammo_grenades
+1338377819|Item: 4 weapon_railgun
+1338377820|Item: 3 weapon_railgun
+1338377821|Item: 5 weapon_lightning
+1338377822|Item: 5 ammo_slugs
+1338377823|Item: 3 weapon_rocketlauncher
+1338377823|Item: 2 team_CTF_redflag
+1338377823|broadcast: print "dennis^7 got the RED flag!\n"
+1338377823|CTF: 2 1 0: dennis got the RED flag!
+1338377823|PlayerScore: 2 1: dennis now has 1 points
+1338377825|Item: 4 item_health
+1338377827|Item: 2 ammo_lightning
+1338377827|Item: 3 weapon_shotgun
+1338377829|Item: 2 item_armor_body
+1338377829|Kill: 3 4 10: Rolph killed Enrique by MOD_RAILGUN
+1338377829|PlayerScore: 3 6: Rolph now has 6 points
+1338377829|Challenge: 3 208 1: Client 3 got award 208
+1338377829|Challenge: 3 1 1: Client 3 got award 1
+1338377829|Challenge: 4 2 1: Client 4 got award 2
+1338377829|PlayerScore: 3 8: Rolph now has 8 points
+1338377829|Award: 3 3: Rolph gained the DEFENCE award!
+1338377829|Challenge: 3 305 1: Client 3 got award 305
+1338377831|Item: 5 ammo_shells
+1338377832|Item: 4 weapon_railgun
+1338377832|Item: 5 item_health
+1338377834|Item: 2 weapon_plasmagun
+1338377835|Item: 3 ammo_rockets
+1338377837|Item: 4 weapon_rocketlauncher
+1338377838|Item: 2 ammo_shells
+1338377838|Item: 5 ammo_shells
+1338377838|Item: 3 item_enviro
+1338377840|Item: 4 ammo_rockets
+1338377840|Item: 2 weapon_railgun
+1338377841|Item: 5 weapon_plasmagun
+1338377847|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338377847|PlayerScore: 5 14: TT now has 14 points
+1338377847|Challenge: 5 207 1: Client 5 got award 207
+1338377847|Challenge: 5 1 1: Client 5 got award 1
+1338377847|Challenge: 2 2 1: Client 2 got award 2
+1338377847|PlayerScore: 5 16: TT now has 16 points
+1338377847|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377847|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377847|Item: 3 team_CTF_redflag
+1338377847|broadcast: print "Rolph^7 returned the RED flag!\n"
+1338377847|PlayerScore: 3 9: Rolph now has 9 points
+1338377847|CTF: 3 1 2: Rolph returned the RED flag!
+1338377847|Item: 3 weapon_railgun
+1338377848|Item: 4 ammo_cells
+1338377849|Kill: 5 3 10: TT killed Rolph by MOD_RAILGUN
+1338377850|Item: 5 weapon_railgun
+1338377851|Item: 5 item_enviro
+1338377851|Item: 4 team_CTF_redflag
+1338377851|broadcast: print "Enrique^7 got the RED flag!\n"
+1338377851|CTF: 4 1 0: Enrique got the RED flag!
+1338377851|PlayerScore: 4 17: Enrique now has 17 points
+1338377851|Item: 5 item_health
+1338377853|Item: 5 item_armor_combat
+1338377856|Kill: 5 4 11: TT killed Enrique by MOD_LIGHTNING
+1338377856|PlayerScore: 5 17: TT now has 17 points
+1338377856|Challenge: 5 206 1: Client 5 got award 206
+1338377856|Challenge: 5 1 1: Client 5 got award 1
+1338377856|Challenge: 4 2 1: Client 4 got award 2
+1338377856|PlayerScore: 5 19: TT now has 19 points
+1338377856|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377856|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377856|Item: 2 item_enviro
+1338377857|Item: 5 weapon_rocketlauncher
+1338377857|Item: 5 team_CTF_redflag
+1338377857|broadcast: print "TT^7 returned the RED flag!\n"
+1338377857|PlayerScore: 5 20: TT now has 20 points
+1338377857|CTF: 5 1 2: TT returned the RED flag!
+1338377857|Item: 3 weapon_shotgun
+1338377858|Item: 4 ammo_lightning
+1338377860|Item: 4 item_armor_body
+1338377861|Item: 5 team_CTF_redflag
+1338377861|broadcast: print "TT^7 captured the BLUE flag!\n"
+1338377861|CTF: 5 2 1: TT captured the BLUE flag!
+1338377861|Award: 5 4: TT gained the CAPTURE award!
+1338377861|Challenge: 5 303 1: Client 5 got award 303
+1338377861|PlayerScore: 5 25: TT now has 25 points
+1338377861|PlayerScore: 3 9: Rolph now has 9 points
+1338377862|Item: 2 weapon_plasmagun
+1338377863|Item: 5 ammo_bullets
+1338377863|Item: 5 ammo_cells
+1338377865|Item: 5 weapon_railgun
+1338377865|Item: 4 weapon_shotgun
+1338377866|Item: 2 team_CTF_redflag
+1338377866|broadcast: print "dennis^7 got the RED flag!\n"
+1338377866|CTF: 2 1 0: dennis got the RED flag!
+1338377866|PlayerScore: 2 1: dennis now has 1 points
+1338377866|Item: 5 item_health
+1338377868|Item: 4 ammo_bullets
+1338377870|Item: 4 weapon_rocketlauncher
+1338377871|Item: 5 weapon_rocketlauncher
+1338377871|Item: 3 weapon_railgun
+1338377875|Kill: 5 2 11: TT killed dennis by MOD_LIGHTNING
+1338377875|PlayerScore: 5 26: TT now has 26 points
+1338377875|Challenge: 5 206 1: Client 5 got award 206
+1338377875|Challenge: 5 1 1: Client 5 got award 1
+1338377875|Challenge: 2 2 1: Client 2 got award 2
+1338377875|Challenge: 5 410 1: Client 5 got award 410
+1338377875|PlayerScore: 5 28: TT now has 28 points
+1338377875|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377875|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377876|Item: 5 team_CTF_redflag
+1338377876|broadcast: print "TT^7 returned the RED flag!\n"
+1338377876|PlayerScore: 5 29: TT now has 29 points
+1338377876|CTF: 5 1 2: TT returned the RED flag!
+1338377876|Item: 5 weapon_shotgun
+1338377877|Item: 3 item_enviro
+1338377878|Item: 2 weapon_railgun
+1338377878|Item: 3 item_health
+1338377880|Item: 4 ammo_rockets
+1338377881|Item: 4 weapon_grenadelauncher
+1338377881|Item: 5 ammo_slugs
+1338377881|Item: 3 weapon_rocketlauncher
+1338377881|Item: 2 weapon_plasmagun
+1338377883|Item: 3 item_health
+1338377886|Item: 3 item_armor_combat
+1338377886|Item: 5 item_health
+1338377887|Item: 3 ammo_grenades
+1338377888|Item: 5 team_CTF_blueflag
+1338377888|broadcast: print "TT^7 got the BLUE flag!\n"
+1338377888|CTF: 5 2 0: TT got the BLUE flag!
+1338377888|PlayerScore: 5 29: TT now has 29 points
+1338377889|Item: 5 item_health
+1338377890|Item: 2 ammo_bullets
+1338377891|Kill: 3 2 7: Rolph killed dennis by MOD_ROCKET_SPLASH
+1338377891|PlayerScore: 3 10: Rolph now has 10 points
+1338377891|Challenge: 3 205 1: Client 3 got award 205
+1338377891|Challenge: 3 1 1: Client 3 got award 1
+1338377891|Challenge: 2 2 1: Client 2 got award 2
+1338377893|Item: 3 weapon_railgun
+1338377893|Item: 3 item_health
+1338377894|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338377894|PlayerScore: 4 18: Enrique now has 18 points
+1338377894|Challenge: 4 205 1: Client 4 got award 205
+1338377894|Challenge: 4 1 1: Client 4 got award 1
+1338377894|Challenge: 5 2 1: Client 5 got award 2
+1338377894|PlayerScore: 4 20: Enrique now has 20 points
+1338377894|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1338377894|CTF: 4 1 3: Enrique fragged RED's flag carrier!
+1338377895|Item: 3 weapon_shotgun
+1338377896|Item: 4 team_CTF_blueflag
+1338377896|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1338377896|PlayerScore: 4 21: Enrique now has 21 points
+1338377896|CTF: 4 2 2: Enrique returned the BLUE flag!
+1338377896|Item: 2 weapon_rocketlauncher
+1338377896|Item: 5 weapon_railgun
+1338377897|Item: 3 ammo_rockets
+1338377898|Item: 4 weapon_rocketlauncher
+1338377902|Kill: 4 5 6: Enrique killed TT by MOD_ROCKET
+1338377902|PlayerScore: 4 22: Enrique now has 22 points
+1338377902|Challenge: 4 205 1: Client 4 got award 205
+1338377902|Challenge: 4 1 1: Client 4 got award 1
+1338377902|Challenge: 5 2 1: Client 5 got award 2
+1338377903|Item: 3 item_health_small
+1338377904|Item: 4 ammo_rockets
+1338377904|Item: 3 item_health_small
+1338377904|Item: 3 item_health_small
+1338377904|Item: 3 item_health_small
+1338377904|Item: 4 item_health_large
+1338377905|Item: 5 weapon_rocketlauncher
+1338377906|Item: 4 weapon_railgun
+1338377906|Item: 3 ammo_lightning
+1338377907|Item: 3 item_armor_body
+1338377907|Item: 2 team_CTF_redflag
+1338377907|broadcast: print "dennis^7 got the RED flag!\n"
+1338377907|CTF: 2 1 0: dennis got the RED flag!
+1338377907|PlayerScore: 2 1: dennis now has 1 points
+1338377909|Item: 2 ammo_shells
+1338377910|Item: 2 ammo_cells
+1338377911|Item: 2 weapon_railgun
+1338377912|Item: 2 item_health
+1338377912|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377912|PlayerScore: 5 30: TT now has 30 points
+1338377912|Challenge: 5 205 1: Client 5 got award 205
+1338377912|Challenge: 5 1 1: Client 5 got award 1
+1338377912|Challenge: 2 2 1: Client 2 got award 2
+1338377912|PlayerScore: 5 32: TT now has 32 points
+1338377912|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377912|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377913|Item: 4 item_health
+1338377914|Item: 5 weapon_shotgun
+1338377915|Item: 2 weapon_shotgun
+1338377918|Item: 5 weapon_shotgun
+1338377920|Item: 2 weapon_shotgun
+1338377921|Item: 4 weapon_grenadelauncher
+1338377921|Item: 5 ammo_bullets
+1338377923|Item: 5 weapon_railgun
+1338377923|Item: 3 ammo_cells
+1338377924|Item: 5 weapon_rocketlauncher
+1338377924|Item: 5 team_CTF_redflag
+1338377924|broadcast: print "TT^7 returned the RED flag!\n"
+1338377924|PlayerScore: 5 33: TT now has 33 points
+1338377924|CTF: 5 1 2: TT returned the RED flag!
+1338377926|Item: 2 weapon_shotgun
+1338377929|Item: 4 team_CTF_redflag
+1338377929|broadcast: print "Enrique^7 got the RED flag!\n"
+1338377929|CTF: 4 1 0: Enrique got the RED flag!
+1338377929|PlayerScore: 4 22: Enrique now has 22 points
+1338377929|Kill: 5 4 6: TT killed Enrique by MOD_ROCKET
+1338377929|PlayerScore: 5 34: TT now has 34 points
+1338377929|Challenge: 5 205 1: Client 5 got award 205
+1338377929|Challenge: 5 1 1: Client 5 got award 1
+1338377929|Challenge: 4 2 1: Client 4 got award 2
+1338377929|PlayerScore: 5 36: TT now has 36 points
+1338377929|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377929|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377929|Kill: 2 5 1: dennis killed TT by MOD_SHOTGUN
+1338377929|PlayerScore: 2 2: dennis now has 2 points
+1338377929|Challenge: 2 203 1: Client 2 got award 203
+1338377929|Challenge: 2 1 1: Client 2 got award 1
+1338377929|Challenge: 5 2 1: Client 5 got award 2
+1338377931|Item: 2 weapon_rocketlauncher
+1338377932|Item: 2 weapon_shotgun
+1338377932|Item: 5 weapon_rocketlauncher
+1338377932|Item: 5 team_CTF_redflag
+1338377932|broadcast: print "TT^7 returned the RED flag!\n"
+1338377932|PlayerScore: 5 37: TT now has 37 points
+1338377932|CTF: 5 1 2: TT returned the RED flag!
+1338377932|Item: 4 weapon_railgun
+1338377935|Item: 2 team_CTF_redflag
+1338377935|broadcast: print "dennis^7 got the RED flag!\n"
+1338377935|CTF: 2 1 0: dennis got the RED flag!
+1338377935|PlayerScore: 2 2: dennis now has 2 points
+1338377937|Item: 4 weapon_rocketlauncher
+1338377937|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338377937|PlayerScore: 5 38: TT now has 38 points
+1338377937|Challenge: 5 205 1: Client 5 got award 205
+1338377937|Challenge: 5 1 1: Client 5 got award 1
+1338377937|Challenge: 2 2 1: Client 2 got award 2
+1338377937|PlayerScore: 5 40: TT now has 40 points
+1338377937|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338377937|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338377938|Item: 5 weapon_shotgun
+1338377938|Item: 5 team_CTF_redflag
+1338377938|broadcast: print "TT^7 returned the RED flag!\n"
+1338377938|PlayerScore: 5 41: TT now has 41 points
+1338377938|CTF: 5 1 2: TT returned the RED flag!
+1338377941|Item: 5 ammo_bullets
+1338377941|Item: 3 ammo_rockets
+1338377942|Item: 3 item_health_small
+1338377942|Item: 2 weapon_plasmagun
+1338377942|Item: 3 item_health_small
+1338377943|Item: 3 item_health_small
+1338377943|Item: 3 item_health_small
+1338377943|Item: 5 item_health
+1338377945|Item: 2 ammo_bullets
+1338377945|Item: 5 ammo_slugs
+1338377946|Item: 3 item_armor_body
+1338377946|Item: 4 ammo_slugs
+1338377948|Item: 5 item_health
+1338377950|Item: 2 weapon_rocketlauncher
+1338377952|Item: 5 item_health
+1338377953|Item: 5 team_CTF_blueflag
+1338377953|broadcast: print "TT^7 got the BLUE flag!\n"
+1338377953|CTF: 5 2 0: TT got the BLUE flag!
+1338377953|PlayerScore: 5 41: TT now has 41 points
+1338377955|Item: 4 team_CTF_redflag
+1338377955|broadcast: print "Enrique^7 got the RED flag!\n"
+1338377955|CTF: 4 1 0: Enrique got the RED flag!
+1338377955|PlayerScore: 4 22: Enrique now has 22 points
+1338377957|Item: 5 weapon_plasmagun
+1338377957|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338377957|PlayerScore: 4 23: Enrique now has 23 points
+1338377957|Challenge: 4 205 1: Client 4 got award 205
+1338377957|Challenge: 4 1 1: Client 4 got award 1
+1338377957|Challenge: 3 2 1: Client 3 got award 2
+1338377958|Item: 5 item_health
+1338377959|Item: 5 weapon_rocketlauncher
+1338377961|Item: 3 weapon_rocketlauncher
+1338377962|Item: 4 ammo_lightning
+1338377963|Item: 3 weapon_shotgun
+1338377965|Item: 4 ammo_shells
+1338377966|Item: 4 item_armor_combat
+1338377968|Item: 3 weapon_shotgun
+1338377969|Item: 5 ammo_rockets
+1338377970|Item: 3 weapon_rocketlauncher
+1338377973|Item: 2 ammo_cells
+1338377974|Item: 5 item_health
+1338377974|Item: 4 ammo_rockets
+1338377974|Item: 2 weapon_railgun
+1338377975|Item: 3 weapon_railgun
+1338377976|Item: 4 weapon_grenadelauncher
+1338377976|Item: 5 weapon_shotgun
+1338377976|Item: 4 item_health_small
+1338377976|Item: 4 item_health_small
+1338377977|Item: 4 item_health_small
+1338377977|Item: 3 ammo_cells
+1338377977|Item: 4 item_health_small
+1338377979|Item: 5 ammo_bullets
+1338377980|Item: 4 ammo_lightning
+1338377981|Item: 5 weapon_railgun
+1338377982|Item: 4 item_armor_body
+1338377982|Item: 3 item_enviro
+1338377982|Item: 5 item_health
+1338377985|Item: 3 ammo_rockets
+1338377985|Item: 5 ammo_shells
+1338377987|Item: 5 weapon_shotgun
+1338377988|Item: 4 weapon_shotgun
+1338377989|Item: 5 ammo_rockets
+1338377989|Item: 3 item_enviro
+1338377990|Item: 5 item_health_small
+1338377990|Item: 2 ammo_bullets
+1338377990|Item: 5 item_health_small
+1338377990|Item: 5 item_health_small
+1338377990|Item: 5 item_health_small
+1338377994|Item: 5 item_armor_body
+1338377995|Item: 2 weapon_rocketlauncher
+1338377996|Item: 3 weapon_shotgun
+1338378000|Item: 4 ammo_shells
+1338378002|Kill: 4 3 10: Enrique killed Rolph by MOD_RAILGUN
+1338378002|PlayerScore: 4 24: Enrique now has 24 points
+1338378002|Challenge: 4 208 1: Client 4 got award 208
+1338378002|Challenge: 4 1 1: Client 4 got award 1
+1338378002|Challenge: 3 2 1: Client 3 got award 2
+1338378002|Challenge: 4 410 1: Client 4 got award 410
+1338378002|PlayerScore: 4 26: Enrique now has 26 points
+1338378002|Challenge: 4 305 1: Client 4 got award 305
+1338378002|Award: 4 3: Enrique gained the DEFENCE award!
+1338378003|Item: 4 weapon_rocketlauncher
+1338378003|Item: 4 item_enviro
+1338378004|Item: 2 weapon_shotgun
+1338378005|Item: 3 weapon_shotgun
+1338378009|Item: 4 weapon_grenadelauncher
+1338378011|Item: 3 weapon_railgun
+1338378012|Item: 2 item_armor_combat
+1338378012|Item: 4 item_armor_body
+1338378012|Item: 2 ammo_shells
+1338378014|Item: 2 weapon_lightning
+1338378015|Item: 4 item_health
+1338378019|Item: 4 item_health
+1338378021|Item: 4 weapon_shotgun
+1338378022|Item: 4 ammo_rockets
+1338378024|Item: 5 ammo_rockets
+1338378024|Item: 4 item_health_small
+1338378025|Item: 4 item_health_small
+1338378025|Item: 4 item_health_small
+1338378025|Item: 4 item_health_small
+1338378026|Item: 3 weapon_grenadelauncher
+1338378028|Item: 2 weapon_shotgun
+1338378029|Item: 3 item_armor_body
+1338378029|Item: 5 ammo_cells
+1338378031|Item: 4 ammo_bullets
+1338378031|Item: 4 ammo_cells
+1338378031|Item: 3 ammo_lightning
+1338378032|Item: 2 ammo_shells
+1338378033|Item: 4 weapon_railgun
+1338378033|Item: 5 ammo_slugs
+1338378033|Item: 2 ammo_bullets
+1338378033|Item: 2 ammo_cells
+1338378036|Item: 5 weapon_lightning
+1338378038|Item: 4 weapon_railgun
+1338378038|Item: 2 weapon_railgun
+1338378041|Item: 5 weapon_lightning
+1338378042|Item: 3 item_health
+1338378047|Item: 3 weapon_shotgun
+1338378048|Item: 4 weapon_railgun
+1338378048|Item: 3 item_health
+1338378049|Item: 2 weapon_railgun
+1338378051|Item: 3 weapon_rocketlauncher
+1338378053|Item: 5 ammo_slugs
+1338378055|Item: 2 weapon_shotgun
+1338378056|Item: 3 ammo_rockets
+1338378058|Item: 4 weapon_railgun
+1338378058|Item: 2 item_health_small
+1338378058|Item: 2 item_health_small
+1338378058|Item: 2 item_health_small
+1338378059|Item: 3 weapon_rocketlauncher
+1338378060|Item: 4 ammo_shells
+1338378061|Item: 3 weapon_plasmagun
+1338378062|Item: 2 item_armor_body
+1338378062|Item: 4 weapon_shotgun
+1338378062|Item: 5 item_health
+1338378064|Item: 5 ammo_rockets
+1338378065|Item: 5 weapon_grenadelauncher
+1338378065|Item: 4 ammo_bullets
+1338378065|Award: 2 2: dennis gained the IMPRESSIVE award!
+1338378065|Challenge: 2 301 1: Client 2 got award 301
+1338378069|Item: 3 weapon_railgun
+1338378071|Item: 4 ammo_rockets
+1338378073|Item: 3 ammo_cells
+1338378074|Item: 4 ammo_lightning
+1338378075|Item: 5 weapon_railgun
+1338378075|Item: 4 item_armor_body
+1338378076|Item: 5 item_health
+1338378078|Item: 3 weapon_grenadelauncher
+1338378079|Item: 2 ammo_bullets
+1338378080|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338378080|PlayerScore: 4 27: Enrique now has 27 points
+1338378080|Challenge: 4 205 1: Client 4 got award 205
+1338378080|Challenge: 4 1 1: Client 4 got award 1
+1338378080|Challenge: 3 2 1: Client 3 got award 2
+1338378080|PlayerScore: 4 29: Enrique now has 29 points
+1338378080|Challenge: 4 305 1: Client 4 got award 305
+1338378080|Award: 4 3: Enrique gained the DEFENCE award!
+1338378081|Item: 4 weapon_railgun
+1338378082|Item: 4 item_health_small
+1338378082|Item: 4 item_health_small
+1338378082|Item: 3 weapon_railgun
+1338378082|Item: 4 item_health_small
+1338378083|Item: 2 weapon_shotgun
+1338378083|Item: 4 item_health_small
+1338378083|Item: 5 weapon_rocketlauncher
+1338378084|Item: 3 ammo_cells
+1338378085|Item: 4 item_health
+1338378085|Item: 2 weapon_grenadelauncher
+1338378086|Item: 5 item_health_large
+1338378087|Item: 5 ammo_slugs
+1338378089|Item: 3 weapon_lightning
+1338378089|Item: 2 item_armor_body
+1338378091|Item: 4 weapon_railgun
+1338378091|Item: 2 weapon_plasmagun
+1338378094|Item: 5 weapon_lightning
+1338378096|Item: 4 weapon_shotgun
+1338378099|Item: 2 weapon_grenadelauncher
+1338378099|Item: 2 item_health_small
+1338378099|Item: 2 item_health_small
+1338378100|Item: 2 item_health_small
+1338378102|Item: 3 weapon_grenadelauncher
+1338378103|Item: 2 item_health_small
+1338378105|Item: 3 item_armor_body
+1338378109|Item: 2 ammo_cells
+1338378110|Item: 2 weapon_railgun
+1338378111|Item: 3 ammo_bullets
+1338378111|Item: 3 item_health
+1338378113|Kill: 3 4 11: Rolph killed Enrique by MOD_LIGHTNING
+1338378113|PlayerScore: 3 11: Rolph now has 11 points
+1338378113|Challenge: 3 206 1: Client 3 got award 206
+1338378113|Challenge: 3 1 1: Client 3 got award 1
+1338378113|Challenge: 4 2 1: Client 4 got award 2
+1338378113|PlayerScore: 3 13: Rolph now has 13 points
+1338378113|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1338378113|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1338378114|Item: 3 weapon_shotgun
+1338378115|Item: 3 team_CTF_redflag
+1338378115|broadcast: print "Rolph^7 returned the RED flag!\n"
+1338378115|PlayerScore: 3 14: Rolph now has 14 points
+1338378115|CTF: 3 1 2: Rolph returned the RED flag!
+1338378116|Item: 3 ammo_shells
+1338378117|Item: 3 ammo_bullets
+1338378117|Item: 2 weapon_lightning
+1338378117|Item: 3 ammo_cells
+1338378118|Item: 4 weapon_plasmagun
+1338378119|Item: 3 weapon_railgun
+1338378120|Item: 5 weapon_rocketlauncher
+1338378120|Kill: 4 5 3: Enrique killed TT by MOD_MACHINEGUN
+1338378120|PlayerScore: 4 30: Enrique now has 30 points
+1338378120|Challenge: 4 202 1: Client 4 got award 202
+1338378120|Challenge: 4 1 1: Client 4 got award 1
+1338378120|Challenge: 5 2 1: Client 5 got award 2
+1338378120|PlayerScore: 4 32: Enrique now has 32 points
+1338378120|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1338378120|CTF: 4 1 3: Enrique fragged RED's flag carrier!
+1338378121|Item: 4 weapon_rocketlauncher
+1338378121|Item: 4 team_CTF_blueflag
+1338378121|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1338378121|PlayerScore: 4 33: Enrique now has 33 points
+1338378121|CTF: 4 2 2: Enrique returned the BLUE flag!
+1338378123|Item: 5 weapon_plasmagun
+1338378123|Item: 2 item_health
+1338378124|Item: 3 item_health
+1338378125|Item: 2 team_CTF_redflag
+1338378125|broadcast: print "dennis^7 got the RED flag!\n"
+1338378125|CTF: 2 1 0: dennis got the RED flag!
+1338378125|PlayerScore: 2 2: dennis now has 2 points
+1338378125|Item: 4 item_enviro
+1338378127|Item: 5 ammo_rockets
+1338378128|Item: 4 item_armor_combat
+1338378130|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338378130|PlayerScore: 5 42: TT now has 42 points
+1338378130|Challenge: 5 207 1: Client 5 got award 207
+1338378130|Challenge: 5 1 1: Client 5 got award 1
+1338378130|Challenge: 2 2 1: Client 2 got award 2
+1338378130|PlayerScore: 5 44: TT now has 44 points
+1338378130|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338378130|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338378130|Item: 5 weapon_lightning
+1338378131|Item: 5 team_CTF_redflag
+1338378131|broadcast: print "TT^7 returned the RED flag!\n"
+1338378131|PlayerScore: 5 45: TT now has 45 points
+1338378131|CTF: 5 1 2: TT returned the RED flag!
+1338378131|Item: 4 weapon_lightning
+1338378131|Item: 5 ammo_lightning
+1338378132|Item: 3 weapon_plasmagun
+1338378132|Item: 5 item_armor_body
+1338378133|Item: 2 weapon_shotgun
+1338378135|Item: 5 ammo_shells
+1338378137|Item: 2 ammo_rockets
+1338378137|Item: 5 item_health
+1338378141|Item: 5 weapon_rocketlauncher
+1338378145|Item: 5 team_CTF_blueflag
+1338378145|broadcast: print "TT^7 got the BLUE flag!\n"
+1338378145|CTF: 5 2 0: TT got the BLUE flag!
+1338378145|PlayerScore: 5 45: TT now has 45 points
+1338378146|Item: 2 team_CTF_redflag
+1338378146|broadcast: print "dennis^7 got the RED flag!\n"
+1338378146|CTF: 2 1 0: dennis got the RED flag!
+1338378146|PlayerScore: 2 2: dennis now has 2 points
+1338378147|Item: 5 ammo_rockets
+1338378147|Kill: 4 3 6: Enrique killed Rolph by MOD_ROCKET
+1338378147|PlayerScore: 4 34: Enrique now has 34 points
+1338378147|Challenge: 4 205 1: Client 4 got award 205
+1338378147|Challenge: 4 1 1: Client 4 got award 1
+1338378147|Challenge: 3 2 1: Client 3 got award 2
+1338378148|Item: 4 item_health
+1338378150|Item: 5 ammo_lightning
+1338378150|Item: 2 weapon_plasmagun
+1338378151|Item: 3 weapon_shotgun
+1338378151|Item: 5 item_armor_body
+1338378151|Item: 4 item_health_small
+1338378151|Item: 4 weapon_grenadelauncher
+1338378152|Item: 4 item_health_small
+1338378153|Item: 3 weapon_rocketlauncher
+1338378156|Item: 2 weapon_plasmagun
+1338378157|Item: 3 item_armor_combat
+1338378162|Item: 2 item_health_small
+1338378163|Item: 5 item_health
+1338378163|Item: 2 item_health_small
+1338378166|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338378166|PlayerScore: 5 46: TT now has 46 points
+1338378166|Challenge: 5 205 1: Client 5 got award 205
+1338378166|Challenge: 5 1 1: Client 5 got award 1
+1338378166|Challenge: 4 2 1: Client 4 got award 2
+1338378166|PlayerScore: 5 48: TT now has 48 points
+1338378166|Challenge: 5 305 1: Client 5 got award 305
+1338378166|Award: 5 3: TT gained the DEFENCE award!
+1338378167|Item: 3 ammo_cells
+1338378167|Item: 5 ammo_shells
+1338378167|Item: 5 weapon_lightning
+1338378169|Item: 2 weapon_shotgun
+1338378169|Item: 4 weapon_railgun
+1338378169|Item: 3 weapon_shotgun
+1338378170|Item: 5 ammo_rockets
+1338378171|Item: 5 item_health_small
+1338378171|Item: 4 weapon_rocketlauncher
+1338378171|Item: 5 item_health_small
+1338378171|Item: 5 item_health_small
+1338378172|Item: 2 ammo_cells
+1338378172|Item: 5 item_health_small
+1338378173|Item: 2 weapon_railgun
+1338378174|Item: 3 weapon_grenadelauncher
+1338378175|Item: 5 item_armor_body
+1338378175|Item: 4 ammo_grenades
+1338378177|Item: 4 weapon_lightning
+1338378178|Item: 5 weapon_grenadelauncher
+1338378179|Item: 3 item_armor_body
+1338378179|Item: 4 ammo_slugs
+1338378181|Item: 4 ammo_cells
+1338378186|Item: 2 weapon_lightning
+1338378187|Item: 4 weapon_grenadelauncher
+1338378187|Kill: 3 2 6: Rolph killed dennis by MOD_ROCKET
+1338378187|PlayerScore: 3 15: Rolph now has 15 points
+1338378187|Challenge: 3 205 1: Client 3 got award 205
+1338378187|Challenge: 3 1 1: Client 3 got award 1
+1338378187|Challenge: 2 2 1: Client 2 got award 2
+1338378187|PlayerScore: 3 17: Rolph now has 17 points
+1338378187|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1338378187|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1338378188|Item: 3 team_CTF_redflag
+1338378188|broadcast: print "Rolph^7 returned the RED flag!\n"
+1338378188|PlayerScore: 3 18: Rolph now has 18 points
+1338378188|CTF: 3 1 2: Rolph returned the RED flag!
+1338378188|Item: 3 weapon_railgun
+1338378189|Item: 5 ammo_bullets
+1338378190|Item: 4 team_CTF_redflag
+1338378190|broadcast: print "Enrique^7 got the RED flag!\n"
+1338378190|CTF: 4 1 0: Enrique got the RED flag!
+1338378190|PlayerScore: 4 34: Enrique now has 34 points
+1338378190|Item: 2 weapon_railgun
+1338378192|Item: 2 ammo_bullets
+1338378193|Item: 4 ammo_cells
+1338378193|Item: 2 ammo_shells
+1338378194|Item: 4 weapon_railgun
+1338378196|Item: 5 ammo_bullets
+1338378196|Item: 3 weapon_shotgun
+1338378197|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338378197|PlayerScore: 5 49: TT now has 49 points
+1338378197|Challenge: 5 205 1: Client 5 got award 205
+1338378197|Challenge: 5 1 1: Client 5 got award 1
+1338378197|Challenge: 4 2 1: Client 4 got award 2
+1338378197|PlayerScore: 5 51: TT now has 51 points
+1338378197|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338378197|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338378198|Item: 5 weapon_rocketlauncher
+1338378199|Item: 5 item_health
+1338378199|Item: 5 team_CTF_redflag
+1338378199|broadcast: print "TT^7 returned the RED flag!\n"
+1338378199|PlayerScore: 5 52: TT now has 52 points
+1338378199|CTF: 5 1 2: TT returned the RED flag!
+1338378200|Item: 4 ammo_lightning
+1338378200|Item: 5 team_CTF_redflag
+1338378200|broadcast: print "TT^7 captured the BLUE flag!\n"
+1338378200|CTF: 5 2 1: TT captured the BLUE flag!
+1338378200|Award: 5 4: TT gained the CAPTURE award!
+1338378200|Challenge: 5 303 1: Client 5 got award 303
+1338378200|PlayerScore: 5 57: TT now has 57 points
+1338378200|PlayerScore: 3 18: Rolph now has 18 points
+1338378201|Item: 3 weapon_shotgun
+1338378203|Item: 5 weapon_grenadelauncher
+1338378203|Item: 2 weapon_plasmagun
+1338378205|Item: 4 weapon_rocketlauncher
+1338378206|Item: 5 item_armor_body
+1338378206|Item: 3 ammo_lightning
+1338378207|Item: 2 team_CTF_redflag
+1338378207|broadcast: print "dennis^7 got the RED flag!\n"
+1338378207|CTF: 2 1 0: dennis got the RED flag!
+1338378207|PlayerScore: 2 2: dennis now has 2 points
+1338378208|Item: 3 item_health
+1338378209|Item: 4 item_armor_combat
+1338378211|Item: 2 weapon_shotgun
+1338378211|Item: 5 item_enviro
+1338378212|Item: 3 ammo_shells
+1338378213|Kill: 5 2 6: TT killed dennis by MOD_ROCKET
+1338378213|PlayerScore: 5 58: TT now has 58 points
+1338378213|Challenge: 5 205 1: Client 5 got award 205
+1338378213|Challenge: 5 1 1: Client 5 got award 1
+1338378213|Challenge: 2 2 1: Client 2 got award 2
+1338378213|PlayerScore: 5 60: TT now has 60 points
+1338378213|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338378213|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338378213|Item: 5 team_CTF_redflag
+1338378213|broadcast: print "TT^7 returned the RED flag!\n"
+1338378213|PlayerScore: 5 61: TT now has 61 points
+1338378213|CTF: 5 1 2: TT returned the RED flag!
+1338378213|Item: 5 weapon_plasmagun
+1338378215|Item: 3 weapon_lightning
+1338378215|Item: 5 item_health_large
+1338378215|Item: 2 weapon_railgun
+1338378217|Item: 2 ammo_cells
+1338378221|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338378221|PlayerScore: 5 62: TT now has 62 points
+1338378221|Challenge: 5 205 1: Client 5 got award 205
+1338378221|Challenge: 5 1 1: Client 5 got award 1
+1338378221|Challenge: 4 2 1: Client 4 got award 2
+1338378222|Item: 5 weapon_rocketlauncher
+1338378222|Item: 3 ammo_slugs
+1338378223|Item: 5 weapon_rocketlauncher
+1338378224|Item: 4 weapon_railgun
+1338378225|Item: 3 ammo_cells
+1338378227|Item: 2 ammo_bullets
+1338378227|Item: 3 ammo_rockets
+1338378227|Item: 5 team_CTF_blueflag
+1338378227|broadcast: print "TT^7 got the BLUE flag!\n"
+1338378227|CTF: 5 2 0: TT got the BLUE flag!
+1338378227|PlayerScore: 5 62: TT now has 62 points
+1338378228|Item: 2 item_health
+1338378228|Item: 3 item_health_small
+1338378228|Item: 3 item_health_small
+1338378228|Item: 3 item_health_small
+1338378228|Item: 3 item_health_small
+1338378231|Item: 3 item_armor_body
+1338378234|Item: 5 item_health
+1338378236|Item: 5 item_armor_combat
+1338378236|Item: 3 weapon_rocketlauncher
+1338378237|Kill: 3 4 11: Rolph killed Enrique by MOD_LIGHTNING
+1338378237|PlayerScore: 3 19: Rolph now has 19 points
+1338378237|Challenge: 3 206 1: Client 3 got award 206
+1338378237|Challenge: 3 1 1: Client 3 got award 1
+1338378237|Challenge: 4 2 1: Client 4 got award 2
+1338378237|PlayerScore: 3 20: Rolph now has 20 points
+1338378237|Challenge: 3 305 1: Client 3 got award 305
+1338378237|Award: 3 3: Rolph gained the DEFENCE award!
+1338378238|Item: 3 weapon_railgun
+1338378241|Item: 5 item_health
+1338378243|Item: 5 team_CTF_redflag
+1338378243|broadcast: print "TT^7 captured the BLUE flag!\n"
+1338378243|CTF: 5 2 1: TT captured the BLUE flag!
+1338378243|Award: 5 4: TT gained the CAPTURE award!
+1338378243|Challenge: 5 303 1: Client 5 got award 303
+1338378243|PlayerScore: 5 67: TT now has 67 points
+1338378243|PlayerScore: 3 20: Rolph now has 20 points
+1338378245|Item: 2 team_CTF_redflag
+1338378245|broadcast: print "dennis^7 got the RED flag!\n"
+1338378245|CTF: 2 1 0: dennis got the RED flag!
+1338378245|PlayerScore: 2 2: dennis now has 2 points
+1338378245|Item: 4 weapon_rocketlauncher
+1338378247|Kill: 5 2 7: TT killed dennis by MOD_ROCKET_SPLASH
+1338378247|PlayerScore: 5 68: TT now has 68 points
+1338378247|Challenge: 5 205 1: Client 5 got award 205
+1338378247|Challenge: 5 1 1: Client 5 got award 1
+1338378247|Challenge: 2 2 1: Client 2 got award 2
+1338378247|PlayerScore: 5 70: TT now has 70 points
+1338378247|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338378247|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338378248|Item: 5 team_CTF_redflag
+1338378248|broadcast: print "TT^7 returned the RED flag!\n"
+1338378248|PlayerScore: 5 71: TT now has 71 points
+1338378248|CTF: 5 1 2: TT returned the RED flag!
+1338378248|Item: 5 weapon_railgun
+1338378250|Item: 2 weapon_railgun
+1338378250|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1338378250|PlayerScore: 5 72: TT now has 72 points
+1338378250|Challenge: 5 205 1: Client 5 got award 205
+1338378250|Challenge: 5 1 1: Client 5 got award 1
+1338378250|Challenge: 4 2 1: Client 4 got award 2
+1338378251|Item: 5 weapon_rocketlauncher
+1338378251|Item: 3 weapon_rocketlauncher
+1338378252|Item: 2 ammo_bullets
+1338378252|Item: 5 weapon_shotgun
+1338378253|Item: 5 item_health
+1338378253|Item: 2 ammo_shells
+1338378253|Item: 4 weapon_shotgun
+1338378255|Item: 5 ammo_rockets
+1338378255|Item: 3 item_health_large
+1338378257|Item: 2 weapon_plasmagun
+1338378257|Item: 4 weapon_rocketlauncher
+1338378257|Item: 3 item_health
+1338378259|Kill: 4 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1338378259|PlayerScore: 4 35: Enrique now has 35 points
+1338378259|Challenge: 4 205 1: Client 4 got award 205
+1338378259|Challenge: 4 1 1: Client 4 got award 1
+1338378259|Challenge: 3 2 1: Client 3 got award 2
+1338378260|Kill: 4 5 7: Enrique killed TT by MOD_ROCKET_SPLASH
+1338378260|PlayerScore: 4 36: Enrique now has 36 points
+1338378260|Challenge: 4 205 1: Client 4 got award 205
+1338378260|Challenge: 4 1 1: Client 4 got award 1
+1338378260|Challenge: 5 2 1: Client 5 got award 2
+1338378260|Award: 4 1: Enrique gained the EXCELLENT award!
+1338378260|Challenge: 4 302 1: Client 4 got award 302
+1338378262|Item: 4 weapon_rocketlauncher
+1338378263|Item: 5 weapon_railgun
+1338378263|Item: 4 item_health
+1338378263|Item: 3 item_armor_body
+1338378265|Item: 3 ammo_lightning
+1338378266|Item: 4 item_health
+1338378266|Item: 2 team_CTF_redflag
+1338378266|broadcast: print "dennis^7 got the RED flag!\n"
+1338378266|CTF: 2 1 0: dennis got the RED flag!
+1338378266|PlayerScore: 2 2: dennis now has 2 points
+1338378267|Item: 3 weapon_grenadelauncher
+1338378268|Item: 5 weapon_rocketlauncher
+1338378268|Item: 3 ammo_rockets
+1338378268|Item: 4 weapon_shotgun
+1338378270|Item: 3 ammo_rockets
+1338378270|Item: 4 ammo_rockets
+1338378271|Item: 4 item_health_small
+1338378271|Item: 4 item_health_small
+1338378271|Item: 4 item_health_small
+1338378272|Item: 4 item_health_small
+1338378274|Item: 4 ammo_lightning
+1338378274|Item: 3 weapon_lightning
+1338378275|Item: 5 item_health
+1338378275|Kill: 5 2 6: TT killed dennis by MOD_ROCKET
+1338378275|PlayerScore: 5 73: TT now has 73 points
+1338378275|Challenge: 5 205 1: Client 5 got award 205
+1338378275|Challenge: 5 1 1: Client 5 got award 1
+1338378275|Challenge: 2 2 1: Client 2 got award 2
+1338378275|PlayerScore: 5 75: TT now has 75 points
+1338378275|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1338378275|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1338378275|Item: 4 item_armor_body
+1338378275|Item: 5 weapon_plasmagun
+1338378276|Item: 3 ammo_slugs
+1338378277|Item: 5 team_CTF_redflag
+1338378277|broadcast: print "TT^7 returned the RED flag!\n"
+1338378277|PlayerScore: 5 76: TT now has 76 points
+1338378277|CTF: 5 1 2: TT returned the RED flag!
+1338378278|Kill: 3 4 11: Rolph killed Enrique by MOD_LIGHTNING
+1338378278|PlayerScore: 3 21: Rolph now has 21 points
+1338378278|Challenge: 3 206 1: Client 3 got award 206
+1338378278|Challenge: 3 1 1: Client 3 got award 1
+1338378278|Challenge: 4 2 1: Client 4 got award 2
+1338378280|Item: 5 ammo_shells
+1338378280|Item: 5 item_armor_combat
+1338378281|Item: 4 weapon_railgun
+1338378281|Item: 3 team_CTF_blueflag
+1338378281|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1338378281|CTF: 3 2 0: Rolph got the BLUE flag!
+1338378281|PlayerScore: 3 21: Rolph now has 21 points
+1338378282|Item: 5 item_health
+1338378284|Item: 5 weapon_plasmagun
+1338378285|Item: 2 ammo_bullets
+1338378285|Kill: 3 2 11: Rolph killed dennis by MOD_LIGHTNING
+1338378285|PlayerScore: 3 22: Rolph now has 22 points
+1338378285|Challenge: 3 206 1: Client 3 got award 206
+1338378285|Challenge: 3 1 1: Client 3 got award 1
+1338378285|Challenge: 2 2 1: Client 2 got award 2
+1338378285|PlayerScore: 3 24: Rolph now has 24 points
+1338378285|Challenge: 3 305 1: Client 3 got award 305
+1338378285|Award: 3 3: Rolph gained the DEFENCE award!
+1338378285|Kill: 4 5 10: Enrique killed TT by MOD_RAILGUN
+1338378285|PlayerScore: 4 37: Enrique now has 37 points
+1338378285|Challenge: 4 208 1: Client 4 got award 208
+1338378285|Challenge: 4 1 1: Client 4 got award 1
+1338378285|Challenge: 5 2 1: Client 5 got award 2
+1338378285|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338378285|Challenge: 4 301 1: Client 4 got award 301
+1338378286|Item: 3 weapon_rocketlauncher
+1338378287|Item: 4 weapon_rocketlauncher
+1338378287|Item: 2 weapon_rocketlauncher
+1338378288|Item: 5 weapon_plasmagun
+1338378290|Item: 3 ammo_grenades
+1338378291|Item: 2 weapon_shotgun
+1338378292|Item: 3 weapon_lightning
+1338378292|Item: 5 weapon_grenadelauncher
+1338378294|Item: 3 ammo_slugs
+1338378296|Item: 5 item_armor_body
+1338378297|Item: 3 item_health
+1338378299|Item: 3 team_CTF_redflag
+1338378299|broadcast: print "Rolph^7 captured the BLUE flag!\n"
+1338378299|CTF: 3 2 1: Rolph captured the BLUE flag!
+1338378299|Award: 3 4: Rolph gained the CAPTURE award!
+1338378299|Challenge: 3 303 1: Client 3 got award 303
+1338378299|PlayerScore: 3 29: Rolph now has 29 points
+1338378299|broadcast: print "Red hit the capturelimit.\n"
+1338378299|Exit: Capturelimit hit.
+1338378299|red:5  blue:1
+1338378299|score: 76  ping: 2  client: 5 TT
+1338378299|score: 37  ping: 1  client: 4 Enrique
+1338378299|score: 29  ping: 0  client: 3 Rolph
+1338378299|score: 2  ping: 0  client: 2 dennis
+1338378299|PlayerScore: 5 76: TT now has 76 points
+1338378305|g_gametype will be changed upon restarting.
+1338378305|==== ShutdownGame ====
+1338378305|ShutdownGame:
+1338378305|------------------------------------------------------------
+1338378305|AAS shutdown.
+1338378305|------ Server Initialization ------
+1338378305|Server: czest1tourney
+1338378305|Hunk_Clear: reset the hunk ok
+1338378305|----- FS_Startup -----
+1338378305|Current search path:
+1338378305|/home/jeroen/.openarena/baseoa
+1338378305|/usr/lib/openarena-server/baseoa
+1338378305|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338378305|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338378305|
+1338378305|----------------------
+1338378305|5433 files in pk3 files
+1338378305|Loading vm file vm/qagame.qvm...
+1338378305|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338378305|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338378305|... trying pak6-patch088/qagame
+1338378305|... trying qagame
+1338378305|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338378305|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338378305|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338378305|------- Game Initialization -------
+1338378305|gamename: baseoa
+1338378305|gamedate: Apr  1 2012
+1338378305|------------------------------------------------------------
+1338378305|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\czest1tourney\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-30 13:45:05
+1338378305|Info: ServerInfo length: 795 of 1024
+1338378305|Gametype changed, clearing session data.
+1338378305|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338378305|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338378305|0 teams with 0 entities
+1338378305|17 items registered
+1338378305|-----------------------------------
+1338378305|------- BotLib Initialization -------
+1338378305|loaded weapons.c
+1338378305|loaded items.c
+1338378305|loaded syn.c
+1338378305|loaded rnd.c
+1338378305|loaded match.c
+1338378305|loaded rchat.c
+1338378305|------------ Map Loading ------------
+1338378305|trying to load maps/czest1tourney.aas
+1338378305|loaded maps/czest1tourney.aas
+1338378305|found 52 level items
+1338378305|-------------------------------------
+1338378305|33 bots parsed
+1338378305|58 arenas parsed
+1338378305|AAS initialized.
+1338378305|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338378305|ClientConnect: 2
+1338378305|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338378305|ClientConnect: 3
+1338378305|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338378305|ClientConnect: 4
+1338378305|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338378305|ClientConnect: 5
+1338378305|-----------------------------------
+1338378307|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338378307|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338378307|broadcast: print "Enrique^7 entered the game\n"
+1338378307|ClientBegin: 4
+1338378307|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338378307|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338378307|broadcast: print "TT^7 entered the game\n"
+1338378307|ClientBegin: 5
+1338378307|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338378307|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338378307|broadcast: print "dennis^7 entered the game\n"
+1338378307|ClientBegin: 2
+1338378307|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1338378307|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1338378307|broadcast: print "Rolph^7 entered the game\n"
+1338378307|ClientBegin: 3
+1338378308|Item: 5 item_armor_shard
+1338378309|Item: 2 weapon_shotgun
+1338378310|Item: 2 item_armor_shard
+1338378311|Item: 3 item_armor_shard
+1338378311|Item: 4 item_armor_shard
+1338378311|Item: 3 weapon_lightning
+1338378312|Kill: 1022 5 22: <world> killed TT by MOD_TRIGGER_HURT
+1338378313|Item: 3 weapon_rocketlauncher
+1338378313|Item: 3 ammo_rockets
+1338378314|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378315|Item: 3 item_armor_shard
+1338378316|Item: 3 ammo_rockets
+1338378316|Item: 3 ammo_grenades
+1338378316|Item: 3 weapon_grenadelauncher
+1338378316|Item: 2 item_armor_shard
+1338378316|Item: 2 item_armor_shard
+1338378319|Item: 4 ammo_cells
+1338378319|Item: 4 ammo_slugs
+1338378319|Item: 3 weapon_plasmagun
+1338378320|Item: 5 item_armor_shard
+1338378322|Item: 5 weapon_rocketlauncher
+1338378324|Item: 4 weapon_plasmagun
+1338378325|Item: 5 item_armor_shard
+1338378325|Item: 2 weapon_shotgun
+1338378327|Item: 2 item_health
+1338378327|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338378327|Item: 5 item_armor_shard
+1338378327|Item: 5 item_armor_shard
+1338378328|Item: 2 weapon_shotgun
+1338378329|Item: 5 ammo_slugs
+1338378330|Item: 4 weapon_grenadelauncher
+1338378331|Item: 2 item_health_mega
+1338378332|Item: 5 weapon_railgun
+1338378335|Kill: 3 5 7: Rolph killed TT by MOD_ROCKET_SPLASH
+1338378335|PlayerScore: 3 1: Rolph now has 1 points
+1338378335|Challenge: 3 205 1: Client 3 got award 205
+1338378335|Challenge: 3 1 1: Client 3 got award 1
+1338378335|Challenge: 5 2 1: Client 5 got award 2
+1338378335|Item: 4 weapon_shotgun
+1338378336|Item: 3 weapon_rocketlauncher
+1338378336|Item: 2 weapon_rocketlauncher
+1338378338|Item: 2 weapon_lightning
+1338378338|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338378338|Item: 2 item_armor_shard
+1338378339|Item: 3 weapon_railgun
+1338378340|Kill: 3 5 6: Rolph killed TT by MOD_ROCKET
+1338378340|PlayerScore: 3 2: Rolph now has 2 points
+1338378340|Challenge: 3 205 1: Client 3 got award 205
+1338378340|Challenge: 3 1 1: Client 3 got award 1
+1338378340|Challenge: 5 2 1: Client 5 got award 2
+1338378340|Kill: 3 3 7: Rolph killed Rolph by MOD_ROCKET_SPLASH
+1338378340|PlayerScore: 3 1: Rolph now has 1 points
+1338378340|Item: 2 item_armor_shard
+1338378341|Item: 4 weapon_shotgun
+1338378343|Item: 4 weapon_shotgun
+1338378344|Item: 3 item_armor_shard
+1338378345|Item: 3 item_armor_shard
+1338378345|Item: 4 weapon_shotgun
+1338378346|Item: 5 ammo_rockets
+1338378346|Item: 3 ammo_lightning
+1338378347|Item: 3 weapon_rocketlauncher
+1338378349|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378350|Kill: 1022 5 22: <world> killed TT by MOD_TRIGGER_HURT
+1338378352|Item: 2 item_armor_shard
+1338378352|Item: 2 item_armor_shard
+1338378352|Item: 2 weapon_grenadelauncher
+1338378353|Item: 2 item_armor_shard
+1338378353|Item: 2 item_armor_shard
+1338378354|Item: 5 weapon_grenadelauncher
+1338378355|Item: 4 weapon_rocketlauncher
+1338378356|Item: 2 item_armor_shard
+1338378356|Kill: 2 5 22: dennis killed TT by MOD_TRIGGER_HURT
+1338378356|PlayerScore: 2 1: dennis now has 1 points
+1338378356|Challenge: 2 214 1: Client 2 got award 214
+1338378356|Challenge: 2 1 1: Client 2 got award 1
+1338378356|Challenge: 5 2 1: Client 5 got award 2
+1338378356|Item: 4 weapon_railgun
+1338378356|Item: 2 item_health
+1338378357|Item: 3 weapon_plasmagun
+1338378357|Item: 2 item_armor_shard
+1338378358|Item: 2 weapon_lightning
+1338378359|Item: 2 item_armor_shard
+1338378359|Item: 5 weapon_shotgun
+1338378360|Kill: 1022 3 22: <world> killed Rolph by MOD_TRIGGER_HURT
+1338378360|PlayerScore: 3 0: Rolph now has 0 points
+1338378361|Item: 2 item_armor_shard
+1338378361|Item: 5 weapon_shotgun
+1338378361|Item: 2 weapon_lightning
+1338378362|Item: 5 item_armor_shard
+1338378363|Item: 3 item_armor_shard
+1338378363|Item: 2 weapon_rocketlauncher
+1338378363|Item: 3 item_armor_shard
+1338378363|Item: 2 ammo_rockets
+1338378364|Kill: 4 5 10: Enrique killed TT by MOD_RAILGUN
+1338378364|PlayerScore: 4 1: Enrique now has 1 points
+1338378364|Challenge: 4 208 1: Client 4 got award 208
+1338378364|Challenge: 4 1 1: Client 4 got award 1
+1338378364|Challenge: 5 2 1: Client 5 got award 2
+1338378364|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338378364|Challenge: 4 301 1: Client 4 got award 301
+1338378366|Item: 3 weapon_railgun
+1338378367|Kill: 3 4 2: Rolph killed Enrique by MOD_GAUNTLET
+1338378367|PlayerScore: 3 1: Rolph now has 1 points
+1338378367|Challenge: 3 201 1: Client 3 got award 201
+1338378367|Award: 3 0: Rolph gained the GAUNTLET award!
+1338378367|Challenge: 3 201 1: Client 3 got award 201
+1338378367|Challenge: 3 1 1: Client 3 got award 1
+1338378367|Challenge: 4 2 1: Client 4 got award 2
+1338378367|Item: 3 weapon_railgun
+1338378368|Item: 2 weapon_plasmagun
+1338378372|Item: 4 weapon_railgun
+1338378376|Kill: 2 4 6: dennis killed Enrique by MOD_ROCKET
+1338378376|PlayerScore: 2 2: dennis now has 2 points
+1338378376|Challenge: 2 205 1: Client 2 got award 205
+1338378376|Challenge: 2 1 1: Client 2 got award 1
+1338378376|Challenge: 4 2 1: Client 4 got award 2
+1338378376|Kill: 2 5 7: dennis killed TT by MOD_ROCKET_SPLASH
+1338378376|PlayerScore: 2 3: dennis now has 3 points
+1338378376|Challenge: 2 205 1: Client 2 got award 205
+1338378376|Challenge: 2 1 1: Client 2 got award 1
+1338378376|Challenge: 5 2 1: Client 5 got award 2
+1338378376|Award: 2 1: dennis gained the EXCELLENT award!
+1338378376|Challenge: 2 302 1: Client 2 got award 302
+1338378378|Kill: 2 3 7: dennis killed Rolph by MOD_ROCKET_SPLASH
+1338378378|PlayerScore: 2 4: dennis now has 4 points
+1338378378|Challenge: 2 205 1: Client 2 got award 205
+1338378378|Challenge: 2 1 1: Client 2 got award 1
+1338378378|Challenge: 3 2 1: Client 3 got award 2
+1338378378|Award: 2 1: dennis gained the EXCELLENT award!
+1338378378|Challenge: 2 302 1: Client 2 got award 302
+1338378380|Item: 5 weapon_railgun
+1338378381|Item: 4 weapon_lightning
+1338378382|Item: 3 weapon_shotgun
+1338378382|Item: 4 item_armor_shard
+1338378382|Item: 2 weapon_plasmagun
+1338378382|Item: 3 item_armor_shard
+1338378384|Item: 4 item_armor_shard
+1338378385|Item: 4 item_armor_shard
+1338378385|Item: 2 item_armor_shard
+1338378385|Item: 2 item_armor_shard
+1338378386|Item: 2 weapon_grenadelauncher
+1338378386|Item: 4 item_armor_shard
+1338378387|Item: 2 ammo_slugs
+1338378387|Item: 2 ammo_grenades
+1338378387|Item: 2 ammo_cells
+1338378387|Item: 2 ammo_rockets
+1338378387|Item: 2 item_armor_shard
+1338378387|Item: 2 item_armor_shard
+1338378387|Item: 4 ammo_lightning
+1338378387|Item: 5 weapon_railgun
+1338378388|Item: 3 ammo_lightning
+1338378388|Item: 4 ammo_slugs
+1338378389|Item: 3 weapon_rocketlauncher
+1338378390|Kill: 4 5 11: Enrique killed TT by MOD_LIGHTNING
+1338378390|PlayerScore: 4 2: Enrique now has 2 points
+1338378390|Challenge: 4 206 1: Client 4 got award 206
+1338378390|Challenge: 4 1 1: Client 4 got award 1
+1338378390|Challenge: 5 2 1: Client 5 got award 2
+1338378390|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378390|PlayerScore: 2 3: dennis now has 3 points
+1338378392|Item: 4 weapon_railgun
+1338378392|Item: 4 weapon_railgun
+1338378392|Item: 2 item_armor_shard
+1338378393|Item: 5 weapon_shotgun
+1338378394|Item: 3 item_armor_shard
+1338378394|Item: 3 item_armor_shard
+1338378394|Item: 2 item_armor_shard
+1338378394|Item: 5 ammo_rockets
+1338378395|Item: 2 weapon_lightning
+1338378398|Kill: 4 5 11: Enrique killed TT by MOD_LIGHTNING
+1338378398|PlayerScore: 4 3: Enrique now has 3 points
+1338378398|Challenge: 4 206 1: Client 4 got award 206
+1338378398|Challenge: 4 1 1: Client 4 got award 1
+1338378398|Challenge: 5 2 1: Client 5 got award 2
+1338378398|Kill: 1022 3 22: <world> killed Rolph by MOD_TRIGGER_HURT
+1338378398|PlayerScore: 3 0: Rolph now has 0 points
+1338378399|Item: 2 weapon_lightning
+1338378401|Item: 3 weapon_shotgun
+1338378401|Item: 4 weapon_railgun
+1338378401|Item: 2 weapon_rocketlauncher
+1338378401|Item: 5 weapon_grenadelauncher
+1338378402|Item: 3 item_armor_shard
+1338378403|Item: 5 weapon_grenadelauncher
+1338378404|Kill: 5 5 5: TT killed TT by MOD_GRENADE_SPLASH
+1338378404|Item: 2 weapon_grenadelauncher
+1338378408|Kill: 3 4 3: Rolph killed Enrique by MOD_MACHINEGUN
+1338378408|PlayerScore: 3 1: Rolph now has 1 points
+1338378408|Challenge: 3 202 1: Client 3 got award 202
+1338378408|Challenge: 3 1 1: Client 3 got award 1
+1338378408|Challenge: 4 2 1: Client 4 got award 2
+1338378409|Item: 3 weapon_railgun
+1338378409|Item: 3 weapon_railgun
+1338378411|Item: 4 weapon_grenadelauncher
+1338378412|Item: 4 item_armor_shard
+1338378412|Item: 4 item_armor_shard
+1338378412|Item: 2 weapon_plasmagun
+1338378413|Kill: 1022 3 22: <world> killed Rolph by MOD_TRIGGER_HURT
+1338378413|PlayerScore: 3 0: Rolph now has 0 points
+1338378414|Kill: 5 2 22: TT killed dennis by MOD_TRIGGER_HURT
+1338378414|PlayerScore: 5 1: TT now has 1 points
+1338378414|Challenge: 5 214 1: Client 5 got award 214
+1338378414|Challenge: 5 1 1: Client 5 got award 1
+1338378414|Challenge: 2 2 1: Client 2 got award 2
+1338378417|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338378417|PlayerScore: 4 2: Enrique now has 2 points
+1338378417|Item: 2 weapon_shotgun
+1338378418|Item: 3 weapon_shotgun
+1338378418|Item: 2 item_armor_shard
+1338378420|Item: 5 weapon_railgun
+1338378421|Item: 4 weapon_shotgun
+1338378422|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378422|PlayerScore: 2 2: dennis now has 2 points
+1338378425|Item: 2 item_armor_shard
+1338378426|Item: 3 weapon_plasmagun
+1338378426|Item: 2 item_armor_shard
+1338378427|Item: 3 item_armor_shard
+1338378427|Item: 3 item_armor_shard
+1338378427|Item: 2 weapon_lightning
+1338378428|Item: 2 item_armor_shard
+1338378428|Item: 4 item_health_mega
+1338378430|Item: 3 ammo_rockets
+1338378430|Item: 3 ammo_cells
+1338378430|Item: 2 item_armor_shard
+1338378430|Item: 3 ammo_grenades
+1338378430|Item: 3 ammo_slugs
+1338378430|Item: 3 weapon_grenadelauncher
+1338378431|Item: 2 item_armor_shard
+1338378432|Item: 2 item_armor_shard
+1338378433|Item: 2 ammo_lightning
+1338378434|Item: 3 weapon_plasmagun
+1338378435|Item: 2 weapon_rocketlauncher
+1338378436|Kill: 4 3 22: Enrique killed Rolph by MOD_TRIGGER_HURT
+1338378436|PlayerScore: 4 3: Enrique now has 3 points
+1338378436|Challenge: 4 214 1: Client 4 got award 214
+1338378436|Challenge: 4 1 1: Client 4 got award 1
+1338378436|Challenge: 3 2 1: Client 3 got award 2
+1338378438|Item: 4 ammo_slugs
+1338378438|Item: 3 weapon_shotgun
+1338378439|Item: 3 item_armor_shard
+1338378440|Item: 5 weapon_railgun
+1338378440|Item: 2 weapon_lightning
+1338378441|Kill: 4 5 1: Enrique killed TT by MOD_SHOTGUN
+1338378441|PlayerScore: 4 4: Enrique now has 4 points
+1338378441|Challenge: 4 203 1: Client 4 got award 203
+1338378441|Challenge: 4 1 1: Client 4 got award 1
+1338378441|Challenge: 5 2 1: Client 5 got award 2
+1338378442|Item: 4 weapon_railgun
+1338378444|Item: 3 item_armor_shard
+1338378447|Kill: 2 4 6: dennis killed Enrique by MOD_ROCKET
+1338378447|PlayerScore: 2 3: dennis now has 3 points
+1338378447|Challenge: 2 205 1: Client 2 got award 205
+1338378447|Challenge: 2 1 1: Client 2 got award 1
+1338378447|Challenge: 4 2 1: Client 4 got award 2
+1338378448|Item: 3 ammo_lightning
+1338378449|Kill: 2 5 6: dennis killed TT by MOD_ROCKET
+1338378449|PlayerScore: 2 4: dennis now has 4 points
+1338378449|Challenge: 2 205 1: Client 2 got award 205
+1338378449|Challenge: 2 1 1: Client 2 got award 1
+1338378449|Challenge: 5 2 1: Client 5 got award 2
+1338378449|Award: 2 1: dennis gained the EXCELLENT award!
+1338378449|Challenge: 2 302 1: Client 2 got award 302
+1338378449|Kill: 2 3 7: dennis killed Rolph by MOD_ROCKET_SPLASH
+1338378449|PlayerScore: 2 5: dennis now has 5 points
+1338378449|Challenge: 2 205 1: Client 2 got award 205
+1338378449|Challenge: 2 1 1: Client 2 got award 1
+1338378449|Challenge: 3 2 1: Client 3 got award 2
+1338378449|Award: 2 1: dennis gained the EXCELLENT award!
+1338378449|Challenge: 2 302 1: Client 2 got award 302
+1338378451|Item: 4 ammo_cells
+1338378451|Item: 4 ammo_cells
+1338378451|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378451|PlayerScore: 2 4: dennis now has 4 points
+1338378452|Item: 4 weapon_shotgun
+1338378453|Item: 4 ammo_rockets
+1338378453|Item: 2 item_armor_shard
+1338378454|Item: 3 weapon_shotgun
+1338378455|Item: 2 item_armor_shard
+1338378456|Item: 2 weapon_lightning
+1338378456|Kill: 5 3 22: TT killed Rolph by MOD_TRIGGER_HURT
+1338378456|PlayerScore: 5 2: TT now has 2 points
+1338378456|Challenge: 5 214 1: Client 5 got award 214
+1338378456|Challenge: 5 1 1: Client 5 got award 1
+1338378456|Challenge: 3 2 1: Client 3 got award 2
+1338378457|Item: 2 item_armor_shard
+1338378457|Item: 4 weapon_railgun
+1338378458|Item: 5 weapon_shotgun
+1338378459|Item: 4 weapon_railgun
+1338378461|Item: 5 weapon_shotgun
+1338378461|Item: 2 weapon_rocketlauncher
+1338378462|Kill: 4 3 1: Enrique killed Rolph by MOD_SHOTGUN
+1338378462|PlayerScore: 4 5: Enrique now has 5 points
+1338378462|Challenge: 4 203 1: Client 4 got award 203
+1338378462|Challenge: 4 1 1: Client 4 got award 1
+1338378462|Challenge: 3 2 1: Client 3 got award 2
+1338378464|Item: 4 weapon_railgun
+1338378466|Item: 3 item_armor_shard
+1338378466|Item: 2 item_armor_shard
+1338378467|Kill: 5 4 3: TT killed Enrique by MOD_MACHINEGUN
+1338378467|PlayerScore: 5 3: TT now has 3 points
+1338378467|Challenge: 5 202 1: Client 5 got award 202
+1338378467|Challenge: 5 1 1: Client 5 got award 1
+1338378467|Challenge: 4 2 1: Client 4 got award 2
+1338378468|Item: 5 weapon_shotgun
+1338378469|Item: 3 item_armor_shard
+1338378469|Item: 3 item_armor_shard
+1338378470|Item: 2 item_health_mega
+1338378471|Item: 5 weapon_railgun
+1338378472|Item: 4 weapon_shotgun
+1338378472|Item: 3 weapon_plasmagun
+1338378472|Item: 2 item_armor_shard
+1338378472|Item: 2 item_armor_shard
+1338378473|Item: 3 item_armor_shard
+1338378474|Item: 4 weapon_shotgun
+1338378475|Kill: 1022 3 22: <world> killed Rolph by MOD_TRIGGER_HURT
+1338378476|Item: 5 weapon_railgun
+1338378477|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378477|PlayerScore: 2 3: dennis now has 3 points
+1338378479|Item: 4 weapon_shotgun
+1338378479|Item: 3 weapon_shotgun
+1338378480|Item: 2 weapon_grenadelauncher
+1338378480|Item: 3 item_armor_shard
+1338378480|Item: 2 ammo_grenades
+1338378480|Item: 2 ammo_slugs
+1338378480|Item: 2 ammo_cells
+1338378480|Item: 2 ammo_rockets
+1338378481|Item: 5 weapon_railgun
+1338378484|Item: 4 weapon_shotgun
+1338378484|Item: 2 weapon_plasmagun
+1338378485|Kill: 5 4 10: TT killed Enrique by MOD_RAILGUN
+1338378485|PlayerScore: 5 4: TT now has 4 points
+1338378485|Challenge: 5 208 1: Client 5 got award 208
+1338378485|Challenge: 5 1 1: Client 5 got award 1
+1338378485|Challenge: 4 2 1: Client 4 got award 2
+1338378486|Item: 5 weapon_railgun
+1338378488|Item: 2 weapon_rocketlauncher
+1338378489|Item: 2 ammo_rockets
+1338378489|Item: 4 weapon_shotgun
+1338378490|Item: 4 weapon_shotgun
+1338378491|Kill: 4 5 3: Enrique killed TT by MOD_MACHINEGUN
+1338378491|PlayerScore: 4 6: Enrique now has 6 points
+1338378491|Challenge: 4 202 1: Client 4 got award 202
+1338378491|Challenge: 4 1 1: Client 4 got award 1
+1338378491|Challenge: 5 2 1: Client 5 got award 2
+1338378491|Item: 4 ammo_slugs
+1338378494|Item: 4 weapon_railgun
+1338378494|Item: 2 weapon_plasmagun
+1338378494|Item: 4 weapon_railgun
+1338378495|Item: 5 ammo_rockets
+1338378499|Kill: 5 4 3: TT killed Enrique by MOD_MACHINEGUN
+1338378499|PlayerScore: 5 5: TT now has 5 points
+1338378499|Challenge: 5 202 1: Client 5 got award 202
+1338378499|Challenge: 5 1 1: Client 5 got award 1
+1338378499|Challenge: 4 2 1: Client 4 got award 2
+1338378499|Item: 2 weapon_plasmagun
+1338378500|Item: 5 weapon_shotgun
+1338378500|Item: 5 weapon_railgun
+1338378501|Item: 4 item_armor_shard
+1338378502|Item: 4 item_armor_shard
+1338378502|Item: 2 item_armor_shard
+1338378502|Item: 4 item_armor_shard
+1338378503|Item: 4 weapon_grenadelauncher
+1338378505|Item: 3 item_health_mega
+1338378507|Item: 2 item_armor_shard
+1338378507|Item: 2 item_armor_shard
+1338378508|Item: 4 weapon_shotgun
+1338378510|Item: 3 weapon_lightning
+1338378511|Item: 5 weapon_railgun
+1338378511|Item: 3 weapon_rocketlauncher
+1338378512|Item: 2 item_armor_shard
+1338378513|Kill: 4 5 1: Enrique killed TT by MOD_SHOTGUN
+1338378513|PlayerScore: 4 7: Enrique now has 7 points
+1338378513|Challenge: 4 203 1: Client 4 got award 203
+1338378513|Challenge: 4 1 1: Client 4 got award 1
+1338378513|Challenge: 5 2 1: Client 5 got award 2
+1338378514|Item: 3 weapon_grenadelauncher
+1338378514|Item: 2 weapon_lightning
+1338378515|Item: 4 weapon_railgun
+1338378516|Item: 2 item_armor_shard
+1338378516|Item: 4 weapon_railgun
+1338378517|Item: 3 weapon_plasmagun
+1338378517|Item: 5 weapon_shotgun
+1338378517|Item: 2 item_armor_shard
+1338378518|Item: 2 weapon_lightning
+1338378518|Item: 3 item_armor_shard
+1338378518|Item: 2 item_armor_shard
+1338378519|Item: 2 item_health
+1338378521|Item: 2 item_armor_shard
+1338378521|Kill: 5 4 3: TT killed Enrique by MOD_MACHINEGUN
+1338378521|PlayerScore: 5 6: TT now has 6 points
+1338378521|Challenge: 5 202 1: Client 5 got award 202
+1338378521|Challenge: 5 1 1: Client 5 got award 1
+1338378521|Challenge: 4 2 1: Client 4 got award 2
+1338378521|Item: 3 item_armor_shard
+1338378521|Item: 2 ammo_lightning
+1338378524|Item: 5 weapon_grenadelauncher
+1338378524|Item: 5 weapon_railgun
+1338378524|Item: 3 item_armor_shard
+1338378525|Item: 3 item_armor_shard
+1338378525|Item: 3 item_armor_shard
+1338378526|Item: 3 item_armor_shard
+1338378527|Item: 4 weapon_shotgun
+1338378529|Award: 5 2: TT gained the IMPRESSIVE award!
+1338378529|Challenge: 5 301 1: Client 5 got award 301
+1338378529|Kill: 4 5 1: Enrique killed TT by MOD_SHOTGUN
+1338378529|PlayerScore: 4 8: Enrique now has 8 points
+1338378529|Challenge: 4 203 1: Client 4 got award 203
+1338378529|Challenge: 4 1 1: Client 4 got award 1
+1338378529|Challenge: 5 2 1: Client 5 got award 2
+1338378531|Kill: 5 4 22: TT killed Enrique by MOD_TRIGGER_HURT
+1338378531|PlayerScore: 5 7: TT now has 7 points
+1338378531|Challenge: 5 214 1: Client 5 got award 214
+1338378531|Challenge: 5 1 1: Client 5 got award 1
+1338378531|Challenge: 4 2 1: Client 4 got award 2
+1338378531|Item: 3 weapon_railgun
+1338378532|Item: 5 item_armor_shard
+1338378533|Item: 5 weapon_grenadelauncher
+1338378533|Item: 5 ammo_grenades
+1338378533|Item: 5 ammo_slugs
+1338378533|Item: 5 ammo_cells
+1338378533|Item: 5 ammo_rockets
+1338378534|Item: 5 item_armor_shard
+1338378534|Item: 5 item_armor_shard
+1338378534|Item: 5 weapon_grenadelauncher
+1338378536|Item: 2 ammo_slugs
+1338378537|Item: 2 weapon_railgun
+1338378537|Item: 5 weapon_plasmagun
+1338378538|Kill: 3 4 2: Rolph killed Enrique by MOD_GAUNTLET
+1338378538|PlayerScore: 3 1: Rolph now has 1 points
+1338378538|Challenge: 3 201 1: Client 3 got award 201
+1338378538|Award: 3 0: Rolph gained the GAUNTLET award!
+1338378538|Challenge: 3 201 1: Client 3 got award 201
+1338378538|Challenge: 3 1 1: Client 3 got award 1
+1338378538|Challenge: 4 2 1: Client 4 got award 2
+1338378538|Kill: 2 3 11: dennis killed Rolph by MOD_LIGHTNING
+1338378538|PlayerScore: 2 4: dennis now has 4 points
+1338378538|Challenge: 2 206 1: Client 2 got award 206
+1338378538|Challenge: 2 1 1: Client 2 got award 1
+1338378538|Challenge: 3 2 1: Client 3 got award 2
+1338378542|Kill: 5 2 8: TT killed dennis by MOD_PLASMA
+1338378542|PlayerScore: 5 8: TT now has 8 points
+1338378542|Challenge: 5 207 1: Client 5 got award 207
+1338378542|Challenge: 5 1 1: Client 5 got award 1
+1338378542|Challenge: 2 2 1: Client 2 got award 2
+1338378543|Item: 4 weapon_shotgun
+1338378543|Item: 5 weapon_lightning
+1338378544|Item: 3 weapon_shotgun
+1338378545|Item: 5 weapon_railgun
+1338378545|Item: 4 weapon_shotgun
+1338378546|Item: 4 ammo_rockets
+1338378546|Item: 3 weapon_shotgun
+1338378547|Item: 3 item_armor_shard
+1338378549|Kill: 5 2 22: TT killed dennis by MOD_TRIGGER_HURT
+1338378549|PlayerScore: 5 9: TT now has 9 points
+1338378549|Challenge: 5 214 1: Client 5 got award 214
+1338378549|Challenge: 5 1 1: Client 5 got award 1
+1338378549|Challenge: 2 2 1: Client 2 got award 2
+1338378550|Item: 5 weapon_railgun
+1338378550|Kill: 4 5 1: Enrique killed TT by MOD_SHOTGUN
+1338378550|PlayerScore: 4 9: Enrique now has 9 points
+1338378550|Challenge: 4 203 1: Client 4 got award 203
+1338378550|Challenge: 4 1 1: Client 4 got award 1
+1338378550|Challenge: 5 2 1: Client 5 got award 2
+1338378552|Item: 2 item_armor_shard
+1338378553|Item: 2 item_armor_shard
+1338378554|Item: 2 item_armor_shard
+1338378555|Item: 2 item_health
+1338378555|Kill: 4 3 1: Enrique killed Rolph by MOD_SHOTGUN
+1338378555|PlayerScore: 4 10: Enrique now has 10 points
+1338378555|Challenge: 4 203 1: Client 4 got award 203
+1338378555|Challenge: 4 1 1: Client 4 got award 1
+1338378555|Challenge: 3 2 1: Client 3 got award 2
+1338378557|Item: 4 weapon_railgun
+1338378557|Item: 2 item_armor_shard
+1338378557|Item: 5 item_armor_shard
+1338378558|Item: 5 weapon_lightning
+1338378559|Item: 2 item_armor_shard
+1338378559|Kill: 5 2 11: TT killed dennis by MOD_LIGHTNING
+1338378559|PlayerScore: 5 10: TT now has 10 points
+1338378559|Challenge: 5 206 1: Client 5 got award 206
+1338378559|Challenge: 5 1 1: Client 5 got award 1
+1338378559|Challenge: 2 2 1: Client 2 got award 2
+1338378561|Item: 5 weapon_lightning
+1338378561|Kill: 4 3 1: Enrique killed Rolph by MOD_SHOTGUN
+1338378561|PlayerScore: 4 11: Enrique now has 11 points
+1338378561|Challenge: 4 203 1: Client 4 got award 203
+1338378561|Challenge: 4 1 1: Client 4 got award 1
+1338378561|Challenge: 3 2 1: Client 3 got award 2
+1338378561|Item: 5 item_armor_shard
+1338378561|Item: 2 item_armor_shard
+1338378563|Item: 5 item_armor_shard
+1338378563|Item: 2 item_armor_shard
+1338378563|Item: 4 weapon_railgun
+1338378564|Item: 5 ammo_lightning
+1338378564|Item: 2 item_armor_shard
+1338378564|Item: 2 item_armor_shard
+1338378565|Item: 3 ammo_lightning
+1338378566|Item: 5 weapon_rocketlauncher
+1338378566|Kill: 3 4 3: Rolph killed Enrique by MOD_MACHINEGUN
+1338378566|PlayerScore: 3 2: Rolph now has 2 points
+1338378566|Challenge: 3 202 1: Client 3 got award 202
+1338378566|Challenge: 3 1 1: Client 3 got award 1
+1338378566|Challenge: 4 2 1: Client 4 got award 2
+1338378567|Item: 5 ammo_rockets
+1338378569|Item: 3 weapon_railgun
+1338378569|Item: 3 weapon_railgun
+1338378571|Kill: 1022 5 16: <world> killed TT by MOD_LAVA
+1338378571|PlayerScore: 5 9: TT now has 9 points
+1338378571|Item: 2 weapon_rocketlauncher
+1338378574|Item: 2 item_armor_shard
+1338378574|Item: 2 item_armor_shard
+1338378574|Item: 2 item_armor_shard
+1338378574|Item: 2 weapon_grenadelauncher
+1338378575|Item: 5 weapon_shotgun
+1338378576|Kill: 4 3 3: Enrique killed Rolph by MOD_MACHINEGUN
+1338378576|PlayerScore: 4 12: Enrique now has 12 points
+1338378576|Challenge: 4 202 1: Client 4 got award 202
+1338378576|Challenge: 4 1 1: Client 4 got award 1
+1338378576|Challenge: 3 2 1: Client 3 got award 2
+1338378577|Item: 5 ammo_slugs
+1338378578|Item: 2 weapon_plasmagun
+1338378578|Item: 4 weapon_railgun
+1338378578|Item: 3 weapon_shotgun
+1338378579|Item: 3 item_armor_shard
+1338378579|Item: 2 item_armor_shard
+1338378580|Kill: 4 5 10: Enrique killed TT by MOD_RAILGUN
+1338378580|PlayerScore: 4 13: Enrique now has 13 points
+1338378580|Challenge: 4 208 1: Client 4 got award 208
+1338378580|Challenge: 4 1 1: Client 4 got award 1
+1338378580|Challenge: 5 2 1: Client 5 got award 2
+1338378580|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338378580|Challenge: 4 301 1: Client 4 got award 301
+1338378583|Kill: 2 4 3: dennis killed Enrique by MOD_MACHINEGUN
+1338378583|PlayerScore: 2 5: dennis now has 5 points
+1338378583|Challenge: 2 202 1: Client 2 got award 202
+1338378583|Challenge: 2 1 1: Client 2 got award 1
+1338378583|Challenge: 4 2 1: Client 4 got award 2
+1338378585|Item: 2 weapon_railgun
+1338378587|Item: 5 ammo_rockets
+1338378587|Kill: 1022 3 22: <world> killed Rolph by MOD_TRIGGER_HURT
+1338378587|PlayerScore: 3 1: Rolph now has 1 points
+1338378587|Item: 4 weapon_shotgun
+1338378587|Item: 2 weapon_railgun
+1338378590|Item: 4 weapon_shotgun
+1338378591|Item: 3 item_armor_shard
+1338378592|Item: 5 weapon_railgun
+1338378593|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378593|PlayerScore: 2 4: dennis now has 4 points
+1338378595|Kill: 1022 3 22: <world> killed Rolph by MOD_TRIGGER_HURT
+1338378595|PlayerScore: 3 0: Rolph now has 0 points
+1338378597|Item: 2 weapon_shotgun
+1338378598|Item: 2 item_armor_shard
+1338378598|Item: 5 weapon_railgun
+1338378599|Item: 3 item_armor_shard
+1338378599|Kill: 5 4 22: TT killed Enrique by MOD_TRIGGER_HURT
+1338378599|PlayerScore: 5 10: TT now has 10 points
+1338378599|Challenge: 5 214 1: Client 5 got award 214
+1338378599|Challenge: 5 1 1: Client 5 got award 1
+1338378599|Challenge: 4 2 1: Client 4 got award 2
+1338378599|Item: 3 weapon_lightning
+1338378600|Item: 3 item_armor_shard
+1338378601|Item: 2 item_health_mega
+1338378602|Item: 3 item_armor_shard
+1338378604|Item: 3 weapon_rocketlauncher
+1338378604|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338378604|PlayerScore: 4 12: Enrique now has 12 points
+1338378605|Item: 5 weapon_railgun
+1338378606|Item: 3 item_armor_shard
+1338378606|Item: 3 item_armor_shard
+1338378606|Item: 3 ammo_rockets
+1338378606|Item: 3 ammo_grenades
+1338378607|Item: 3 weapon_grenadelauncher
+1338378607|Item: 2 ammo_lightning
+1338378607|Item: 3 item_armor_shard
+1338378607|Item: 3 item_armor_shard
+1338378608|Item: 4 weapon_shotgun
+1338378609|Item: 2 weapon_rocketlauncher
+1338378609|Item: 2 ammo_rockets
+1338378610|Item: 3 weapon_plasmagun
+1338378610|Item: 4 weapon_shotgun
+1338378615|Kill: 5 3 22: TT killed Rolph by MOD_TRIGGER_HURT
+1338378615|PlayerScore: 5 11: TT now has 11 points
+1338378615|Challenge: 5 214 1: Client 5 got award 214
+1338378615|Challenge: 5 1 1: Client 5 got award 1
+1338378615|Challenge: 3 2 1: Client 3 got award 2
+1338378615|Item: 2 item_armor_shard
+1338378616|Item: 2 weapon_lightning
+1338378617|Item: 5 item_armor_shard
+1338378617|Item: 5 item_armor_shard
+1338378617|Item: 2 item_armor_shard
+1338378618|Item: 5 item_armor_shard
+1338378618|Item: 5 item_armor_shard
+1338378618|Item: 3 weapon_lightning
+1338378622|Item: 5 item_armor_shard
+1338378623|Item: 5 item_health
+1338378624|Item: 2 item_armor_shard
+1338378624|Item: 5 item_armor_shard
+1338378625|Item: 5 weapon_lightning
+1338378625|Item: 3 item_armor_shard
+1338378625|Item: 3 weapon_lightning
+1338378626|Item: 3 item_armor_shard
+1338378626|Item: 5 weapon_rocketlauncher
+1338378626|Item: 3 item_health
+1338378627|Item: 3 item_armor_shard
+1338378630|Item: 2 ammo_cells
+1338378630|Item: 2 ammo_slugs
+1338378631|Item: 5 weapon_plasmagun
+1338378632|Kill: 2 5 11: dennis killed TT by MOD_LIGHTNING
+1338378632|PlayerScore: 2 5: dennis now has 5 points
+1338378632|Challenge: 2 206 1: Client 2 got award 206
+1338378632|Challenge: 2 1 1: Client 2 got award 1
+1338378632|Challenge: 5 2 1: Client 5 got award 2
+1338378633|Item: 2 weapon_rocketlauncher
+1338378634|Item: 5 weapon_lightning
+1338378635|Item: 3 item_armor_shard
+1338378635|Kill: 1022 2 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338378635|PlayerScore: 2 4: dennis now has 4 points
+1338378637|Item: 5 weapon_lightning
+1338378637|Item: 3 item_armor_shard
+1338378637|Item: 3 weapon_grenadelauncher
+1338378638|Item: 2 ammo_cells
+1338378639|Item: 4 item_armor_shard
+1338378639|Item: 4 item_armor_shard
+1338378639|Item: 2 weapon_shotgun
+1338378640|Item: 5 ammo_lightning
+1338378640|Kill: 4 3 1: Enrique killed Rolph by MOD_SHOTGUN
+1338378640|PlayerScore: 4 13: Enrique now has 13 points
+1338378640|Challenge: 4 203 1: Client 4 got award 203
+1338378640|Challenge: 4 1 1: Client 4 got award 1
+1338378640|Challenge: 3 2 1: Client 3 got award 2
+1338378640|Item: 2 ammo_rockets
+1338378641|Item: 5 ammo_slugs
+1338378643|Kill: 5 2 11: TT killed dennis by MOD_LIGHTNING
+1338378643|PlayerScore: 5 12: TT now has 12 points
+1338378643|Challenge: 5 206 1: Client 5 got award 206
+1338378643|Challenge: 5 1 1: Client 5 got award 1
+1338378643|Challenge: 2 2 1: Client 2 got award 2
+1338378643|Item: 4 item_armor_shard
+1338378644|Item: 3 item_armor_shard
+1338378645|Item: 5 item_armor_shard
+1338378645|Kill: 5 3 11: TT killed Rolph by MOD_LIGHTNING
+1338378645|PlayerScore: 5 13: TT now has 13 points
+1338378645|Challenge: 5 206 1: Client 5 got award 206
+1338378645|Challenge: 5 1 1: Client 5 got award 1
+1338378645|Challenge: 3 2 1: Client 3 got award 2
+1338378645|Award: 5 1: TT gained the EXCELLENT award!
+1338378645|Challenge: 5 302 1: Client 5 got award 302
+1338378647|Item: 3 item_armor_shard
+1338378648|Item: 5 weapon_grenadelauncher
+1338378648|Item: 3 weapon_lightning
+1338378648|Item: 5 ammo_rockets
+1338378649|Item: 2 weapon_railgun
+1338378649|Item: 3 weapon_lightning
+1338378650|Kill: 4 2 3: Enrique killed dennis by MOD_MACHINEGUN
+1338378650|PlayerScore: 4 14: Enrique now has 14 points
+1338378650|Challenge: 4 202 1: Client 4 got award 202
+1338378650|Challenge: 4 1 1: Client 4 got award 1
+1338378650|Challenge: 2 2 1: Client 2 got award 2
+1338378651|Item: 4 weapon_railgun
+1338378652|Item: 3 ammo_lightning
+1338378654|Item: 2 item_armor_shard
+1338378654|Kill: 5 4 11: TT killed Enrique by MOD_LIGHTNING
+1338378654|PlayerScore: 5 14: TT now has 14 points
+1338378654|Challenge: 5 206 1: Client 5 got award 206
+1338378654|Challenge: 5 1 1: Client 5 got award 1
+1338378654|Challenge: 4 2 1: Client 4 got award 2
+1338378654|Item: 3 weapon_rocketlauncher
+1338378654|Item: 3 ammo_rockets
+1338378658|Item: 4 weapon_lightning
+1338378658|Kill: 2 5 22: dennis killed TT by MOD_TRIGGER_HURT
+1338378658|PlayerScore: 2 5: dennis now has 5 points
+1338378658|Challenge: 2 214 1: Client 2 got award 214
+1338378658|Challenge: 2 1 1: Client 2 got award 1
+1338378658|Challenge: 5 2 1: Client 5 got award 2
+1338378658|Item: 4 item_armor_shard
+1338378660|Item: 2 weapon_railgun
+1338378660|Item: 4 item_armor_shard
+1338378660|Kill: 3 2 7: Rolph killed dennis by MOD_ROCKET_SPLASH
+1338378660|PlayerScore: 3 1: Rolph now has 1 points
+1338378660|Challenge: 3 205 1: Client 3 got award 205
+1338378660|Challenge: 3 1 1: Client 3 got award 1
+1338378660|Challenge: 2 2 1: Client 2 got award 2
+1338378662|Item: 5 weapon_shotgun
+1338378663|Item: 3 weapon_railgun
+1338378663|Kill: 4 3 11: Enrique killed Rolph by MOD_LIGHTNING
+1338378663|PlayerScore: 4 15: Enrique now has 15 points
+1338378663|Exit: Fraglimit hit.
+1338378663|score: 15  ping: 3  client: 4 Enrique
+1338378663|score: 14  ping: 3  client: 5 TT
+1338378663|score: 5  ping: 2  client: 2 dennis
+1338378663|score: 1  ping: 3  client: 3 Rolph
+1338378663|broadcast: print "Enrique^7 hit the fraglimit.\n"
+1338378663|Challenge: 4 206 1: Client 4 got award 206
+1338378663|Challenge: 4 1 1: Client 4 got award 1
+1338378663|Challenge: 3 2 1: Client 3 got award 2
+1338378664|Item: 5 weapon_shotgun
+1338378669|broadcast: print "Rolph^7 disconnected\n"
+1338378669|Playerstore: Stored player with guid: 8D9D8FAD284359ED36F095C64975783B in 0
+1338378669|ClientDisconnect: 3
+1338378670|==== ShutdownGame ====
+1338378670|ShutdownGame:
+1338378670|------------------------------------------------------------
+1338378670|AAS shutdown.
+1338378670|------ Server Initialization ------
+1338378670|Server: delta
+1338378670|Hunk_Clear: reset the hunk ok
+1338378670|----- FS_Startup -----
+1338378670|Current search path:
+1338378670|/home/jeroen/.openarena/baseoa
+1338378670|/usr/lib/openarena-server/baseoa
+1338378670|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338378670|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338378670|
+1338378670|----------------------
+1338378670|5433 files in pk3 files
+1338378670|Loading vm file vm/qagame.qvm...
+1338378670|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338378670|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338378670|... trying pak6-patch088/qagame
+1338378670|... trying qagame
+1338378670|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338378670|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338378670|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338378670|------- Game Initialization -------
+1338378670|gamename: baseoa
+1338378670|gamedate: Apr  1 2012
+1338378670|------------------------------------------------------------
+1338378670|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\delta\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-30 13:51:10
+1338378670|Info: ServerInfo length: 787 of 1024
+1338378670|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338378670|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338378670|0 teams with 0 entities
+1338378670|21 items registered
+1338378670|-----------------------------------
+1338378670|------- BotLib Initialization -------
+1338378670|loaded weapons.c
+1338378670|loaded items.c
+1338378670|loaded syn.c
+1338378670|loaded rnd.c
+1338378670|loaded match.c
+1338378670|loaded rchat.c
+1338378670|------------ Map Loading ------------
+1338378670|trying to load maps/delta.aas
+1338378670|loaded maps/delta.aas
+1338378670|found 101 level items
+1338378670|-------------------------------------
+1338378670|33 bots parsed
+1338378670|58 arenas parsed
+1338378670|AAS initialized.
+1338378670|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338378670|ClientConnect: 2
+1338378670|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338378670|ClientConnect: 4
+1338378670|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338378670|ClientConnect: 5
+1338378670|-----------------------------------
+1338378672|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1338378672|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1338378672|broadcast: print "TT^7 entered the game\n"
+1338378672|ClientBegin: 5
+1338378672|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338378672|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338378672|broadcast: print "Enrique^7 entered the game\n"
+1338378672|ClientBegin: 4
+1338378672|Item: 5 item_armor_shard
+1338378672|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338378672|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338378672|broadcast: print "dennis^7 entered the game\n"
+1338378672|ClientBegin: 2
+1338378675|broadcast: print "Enrique^7 disconnected\n"
+1338378675|Kill: 1022 4 20: <world> killed Enrique by MOD_SUICIDE
+1338378675|Playerstore: Stored player with guid: 2EF47499FF1CAD2316F9FD0918CDDAAA in 0
+1338378675|ClientDisconnect: 4
+1338378676|broadcast: print "TT^7 disconnected\n"
+1338378676|Kill: 1022 5 20: <world> killed TT by MOD_SUICIDE
+1338378676|PlayerScore: 5 0: TT now has 0 points
+1338378676|Playerstore: Stored player with guid: 0FF9D843C712925CF1023CDDE010CD83 in 1
+1338378676|ClientDisconnect: 5
+1338378677|broadcast: print "dennis^7 disconnected\n"
+1338378677|Kill: 1022 2 20: <world> killed dennis by MO

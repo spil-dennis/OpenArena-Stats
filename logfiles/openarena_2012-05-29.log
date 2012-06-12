@@ -1,0 +1,2868 @@
+1338286900|Client 0 connecting with 0 challenge ping
+1338286900|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338286900|ClientConnect: 2
+1338286900|broadcast: print "dennis^7 connected\n"
+1338286903|ClientUserinfoChanged: 2 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338286903|Restored player with guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338286903|broadcast: print "dennis^7 entered the game\n"
+1338286903|ClientBegin: 2
+1338286913|Client 1 connecting with 0 challenge ping
+1338286913|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338286913|ClientConnect: 3
+1338286913|broadcast: print "Tamas^7 connected\n"
+1338286916|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338286916|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1338286916|broadcast: print "Tamas^7 entered the game\n"
+1338286916|ClientBegin: 3
+1338286916|Item: 3 ammo_rockets
+1338286918|Item: 3 ammo_rockets
+1338286919|Item: 3 weapon_rocketlauncher
+1338286919|Item: 3 ammo_rockets
+1338286928|Client 2 connecting with 0 challenge ping
+1338286928|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338286928|ClientConnect: 4
+1338286928|broadcast: print "Enrique^7 connected\n"
+1338286930|Kill: 3 2 6: Tamas killed dennis by MOD_ROCKET
+1338286930|PlayerScore: 3 1: Tamas now has 1 points
+1338286930|Challenge: 3 205 1: Client 3 got award 205
+1338286930|Challenge: 3 1 1: Client 3 got award 1
+1338286930|Challenge: 2 2 1: Client 2 got award 2
+1338286930|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338286930|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338286930|broadcast: print "Enrique^7 entered the game\n"
+1338286930|ClientBegin: 4
+1338286930|Item: 4 ammo_rockets
+1338286933|Item: 4 ammo_rockets
+1338286933|say: dennis: quit
+1338286933|dennis^7: quit
+1338286933|Item: 4 weapon_rocketlauncher
+1338286933|Item: 4 ammo_rockets
+1338286934|Item: 4 item_doubler
+1338286935|broadcast: print "dennis^7 disconnected\n"
+1338286935|Playerstore: Stored player with guid: 09B7CCF049BACED173FDB92196EBE8B3 in 0
+1338286935|ClientDisconnect: 2
+1338286936|Item: 3 item_ammoregen
+1338286936|Item: 3 item_armor_combat
+1338286944|Client 0 connecting with 0 challenge ping
+1338286944|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338286944|ClientConnect: 2
+1338286944|broadcast: print "Gerb^7 connected\n"
+1338286948|Client 3 connecting with 0 challenge ping
+1338286948|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338286948|ClientConnect: 5
+1338286948|broadcast: print "dennis^7 connected\n"
+1338286950|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338286950|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1338286950|broadcast: print "Gerb^7 entered the game\n"
+1338286950|ClientBegin: 2
+1338286951|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338286951|Restored player with guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338286951|broadcast: print "dennis^7 entered the game\n"
+1338286951|ClientBegin: 5
+1338286953|Item: 2 weapon_rocketlauncher
+1338286953|Kill: 3 4 7: Tamas killed Enrique by MOD_ROCKET_SPLASH
+1338286953|PlayerScore: 3 2: Tamas now has 2 points
+1338286953|Challenge: 3 205 1: Client 3 got award 205
+1338286953|Challenge: 3 1 1: Client 3 got award 1
+1338286953|Challenge: 4 2 1: Client 4 got award 2
+1338286954|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338286954|PlayerScore: 4 1: Enrique now has 1 points
+1338286954|Challenge: 4 205 1: Client 4 got award 205
+1338286954|Challenge: 4 1 1: Client 4 got award 1
+1338286954|Challenge: 3 2 1: Client 3 got award 2
+1338286955|Item: 3 ammo_rockets
+1338286956|Item: 2 item_doubler
+1338286957|Item: 4 weapon_rocketlauncher
+1338286958|Item: 4 item_doubler
+1338286959|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338286959|PlayerScore: 5 1: dennis now has 1 points
+1338286959|Challenge: 5 202 1: Client 5 got award 202
+1338286959|Challenge: 5 1 1: Client 5 got award 1
+1338286959|Challenge: 2 2 1: Client 2 got award 2
+1338286961|Item: 5 item_scout
+1338286963|Item: 3 weapon_rocketlauncher
+1338286965|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1338286965|PlayerScore: 4 2: Enrique now has 2 points
+1338286965|Challenge: 4 205 1: Client 4 got award 205
+1338286965|Challenge: 4 1 1: Client 4 got award 1
+1338286965|Challenge: 2 2 1: Client 2 got award 2
+1338286967|Item: 2 ammo_rockets
+1338286968|Kill: 3 5 7: Tamas killed dennis by MOD_ROCKET_SPLASH
+1338286968|PlayerScore: 3 3: Tamas now has 3 points
+1338286968|Challenge: 3 205 1: Client 3 got award 205
+1338286968|Challenge: 3 1 1: Client 3 got award 1
+1338286968|Challenge: 5 2 1: Client 5 got award 2
+1338286969|Item: 3 item_scout
+1338286969|Item: 2 ammo_rockets
+1338286970|Item: 2 weapon_rocketlauncher
+1338286971|Kill: 4 4 7: Enrique killed Enrique by MOD_ROCKET_SPLASH
+1338286971|PlayerScore: 4 1: Enrique now has 1 points
+1338286971|Kill: 4 3 7: Enrique killed Tamas by MOD_ROCKET_SPLASH
+1338286971|PlayerScore: 4 2: Enrique now has 2 points
+1338286971|Challenge: 4 205 1: Client 4 got award 205
+1338286971|Challenge: 4 1 1: Client 4 got award 1
+1338286971|Challenge: 3 2 1: Client 3 got award 2
+1338286973|Item: 3 ammo_rockets
+1338286975|Item: 3 ammo_rockets
+1338286975|Item: 3 weapon_rocketlauncher
+1338286976|Item: 4 item_doubler
+1338286976|Item: 3 ammo_rockets
+1338286977|Item: 2 weapon_railgun
+1338286977|Item: 4 ammo_rockets
+1338286977|Item: 5 item_scout
+1338286979|Item: 3 item_scout
+1338286979|Item: 5 ammo_shells
+1338286979|Item: 5 item_health_small
+1338286979|Item: 5 item_health_small
+1338286979|Item: 5 item_health_small
+1338286979|Item: 5 item_health_small
+1338286980|Item: 5 item_health_small
+1338286981|Item: 3 weapon_rocketlauncher
+1338286981|Item: 5 ammo_lightning
+1338286981|Item: 5 weapon_lightning
+1338286981|Item: 4 weapon_rocketlauncher
+1338286983|Item: 5 weapon_nailgun
+1338286983|Item: 5 weapon_shotgun
+1338286986|Item: 4 item_armor_body
+1338286986|Item: 2 ammo_slugs
+1338286988|Item: 5 item_health_small
+1338286988|Item: 5 item_health_small
+1338286988|Item: 5 item_health_small
+1338286988|Item: 5 item_health_small
+1338286989|Item: 5 item_health_small
+1338286989|Item: 5 ammo_shells
+1338286991|Item: 4 item_armor_shard
+1338286992|Item: 4 item_armor_shard
+1338286992|Item: 4 item_armor_shard
+1338286993|Item: 4 item_armor_shard
+1338286993|Item: 4 item_armor_shard
+1338286995|Item: 3 weapon_rocketlauncher
+1338286996|Item: 2 weapon_lightning
+1338287005|Kill: 4 3 3: Enrique killed Tamas by MOD_MACHINEGUN
+1338287005|PlayerScore: 4 3: Enrique now has 3 points
+1338287005|Challenge: 4 202 1: Client 4 got award 202
+1338287005|Challenge: 4 1 1: Client 4 got award 1
+1338287005|Challenge: 3 2 1: Client 3 got award 2
+1338287006|Item: 5 weapon_rocketlauncher
+1338287006|Item: 2 weapon_shotgun
+1338287006|Item: 2 weapon_nailgun
+1338287007|Item: 2 item_guard
+1338287007|Item: 3 ammo_rockets
+1338287007|Item: 4 weapon_rocketlauncher
+1338287015|Kill: 4 3 7: Enrique killed Tamas by MOD_ROCKET_SPLASH
+1338287015|PlayerScore: 4 4: Enrique now has 4 points
+1338287015|Challenge: 4 205 1: Client 4 got award 205
+1338287015|Challenge: 4 1 1: Client 4 got award 1
+1338287015|Challenge: 3 2 1: Client 3 got award 2
+1338287015|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287015|PlayerScore: 4 5: Enrique now has 5 points
+1338287015|Challenge: 4 205 1: Client 4 got award 205
+1338287015|Challenge: 4 1 1: Client 4 got award 1
+1338287015|Challenge: 5 2 1: Client 5 got award 2
+1338287015|Award: 4 1: Enrique gained the EXCELLENT award!
+1338287015|Challenge: 4 302 1: Client 4 got award 302
+1338287017|Item: 4 weapon_rocketlauncher
+1338287017|Item: 5 ammo_rockets
+1338287017|Item: 2 weapon_lightning
+1338287019|Kill: 3 4 3: Tamas killed Enrique by MOD_MACHINEGUN
+1338287019|PlayerScore: 3 4: Tamas now has 4 points
+1338287019|Challenge: 3 202 1: Client 3 got award 202
+1338287019|Challenge: 3 1 1: Client 3 got award 1
+1338287019|Challenge: 4 2 1: Client 4 got award 2
+1338287020|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338287020|PlayerScore: 4 6: Enrique now has 6 points
+1338287020|Challenge: 4 205 1: Client 4 got award 205
+1338287020|Challenge: 4 1 1: Client 4 got award 1
+1338287020|Challenge: 3 2 1: Client 3 got award 2
+1338287020|Item: 5 item_doubler
+1338287021|Item: 5 weapon_rocketlauncher
+1338287021|Item: 5 ammo_rockets
+1338287024|Item: 5 ammo_rockets
+1338287024|Item: 3 ammo_rockets
+1338287024|Item: 3 weapon_rocketlauncher
+1338287025|Item: 3 ammo_rockets
+1338287025|Item: 4 ammo_rockets
+1338287028|Item: 3 item_scout
+1338287029|Item: 2 ammo_shells
+1338287031|Item: 3 weapon_rocketlauncher
+1338287031|Item: 4 weapon_rocketlauncher
+1338287031|Item: 5 ammo_grenades
+1338287032|Item: 5 weapon_grenadelauncher
+1338287032|Item: 5 ammo_grenades
+1338287034|Item: 3 item_health_small
+1338287034|Item: 3 item_health_small
+1338287034|Item: 3 item_health_small
+1338287035|Item: 3 item_health_small
+1338287035|Item: 3 item_health_small
+1338287037|Item: 5 item_armor_combat
+1338287038|Item: 5 weapon_plasmagun
+1338287038|Item: 3 weapon_rocketlauncher
+1338287042|Item: 4 item_ammoregen
+1338287042|Item: 2 weapon_plasmagun
+1338287043|Item: 4 weapon_plasmagun
+1338287044|Item: 2 item_armor_combat
+1338287049|Item: 4 weapon_rocketlauncher
+1338287051|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287051|PlayerScore: 4 7: Enrique now has 7 points
+1338287051|Challenge: 4 205 1: Client 4 got award 205
+1338287051|Challenge: 4 1 1: Client 4 got award 1
+1338287051|Challenge: 5 2 1: Client 5 got award 2
+1338287053|Item: 3 weapon_rocketlauncher
+1338287054|Kill: 2 3 23: Gerb killed Tamas by MOD_NAIL
+1338287054|PlayerScore: 2 1: Gerb now has 1 points
+1338287054|Challenge: 2 212 1: Client 2 got award 212
+1338287054|Challenge: 2 1 1: Client 2 got award 1
+1338287054|Challenge: 3 2 1: Client 3 got award 2
+1338287055|Item: 4 weapon_lightning
+1338287055|Item: 4 item_armor_body
+1338287056|Item: 4 ammo_lightning
+1338287060|Item: 4 weapon_rocketlauncher
+1338287061|Item: 4 weapon_nailgun
+1338287061|Item: 4 weapon_shotgun
+1338287062|Item: 5 item_scout
+1338287064|Item: 5 ammo_shells
+1338287064|Item: 5 item_health_small
+1338287064|Item: 5 item_health_small
+1338287064|Item: 5 item_health_small
+1338287064|Item: 5 item_health_small
+1338287064|Item: 5 item_health_small
+1338287065|Item: 2 weapon_plasmagun
+1338287065|Item: 5 ammo_lightning
+1338287065|Item: 5 weapon_lightning
+1338287068|Item: 5 weapon_shotgun
+1338287068|Item: 5 weapon_nailgun
+1338287068|Item: 2 ammo_grenades
+1338287070|Item: 4 ammo_rockets
+1338287071|Item: 2 weapon_grenadelauncher
+1338287072|Item: 3 item_guard
+1338287072|Item: 3 weapon_shotgun
+1338287072|Item: 3 weapon_nailgun
+1338287072|Item: 2 item_armor_combat
+1338287073|Item: 4 ammo_rockets
+1338287074|Item: 5 ammo_grenades
+1338287075|Item: 4 weapon_rocketlauncher
+1338287079|Item: 3 ammo_shells
+1338287085|Item: 4 ammo_rockets
+1338287090|Kill: 2 5 23: Gerb killed dennis by MOD_NAIL
+1338287090|PlayerScore: 2 2: Gerb now has 2 points
+1338287090|Challenge: 2 212 1: Client 2 got award 212
+1338287090|Challenge: 2 1 1: Client 2 got award 1
+1338287090|Challenge: 5 2 1: Client 5 got award 2
+1338287092|Item: 5 ammo_rockets
+1338287094|Kill: 3 4 1: Tamas killed Enrique by MOD_SHOTGUN
+1338287094|PlayerScore: 3 5: Tamas now has 5 points
+1338287094|Challenge: 3 203 1: Client 3 got award 203
+1338287094|Challenge: 3 1 1: Client 3 got award 1
+1338287094|Challenge: 4 2 1: Client 4 got award 2
+1338287095|Item: 3 weapon_rocketlauncher
+1338287097|Item: 2 ammo_shells
+1338287097|Item: 4 ammo_rockets
+1338287097|Item: 2 item_armor_shard
+1338287097|Item: 2 item_armor_shard
+1338287098|Item: 2 item_armor_shard
+1338287098|Item: 2 item_armor_shard
+1338287098|Item: 3 ammo_grenades
+1338287098|Item: 2 item_armor_shard
+1338287099|Item: 5 weapon_plasmagun
+1338287099|Item: 3 item_armor_combat
+1338287100|Item: 4 ammo_rockets
+1338287100|Item: 4 weapon_rocketlauncher
+1338287100|Item: 4 ammo_rockets
+1338287101|Item: 3 weapon_plasmagun
+1338287108|Kill: 5 2 8: dennis killed Gerb by MOD_PLASMA
+1338287108|PlayerScore: 5 2: dennis now has 2 points
+1338287108|Challenge: 5 207 1: Client 5 got award 207
+1338287108|Challenge: 5 1 1: Client 5 got award 1
+1338287108|Challenge: 2 2 1: Client 2 got award 2
+1338287109|Item: 4 weapon_rocketlauncher
+1338287111|Item: 5 item_armor_body
+1338287112|Item: 5 ammo_lightning
+1338287112|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287112|PlayerScore: 4 8: Enrique now has 8 points
+1338287112|Challenge: 4 205 1: Client 4 got award 205
+1338287112|Challenge: 4 1 1: Client 4 got award 1
+1338287112|Challenge: 5 2 1: Client 5 got award 2
+1338287113|Item: 2 weapon_rocketlauncher
+1338287113|Item: 4 weapon_lightning
+1338287114|Item: 4 weapon_plasmagun
+1338287118|Item: 5 item_scout
+1338287120|Item: 4 item_guard
+1338287120|Item: 4 weapon_nailgun
+1338287120|Item: 4 weapon_shotgun
+1338287120|Item: 5 item_health_small
+1338287121|Item: 5 item_health_small
+1338287121|Item: 5 item_health_small
+1338287121|Item: 5 item_health_small
+1338287121|Item: 5 item_health_small
+1338287124|Item: 2 item_health_large
+1338287126|Item: 4 weapon_rocketlauncher
+1338287130|Item: 2 holdable_medkit
+1338287132|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1338287132|PlayerScore: 4 9: Enrique now has 9 points
+1338287132|Challenge: 4 205 1: Client 4 got award 205
+1338287132|Challenge: 4 1 1: Client 4 got award 1
+1338287132|Challenge: 2 2 1: Client 2 got award 2
+1338287134|Item: 5 weapon_shotgun
+1338287134|Item: 5 weapon_nailgun
+1338287135|Item: 5 item_health_large
+1338287137|Item: 2 weapon_rocketlauncher
+1338287141|Kill: 2 5 6: Gerb killed dennis by MOD_ROCKET
+1338287141|PlayerScore: 2 3: Gerb now has 3 points
+1338287141|Challenge: 2 205 1: Client 2 got award 205
+1338287141|Challenge: 2 1 1: Client 2 got award 1
+1338287141|Challenge: 5 2 1: Client 5 got award 2
+1338287143|Item: 5 ammo_rockets
+1338287143|Item: 4 weapon_nailgun
+1338287144|Item: 4 weapon_nailgun
+1338287144|Item: 4 weapon_shotgun
+1338287145|Item: 2 item_armor_body
+1338287145|Item: 5 ammo_rockets
+1338287146|Item: 5 weapon_rocketlauncher
+1338287146|Item: 5 ammo_rockets
+1338287148|Item: 2 weapon_lightning
+1338287149|Item: 5 item_scout
+1338287150|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1338287150|PlayerScore: 4 10: Enrique now has 10 points
+1338287150|Challenge: 4 205 1: Client 4 got award 205
+1338287150|Challenge: 4 1 1: Client 4 got award 1
+1338287150|Challenge: 2 2 1: Client 2 got award 2
+1338287151|Item: 4 weapon_lightning
+1338287151|Item: 5 ammo_shells
+1338287151|Item: 5 item_health_small
+1338287151|Item: 5 item_health_small
+1338287152|Item: 2 ammo_rockets
+1338287152|Item: 5 item_health_small
+1338287152|Item: 5 item_health_small
+1338287152|Item: 5 item_health_small
+1338287152|Item: 3 item_armor_combat
+1338287153|Item: 5 ammo_lightning
+1338287153|Item: 3 weapon_plasmagun
+1338287153|Item: 5 weapon_lightning
+1338287154|Item: 2 weapon_rocketlauncher
+1338287155|Item: 5 item_health_small
+1338287155|Item: 5 item_health_small
+1338287155|Item: 5 item_health_small
+1338287155|Item: 5 item_health_small
+1338287155|Item: 5 item_health_small
+1338287155|Item: 5 ammo_shells
+1338287155|Item: 2 ammo_rockets
+1338287156|Item: 2 ammo_rockets
+1338287160|Item: 2 item_scout
+1338287165|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1338287165|PlayerScore: 4 11: Enrique now has 11 points
+1338287165|Challenge: 4 205 1: Client 4 got award 205
+1338287165|Challenge: 4 1 1: Client 4 got award 1
+1338287165|Challenge: 2 2 1: Client 2 got award 2
+1338287166|Item: 4 weapon_rocketlauncher
+1338287167|Item: 2 ammo_rockets
+1338287169|Item: 3 ammo_grenades
+1338287173|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287173|PlayerScore: 4 12: Enrique now has 12 points
+1338287173|Challenge: 4 205 1: Client 4 got award 205
+1338287173|Challenge: 4 1 1: Client 4 got award 1
+1338287173|Challenge: 5 2 1: Client 5 got award 2
+1338287173|Kill: 4 4 7: Enrique killed Enrique by MOD_ROCKET_SPLASH
+1338287173|PlayerScore: 4 11: Enrique now has 11 points
+1338287173|Item: 2 weapon_shotgun
+1338287177|Item: 4 weapon_rocketlauncher
+1338287178|Item: 3 weapon_rocketlauncher
+1338287180|Item: 4 item_doubler
+1338287180|Item: 3 ammo_rockets
+1338287180|Item: 2 weapon_railgun
+1338287181|Item: 5 item_armor_shard
+1338287181|Item: 5 item_armor_shard
+1338287182|Item: 5 item_armor_shard
+1338287182|Item: 5 item_armor_shard
+1338287182|Item: 5 item_armor_shard
+1338287185|Item: 5 holdable_medkit
+1338287185|Item: 3 item_armor_combat
+1338287187|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287187|PlayerScore: 4 12: Enrique now has 12 points
+1338287187|Challenge: 4 205 1: Client 4 got award 205
+1338287187|Challenge: 4 1 1: Client 4 got award 1
+1338287187|Challenge: 5 2 1: Client 5 got award 2
+1338287188|Item: 4 weapon_lightning
+1338287189|Item: 4 item_armor_body
+1338287192|Item: 5 weapon_rocketlauncher
+1338287192|Item: 5 item_doubler
+1338287194|Item: 4 item_health_large
+1338287195|Item: 4 weapon_shotgun
+1338287195|Item: 4 weapon_nailgun
+1338287197|Item: 5 ammo_shells
+1338287197|Item: 5 item_armor_shard
+1338287197|Item: 5 item_health_small
+1338287197|Item: 5 item_armor_shard
+1338287197|Item: 5 item_health_small
+1338287197|Item: 5 item_armor_shard
+1338287197|Item: 5 item_health_small
+1338287197|Item: 5 item_armor_shard
+1338287198|Item: 5 item_health_small
+1338287198|Item: 5 item_armor_shard
+1338287198|Item: 5 item_health_small
+1338287200|Item: 5 holdable_medkit
+1338287200|Item: 4 ammo_rockets
+1338287201|Item: 4 weapon_rocketlauncher
+1338287201|Item: 4 ammo_rockets
+1338287202|Item: 2 ammo_grenades
+1338287202|Item: 2 weapon_grenadelauncher
+1338287203|Item: 2 ammo_grenades
+1338287203|Item: 5 item_armor_body
+1338287204|Item: 5 ammo_lightning
+1338287204|Item: 5 weapon_lightning
+1338287205|Item: 3 ammo_rockets
+1338287205|Item: 2 item_armor_combat
+1338287205|Item: 2 item_ammoregen
+1338287207|Item: 5 item_health_large
+1338287209|Item: 5 weapon_shotgun
+1338287209|Item: 5 weapon_nailgun
+1338287210|Item: 5 item_health_large
+1338287214|Kill: 5 3 11: dennis killed Tamas by MOD_LIGHTNING
+1338287214|PlayerScore: 5 3: dennis now has 3 points
+1338287214|Challenge: 5 206 1: Client 5 got award 206
+1338287214|Challenge: 5 1 1: Client 5 got award 1
+1338287214|Challenge: 3 2 1: Client 3 got award 2
+1338287218|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1338287218|PlayerScore: 4 13: Enrique now has 13 points
+1338287218|Challenge: 4 205 1: Client 4 got award 205
+1338287218|Challenge: 4 1 1: Client 4 got award 1
+1338287218|Challenge: 2 2 1: Client 2 got award 2
+1338287219|Item: 4 weapon_railgun
+1338287219|Item: 5 item_health_small
+1338287220|Item: 5 item_armor_shard
+1338287220|Item: 5 item_health_small
+1338287220|Item: 5 item_armor_shard
+1338287220|Item: 5 item_health_small
+1338287220|Item: 5 item_armor_shard
+1338287220|Item: 5 item_health_small
+1338287220|Item: 5 item_armor_shard
+1338287220|Item: 5 item_health_small
+1338287220|Item: 5 item_armor_shard
+1338287220|Item: 5 ammo_shells
+1338287223|Item: 3 item_scout
+1338287223|Item: 2 weapon_rocketlauncher
+1338287226|Item: 3 ammo_grenades
+1338287226|Item: 3 weapon_grenadelauncher
+1338287226|Item: 3 ammo_grenades
+1338287227|Item: 2 ammo_rockets
+1338287228|Kill: 2 4 7: Gerb killed Enrique by MOD_ROCKET_SPLASH
+1338287228|PlayerScore: 2 4: Gerb now has 4 points
+1338287228|Challenge: 2 205 1: Client 2 got award 205
+1338287228|Challenge: 2 1 1: Client 2 got award 1
+1338287228|Challenge: 4 2 1: Client 4 got award 2
+1338287230|Item: 2 weapon_rocketlauncher
+1338287230|Item: 4 ammo_rockets
+1338287230|Item: 2 item_doubler
+1338287231|Item: 3 ammo_rockets
+1338287232|Item: 3 weapon_rocketlauncher
+1338287235|Item: 2 weapon_lightning
+1338287235|Item: 2 item_armor_body
+1338287235|Item: 2 ammo_lightning
+1338287235|Item: 3 weapon_lightning
+1338287237|Item: 5 item_armor_shard
+1338287237|Item: 5 item_health_small
+1338287237|Item: 5 item_armor_shard
+1338287237|Item: 4 ammo_rockets
+1338287237|Item: 5 item_health_small
+1338287237|Item: 5 item_armor_shard
+1338287237|Item: 5 item_health_small
+1338287237|Item: 5 item_armor_shard
+1338287237|Item: 5 item_health_small
+1338287237|Item: 5 item_armor_shard
+1338287237|Item: 5 item_health_small
+1338287239|Item: 2 item_health_large
+1338287240|Item: 2 weapon_nailgun
+1338287240|Item: 2 weapon_shotgun
+1338287241|Item: 2 item_health_large
+1338287242|Item: 5 weapon_shotgun
+1338287242|Item: 5 weapon_nailgun
+1338287243|Item: 5 item_health_large
+1338287245|Item: 4 ammo_rockets
+1338287245|Item: 4 weapon_rocketlauncher
+1338287248|Item: 3 weapon_lightning
+1338287248|Item: 3 ammo_lightning
+1338287249|Item: 2 weapon_rocketlauncher
+1338287249|Item: 2 ammo_rockets
+1338287250|Item: 2 ammo_rockets
+1338287250|Item: 3 ammo_shells
+1338287256|Kill: 3 5 11: Tamas killed dennis by MOD_LIGHTNING
+1338287256|PlayerScore: 3 6: Tamas now has 6 points
+1338287256|Challenge: 3 206 1: Client 3 got award 206
+1338287256|Challenge: 3 1 1: Client 3 got award 1
+1338287256|Challenge: 5 2 1: Client 5 got award 2
+1338287256|Item: 2 ammo_shells
+1338287256|Item: 2 item_armor_shard
+1338287256|Item: 2 item_health_small
+1338287256|Item: 3 weapon_nailgun
+1338287256|Item: 2 item_armor_shard
+1338287256|Item: 2 item_health_small
+1338287256|Item: 2 item_armor_shard
+1338287257|Item: 2 item_health_small
+1338287257|Item: 2 item_armor_shard
+1338287257|Item: 2 item_health_small
+1338287257|Item: 2 item_armor_shard
+1338287257|Item: 2 item_health_small
+1338287259|Item: 3 weapon_rocketlauncher
+1338287263|Item: 2 weapon_rocketlauncher
+1338287264|Kill: 1022 4 14: <world> killed Enrique by MOD_WATER
+1338287264|PlayerScore: 4 12: Enrique now has 12 points
+1338287269|Item: 4 item_guard
+1338287269|Item: 4 weapon_shotgun
+1338287269|Item: 4 weapon_nailgun
+1338287272|Kill: 3 5 6: Tamas killed dennis by MOD_ROCKET
+1338287272|PlayerScore: 3 7: Tamas now has 7 points
+1338287272|Challenge: 3 205 1: Client 3 got award 205
+1338287272|Challenge: 3 1 1: Client 3 got award 1
+1338287272|Challenge: 5 2 1: Client 5 got award 2
+1338287274|Item: 5 ammo_rockets
+1338287274|Item: 4 weapon_lightning
+1338287275|Item: 4 ammo_lightning
+1338287277|Item: 5 item_scout
+1338287282|Item: 4 weapon_rocketlauncher
+1338287282|Item: 2 item_armor_shard
+1338287283|Item: 2 item_armor_shard
+1338287283|Item: 3 ammo_shells
+1338287283|Item: 3 item_health_small
+1338287283|Item: 2 item_armor_shard
+1338287283|Item: 3 item_health_small
+1338287283|Item: 3 item_health_small
+1338287283|Item: 2 item_armor_shard
+1338287283|Item: 3 item_health_small
+1338287283|Item: 2 item_armor_shard
+1338287283|Item: 3 item_health_small
+1338287284|Item: 5 weapon_nailgun
+1338287284|Item: 5 weapon_shotgun
+1338287286|Item: 3 item_health_large
+1338287288|Item: 3 weapon_nailgun
+1338287288|Item: 3 weapon_shotgun
+1338287288|Item: 3 item_health_large
+1338287289|Item: 2 item_armor_body
+1338287289|Item: 4 holdable_medkit
+1338287289|Item: 5 item_health_large
+1338287291|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287291|PlayerScore: 4 13: Enrique now has 13 points
+1338287291|Challenge: 4 205 1: Client 4 got award 205
+1338287291|Challenge: 4 1 1: Client 4 got award 1
+1338287291|Challenge: 5 2 1: Client 5 got award 2
+1338287293|Item: 5 ammo_rockets
+1338287293|Item: 3 item_health_small
+1338287293|Item: 3 item_health_small
+1338287293|Item: 3 item_health_small
+1338287293|Item: 3 item_health_small
+1338287293|Item: 3 item_health_small
+1338287293|Item: 3 ammo_shells
+1338287295|Item: 5 weapon_rocketlauncher
+1338287296|Item: 5 ammo_rockets
+1338287296|Item: 4 ammo_shells
+1338287297|Item: 3 ammo_rockets
+1338287297|Item: 2 item_health_small
+1338287297|Item: 3 weapon_rocketlauncher
+1338287297|Item: 2 item_health_small
+1338287297|Item: 4 item_health_small
+1338287297|Item: 4 item_health_small
+1338287297|Item: 3 ammo_rockets
+1338287298|Item: 2 item_health_small
+1338287301|Item: 5 item_scout
+1338287302|Item: 2 item_health_small
+1338287303|Item: 2 item_armor_shard
+1338287303|Item: 2 item_health_small
+1338287303|Item: 2 item_armor_shard
+1338287303|Item: 2 item_health_small
+1338287303|Item: 2 item_armor_shard
+1338287303|Item: 2 item_health_small
+1338287303|Item: 2 item_armor_shard
+1338287303|Item: 2 item_health_small
+1338287303|Item: 2 item_armor_shard
+1338287303|Item: 2 ammo_shells
+1338287308|Kill: 5 2 7: dennis killed Gerb by MOD_ROCKET_SPLASH
+1338287308|PlayerScore: 5 4: dennis now has 4 points
+1338287308|Challenge: 5 205 1: Client 5 got award 205
+1338287308|Challenge: 5 1 1: Client 5 got award 1
+1338287308|Challenge: 2 2 1: Client 2 got award 2
+1338287308|Kill: 5 4 6: dennis killed Enrique by MOD_ROCKET
+1338287308|PlayerScore: 5 5: dennis now has 5 points
+1338287308|Challenge: 5 205 1: Client 5 got award 205
+1338287308|Challenge: 5 1 1: Client 5 got award 1
+1338287308|Challenge: 4 2 1: Client 4 got award 2
+1338287308|Award: 5 1: dennis gained the EXCELLENT award!
+1338287308|Challenge: 5 302 1: Client 5 got award 302
+1338287310|Kill: 3 5 7: Tamas killed dennis by MOD_ROCKET_SPLASH
+1338287310|PlayerScore: 3 8: Tamas now has 8 points
+1338287310|Challenge: 3 205 1: Client 3 got award 205
+1338287310|Challenge: 3 1 1: Client 3 got award 1
+1338287310|Challenge: 5 2 1: Client 5 got award 2
+1338287312|Item: 3 weapon_rocketlauncher
+1338287312|Item: 2 weapon_rocketlauncher
+1338287313|Item: 4 weapon_rocketlauncher
+1338287313|Item: 2 item_doubler
+1338287314|Item: 4 item_doubler
+1338287315|Item: 5 ammo_rockets
+1338287317|Item: 4 ammo_rockets
+1338287317|Kill: 2 3 7: Gerb killed Tamas by MOD_ROCKET_SPLASH
+1338287317|PlayerScore: 2 5: Gerb now has 5 points
+1338287317|Challenge: 2 205 1: Client 2 got award 205
+1338287317|Challenge: 2 1 1: Client 2 got award 1
+1338287317|Challenge: 3 2 1: Client 3 got award 2
+1338287319|Item: 5 weapon_lightning
+1338287319|Item: 5 item_armor_body
+1338287319|Item: 2 item_armor_shard
+1338287320|Item: 5 ammo_lightning
+1338287320|Item: 2 item_armor_shard
+1338287320|Item: 2 item_armor_shard
+1338287320|Item: 2 item_armor_shard
+1338287320|Item: 3 weapon_rocketlauncher
+1338287320|Item: 2 item_armor_shard
+1338287321|Item: 4 ammo_grenades
+1338287323|Kill: 3 2 7: Tamas killed Gerb by MOD_ROCKET_SPLASH
+1338287323|PlayerScore: 3 9: Tamas now has 9 points
+1338287323|Challenge: 3 205 1: Client 3 got award 205
+1338287323|Challenge: 3 1 1: Client 3 got award 1
+1338287323|Challenge: 2 2 1: Client 2 got award 2
+1338287323|Item: 4 item_armor_combat
+1338287324|Item: 5 item_guard
+1338287324|Item: 5 weapon_nailgun
+1338287324|Item: 5 weapon_shotgun
+1338287326|Item: 4 weapon_grenadelauncher
+1338287326|Item: 4 ammo_grenades
+1338287327|Item: 2 weapon_rocketlauncher
+1338287328|Item: 3 item_armor_shard
+1338287330|Item: 3 item_armor_shard
+1338287330|Item: 3 item_armor_shard
+1338287331|Item: 3 item_armor_shard
+1338287331|Item: 3 item_armor_shard
+1338287332|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1338287332|PlayerScore: 4 14: Enrique now has 14 points
+1338287332|Challenge: 4 205 1: Client 4 got award 205
+1338287332|Challenge: 4 1 1: Client 4 got award 1
+1338287332|Challenge: 2 2 1: Client 2 got award 2
+1338287332|Item: 4 weapon_rocketlauncher
+1338287333|Item: 3 weapon_rocketlauncher
+1338287333|Item: 2 ammo_rockets
+1338287335|Item: 5 weapon_nailgun
+1338287335|Item: 3 item_scout
+1338287337|Item: 5 ammo_shells
+1338287337|Item: 5 item_health_small
+1338287337|Item: 5 item_health_small
+1338287337|Item: 4 ammo_rockets
+1338287337|Item: 5 item_health_small
+1338287337|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1338287337|PlayerScore: 4 15: Enrique now has 15 points
+1338287337|Exit: Fraglimit hit.
+1338287337|score: 15  ping: 3  client: 4 Enrique
+1338287337|score: 9  ping: 0  client: 3 Tamas
+1338287337|score: 5  ping: 1  client: 2 Gerb
+1338287337|score: 5  ping: 2  client: 5 dennis
+1338287337|broadcast: print "Enrique^7 hit the fraglimit.\n"
+1338287337|Challenge: 4 205 1: Client 4 got award 205
+1338287337|Challenge: 4 1 1: Client 4 got award 1
+1338287337|Challenge: 2 2 1: Client 2 got award 2
+1338287343|g_gametype will be changed upon restarting.
+1338287343|==== ShutdownGame ====
+1338287343|ShutdownGame:
+1338287343|------------------------------------------------------------
+1338287343|AAS shutdown.
+1338287343|------ Server Initialization ------
+1338287343|Server: oa_ctf2
+1338287343|Hunk_Clear: reset the hunk ok
+1338287343|----- FS_Startup -----
+1338287343|Current search path:
+1338287343|/home/jeroen/.openarena/baseoa
+1338287343|/usr/lib/openarena-server/baseoa
+1338287343|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338287343|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338287343|
+1338287343|----------------------
+1338287343|5433 files in pk3 files
+1338287343|Loading vm file vm/qagame.qvm...
+1338287343|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338287343|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338287343|... trying pak6-patch088/qagame
+1338287343|... trying qagame
+1338287343|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338287343|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338287343|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338287343|------- Game Initialization -------
+1338287343|gamename: baseoa
+1338287343|gamedate: Apr  1 2012
+1338287343|------------------------------------------------------------
+1338287343|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\4\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_ctf2\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-29 12:29:03
+1338287343|Info: ServerInfo length: 789 of 1024
+1338287343|Gametype changed, clearing session data.
+1338287343|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338287343|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338287343|0 teams with 0 entities
+1338287343|14 items registered
+1338287343|-----------------------------------
+1338287343|------- BotLib Initialization -------
+1338287343|loaded weapons.c
+1338287343|loaded items.c
+1338287343|loaded syn.c
+1338287343|loaded rnd.c
+1338287343|loaded match.c
+1338287343|loaded rchat.c
+1338287343|------------ Map Loading ------------
+1338287343|trying to load maps/oa_ctf2.aas
+1338287343|loaded maps/oa_ctf2.aas
+1338287343|found 47 level items
+1338287343|-------------------------------------
+1338287343|33 bots parsed
+1338287343|58 arenas parsed
+1338287343|AAS initialized.
+1338287343|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287343|ClientConnect: 2
+1338287343|ClientUserinfoChanged: 3 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287343|ClientConnect: 3
+1338287343|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287343|ClientConnect: 4
+1338287343|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287343|ClientConnect: 5
+1338287343|-----------------------------------
+1338287345|ClientUserinfoChanged: 3 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287345|ClientBegin: 3
+1338287345|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287345|ClientBegin: 4
+1338287346|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287346|ClientBegin: 5
+1338287347|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287347|ClientBegin: 2
+1338287347|broadcast: print "Gerb^7 disconnected\n"
+1338287347|ClientDisconnect: 2
+1338287347|ClientUserinfoChanged: 3 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287347|ClientUserinfoChanged: 3 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287347|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1338287347|broadcast: print "Tamas^7 entered the game\n"
+1338287347|ClientBegin: 3
+1338287349|ClientUserinfoChanged: 4 n\Enrique\t\1\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287349|ClientUserinfoChanged: 4 n\Enrique\t\1\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287349|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287349|broadcast: print "Enrique^7 entered the game\n"
+1338287349|ClientBegin: 4
+1338287350|Item: 3 weapon_railgun
+1338287352|ClientUserinfoChanged: 5 n\dennis\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287352|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338287352|broadcast: print "dennis^7 entered the game\n"
+1338287352|ClientBegin: 5
+1338287353|Item: 3 item_health_small
+1338287354|Item: 3 item_health_small
+1338287354|Item: 3 item_health_small
+1338287354|Item: 3 item_health_small
+1338287356|Client 0 connecting with 40 challenge ping
+1338287356|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287356|ClientConnect: 2
+1338287356|broadcast: print "Gerb^7 connected\n"
+1338287357|Item: 4 team_CTF_blueflag
+1338287357|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287357|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287357|PlayerScore: 4 0: Enrique now has 0 points
+1338287358|Item: 5 team_CTF_redflag
+1338287358|broadcast: print "dennis^7 got the RED flag!\n"
+1338287358|CTF: 5 1 0: dennis got the RED flag!
+1338287358|PlayerScore: 5 0: dennis now has 0 points
+1338287359|Item: 4 weapon_railgun
+1338287359|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287359|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287359|ClientBegin: 2
+1338287362|Item: 5 weapon_rocketlauncher
+1338287362|Kill: 3 4 22: Tamas killed Enrique by MOD_TRIGGER_HURT
+1338287362|PlayerScore: 3 1: Tamas now has 1 points
+1338287362|Challenge: 3 214 1: Client 3 got award 214
+1338287362|Challenge: 3 1 1: Client 3 got award 1
+1338287362|Challenge: 4 2 1: Client 4 got award 2
+1338287362|PlayerScore: 3 3: Tamas now has 3 points
+1338287362|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1338287362|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1338287362|ClientUserinfoChanged: 2 n\Gerb\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287362|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1338287362|broadcast: print "Gerb^7 entered the game\n"
+1338287362|ClientBegin: 2
+1338287363|broadcast: print "The BLUE flag has returned!\n"
+1338287364|Item: 2 ammo_shells
+1338287366|Item: 2 weapon_shotgun
+1338287368|Item: 5 team_CTF_blueflag
+1338287368|broadcast: print "dennis^7 captured the RED flag!\n"
+1338287368|CTF: 5 1 1: dennis captured the RED flag!
+1338287368|Award: 5 4: dennis gained the CAPTURE award!
+1338287368|Challenge: 5 303 1: Client 5 got award 303
+1338287368|PlayerScore: 5 5: dennis now has 5 points
+1338287368|PlayerScore: 3 3: Tamas now has 3 points
+1338287368|PlayerScore: 3 5: Tamas now has 5 points
+1338287368|Challenge: 3 304 1: Client 3 got award 304
+1338287368|Award: 3 5: Tamas gained the ASSIST award!
+1338287368|Item: 4 weapon_railgun
+1338287368|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287368|Challenge: 3 301 1: Client 3 got award 301
+1338287371|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287371|PlayerScore: 3 6: Tamas now has 6 points
+1338287371|Challenge: 3 208 1: Client 3 got award 208
+1338287371|Challenge: 3 1 1: Client 3 got award 1
+1338287371|Challenge: 4 2 1: Client 4 got award 2
+1338287371|PlayerScore: 3 7: Tamas now has 7 points
+1338287371|Challenge: 3 305 1: Client 3 got award 305
+1338287371|Award: 3 3: Tamas gained the DEFENCE award!
+1338287374|Item: 4 weapon_rocketlauncher
+1338287378|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287378|Challenge: 3 301 1: Client 3 got award 301
+1338287378|Item: 5 team_CTF_redflag
+1338287378|broadcast: print "dennis^7 got the RED flag!\n"
+1338287378|CTF: 5 1 0: dennis got the RED flag!
+1338287378|PlayerScore: 5 5: dennis now has 5 points
+1338287379|Kill: 3 2 22: Tamas killed Gerb by MOD_TRIGGER_HURT
+1338287379|PlayerScore: 3 8: Tamas now has 8 points
+1338287379|Challenge: 3 214 1: Client 3 got award 214
+1338287379|Challenge: 3 1 1: Client 3 got award 1
+1338287379|Challenge: 2 2 1: Client 2 got award 2
+1338287379|PlayerScore: 3 9: Tamas now has 9 points
+1338287379|Challenge: 3 305 1: Client 3 got award 305
+1338287379|Award: 3 3: Tamas gained the DEFENCE award!
+1338287379|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338287379|PlayerScore: 4 1: Enrique now has 1 points
+1338287379|Challenge: 4 205 1: Client 4 got award 205
+1338287379|Challenge: 4 1 1: Client 4 got award 1
+1338287379|Challenge: 3 2 1: Client 3 got award 2
+1338287382|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338287382|PlayerScore: 4 0: Enrique now has 0 points
+1338287382|Item: 3 weapon_rocketlauncher
+1338287385|Item: 3 weapon_railgun
+1338287385|Item: 4 weapon_railgun
+1338287386|Item: 3 weapon_railgun
+1338287388|Item: 5 team_CTF_blueflag
+1338287388|broadcast: print "dennis^7 captured the RED flag!\n"
+1338287388|CTF: 5 1 1: dennis captured the RED flag!
+1338287388|Award: 5 4: dennis gained the CAPTURE award!
+1338287388|Challenge: 5 303 1: Client 5 got award 303
+1338287388|PlayerScore: 5 10: dennis now has 10 points
+1338287388|PlayerScore: 3 9: Tamas now has 9 points
+1338287388|Item: 4 item_health_small
+1338287389|Item: 2 team_CTF_blueflag
+1338287389|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1338287389|CTF: 2 2 0: Gerb got the BLUE flag!
+1338287389|PlayerScore: 2 0: Gerb now has 0 points
+1338287390|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287390|PlayerScore: 3 10: Tamas now has 10 points
+1338287390|Challenge: 3 208 1: Client 3 got award 208
+1338287390|Challenge: 3 1 1: Client 3 got award 1
+1338287390|Challenge: 4 2 1: Client 4 got award 2
+1338287390|PlayerScore: 3 11: Tamas now has 11 points
+1338287390|Challenge: 3 305 1: Client 3 got award 305
+1338287390|Award: 3 3: Tamas gained the DEFENCE award!
+1338287390|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287390|Challenge: 3 301 1: Client 3 got award 301
+1338287391|Item: 5 weapon_railgun
+1338287392|Item: 5 item_quad
+1338287395|Item: 5 item_health_small
+1338287395|Kill: 2 5 3: Gerb killed dennis by MOD_MACHINEGUN
+1338287395|PlayerScore: 2 1: Gerb now has 1 points
+1338287395|Challenge: 2 202 1: Client 2 got award 202
+1338287395|Challenge: 2 1 1: Client 2 got award 1
+1338287395|Challenge: 5 2 1: Client 5 got award 2
+1338287395|Challenge: 2 406 1: Client 2 got award 406
+1338287395|PlayerScore: 2 2: Gerb now has 2 points
+1338287395|Challenge: 2 305 1: Client 2 got award 305
+1338287395|Award: 2 3: Gerb gained the DEFENCE award!
+1338287395|Item: 2 weapon_railgun
+1338287396|Item: 2 item_quad
+1338287396|Item: 2 weapon_rocketlauncher
+1338287396|Item: 2 item_health_small
+1338287396|Item: 2 item_health_small
+1338287396|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287396|Challenge: 3 301 1: Client 3 got award 301
+1338287397|Item: 4 weapon_railgun
+1338287398|Item: 2 ammo_bullets
+1338287402|Kill: 4 3 10: Enrique killed Tamas by MOD_RAILGUN
+1338287402|PlayerScore: 4 1: Enrique now has 1 points
+1338287402|Challenge: 4 208 1: Client 4 got award 208
+1338287402|Challenge: 4 1 1: Client 4 got award 1
+1338287402|Challenge: 3 2 1: Client 3 got award 2
+1338287402|PlayerScore: 4 3: Enrique now has 3 points
+1338287402|Award: 4 3: Enrique gained the DEFENCE award!
+1338287402|Challenge: 4 305 1: Client 4 got award 305
+1338287405|Item: 5 weapon_rocketlauncher
+1338287407|Kill: 1022 2 22: <world> killed Gerb by MOD_TRIGGER_HURT
+1338287407|PlayerScore: 2 1: Gerb now has 1 points
+1338287407|broadcast: print "The BLUE flag has returned!\n"
+1338287407|Item: 3 weapon_railgun
+1338287407|Item: 3 weapon_railgun
+1338287409|Item: 4 item_health_small
+1338287410|Item: 3 item_health_small
+1338287410|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338287410|PlayerScore: 4 2: Enrique now has 2 points
+1338287410|Item: 3 item_health_small
+1338287411|Item: 5 team_CTF_redflag
+1338287411|broadcast: print "dennis^7 got the RED flag!\n"
+1338287411|CTF: 5 1 0: dennis got the RED flag!
+1338287411|PlayerScore: 5 10: dennis now has 10 points
+1338287411|Item: 3 item_health_small
+1338287413|Kill: 3 2 22: Tamas killed Gerb by MOD_TRIGGER_HURT
+1338287413|PlayerScore: 3 12: Tamas now has 12 points
+1338287413|Challenge: 3 214 1: Client 3 got award 214
+1338287413|Challenge: 3 1 1: Client 3 got award 1
+1338287413|Challenge: 2 2 1: Client 2 got award 2
+1338287413|PlayerScore: 3 13: Tamas now has 13 points
+1338287413|Challenge: 3 305 1: Client 3 got award 305
+1338287413|Award: 3 3: Tamas gained the DEFENCE award!
+1338287413|Item: 4 weapon_rocketlauncher
+1338287416|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287416|Challenge: 3 301 1: Client 3 got award 301
+1338287416|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287416|PlayerScore: 4 3: Enrique now has 3 points
+1338287416|Challenge: 4 205 1: Client 4 got award 205
+1338287416|Challenge: 4 1 1: Client 4 got award 1
+1338287416|Challenge: 5 2 1: Client 5 got award 2
+1338287416|PlayerScore: 4 5: Enrique now has 5 points
+1338287416|broadcast: print "Enrique^7 fragged BLUE's flag carrier!\n"
+1338287416|CTF: 4 2 3: Enrique fragged BLUE's flag carrier!
+1338287417|Item: 4 team_CTF_redflag
+1338287417|broadcast: print "Enrique^7 returned the RED flag!\n"
+1338287417|PlayerScore: 4 6: Enrique now has 6 points
+1338287417|CTF: 4 1 2: Enrique returned the RED flag!
+1338287418|Kill: 3 2 10: Tamas killed Gerb by MOD_RAILGUN
+1338287418|PlayerScore: 3 14: Tamas now has 14 points
+1338287418|Challenge: 3 208 1: Client 3 got award 208
+1338287418|Challenge: 3 1 1: Client 3 got award 1
+1338287418|Challenge: 2 2 1: Client 2 got award 2
+1338287418|PlayerScore: 3 15: Tamas now has 15 points
+1338287418|Challenge: 3 305 1: Client 3 got award 305
+1338287418|Award: 3 3: Tamas gained the DEFENCE award!
+1338287421|Item: 2 weapon_shotgun
+1338287422|Item: 2 ammo_shells
+1338287423|Item: 4 ammo_bullets
+1338287424|Item: 4 ammo_rockets
+1338287424|Item: 4 ammo_slugs
+1338287424|Item: 4 ammo_bullets
+1338287426|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338287426|PlayerScore: 5 11: dennis now has 11 points
+1338287426|Challenge: 5 202 1: Client 5 got award 202
+1338287426|Challenge: 5 1 1: Client 5 got award 1
+1338287426|Challenge: 2 2 1: Client 2 got award 2
+1338287426|Item: 4 team_CTF_blueflag
+1338287426|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287426|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287426|PlayerScore: 4 6: Enrique now has 6 points
+1338287428|Item: 5 team_CTF_redflag
+1338287428|broadcast: print "dennis^7 got the RED flag!\n"
+1338287428|CTF: 5 1 0: dennis got the RED flag!
+1338287428|PlayerScore: 5 11: dennis now has 11 points
+1338287429|Item: 4 weapon_railgun
+1338287432|Item: 4 item_health_small
+1338287432|Item: 4 item_health_small
+1338287433|Item: 4 item_health_small
+1338287433|Item: 4 item_health_small
+1338287433|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287433|PlayerScore: 3 16: Tamas now has 16 points
+1338287433|Challenge: 3 208 1: Client 3 got award 208
+1338287433|Challenge: 3 1 1: Client 3 got award 1
+1338287433|Challenge: 4 2 1: Client 4 got award 2
+1338287433|PlayerScore: 3 18: Tamas now has 18 points
+1338287433|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1338287433|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1338287435|Kill: 1022 2 22: <world> killed Gerb by MOD_TRIGGER_HURT
+1338287435|PlayerScore: 2 0: Gerb now has 0 points
+1338287435|Item: 4 team_CTF_blueflag
+1338287435|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287435|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287435|PlayerScore: 4 6: Enrique now has 6 points
+1338287437|Item: 4 weapon_railgun
+1338287437|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287437|Challenge: 3 301 1: Client 3 got award 301
+1338287440|Item: 4 weapon_shotgun
+1338287441|Item: 5 item_health
+1338287441|Item: 5 item_health
+1338287442|Kill: 4 5 10: Enrique killed dennis by MOD_RAILGUN
+1338287442|PlayerScore: 4 7: Enrique now has 7 points
+1338287442|Challenge: 4 208 1: Client 4 got award 208
+1338287442|Challenge: 4 1 1: Client 4 got award 1
+1338287442|Challenge: 5 2 1: Client 5 got award 2
+1338287442|PlayerScore: 4 9: Enrique now has 9 points
+1338287442|broadcast: print "Enrique^7 fragged BLUE's flag carrier!\n"
+1338287442|CTF: 4 2 3: Enrique fragged BLUE's flag carrier!
+1338287442|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287442|PlayerScore: 3 19: Tamas now has 19 points
+1338287442|Challenge: 3 208 1: Client 3 got award 208
+1338287442|Challenge: 3 1 1: Client 3 got award 1
+1338287442|Challenge: 4 2 1: Client 4 got award 2
+1338287442|PlayerScore: 3 21: Tamas now has 21 points
+1338287442|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1338287442|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1338287442|Item: 2 weapon_railgun
+1338287444|Item: 3 weapon_railgun
+1338287444|Item: 3 team_CTF_blueflag
+1338287444|broadcast: print "Tamas^7 returned the BLUE flag!\n"
+1338287444|PlayerScore: 3 22: Tamas now has 22 points
+1338287444|CTF: 3 2 2: Tamas returned the BLUE flag!
+1338287445|Item: 5 weapon_shotgun
+1338287446|Item: 5 ammo_shells
+1338287446|Item: 5 ammo_rockets
+1338287446|Item: 4 weapon_rocketlauncher
+1338287449|Item: 5 weapon_railgun
+1338287452|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338287452|PlayerScore: 5 12: dennis now has 12 points
+1338287452|Challenge: 5 202 1: Client 5 got award 202
+1338287452|Challenge: 5 1 1: Client 5 got award 1
+1338287452|Challenge: 2 2 1: Client 2 got award 2
+1338287452|PlayerScore: 5 13: dennis now has 13 points
+1338287452|Challenge: 5 305 1: Client 5 got award 305
+1338287452|Award: 5 3: dennis gained the DEFENCE award!
+1338287452|Item: 4 team_CTF_redflag
+1338287452|broadcast: print "Enrique^7 returned the RED flag!\n"
+1338287452|PlayerScore: 4 10: Enrique now has 10 points
+1338287452|CTF: 4 1 2: Enrique returned the RED flag!
+1338287453|Item: 4 team_CTF_blueflag
+1338287453|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287453|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287453|PlayerScore: 4 10: Enrique now has 10 points
+1338287453|Kill: 1022 5 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338287453|PlayerScore: 5 12: dennis now has 12 points
+1338287454|Item: 3 item_health_small
+1338287454|Item: 3 item_health_small
+1338287454|Item: 3 item_health_small
+1338287454|Item: 3 item_health_small
+1338287457|Item: 5 weapon_rocketlauncher
+1338287462|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287462|PlayerScore: 3 23: Tamas now has 23 points
+1338287462|Challenge: 3 208 1: Client 3 got award 208
+1338287462|Challenge: 3 1 1: Client 3 got award 1
+1338287462|Challenge: 4 2 1: Client 4 got award 2
+1338287462|PlayerScore: 3 25: Tamas now has 25 points
+1338287462|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1338287462|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1338287462|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287462|Challenge: 3 301 1: Client 3 got award 301
+1338287464|Item: 5 team_CTF_redflag
+1338287464|broadcast: print "dennis^7 got the RED flag!\n"
+1338287464|CTF: 5 1 0: dennis got the RED flag!
+1338287464|PlayerScore: 5 12: dennis now has 12 points
+1338287464|Item: 5 team_CTF_blueflag
+1338287464|broadcast: print "dennis^7 returned the BLUE flag!\n"
+1338287464|PlayerScore: 5 13: dennis now has 13 points
+1338287464|CTF: 5 2 2: dennis returned the BLUE flag!
+1338287464|Item: 5 weapon_rocketlauncher
+1338287465|Item: 2 team_CTF_blueflag
+1338287465|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1338287465|CTF: 2 2 0: Gerb got the BLUE flag!
+1338287465|PlayerScore: 2 0: Gerb now has 0 points
+1338287466|Item: 4 weapon_rocketlauncher
+1338287469|Kill: 1022 4 22: <world> killed Enrique by MOD_TRIGGER_HURT
+1338287469|PlayerScore: 4 9: Enrique now has 9 points
+1338287470|Item: 3 item_health_small
+1338287473|Item: 4 weapon_railgun
+1338287473|Kill: 2 3 3: Gerb killed Tamas by MOD_MACHINEGUN
+1338287473|PlayerScore: 2 1: Gerb now has 1 points
+1338287473|Challenge: 2 202 1: Client 2 got award 202
+1338287473|Challenge: 2 1 1: Client 2 got award 1
+1338287473|Challenge: 3 2 1: Client 3 got award 2
+1338287473|PlayerScore: 2 3: Gerb now has 3 points
+1338287473|Challenge: 2 305 1: Client 2 got award 305
+1338287473|Award: 2 3: Gerb gained the DEFENCE award!
+1338287474|Item: 5 ammo_bullets
+1338287474|Item: 5 ammo_rockets
+1338287474|Item: 5 ammo_slugs
+1338287475|Item: 5 ammo_bullets
+1338287478|Kill: 1022 3 22: <world> killed Tamas by MOD_TRIGGER_HURT
+1338287478|PlayerScore: 3 24: Tamas now has 24 points
+1338287478|Kill: 2 5 3: Gerb killed dennis by MOD_MACHINEGUN
+1338287478|PlayerScore: 2 4: Gerb now has 4 points
+1338287478|Challenge: 2 202 1: Client 2 got award 202
+1338287478|Challenge: 2 1 1: Client 2 got award 1
+1338287478|Challenge: 5 2 1: Client 5 got award 2
+1338287478|PlayerScore: 2 6: Gerb now has 6 points
+1338287478|broadcast: print "Gerb^7 fragged BLUE's flag carrier!\n"
+1338287478|CTF: 2 2 3: Gerb fragged BLUE's flag carrier!
+1338287482|Item: 4 team_CTF_redflag
+1338287482|broadcast: print "Enrique^7 returned the RED flag!\n"
+1338287482|PlayerScore: 4 10: Enrique now has 10 points
+1338287482|CTF: 4 1 2: Enrique returned the RED flag!
+1338287482|Item: 5 weapon_railgun
+1338287483|Item: 3 weapon_railgun
+1338287483|Item: 2 team_CTF_redflag
+1338287483|broadcast: print "Gerb^7 captured the BLUE flag!\n"
+1338287483|CTF: 2 2 1: Gerb captured the BLUE flag!
+1338287483|Award: 2 4: Gerb gained the CAPTURE award!
+1338287483|Challenge: 2 303 1: Client 2 got award 303
+1338287483|PlayerScore: 2 11: Gerb now has 11 points
+1338287483|PlayerScore: 4 10: Enrique now has 10 points
+1338287483|PlayerScore: 4 11: Enrique now has 11 points
+1338287483|Challenge: 4 304 1: Client 4 got award 304
+1338287483|Award: 4 5: Enrique gained the ASSIST award!
+1338287486|Item: 5 item_health_small
+1338287487|Item: 5 item_health_small
+1338287487|Item: 5 item_health_small
+1338287488|Item: 2 weapon_rocketlauncher
+1338287489|Kill: 3 4 22: Tamas killed Enrique by MOD_TRIGGER_HURT
+1338287489|PlayerScore: 3 25: Tamas now has 25 points
+1338287489|Challenge: 3 214 1: Client 3 got award 214
+1338287489|Challenge: 3 1 1: Client 3 got award 1
+1338287489|Challenge: 4 2 1: Client 4 got award 2
+1338287489|PlayerScore: 3 26: Tamas now has 26 points
+1338287489|Challenge: 3 305 1: Client 3 got award 305
+1338287489|Award: 3 3: Tamas gained the DEFENCE award!
+1338287490|Item: 5 team_CTF_redflag
+1338287490|broadcast: print "dennis^7 got the RED flag!\n"
+1338287490|CTF: 5 1 0: dennis got the RED flag!
+1338287490|PlayerScore: 5 13: dennis now has 13 points
+1338287491|Kill: 1022 2 22: <world> killed Gerb by MOD_TRIGGER_HURT
+1338287491|PlayerScore: 2 10: Gerb now has 10 points
+1338287491|Item: 4 weapon_railgun
+1338287493|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287493|Challenge: 3 301 1: Client 3 got award 301
+1338287496|Item: 2 item_health
+1338287496|Kill: 2 3 3: Gerb killed Tamas by MOD_MACHINEGUN
+1338287496|PlayerScore: 2 11: Gerb now has 11 points
+1338287496|Challenge: 2 202 1: Client 2 got award 202
+1338287496|Challenge: 2 1 1: Client 2 got award 1
+1338287496|Challenge: 3 2 1: Client 3 got award 2
+1338287496|PlayerScore: 2 12: Gerb now has 12 points
+1338287496|Challenge: 2 305 1: Client 2 got award 305
+1338287496|Award: 2 3: Gerb gained the DEFENCE award!
+1338287497|Item: 4 weapon_railgun
+1338287499|Item: 2 ammo_bullets
+1338287499|Item: 2 ammo_rockets
+1338287500|Item: 2 ammo_slugs
+1338287500|Item: 2 ammo_bullets
+1338287500|Item: 3 weapon_railgun
+1338287501|Item: 2 weapon_railgun
+1338287501|Kill: 4 3 10: Enrique killed Tamas by MOD_RAILGUN
+1338287501|PlayerScore: 4 12: Enrique now has 12 points
+1338287501|Challenge: 4 208 1: Client 4 got award 208
+1338287501|Challenge: 4 1 1: Client 4 got award 1
+1338287501|Challenge: 3 2 1: Client 3 got award 2
+1338287501|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338287501|Challenge: 4 301 1: Client 4 got award 301
+1338287501|Item: 4 weapon_railgun
+1338287503|Item: 4 item_health_small
+1338287503|Item: 4 item_health_small
+1338287503|Item: 5 team_CTF_blueflag
+1338287503|broadcast: print "dennis^7 captured the RED flag!\n"
+1338287503|CTF: 5 1 1: dennis captured the RED flag!
+1338287503|Award: 5 4: dennis gained the CAPTURE award!
+1338287503|Challenge: 5 303 1: Client 5 got award 303
+1338287503|PlayerScore: 5 18: dennis now has 18 points
+1338287503|PlayerScore: 3 26: Tamas now has 26 points
+1338287506|Item: 3 weapon_railgun
+1338287506|Item: 4 team_CTF_blueflag
+1338287506|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287506|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287506|PlayerScore: 4 12: Enrique now has 12 points
+1338287507|Item: 5 weapon_rocketlauncher
+1338287509|Kill: 5 2 10: dennis killed Gerb by MOD_RAILGUN
+1338287509|PlayerScore: 5 19: dennis now has 19 points
+1338287509|Challenge: 5 208 1: Client 5 got award 208
+1338287509|Challenge: 5 1 1: Client 5 got award 1
+1338287509|Challenge: 2 2 1: Client 2 got award 2
+1338287510|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287510|PlayerScore: 3 27: Tamas now has 27 points
+1338287510|Challenge: 3 208 1: Client 3 got award 208
+1338287510|Challenge: 3 1 1: Client 3 got award 1
+1338287510|Challenge: 4 2 1: Client 4 got award 2
+1338287510|PlayerScore: 3 29: Tamas now has 29 points
+1338287510|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1338287510|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1338287512|broadcast: print "The BLUE flag has returned!\n"
+1338287514|Item: 3 item_quad
+1338287516|Item: 3 item_health_small
+1338287517|Kill: 2 5 3: Gerb killed dennis by MOD_MACHINEGUN
+1338287517|PlayerScore: 2 13: Gerb now has 13 points
+1338287517|Challenge: 2 202 1: Client 2 got award 202
+1338287517|Challenge: 2 1 1: Client 2 got award 1
+1338287517|Challenge: 5 2 1: Client 5 got award 2
+1338287517|PlayerScore: 2 14: Gerb now has 14 points
+1338287517|Challenge: 2 305 1: Client 2 got award 305
+1338287517|Award: 2 3: Gerb gained the DEFENCE award!
+1338287517|Item: 2 weapon_railgun
+1338287519|Item: 5 weapon_rocketlauncher
+1338287520|Item: 2 weapon_railgun
+1338287521|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287521|PlayerScore: 3 30: Tamas now has 30 points
+1338287521|Challenge: 3 208 1: Client 3 got award 208
+1338287521|Challenge: 3 1 1: Client 3 got award 1
+1338287521|Challenge: 4 2 1: Client 4 got award 2
+1338287521|Challenge: 3 401 1: Client 3 got award 401
+1338287522|Item: 3 team_CTF_redflag
+1338287522|broadcast: print "Tamas^7 got the RED flag!\n"
+1338287522|CTF: 3 1 0: Tamas got the RED flag!
+1338287522|PlayerScore: 3 30: Tamas now has 30 points
+1338287524|Item: 2 item_health_small
+1338287524|Item: 2 item_health_small
+1338287525|Item: 4 weapon_railgun
+1338287526|Item: 2 ammo_bullets
+1338287526|Item: 2 ammo_rockets
+1338287526|Kill: 4 3 10: Enrique killed Tamas by MOD_RAILGUN
+1338287526|PlayerScore: 4 13: Enrique now has 13 points
+1338287526|Challenge: 4 208 1: Client 4 got award 208
+1338287526|Challenge: 4 1 1: Client 4 got award 1
+1338287526|Challenge: 3 2 1: Client 3 got award 2
+1338287526|Challenge: 4 406 1: Client 4 got award 406
+1338287526|PlayerScore: 4 15: Enrique now has 15 points
+1338287526|broadcast: print "Enrique^7 fragged BLUE's flag carrier!\n"
+1338287526|CTF: 4 2 3: Enrique fragged BLUE's flag carrier!
+1338287526|Item: 2 ammo_slugs
+1338287526|Item: 2 ammo_bullets
+1338287527|broadcast: print "The RED flag has returned!\n"
+1338287529|Item: 2 team_CTF_blueflag
+1338287529|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1338287529|CTF: 2 2 0: Gerb got the BLUE flag!
+1338287529|PlayerScore: 2 14: Gerb now has 14 points
+1338287530|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338287530|Challenge: 4 301 1: Client 4 got award 301
+1338287531|Item: 2 weapon_railgun
+1338287532|Item: 4 weapon_railgun
+1338287534|Item: 5 team_CTF_redflag
+1338287534|broadcast: print "dennis^7 got the RED flag!\n"
+1338287534|CTF: 5 1 0: dennis got the RED flag!
+1338287534|PlayerScore: 5 19: dennis now has 19 points
+1338287534|Kill: 5 4 7: dennis killed Enrique by MOD_ROCKET_SPLASH
+1338287534|PlayerScore: 5 20: dennis now has 20 points
+1338287534|Challenge: 5 205 1: Client 5 got award 205
+1338287534|Challenge: 5 1 1: Client 5 got award 1
+1338287534|Challenge: 4 2 1: Client 4 got award 2
+1338287534|PlayerScore: 5 21: dennis now has 21 points
+1338287534|Challenge: 5 305 1: Client 5 got award 305
+1338287534|Award: 5 3: dennis gained the DEFENCE award!
+1338287534|Kill: 5 3 7: dennis killed Tamas by MOD_ROCKET_SPLASH
+1338287535|Item: 2 item_health_small
+1338287538|Item: 4 weapon_rocketlauncher
+1338287538|Item: 3 weapon_railgun
+1338287539|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287539|PlayerScore: 4 16: Enrique now has 16 points
+1338287539|Challenge: 4 205 1: Client 4 got award 205
+1338287539|Challenge: 4 1 1: Client 4 got award 1
+1338287539|Challenge: 5 2 1: Client 5 got award 2
+1338287539|PlayerScore: 4 18: Enrique now has 18 points
+1338287539|broadcast: print "Enrique^7 fragged BLUE's flag carrier!\n"
+1338287539|CTF: 4 2 3: Enrique fragged BLUE's flag carrier!
+1338287539|Item: 4 weapon_rocketlauncher
+1338287539|Item: 3 weapon_railgun
+1338287540|Item: 4 team_CTF_redflag
+1338287540|broadcast: print "Enrique^7 returned the RED flag!\n"
+1338287540|PlayerScore: 4 19: Enrique now has 19 points
+1338287540|CTF: 4 1 2: Enrique returned the RED flag!
+1338287543|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287543|PlayerScore: 4 20: Enrique now has 20 points
+1338287543|Challenge: 4 205 1: Client 4 got award 205
+1338287543|Challenge: 4 1 1: Client 4 got award 1
+1338287543|Challenge: 5 2 1: Client 5 got award 2
+1338287545|Item: 2 team_CTF_redflag
+1338287545|broadcast: print "Gerb^7 captured the BLUE flag!\n"
+1338287545|CTF: 2 2 1: Gerb captured the BLUE flag!
+1338287545|Award: 2 4: Gerb gained the CAPTURE award!
+1338287545|Challenge: 2 303 1: Client 2 got award 303
+1338287545|PlayerScore: 2 19: Gerb now has 19 points
+1338287545|PlayerScore: 4 20: Enrique now has 20 points
+1338287545|PlayerScore: 4 21: Enrique now has 21 points
+1338287545|Challenge: 4 304 1: Client 4 got award 304
+1338287545|Award: 4 5: Enrique gained the ASSIST award!
+1338287545|PlayerScore: 4 23: Enrique now has 23 points
+1338287545|Challenge: 4 304 1: Client 4 got award 304
+1338287545|Award: 4 5: Enrique gained the ASSIST award!
+1338287547|Item: 4 team_CTF_blueflag
+1338287547|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287547|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287547|PlayerScore: 4 23: Enrique now has 23 points
+1338287548|Kill: 3 2 10: Tamas killed Gerb by MOD_RAILGUN
+1338287548|PlayerScore: 3 31: Tamas now has 31 points
+1338287548|Challenge: 3 208 1: Client 3 got award 208
+1338287548|Challenge: 3 1 1: Client 3 got award 1
+1338287548|Challenge: 2 2 1: Client 2 got award 2
+1338287548|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287548|Challenge: 3 301 1: Client 3 got award 301
+1338287552|Item: 4 weapon_railgun
+1338287552|Item: 2 weapon_shotgun
+1338287552|Item: 3 item_health
+1338287552|Item: 4 item_health_small
+1338287552|Item: 4 item_health_small
+1338287553|Item: 2 ammo_shells
+1338287553|Item: 3 item_health
+1338287553|Item: 2 ammo_rockets
+1338287553|Item: 5 team_CTF_redflag
+1338287553|broadcast: print "dennis^7 got the RED flag!\n"
+1338287553|CTF: 5 1 0: dennis got the RED flag!
+1338287553|PlayerScore: 5 21: dennis now has 21 points
+1338287568|Item: 5 item_health
+1338287568|Item: 5 item_health
+1338287569|Kill: 2 5 1: Gerb killed dennis by MOD_SHOTGUN
+1338287569|PlayerScore: 2 20: Gerb now has 20 points
+1338287569|Challenge: 2 203 1: Client 2 got award 203
+1338287569|Challenge: 2 1 1: Client 2 got award 1
+1338287569|Challenge: 5 2 1: Client 5 got award 2
+1338287569|PlayerScore: 2 22: Gerb now has 22 points
+1338287569|broadcast: print "Gerb^7 fragged BLUE's flag carrier!\n"
+1338287569|CTF: 2 2 3: Gerb fragged BLUE's flag carrier!
+1338287571|Item: 2 team_CTF_redflag
+1338287571|broadcast: print "Gerb^7 returned the RED flag!\n"
+1338287571|PlayerScore: 2 23: Gerb now has 23 points
+1338287571|CTF: 2 1 2: Gerb returned the RED flag!
+1338287572|Item: 3 team_CTF_redflag
+1338287572|broadcast: print "Tamas^7 got the RED flag!\n"
+1338287572|CTF: 3 1 0: Tamas got the RED flag!
+1338287572|PlayerScore: 3 31: Tamas now has 31 points
+1338287574|Kill: 1022 5 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338287574|PlayerScore: 5 20: dennis now has 20 points
+1338287576|Kill: 4 3 10: Enrique killed Tamas by MOD_RAILGUN
+1338287576|PlayerScore: 4 24: Enrique now has 24 points
+1338287576|Challenge: 4 208 1: Client 4 got award 208
+1338287576|Challenge: 4 1 1: Client 4 got award 1
+1338287576|Challenge: 3 2 1: Client 3 got award 2
+1338287576|PlayerScore: 4 26: Enrique now has 26 points
+1338287576|broadcast: print "Enrique^7 fragged BLUE's flag carrier!\n"
+1338287576|CTF: 4 2 3: Enrique fragged BLUE's flag carrier!
+1338287578|broadcast: print "The RED flag has returned!\n"
+1338287579|Item: 4 team_CTF_redflag
+1338287579|broadcast: print "Enrique^7 captured the BLUE flag!\n"
+1338287579|CTF: 4 2 1: Enrique captured the BLUE flag!
+1338287579|Award: 4 4: Enrique gained the CAPTURE award!
+1338287579|Challenge: 4 303 1: Client 4 got award 303
+1338287579|PlayerScore: 4 31: Enrique now has 31 points
+1338287579|PlayerScore: 2 23: Gerb now has 23 points
+1338287579|PlayerScore: 2 24: Gerb now has 24 points
+1338287579|Challenge: 2 304 1: Client 2 got award 304
+1338287579|Award: 2 5: Gerb gained the ASSIST award!
+1338287579|PlayerScore: 2 26: Gerb now has 26 points
+1338287579|Challenge: 2 304 1: Client 2 got award 304
+1338287579|Award: 2 5: Gerb gained the ASSIST award!
+1338287581|Item: 3 weapon_rocketlauncher
+1338287581|Item: 2 team_CTF_blueflag
+1338287581|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1338287581|CTF: 2 2 0: Gerb got the BLUE flag!
+1338287581|PlayerScore: 2 26: Gerb now has 26 points
+1338287582|Item: 4 weapon_railgun
+1338287582|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338287582|PlayerScore: 5 21: dennis now has 21 points
+1338287582|Challenge: 5 202 1: Client 5 got award 202
+1338287582|Challenge: 5 1 1: Client 5 got award 1
+1338287582|Challenge: 2 2 1: Client 2 got award 2
+1338287582|PlayerScore: 5 23: dennis now has 23 points
+1338287582|broadcast: print "dennis^7 fragged RED's flag carrier!\n"
+1338287582|CTF: 5 1 3: dennis fragged RED's flag carrier!
+1338287584|Item: 5 team_CTF_blueflag
+1338287584|broadcast: print "dennis^7 returned the BLUE flag!\n"
+1338287584|PlayerScore: 5 24: dennis now has 24 points
+1338287584|CTF: 5 2 2: dennis returned the BLUE flag!
+1338287585|Item: 3 weapon_railgun
+1338287585|Item: 5 item_health
+1338287589|Item: 4 item_health_small
+1338287589|Item: 4 item_health_small
+1338287590|Kill: 4 3 10: Enrique killed Tamas by MOD_RAILGUN
+1338287590|PlayerScore: 4 32: Enrique now has 32 points
+1338287590|Challenge: 4 208 1: Client 4 got award 208
+1338287590|Challenge: 4 1 1: Client 4 got award 1
+1338287590|Challenge: 3 2 1: Client 3 got award 2
+1338287591|Item: 4 weapon_railgun
+1338287592|Item: 4 ammo_bullets
+1338287592|Item: 4 ammo_rockets
+1338287593|Item: 4 ammo_slugs
+1338287593|Item: 4 ammo_bullets
+1338287593|Item: 5 weapon_rocketlauncher
+1338287593|Item: 3 weapon_railgun
+1338287593|Item: 2 weapon_shotgun
+1338287596|Item: 4 team_CTF_blueflag
+1338287596|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287596|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287596|PlayerScore: 4 32: Enrique now has 32 points
+1338287600|Kill: 5 2 6: dennis killed Gerb by MOD_ROCKET
+1338287600|PlayerScore: 5 25: dennis now has 25 points
+1338287600|Challenge: 5 205 1: Client 5 got award 205
+1338287600|Challenge: 5 1 1: Client 5 got award 1
+1338287600|Challenge: 2 2 1: Client 2 got award 2
+1338287602|Kill: 1022 5 22: <world> killed dennis by MOD_TRIGGER_HURT
+1338287602|PlayerScore: 5 24: dennis now has 24 points
+1338287603|Item: 2 item_health_small
+1338287604|Item: 2 item_health_small
+1338287604|Item: 2 item_health_small
+1338287606|Item: 4 team_CTF_redflag
+1338287606|broadcast: print "Enrique^7 captured the BLUE flag!\n"
+1338287606|CTF: 4 2 1: Enrique captured the BLUE flag!
+1338287606|Award: 4 4: Enrique gained the CAPTURE award!
+1338287606|Challenge: 4 303 1: Client 4 got award 303
+1338287606|PlayerScore: 4 37: Enrique now has 37 points
+1338287606|PlayerScore: 2 26: Gerb now has 26 points
+1338287609|Item: 2 item_health_small
+1338287612|Kill: 4 3 10: Enrique killed Tamas by MOD_RAILGUN
+1338287612|PlayerScore: 4 38: Enrique now has 38 points
+1338287612|Challenge: 4 208 1: Client 4 got award 208
+1338287612|Challenge: 4 1 1: Client 4 got award 1
+1338287612|Challenge: 3 2 1: Client 3 got award 2
+1338287612|PlayerScore: 4 39: Enrique now has 39 points
+1338287612|Challenge: 4 305 1: Client 4 got award 305
+1338287612|Award: 4 3: Enrique gained the DEFENCE award!
+1338287613|Item: 2 team_CTF_blueflag
+1338287613|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1338287613|CTF: 2 2 0: Gerb got the BLUE flag!
+1338287613|PlayerScore: 2 26: Gerb now has 26 points
+1338287615|Item: 4 item_health
+1338287615|Item: 4 item_health
+1338287616|Item: 3 weapon_railgun
+1338287619|Kill: 5 4 3: dennis killed Enrique by MOD_MACHINEGUN
+1338287619|PlayerScore: 5 25: dennis now has 25 points
+1338287619|Challenge: 5 202 1: Client 5 got award 202
+1338287619|Challenge: 5 1 1: Client 5 got award 1
+1338287619|Challenge: 4 2 1: Client 4 got award 2
+1338287621|Item: 5 team_CTF_redflag
+1338287621|broadcast: print "dennis^7 got the RED flag!\n"
+1338287621|CTF: 5 1 0: dennis got the RED flag!
+1338287621|PlayerScore: 5 25: dennis now has 25 points
+1338287621|Item: 5 weapon_railgun
+1338287623|Item: 4 weapon_shotgun
+1338287623|Item: 3 ammo_bullets
+1338287623|Item: 3 ammo_rockets
+1338287623|Item: 3 ammo_slugs
+1338287624|Item: 3 ammo_bullets
+1338287627|Kill: 1022 2 22: <world> killed Gerb by MOD_TRIGGER_HURT
+1338287627|PlayerScore: 2 25: Gerb now has 25 points
+1338287628|broadcast: print "The BLUE flag has returned!\n"
+1338287629|Kill: 4 3 1: Enrique killed Tamas by MOD_SHOTGUN
+1338287629|PlayerScore: 4 40: Enrique now has 40 points
+1338287629|Challenge: 4 203 1: Client 4 got award 203
+1338287629|Challenge: 4 1 1: Client 4 got award 1
+1338287629|Challenge: 3 2 1: Client 3 got award 2
+1338287629|PlayerScore: 4 41: Enrique now has 41 points
+1338287629|Challenge: 4 305 1: Client 4 got award 305
+1338287629|Award: 4 3: Enrique gained the DEFENCE award!
+1338287631|Item: 2 weapon_rocketlauncher
+1338287631|Item: 4 weapon_railgun
+1338287632|Item: 5 team_CTF_blueflag
+1338287632|broadcast: print "dennis^7 captured the RED flag!\n"
+1338287632|CTF: 5 1 1: dennis captured the RED flag!
+1338287632|Award: 5 4: dennis gained the CAPTURE award!
+1338287632|Challenge: 5 303 1: Client 5 got award 303
+1338287632|PlayerScore: 5 30: dennis now has 30 points
+1338287632|PlayerScore: 3 31: Tamas now has 31 points
+1338287634|Kill: 1022 2 22: <world> killed Gerb by MOD_TRIGGER_HURT
+1338287634|PlayerScore: 2 24: Gerb now has 24 points
+1338287634|Item: 4 item_quad
+1338287635|Item: 3 weapon_railgun
+1338287637|Kill: 4 3 2: Enrique killed Tamas by MOD_GAUNTLET
+1338287637|PlayerScore: 4 42: Enrique now has 42 points
+1338287637|Challenge: 4 201 1: Client 4 got award 201
+1338287637|Award: 4 0: Enrique gained the GAUNTLET award!
+1338287637|Challenge: 4 201 1: Client 4 got award 201
+1338287637|Challenge: 4 1 1: Client 4 got award 1
+1338287637|Challenge: 3 2 1: Client 3 got award 2
+1338287637|Challenge: 4 401 1: Client 4 got award 401
+1338287637|Item: 4 weapon_railgun
+1338287639|Item: 4 weapon_railgun
+1338287641|Kill: 3 2 2: Tamas killed Gerb by MOD_GAUNTLET
+1338287641|PlayerScore: 3 32: Tamas now has 32 points
+1338287641|Challenge: 3 201 1: Client 3 got award 201
+1338287641|Award: 3 0: Tamas gained the GAUNTLET award!
+1338287641|Challenge: 3 201 1: Client 3 got award 201
+1338287641|Challenge: 3 1 1: Client 3 got award 1
+1338287641|Challenge: 2 2 1: Client 2 got award 2
+1338287641|PlayerScore: 3 33: Tamas now has 33 points
+1338287641|Challenge: 3 305 1: Client 3 got award 305
+1338287641|Award: 3 3: Tamas gained the DEFENCE award!
+1338287641|Item: 5 team_CTF_redflag
+1338287641|broadcast: print "dennis^7 got the RED flag!\n"
+1338287641|CTF: 5 1 0: dennis got the RED flag!
+1338287641|PlayerScore: 5 30: dennis now has 30 points
+1338287642|Item: 4 team_CTF_blueflag
+1338287642|broadcast: print "Enrique^7 got the BLUE flag!\n"
+1338287642|CTF: 4 2 0: Enrique got the BLUE flag!
+1338287642|PlayerScore: 4 42: Enrique now has 42 points
+1338287643|Kill: 1022 3 22: <world> killed Tamas by MOD_TRIGGER_HURT
+1338287643|PlayerScore: 3 32: Tamas now has 32 points
+1338287645|Kill: 5 4 10: dennis killed Enrique by MOD_RAILGUN
+1338287645|PlayerScore: 5 31: dennis now has 31 points
+1338287645|Challenge: 5 208 1: Client 5 got award 208
+1338287645|Challenge: 5 1 1: Client 5 got award 1
+1338287645|Challenge: 4 2 1: Client 4 got award 2
+1338287645|Challenge: 5 406 1: Client 5 got award 406
+1338287645|PlayerScore: 5 33: dennis now has 33 points
+1338287645|broadcast: print "dennis^7 fragged RED's flag carrier!\n"
+1338287645|CTF: 5 1 3: dennis fragged RED's flag carrier!
+1338287645|Item: 2 weapon_railgun
+1338287647|Item: 3 weapon_railgun
+1338287649|Item: 4 weapon_rocketlauncher
+1338287651|Kill: 3 2 10: Tamas killed Gerb by MOD_RAILGUN
+1338287651|PlayerScore: 3 33: Tamas now has 33 points
+1338287651|Challenge: 3 208 1: Client 3 got award 208
+1338287651|Challenge: 3 1 1: Client 3 got award 1
+1338287651|Challenge: 2 2 1: Client 2 got award 2
+1338287651|PlayerScore: 3 34: Tamas now has 34 points
+1338287651|Challenge: 3 305 1: Client 3 got award 305
+1338287651|Award: 3 3: Tamas gained the DEFENCE award!
+1338287651|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287651|Challenge: 3 301 1: Client 3 got award 301
+1338287652|Item: 3 weapon_railgun
+1338287652|Item: 3 item_health_small
+1338287652|Item: 3 item_health_small
+1338287653|Item: 3 item_health_small
+1338287653|Item: 3 item_health_small
+1338287653|Item: 5 team_CTF_blueflag
+1338287653|broadcast: print "dennis^7 returned the BLUE flag!\n"
+1338287653|PlayerScore: 5 34: dennis now has 34 points
+1338287653|CTF: 5 2 2: dennis returned the BLUE flag!
+1338287654|Item: 5 team_CTF_blueflag
+1338287654|broadcast: print "dennis^7 captured the RED flag!\n"
+1338287654|CTF: 5 1 1: dennis captured the RED flag!
+1338287654|Award: 5 4: dennis gained the CAPTURE award!
+1338287654|Challenge: 5 303 1: Client 5 got award 303
+1338287654|PlayerScore: 5 39: dennis now has 39 points
+1338287654|broadcast: print "Blue hit the capturelimit.\n"
+1338287654|Exit: Capturelimit hit.
+1338287654|red:4  blue:5
+1338287654|score: 42  ping: 1  client: 4 Enrique
+1338287654|score: 39  ping: 5  client: 5 dennis
+1338287654|score: 34  ping: 1  client: 3 Tamas
+1338287654|score: 24  ping: 0  client: 2 Gerb
+1338287654|PlayerScore: 3 34: Tamas now has 34 points
+1338287661|g_gametype will be changed upon restarting.
+1338287661|==== ShutdownGame ====
+1338287661|ShutdownGame:
+1338287661|------------------------------------------------------------
+1338287661|AAS shutdown.
+1338287661|------ Server Initialization ------
+1338287661|Server: am_galmevish2
+1338287661|Hunk_Clear: reset the hunk ok
+1338287661|----- FS_Startup -----
+1338287661|Current search path:
+1338287661|/home/jeroen/.openarena/baseoa
+1338287661|/usr/lib/openarena-server/baseoa
+1338287661|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338287661|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338287661|
+1338287661|----------------------
+1338287661|5433 files in pk3 files
+1338287661|Loading vm file vm/qagame.qvm...
+1338287661|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338287661|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338287661|... trying pak6-patch088/qagame
+1338287661|... trying qagame
+1338287661|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338287661|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338287661|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338287661|------- Game Initialization -------
+1338287661|gamename: baseoa
+1338287661|gamedate: Apr  1 2012
+1338287661|------------------------------------------------------------
+1338287661|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\am_galmevish2\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-29 12:34:21
+1338287661|Info: ServerInfo length: 795 of 1024
+1338287661|Gametype changed, clearing session data.
+1338287661|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338287661|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338287661|0 teams with 0 entities
+1338287661|12 items registered
+1338287661|-----------------------------------
+1338287661|------- BotLib Initialization -------
+1338287661|loaded weapons.c
+1338287661|loaded items.c
+1338287661|loaded syn.c
+1338287661|loaded rnd.c
+1338287661|loaded match.c
+1338287661|loaded rchat.c
+1338287661|------------ Map Loading ------------
+1338287661|trying to load maps/am_galmevish2.aas
+1338287661|loaded maps/am_galmevish2.aas
+1338287661|found 42 level items
+1338287661|-------------------------------------
+1338287661|33 bots parsed
+1338287661|58 arenas parsed
+1338287661|AAS initialized.
+1338287661|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287661|ClientConnect: 2
+1338287661|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287661|ClientConnect: 3
+1338287661|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287661|ClientConnect: 4
+1338287661|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287661|ClientConnect: 5
+1338287661|-----------------------------------
+1338287662|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287662|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1338287662|broadcast: print "Tamas^7 entered the game\n"
+1338287662|ClientBegin: 3
+1338287663|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287663|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287663|broadcast: print "Enrique^7 entered the game\n"
+1338287663|ClientBegin: 4
+1338287663|Item: 3 weapon_lightning
+1338287663|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287663|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338287663|broadcast: print "dennis^7 entered the game\n"
+1338287663|ClientBegin: 5
+1338287664|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287664|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1338287664|broadcast: print "Gerb^7 entered the game\n"
+1338287664|ClientBegin: 2
+1338287665|Item: 4 weapon_railgun
+1338287665|Item: 5 item_armor_shard
+1338287665|Item: 3 ammo_slugs
+1338287665|Item: 5 item_armor_shard
+1338287666|Item: 5 item_armor_shard
+1338287666|Item: 2 weapon_lightning
+1338287666|Item: 5 item_armor_shard
+1338287666|Item: 5 item_armor_shard
+1338287667|Item: 3 weapon_rocketlauncher
+1338287667|Item: 5 ammo_bullets
+1338287668|Item: 3 ammo_lightning
+1338287669|Item: 3 ammo_slugs
+1338287673|Item: 2 weapon_railgun
+1338287675|Kill: 2 4 10: Gerb killed Enrique by MOD_RAILGUN
+1338287675|PlayerScore: 2 1: Gerb now has 1 points
+1338287675|Challenge: 2 208 1: Client 2 got award 208
+1338287675|Challenge: 2 1 1: Client 2 got award 1
+1338287675|Challenge: 4 2 1: Client 4 got award 2
+1338287677|Kill: 2 5 10: Gerb killed dennis by MOD_RAILGUN
+1338287677|PlayerScore: 2 2: Gerb now has 2 points
+1338287677|Challenge: 2 208 1: Client 2 got award 208
+1338287677|Challenge: 2 1 1: Client 2 got award 1
+1338287677|Challenge: 5 2 1: Client 5 got award 2
+1338287677|Award: 2 1: Gerb gained the EXCELLENT award!
+1338287677|Challenge: 2 302 1: Client 2 got award 302
+1338287677|Award: 2 2: Gerb gained the IMPRESSIVE award!
+1338287677|Challenge: 2 301 1: Client 2 got award 301
+1338287679|Item: 3 weapon_rocketlauncher
+1338287680|Item: 2 ammo_rockets
+1338287681|Item: 5 weapon_lightning
+1338287682|Kill: 3 2 7: Tamas killed Gerb by MOD_ROCKET_SPLASH
+1338287682|PlayerScore: 3 1: Tamas now has 1 points
+1338287682|Challenge: 3 205 1: Client 3 got award 205
+1338287682|Challenge: 3 1 1: Client 3 got award 1
+1338287682|Challenge: 2 2 1: Client 2 got award 2
+1338287685|Item: 3 weapon_railgun
+1338287687|Kill: 1022 2 22: <world> killed Gerb by MOD_TRIGGER_HURT
+1338287687|PlayerScore: 2 1: Gerb now has 1 points
+1338287689|Item: 5 weapon_railgun
+1338287694|Kill: 4 5 2: Enrique killed dennis by MOD_GAUNTLET
+1338287694|PlayerScore: 4 1: Enrique now has 1 points
+1338287694|Challenge: 4 201 1: Client 4 got award 201
+1338287694|Award: 4 0: Enrique gained the GAUNTLET award!
+1338287694|Challenge: 4 201 1: Client 4 got award 201
+1338287694|Challenge: 4 1 1: Client 4 got award 1
+1338287694|Challenge: 5 2 1: Client 5 got award 2
+1338287695|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287695|PlayerScore: 3 2: Tamas now has 2 points
+1338287695|Challenge: 3 208 1: Client 3 got award 208
+1338287695|Challenge: 3 1 1: Client 3 got award 1
+1338287695|Challenge: 4 2 1: Client 4 got award 2
+1338287701|Item: 4 weapon_rocketlauncher
+1338287702|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338287702|PlayerScore: 5 1: dennis now has 1 points
+1338287702|Challenge: 5 202 1: Client 5 got award 202
+1338287702|Challenge: 5 1 1: Client 5 got award 1
+1338287702|Challenge: 2 2 1: Client 2 got award 2
+1338287702|Item: 4 ammo_rockets
+1338287702|Item: 5 ammo_lightning
+1338287704|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338287704|PlayerScore: 4 2: Enrique now has 2 points
+1338287704|Challenge: 4 205 1: Client 4 got award 205
+1338287704|Challenge: 4 1 1: Client 4 got award 1
+1338287704|Challenge: 3 2 1: Client 3 got award 2
+1338287705|Item: 5 weapon_railgun
+1338287705|Item: 4 weapon_lightning
+1338287707|Item: 4 weapon_railgun
+1338287707|Item: 3 weapon_rocketlauncher
+1338287708|Kill: 2 4 22: Gerb killed Enrique by MOD_TRIGGER_HURT
+1338287708|PlayerScore: 2 2: Gerb now has 2 points
+1338287708|Challenge: 2 214 1: Client 2 got award 214
+1338287708|Challenge: 2 1 1: Client 2 got award 1
+1338287708|Challenge: 4 2 1: Client 4 got award 2
+1338287710|Item: 2 weapon_lightning
+1338287711|Item: 5 ammo_slugs
+1338287712|Item: 3 item_armor_shard
+1338287712|Item: 3 item_armor_shard
+1338287713|Item: 5 item_armor_shard
+1338287713|Item: 4 item_armor_shard
+1338287713|Item: 4 item_armor_shard
+1338287715|Kill: 2 3 11: Gerb killed Tamas by MOD_LIGHTNING
+1338287715|PlayerScore: 2 3: Gerb now has 3 points
+1338287715|Challenge: 2 206 1: Client 2 got award 206
+1338287715|Challenge: 2 1 1: Client 2 got award 1
+1338287715|Challenge: 3 2 1: Client 3 got award 2
+1338287716|Item: 2 weapon_rocketlauncher
+1338287716|Item: 4 item_armor_shard
+1338287717|Kill: 4 2 3: Enrique killed Gerb by MOD_MACHINEGUN
+1338287717|PlayerScore: 4 3: Enrique now has 3 points
+1338287717|Challenge: 4 202 1: Client 4 got award 202
+1338287717|Challenge: 4 1 1: Client 4 got award 1
+1338287717|Challenge: 2 2 1: Client 2 got award 2
+1338287719|Item: 3 weapon_railgun
+1338287719|Item: 5 item_armor_shard
+1338287719|Item: 5 item_armor_shard
+1338287719|Item: 4 weapon_rocketlauncher
+1338287719|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287719|PlayerScore: 3 3: Tamas now has 3 points
+1338287719|Challenge: 3 208 1: Client 3 got award 208
+1338287719|Challenge: 3 1 1: Client 3 got award 1
+1338287719|Challenge: 4 2 1: Client 4 got award 2
+1338287719|Item: 5 item_armor_shard
+1338287719|Item: 5 item_armor_shard
+1338287721|Item: 5 ammo_lightning
+1338287721|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287721|Challenge: 3 301 1: Client 3 got award 301
+1338287723|Kill: 2 5 3: Gerb killed dennis by MOD_MACHINEGUN
+1338287723|PlayerScore: 2 4: Gerb now has 4 points
+1338287723|Challenge: 2 202 1: Client 2 got award 202
+1338287723|Challenge: 2 1 1: Client 2 got award 1
+1338287723|Challenge: 5 2 1: Client 5 got award 2
+1338287723|Item: 4 weapon_rocketlauncher
+1338287724|Item: 3 ammo_slugs
+1338287729|Kill: 3 2 10: Tamas killed Gerb by MOD_RAILGUN
+1338287729|PlayerScore: 3 4: Tamas now has 4 points
+1338287729|Challenge: 3 208 1: Client 3 got award 208
+1338287729|Challenge: 3 1 1: Client 3 got award 1
+1338287729|Challenge: 2 2 1: Client 2 got award 2
+1338287729|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287729|PlayerScore: 4 4: Enrique now has 4 points
+1338287729|Challenge: 4 205 1: Client 4 got award 205
+1338287729|Challenge: 4 1 1: Client 4 got award 1
+1338287729|Challenge: 5 2 1: Client 5 got award 2
+1338287732|Item: 3 weapon_railgun
+1338287733|Item: 2 ammo_bullets
+1338287734|Item: 2 ammo_rockets
+1338287736|Item: 3 item_health_large
+1338287737|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287737|PlayerScore: 3 5: Tamas now has 5 points
+1338287737|Challenge: 3 208 1: Client 3 got award 208
+1338287737|Challenge: 3 1 1: Client 3 got award 1
+1338287737|Challenge: 4 2 1: Client 4 got award 2
+1338287741|Item: 4 weapon_rocketlauncher
+1338287742|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287742|Challenge: 3 301 1: Client 3 got award 301
+1338287744|Item: 2 weapon_railgun
+1338287745|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287745|PlayerScore: 3 6: Tamas now has 6 points
+1338287745|Challenge: 3 208 1: Client 3 got award 208
+1338287745|Challenge: 3 1 1: Client 3 got award 1
+1338287745|Challenge: 4 2 1: Client 4 got award 2
+1338287746|Item: 5 item_armor_shard
+1338287747|Item: 3 ammo_rockets
+1338287747|Item: 5 item_armor_shard
+1338287747|Item: 3 ammo_bullets
+1338287748|Item: 2 item_armor_shard
+1338287749|Item: 4 weapon_railgun
+1338287750|Kill: 5 2 2: dennis killed Gerb by MOD_GAUNTLET
+1338287750|PlayerScore: 5 2: dennis now has 2 points
+1338287750|Challenge: 5 201 1: Client 5 got award 201
+1338287750|Award: 5 0: dennis gained the GAUNTLET award!
+1338287750|Challenge: 5 201 1: Client 5 got award 201
+1338287750|Challenge: 5 1 1: Client 5 got award 1
+1338287750|Challenge: 2 2 1: Client 2 got award 2
+1338287750|Item: 4 weapon_rocketlauncher
+1338287751|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287751|PlayerScore: 4 5: Enrique now has 5 points
+1338287751|Challenge: 4 205 1: Client 4 got award 205
+1338287751|Challenge: 4 1 1: Client 4 got award 1
+1338287751|Challenge: 5 2 1: Client 5 got award 2
+1338287753|Item: 3 weapon_rocketlauncher
+1338287755|Item: 3 ammo_slugs
+1338287755|Item: 2 item_armor_shard
+1338287755|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1338287755|PlayerScore: 4 6: Enrique now has 6 points
+1338287755|Challenge: 4 205 1: Client 4 got award 205
+1338287755|Challenge: 4 1 1: Client 4 got award 1
+1338287755|Challenge: 2 2 1: Client 2 got award 2
+1338287756|Item: 5 ammo_lightning
+1338287756|Item: 5 ammo_slugs
+1338287757|Item: 5 item_armor_shard
+1338287759|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287759|PlayerScore: 4 7: Enrique now has 7 points
+1338287759|Challenge: 4 205 1: Client 4 got award 205
+1338287759|Challenge: 4 1 1: Client 4 got award 1
+1338287759|Challenge: 5 2 1: Client 5 got award 2
+1338287760|Item: 2 item_quad
+1338287761|Kill: 3 4 10: Tamas killed Enrique by MOD_RAILGUN
+1338287761|PlayerScore: 3 7: Tamas now has 7 points
+1338287761|Challenge: 3 208 1: Client 3 got award 208
+1338287761|Challenge: 3 1 1: Client 3 got award 1
+1338287761|Challenge: 4 2 1: Client 4 got award 2
+1338287761|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1338287761|Challenge: 3 301 1: Client 3 got award 301
+1338287762|Item: 5 weapon_rocketlauncher
+1338287762|Item: 2 weapon_rocketlauncher
+1338287764|Item: 4 weapon_railgun
+1338287766|Item: 2 weapon_railgun
+1338287768|Kill: 4 2 10: Enrique killed Gerb by MOD_RAILGUN
+1338287768|PlayerScore: 4 8: Enrique now has 8 points
+1338287768|Challenge: 4 208 1: Client 4 got award 208
+1338287768|Challenge: 4 1 1: Client 4 got award 1
+1338287768|Challenge: 2 2 1: Client 2 got award 2
+1338287768|Challenge: 4 406 1: Client 4 got award 406
+1338287768|Award: 4 2: Enrique gained the IMPRESSIVE award!
+1338287768|Challenge: 4 301 1: Client 4 got award 301
+1338287768|Item: 5 weapon_rocketlauncher
+1338287770|Item: 5 ammo_lightning
+1338287770|Item: 3 ammo_rockets
+1338287772|Item: 3 weapon_rocketlauncher
+1338287780|Item: 3 ammo_bullets
+1338287783|Kill: 4 2 10: Enrique killed Gerb by MOD_RAILGUN
+1338287783|PlayerScore: 4 9: Enrique now has 9 points
+1338287783|Challenge: 4 208 1: Client 4 got award 208
+1338287783|Challenge: 4 1 1: Client 4 got award 1
+1338287783|Challenge: 2 2 1: Client 2 got award 2
+1338287784|Item: 5 weapon_rocketlauncher
+1338287785|Kill: 5 3 6: dennis killed Tamas by MOD_ROCKET
+1338287785|PlayerScore: 5 3: dennis now has 3 points
+1338287785|Challenge: 5 205 1: Client 5 got award 205
+1338287785|Challenge: 5 1 1: Client 5 got award 1
+1338287785|Challenge: 3 2 1: Client 3 got award 2
+1338287786|Item: 2 weapon_rocketlauncher
+1338287786|Item: 5 ammo_lightning
+1338287787|Item: 4 item_health_large
+1338287787|Kill: 2 5 6: Gerb killed dennis by MOD_ROCKET
+1338287787|PlayerScore: 2 5: Gerb now has 5 points
+1338287787|Challenge: 2 205 1: Client 2 got award 205
+1338287787|Challenge: 2 1 1: Client 2 got award 1
+1338287787|Challenge: 5 2 1: Client 5 got award 2
+1338287788|Item: 3 weapon_railgun
+1338287789|Kill: 2 4 6: Gerb killed Enrique by MOD_ROCKET
+1338287789|PlayerScore: 2 6: Gerb now has 6 points
+1338287789|Challenge: 2 205 1: Client 2 got award 205
+1338287789|Challenge: 2 1 1: Client 2 got award 1
+1338287789|Challenge: 4 2 1: Client 4 got award 2
+1338287789|Award: 2 1: Gerb gained the EXCELLENT award!
+1338287789|Challenge: 2 302 1: Client 2 got award 302
+1338287790|Item: 2 weapon_railgun
+1338287791|Item: 5 ammo_bullets
+1338287792|Item: 5 ammo_rockets
+1338287794|Item: 4 weapon_rocketlauncher
+1338287794|Item: 4 weapon_lightning
+1338287795|Item: 3 ammo_lightning
+1338287796|Item: 3 ammo_slugs
+1338287798|Item: 3 weapon_railgun
+1338287801|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338287801|PlayerScore: 5 4: dennis now has 4 points
+1338287801|Challenge: 5 202 1: Client 5 got award 202
+1338287801|Challenge: 5 1 1: Client 5 got award 1
+1338287801|Challenge: 2 2 1: Client 2 got award 2
+1338287804|Item: 4 item_health_large
+1338287805|Item: 2 weapon_railgun
+1338287805|Item: 3 ammo_slugs
+1338287807|Item: 3 weapon_rocketlauncher
+1338287807|Item: 3 weapon_lightning
+1338287811|Item: 3 weapon_rocketlauncher
+1338287815|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338287815|PlayerScore: 4 10: Enrique now has 10 points
+1338287815|Challenge: 4 205 1: Client 4 got award 205
+1338287815|Challenge: 4 1 1: Client 4 got award 1
+1338287815|Challenge: 5 2 1: Client 5 got award 2
+1338287816|Item: 2 ammo_slugs
+1338287817|Item: 3 weapon_rocketlauncher
+1338287821|Item: 3 ammo_bullets
+1338287822|Item: 3 ammo_rockets
+1338287822|Item: 5 weapon_railgun
+1338287823|Item: 2 ammo_lightning
+1338287824|Kill: 2 3 10: Gerb killed Tamas by MOD_RAILGUN
+1338287824|PlayerScore: 2 7: Gerb now has 7 points
+1338287824|Challenge: 2 208 1: Client 2 got award 208
+1338287824|Challenge: 2 1 1: Client 2 got award 1
+1338287824|Challenge: 3 2 1: Client 3 got award 2
+1338287825|Item: 5 ammo_lightning
+1338287825|Item: 5 ammo_slugs
+1338287826|Item: 5 item_armor_shard
+1338287827|Item: 5 item_armor_shard
+1338287827|Item: 2 weapon_rocketlauncher
+1338287827|Item: 4 weapon_lightning
+1338287827|Item: 5 item_armor_shard
+1338287827|Item: 5 item_armor_shard
+1338287827|Item: 5 item_armor_shard
+1338287828|Item: 4 ammo_lightning
+1338287828|Item: 2 weapon_lightning
+1338287832|Kill: 5 4 10: dennis killed Enrique by MOD_RAILGUN
+1338287832|PlayerScore: 5 5: dennis now has 5 points
+1338287832|Challenge: 5 208 1: Client 5 got award 208
+1338287832|Challenge: 5 1 1: Client 5 got award 1
+1338287832|Challenge: 4 2 1: Client 4 got award 2
+1338287833|Item: 3 item_armor_shard
+1338287834|Item: 2 weapon_rocketlauncher
+1338287835|Item: 5 ammo_rockets
+1338287835|Item: 3 ammo_bullets
+1338287836|Item: 4 item_armor_shard
+1338287836|Award: 5 2: dennis gained the IMPRESSIVE award!
+1338287836|Challenge: 5 301 1: Client 5 got award 301
+1338287836|Item: 4 item_armor_shard
+1338287836|Item: 5 ammo_bullets
+1338287836|Item: 4 item_armor_shard
+1338287837|Item: 4 item_armor_shard
+1338287837|Kill: 2 4 7: Gerb killed Enrique by MOD_ROCKET_SPLASH
+1338287837|PlayerScore: 2 8: Gerb now has 8 points
+1338287837|Challenge: 2 205 1: Client 2 got award 205
+1338287837|Challenge: 2 1 1: Client 2 got award 1
+1338287837|Challenge: 4 2 1: Client 4 got award 2
+1338287837|Item: 3 ammo_rockets
+1338287839|Kill: 2 5 7: Gerb killed dennis by MOD_ROCKET_SPLASH
+1338287839|PlayerScore: 2 9: Gerb now has 9 points
+1338287839|Challenge: 2 205 1: Client 2 got award 205
+1338287839|Challenge: 2 1 1: Client 2 got award 1
+1338287839|Challenge: 5 2 1: Client 5 got award 2
+1338287839|Award: 2 1: Gerb gained the EXCELLENT award!
+1338287839|Challenge: 2 302 1: Client 2 got award 302
+1338287841|Kill: 3 2 2: Tamas killed Gerb by MOD_GAUNTLET
+1338287841|PlayerScore: 3 8: Tamas now has 8 points
+1338287841|Challenge: 3 201 1: Client 3 got award 201
+1338287841|Award: 3 0: Tamas gained the GAUNTLET award!
+1338287841|Challenge: 3 201 1: Client 3 got award 201
+1338287841|Challenge: 3 1 1: Client 3 got award 1
+1338287841|Challenge: 2 2 1: Client 2 got award 2
+1338287841|Item: 3 weapon_rocketlauncher
+1338287842|Item: 3 weapon_railgun
+1338287843|Item: 5 ammo_bullets
+1338287844|Item: 5 ammo_rockets
+1338287845|Item: 5 weapon_rocketlauncher
+1338287846|Kill: 4 3 3: Enrique killed Tamas by MOD_MACHINEGUN
+1338287846|PlayerScore: 4 11: Enrique now has 11 points
+1338287846|Challenge: 4 202 1: Client 4 got award 202
+1338287846|Challenge: 4 1 1: Client 4 got award 1
+1338287846|Challenge: 3 2 1: Client 3 got award 2
+1338287847|Kill: 2 4 3: Gerb killed Enrique by MOD_MACHINEGUN
+1338287847|PlayerScore: 2 10: Gerb now has 10 points
+1338287847|Challenge: 2 202 1: Client 2 got award 202
+1338287847|Challenge: 2 1 1: Client 2 got award 1
+1338287847|Challenge: 4 2 1: Client 4 got award 2
+1338287849|Item: 3 weapon_lightning
+1338287851|Item: 2 weapon_rocketlauncher
+1338287851|Item: 4 weapon_rocketlauncher
+1338287853|Item: 2 weapon_railgun
+1338287855|Kill: 3 5 11: Tamas killed dennis by MOD_LIGHTNING
+1338287855|PlayerScore: 3 9: Tamas now has 9 points
+1338287855|Challenge: 3 206 1: Client 3 got award 206
+1338287855|Challenge: 3 1 1: Client 3 got award 1
+1338287855|Challenge: 5 2 1: Client 5 got award 2
+1338287857|Item: 2 item_health_large
+1338287857|Item: 3 weapon_rocketlauncher
+1338287861|Kill: 5 2 3: dennis killed Gerb by MOD_MACHINEGUN
+1338287861|PlayerScore: 5 6: dennis now has 6 points
+1338287861|Challenge: 5 202 1: Client 5 got award 202
+1338287861|Challenge: 5 1 1: Client 5 got award 1
+1338287861|Challenge: 2 2 1: Client 2 got award 2
+1338287862|Item: 5 weapon_railgun
+1338287863|Item: 3 item_armor_shard
+1338287864|Item: 3 item_armor_shard
+1338287864|Item: 3 item_armor_shard
+1338287864|Item: 3 item_armor_shard
+1338287864|Item: 3 item_armor_shard
+1338287865|Item: 5 ammo_lightning
+1338287865|Item: 2 weapon_lightning
+1338287867|Item: 5 ammo_slugs
+1338287867|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287867|PlayerScore: 4 12: Enrique now has 12 points
+1338287867|Challenge: 4 205 1: Client 4 got award 205
+1338287867|Challenge: 4 1 1: Client 4 got award 1
+1338287867|Challenge: 5 2 1: Client 5 got award 2
+1338287868|Item: 3 weapon_railgun
+1338287870|Kill: 2 3 11: Gerb killed Tamas by MOD_LIGHTNING
+1338287870|PlayerScore: 2 11: Gerb now has 11 points
+1338287870|Challenge: 2 206 1: Client 2 got award 206
+1338287870|Challenge: 2 1 1: Client 2 got award 1
+1338287870|Challenge: 3 2 1: Client 3 got award 2
+1338287870|Item: 5 weapon_rocketlauncher
+1338287870|Item: 4 weapon_lightning
+1338287871|Item: 2 weapon_railgun
+1338287874|Item: 3 ammo_rockets
+1338287874|Item: 3 ammo_bullets
+1338287875|Kill: 2 4 10: Gerb killed Enrique by MOD_RAILGUN
+1338287875|PlayerScore: 2 12: Gerb now has 12 points
+1338287875|Challenge: 2 208 1: Client 2 got award 208
+1338287875|Challenge: 2 1 1: Client 2 got award 1
+1338287875|Challenge: 4 2 1: Client 4 got award 2
+1338287878|Item: 5 weapon_railgun
+1338287880|Item: 5 ammo_rockets
+1338287880|Item: 2 weapon_rocketlauncher
+1338287880|Kill: 3 4 2: Tamas killed Enrique by MOD_GAUNTLET
+1338287880|PlayerScore: 3 10: Tamas now has 10 points
+1338287880|Challenge: 3 201 1: Client 3 got award 201
+1338287880|Award: 3 0: Tamas gained the GAUNTLET award!
+1338287880|Challenge: 3 201 1: Client 3 got award 201
+1338287880|Challenge: 3 1 1: Client 3 got award 1
+1338287880|Challenge: 4 2 1: Client 4 got award 2
+1338287880|Item: 5 ammo_bullets
+1338287882|Item: 3 weapon_lightning
+1338287884|Item: 4 weapon_railgun
+1338287884|Item: 3 ammo_lightning
+1338287884|Kill: 2 3 7: Gerb killed Tamas by MOD_ROCKET_SPLASH
+1338287884|PlayerScore: 2 13: Gerb now has 13 points
+1338287884|Challenge: 2 205 1: Client 2 got award 205
+1338287884|Challenge: 2 1 1: Client 2 got award 1
+1338287884|Challenge: 3 2 1: Client 3 got award 2
+1338287886|Item: 2 weapon_lightning
+1338287887|Item: 3 weapon_railgun
+1338287888|Item: 5 ammo_lightning
+1338287889|Item: 5 ammo_slugs
+1338287889|Kill: 4 2 10: Enrique killed Gerb by MOD_RAILGUN
+1338287889|PlayerScore: 4 13: Enrique now has 13 points
+1338287889|Challenge: 4 208 1: Client 4 got award 208
+1338287889|Challenge: 4 1 1: Client 4 got award 1
+1338287889|Challenge: 2 2 1: Client 2 got award 2
+1338287890|Item: 4 weapon_lightning
+1338287891|Item: 5 item_armor_shard
+1338287893|Item: 2 weapon_lightning
+1338287893|Item: 5 ammo_lightning
+1338287893|Item: 4 ammo_slugs
+1338287893|Item: 5 ammo_slugs
+1338287894|Item: 3 item_armor_shard
+1338287895|Item: 3 item_armor_shard
+1338287895|Item: 4 weapon_rocketlauncher
+1338287897|Item: 3 item_armor_shard
+1338287897|Item: 5 weapon_railgun
+1338287901|Kill: 2 4 11: Gerb killed Enrique by MOD_LIGHTNING
+1338287901|PlayerScore: 2 14: Gerb now has 14 points
+1338287901|Challenge: 2 206 1: Client 2 got award 206
+1338287901|Challenge: 2 1 1: Client 2 got award 1
+1338287901|Challenge: 4 2 1: Client 4 got award 2
+1338287902|Item: 3 item_armor_shard
+1338287902|Item: 2 weapon_rocketlauncher
+1338287903|Item: 5 item_health_large
+1338287906|Kill: 4 3 3: Enrique killed Tamas by MOD_MACHINEGUN
+1338287906|PlayerScore: 4 14: Enrique now has 14 points
+1338287906|Challenge: 4 202 1: Client 4 got award 202
+1338287906|Challenge: 4 1 1: Client 4 got award 1
+1338287906|Challenge: 3 2 1: Client 3 got award 2
+1338287907|Item: 5 ammo_rockets
+1338287907|Item: 5 ammo_bullets
+1338287908|Item: 4 weapon_railgun
+1338287908|Kill: 2 4 6: Gerb killed Enrique by MOD_ROCKET
+1338287908|PlayerScore: 2 15: Gerb now has 15 points
+1338287908|Exit: Fraglimit hit.
+1338287908|score: 15  ping: 2  client: 2 Gerb
+1338287908|score: 14  ping: 1  client: 4 Enrique
+1338287908|score: 10  ping: 1  client: 3 Tamas
+1338287908|score: 6  ping: 2  client: 5 dennis
+1338287908|broadcast: print "Gerb^7 hit the fraglimit.\n"
+1338287908|Challenge: 2 205 1: Client 2 got award 205
+1338287908|Challenge: 2 1 1: Client 2 got award 1
+1338287908|Challenge: 4 2 1: Client 4 got award 2
+1338287914|g_gametype will be changed upon restarting.
+1338287914|==== ShutdownGame ====
+1338287914|ShutdownGame:
+1338287914|------------------------------------------------------------
+1338287914|AAS shutdown.
+1338287914|------ Server Initialization ------
+1338287914|Server: am_lavactfxl
+1338287914|Hunk_Clear: reset the hunk ok
+1338287914|----- FS_Startup -----
+1338287914|Current search path:
+1338287914|/home/jeroen/.openarena/baseoa
+1338287914|/usr/lib/openarena-server/baseoa
+1338287914|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338287914|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338287914|
+1338287914|----------------------
+1338287914|5433 files in pk3 files
+1338287914|Loading vm file vm/qagame.qvm...
+1338287914|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338287914|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338287914|... trying pak6-patch088/qagame
+1338287914|... trying qagame
+1338287914|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338287914|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338287914|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338287914|------- Game Initialization -------
+1338287914|gamename: baseoa
+1338287914|gamedate: Apr  1 2012
+1338287914|------------------------------------------------------------
+1338287914|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\4\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\am_lavactfxl\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-29 12:38:34
+1338287914|Info: ServerInfo length: 794 of 1024
+1338287914|Gametype changed, clearing session data.
+1338287914|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338287914|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338287914|1 teams with 1 entities
+1338287914|31 items registered
+1338287914|-----------------------------------
+1338287914|------- BotLib Initialization -------
+1338287914|loaded weapons.c
+1338287914|loaded items.c
+1338287914|loaded syn.c
+1338287914|loaded rnd.c
+1338287914|loaded match.c
+1338287914|loaded rchat.c
+1338287914|------------ Map Loading ------------
+1338287914|trying to load maps/am_lavactfxl.aas
+1338287914|loaded maps/am_lavactfxl.aas
+1338287915|item_guard in solid at (-2560.0 -2880.0 -64.0)
+1338287915|item_guard not reachable for bots at (-2560.0 -2880.0 -64.0)
+1338287915|item_guard in solid at (2560.0 2880.0 -64.0)
+1338287915|item_guard not reachable for bots at (2560.0 2880.0 -64.0)
+1338287915|found 125 level items
+1338287915|-------------------------------------
+1338287915|33 bots parsed
+1338287915|58 arenas parsed
+1338287915|AAS initialized.
+1338287915|FinishSpawningItem: item_guard startsolid at (-2560 -2880 -64)
+1338287915|FinishSpawningItem: item_guard startsolid at (2560 2880 -64)
+1338287915|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287915|ClientConnect: 2
+1338287915|ClientUserinfoChanged: 3 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287915|ClientConnect: 3
+1338287915|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287915|ClientConnect: 4
+1338287915|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287915|ClientConnect: 5
+1338287915|-----------------------------------
+1338287916|ClientUserinfoChanged: 3 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287916|ClientBegin: 3
+1338287917|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287917|ClientBegin: 4
+1338287917|ClientUserinfoChanged: 5 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287917|ClientBegin: 5
+1338287918|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287918|ClientBegin: 2
+1338287919|ClientUserinfoChanged: 3 n\Tamas\t\1\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287919|ClientUserinfoChanged: 3 n\Tamas\t\1\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287919|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1338287919|broadcast: print "Tamas^7 entered the game\n"
+1338287919|ClientBegin: 3
+1338287921|Item: 3 weapon_nailgun
+1338287921|ClientUserinfoChanged: 5 n\dennis\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287921|ClientUserinfoChanged: 5 n\dennis\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287921|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338287921|broadcast: print "dennis^7 entered the game\n"
+1338287921|ClientBegin: 5
+1338287922|Item: 3 item_armor_shard
+1338287922|Item: 3 item_armor_shard
+1338287922|Item: 3 item_armor_shard
+1338287923|ClientUserinfoChanged: 2 n\Gerb\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287923|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1338287923|broadcast: print "Gerb^7 entered the game\n"
+1338287923|ClientBegin: 2
+1338287924|Item: 5 ammo_cells
+1338287924|Item: 5 item_health_small
+1338287924|Item: 2 weapon_lightning
+1338287925|Item: 5 item_armor_shard
+1338287925|Item: 5 item_health_small
+1338287925|Item: 5 item_armor_shard
+1338287926|Item: 3 item_armor_body
+1338287927|ClientUserinfoChanged: 4 n\Enrique\t\1\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287927|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287927|broadcast: print "Enrique^7 entered the game\n"
+1338287927|ClientBegin: 4
+1338287928|Item: 3 ammo_bullets
+1338287928|Item: 3 item_ammoregen
+1338287928|Item: 5 item_doubler
+1338287928|Item: 3 ammo_cells
+1338287930|Item: 3 item_armor_shard
+1338287930|Item: 3 item_health_small
+1338287930|Item: 3 item_armor_shard
+1338287930|Item: 2 item_ammoregen
+1338287930|broadcast: print "Enrique called a vote.\n"
+1338287930|Item: 2 ammo_bullets
+1338287932|broadcast: print "Vote passed.\n"
+1338287932|Item: 2 item_armor_body
+1338287934|Item: 5 ammo_nails
+1338287934|Item: 4 weapon_lightning
+1338287935|g_gametype will be changed upon restarting.
+1338287935|==== ShutdownGame ====
+1338287935|ShutdownGame:
+1338287935|------------------------------------------------------------
+1338287935|AAS shutdown.
+1338287935|------ Server Initialization ------
+1338287935|Server: blitzkrieg3
+1338287935|Hunk_Clear: reset the hunk ok
+1338287935|----- FS_Startup -----
+1338287935|Current search path:
+1338287935|/home/jeroen/.openarena/baseoa
+1338287935|/usr/lib/openarena-server/baseoa
+1338287935|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338287935|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338287935|
+1338287935|----------------------
+1338287935|5433 files in pk3 files
+1338287935|Loading vm file vm/qagame.qvm...
+1338287935|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338287935|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338287935|... trying pak6-patch088/qagame
+1338287935|... trying qagame
+1338287935|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338287935|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338287935|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338287935|------- Game Initialization -------
+1338287935|gamename: baseoa
+1338287935|gamedate: Apr  1 2012
+1338287935|------------------------------------------------------------
+1338287935|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\blitzkrieg3\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-05-29 12:38:55
+1338287935|Info: ServerInfo length: 793 of 1024
+1338287935|Gametype changed, clearing session data.
+1338287935|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1338287935|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1338287935|0 teams with 0 entities
+1338287935|22 items registered
+1338287935|-----------------------------------
+1338287935|------- BotLib Initialization -------
+1338287935|loaded weapons.c
+1338287935|loaded items.c
+1338287935|loaded syn.c
+1338287935|loaded rnd.c
+1338287935|loaded match.c
+1338287935|loaded rchat.c
+1338287935|------------ Map Loading ------------
+1338287935|trying to load maps/blitzkrieg3.aas
+1338287935|loaded maps/blitzkrieg3.aas
+1338287935|found 44 level items
+1338287935|-------------------------------------
+1338287935|33 bots parsed
+1338287935|58 arenas parsed
+1338287935|AAS initialized.
+1338287935|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287935|ClientConnect: 2
+1338287935|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287935|ClientConnect: 3
+1338287935|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287935|ClientConnect: 4
+1338287935|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287935|ClientConnect: 5
+1338287935|-----------------------------------
+1338287936|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1338287936|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1338287936|broadcast: print "Tamas^7 entered the game\n"
+1338287936|ClientBegin: 3
+1338287937|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287937|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1338287937|broadcast: print "Enrique^7 entered the game\n"
+1338287937|ClientBegin: 4
+1338287937|ClientUserinfoChanged: 5 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1338287937|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1338287937|broadcast: print "dennis^7 entered the game\n"
+1338287937|ClientBegin: 5
+1338287938|Item: 3 weapon_rocketlauncher
+1338287938|Item: 4 ammo_grenades
+1338287939|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1338287939|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1338287939|broadcast: print "Gerb^7 entered the game\n"
+1338287939|ClientBegin: 2
+1338287939|Item: 5 weapon_rocketlauncher
+1338287939|Item: 4 item_armor_shard
+1338287939|Item: 4 item_armor_shard
+1338287939|Item: 4 ammo_rockets
+1338287940|Item: 4 item_armor_shard
+1338287940|Item: 4 item_armor_shard
+1338287942|Item: 3 item_health
+1338287946|Item: 3 item_armor_shard
+1338287946|Item: 3 item_armor_shard
+1338287946|Item: 3 item_armor_shard
+1338287947|Kill: 3 4 6: Tamas killed Enrique by MOD_ROCKET
+1338287947|PlayerScore: 3 1: Tamas now has 1 points
+1338287947|Challenge: 3 205 1: Client 3 got award 205
+1338287947|Challenge: 3 1 1: Client 3 got award 1
+1338287947|Challenge: 4 2 1: Client 4 got award 2
+1338287947|Item: 5 weapon_nailgun
+1338287947|Item: 2 weapon_rocketlauncher
+1338287947|Kill: 5 3 7: dennis killed Tamas by MOD_ROCKET_SPLASH
+1338287947|PlayerScore: 5 1: dennis now has 1 points
+1338287947|Challenge: 5 205 1: Client 5 got award 205
+1338287947|Challenge: 5 1 1: Client 5 got award 1
+1338287947|Challenge: 3 2 1: Client 3 got award 2
+1338287948|Item: 2 item_health
+1338287948|Item: 2 ammo_grenades
+1338287950|Item: 2 ammo_bullets
+1338287950|Item: 4 weapon_rocketlauncher
+1338287952|Item: 3 weapon_rocketlauncher
+1338287954|Item: 5 ammo_lightning
+1338287956|Kill: 3 2 6: Tamas killed Gerb by MOD_ROCKET
+1338287956|PlayerScore: 3 2: Tamas now has 2 points
+1338287956|Challenge: 3 205 1: Client 3 got award 205
+1338287956|Challenge: 3 1 1: Client 3 got award 1
+1338287956|Challenge: 2 2 1: Client 2 got award 2
+1338287957|Item: 5 item_armor_combat
+1338287959|Item: 4 weapon_plasmagun
+1338287960|Item: 2 weapon_grenadelauncher
+1338287961|Item: 4 weapon_rocketlauncher
+1338287961|Item: 5 ammo_nails
+1338287962|Item: 2 weapon_shotgun
+1338287963|Item: 4 ammo_slugs
+1338287963|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338287963|PlayerScore: 4 1: Enrique now has 1 points
+1338287963|Challenge: 4 205 1: Client 4 got award 205
+1338287963|Challenge: 4 1 1: Client 4 got award 1
+1338287963|Challenge: 3 2 1: Client 3 got award 2
+1338287964|Item: 4 weapon_rocketlauncher
+1338287965|Item: 3 ammo_cells
+1338287965|Item: 2 ammo_nails
+1338287966|Kill: 3 2 2: Tamas killed Gerb by MOD_GAUNTLET
+1338287966|PlayerScore: 3 3: Tamas now has 3 points
+1338287966|Challenge: 3 201 1: Client 3 got award 201
+1338287966|Award: 3 0: Tamas gained the GAUNTLET award!
+1338287966|Challenge: 3 201 1: Client 3 got award 201
+1338287966|Challenge: 3 1 1: Client 3 got award 1
+1338287966|Challenge: 2 2 1: Client 2 got award 2
+1338287966|Item: 3 weapon_shotgun
+1338287967|Item: 5 item_health_small
+1338287968|Item: 5 ammo_bullets
+1338287969|Item: 5 ammo_shells
+1338287969|Item: 3 item_armor_shard
+1338287969|Item: 3 item_armor_shard
+1338287969|Item: 5 item_health
+1338287970|Item: 3 item_armor_shard
+1338287970|Item: 3 item_armor_shard
+1338287970|Item: 2 weapon_grenadelauncher
+1338287972|Kill: 4 5 6: Enrique killed dennis by MOD_ROCKET
+1338287972|PlayerScore: 4 2: Enrique now has 2 points
+1338287972|Challenge: 4 205 1: Client 4 got award 205
+1338287972|Challenge: 4 1 1: Client 4 got award 1
+1338287972|Challenge: 5 2 1: Client 5 got award 2
+1338287972|Item: 3 weapon_nailgun
+1338287973|Item: 4 weapon_nailgun
+1338287974|Item: 3 weapon_plasmagun
+1338287975|Item: 5 ammo_slugs
+1338287975|Item: 5 ammo_cells
+1338287976|Item: 3 ammo_rockets
+1338287977|Item: 2 item_health
+1338287977|Item: 3 item_health
+1338287978|Item: 4 weapon_nailgun
+1338287978|Kill: 2 3 2: Gerb killed Tamas by MOD_GAUNTLET
+1338287978|PlayerScore: 2 1: Gerb now has 1 points
+1338287978|Challenge: 2 201 1: Client 2 got award 201
+1338287978|Award: 2 0: Gerb gained the GAUNTLET award!
+1338287978|Challenge: 2 201 1: Client 2 got award 201
+1338287978|Challenge: 2 1 1: Client 2 got award 1
+1338287978|Challenge: 3 2 1: Client 3 got award 2
+1338287978|Item: 2 weapon_plasmagun
+1338287978|Item: 4 weapon_rocketlauncher
+1338287979|Item: 4 item_armor_shard
+1338287981|Item: 2 weapon_plasmagun
+1338287981|Kill: 5 4 3: dennis killed Enrique by MOD_MACHINEGUN
+1338287981|PlayerScore: 5 2: dennis now has 2 points
+1338287981|Challenge: 5 202 1: Client 5 got award 202
+1338287981|Challenge: 5 1 1: Client 5 got award 1
+1338287981|Challenge: 4 2 1: Client 4 got award 2
+1338287984|Item: 3 weapon_shotgun
+1338287986|Kill: 4 2 3: Enrique killed Gerb by MOD_MACHINEGUN
+1338287986|PlayerScore: 4 3: Enrique now has 3 points
+1338287986|Challenge: 4 202 1: Client 4 got award 202
+1338287986|Challenge: 4 1 1: Client 4 got award 1
+1338287986|Challenge: 2 2 1: Client 2 got award 2
+1338287986|Item: 5 weapon_railgun
+1338287987|Item: 4 weapon_plasmagun
+1338287988|Item: 5 ammo_lightning
+1338287988|Item: 3 weapon_rocketlauncher
+1338287989|Item: 5 item_health_large
+1338287992|Item: 4 item_health
+1338287992|Item: 4 weapon_grenadelauncher
+1338287993|Kill: 3 3 7: Tamas killed Tamas by MOD_ROCKET_SPLASH
+1338287993|PlayerScore: 3 2: Tamas now has 2 points
+1338287995|Item: 2 weapon_rocketlauncher
+1338287995|Item: 2 ammo_lightning
+1338287995|Kill: 4 5 8: Enrique killed dennis by MOD_PLASMA
+1338287995|PlayerScore: 4 4: Enrique now has 4 points
+1338287995|Challenge: 4 207 1: Client 4 got award 207
+1338287995|Challenge: 4 1 1: Client 4 got award 1
+1338287995|Challenge: 5 2 1: Client 5 got award 2
+1338287996|Item: 3 weapon_shotgun
+1338287997|Item: 2 item_armor_combat
+1338288000|Item: 3 item_armor_shard
+1338288000|Item: 2 item_armor_shard
+1338288002|Kill: 3 2 1: Tamas killed Gerb by MOD_SHOTGUN
+1338288002|PlayerScore: 3 3: Tamas now has 3 points
+1338288002|Challenge: 3 203 1: Client 3 got award 203
+1338288002|Challenge: 3 1 1: Client 3 got award 1
+1338288002|Challenge: 2 2 1: Client 2 got award 2
+1338288002|Kill: 2 3 7: Gerb killed Tamas by MOD_ROCKET_SPLASH
+1338288002|PlayerScore: 2 2: Gerb now has 2 points
+1338288002|Challenge: 2 205 1: Client 2 got award 205
+1338288002|Challenge: 2 1 1: Client 2 got award 1
+1338288002|Challenge: 3 2 1: Client 3 got award 2
+1338288004|Item: 5 weapon_nailgun
+1338288005|Item: 4 weapon_rocketlauncher
+1338288005|Item: 3 weapon_rocketlauncher
+1338288005|Item: 4 weapon_shotgun
+1338288006|Item: 5 ammo_bullets
+1338288006|Item: 4 ammo_rockets
+1338288006|Item: 4 item_armor_shard
+1338288006|Item: 4 item_armor_shard
+1338288007|Kill: 3 5 6: Tamas killed dennis by MOD_ROCKET
+1338288007|PlayerScore: 3 4: Tamas now has 4 points
+1338288007|Challenge: 3 205 1: Client 3 got award 205
+1338288007|Challenge: 3 1 1: Client 3 got award 1
+1338288007|Challenge: 5 2 1: Client 5 got award 2
+1338288008|Item: 4 item_armor_shard
+1338288008|Item: 4 item_armor_shard
+1338288009|Item: 4 item_armor_shard
+1338288010|Item: 5 weapon_shotgun
+1338288010|Item: 2 weapon_rocketlauncher
+1338288011|Item: 5 ammo_cells
+1338288011|Item: 4 weapon_nailgun
+1338288013|Item: 4 weapon_plasmagun
+1338288014|Kill: 3 4 6: Tamas killed Enrique by MOD_ROCKET
+1338288014|PlayerScore: 3 5: Tamas now has 5 points
+1338288014|Challenge: 3 205 1: Client 3 got award 205
+1338288014|Challenge: 3 1 1: Client 3 got award 1
+1338288014|Challenge: 4 2 1: Client 4 got award 2
+1338288016|Item: 3 weapon_rocketlauncher
+1338288017|Item: 5 weapon_nailgun
+1338288017|Item: 2 ammo_rockets
+1338288018|Item: 3 weapon_plasmagun
+1338288019|Kill: 2 3 6: Gerb killed Tamas by MOD_ROCKET
+1338288019|PlayerScore: 2 3: Gerb now has 3 points
+1338288019|Challenge: 2 205 1: Client 2 got award 205
+1338288019|Challenge: 2 1 1: Client 2 got award 1
+1338288019|Challenge: 3 2 1: Client 3 got award 2
+1338288019|Item: 2 weapon_plasmagun
+1338288019|Item: 2 item_health
+1338288020|Item: 5 weapon_nailgun
+1338288022|Kill: 2 4 8: Gerb killed Enrique by MOD_PLASMA
+1338288022|PlayerScore: 2 4: Gerb now has 4 points
+1338288022|Challenge: 2 207 1: Client 2 got award 207
+1338288022|Challenge: 2 1 1: Client 2 got award 1
+1338288022|Challenge: 4 2 1: Client 4 got award 2
+1338288022|Award: 2 1: Gerb gained the EXCELLENT award!
+1338288022|Challenge: 2 302 1: Client 2 got award 302
+1338288022|Kill: 5 2 23: dennis killed Gerb by MOD_NAIL
+1338288022|PlayerScore: 5 3: dennis now has 3 points
+1338288022|Challenge: 5 212 1: Client 5 got award 212
+1338288022|Challenge: 5 1 1: Client 5 got award 1
+1338288022|Challenge: 2 2 1: Client 2 got award 2
+1338288023|Item: 3 weapon_plasmagun
+1338288023|Item: 3 weapon_plasmagun
+1338288025|Item: 4 ammo_grenades
+1338288025|Item: 4 weapon_rocketlauncher
+1338288026|Item: 2 ammo_nails
+1338288027|Kill: 3 5 8: Tamas killed dennis by MOD_PLASMA
+1338288027|PlayerScore: 3 6: Tamas now has 6 points
+1338288027|Challenge: 3 207 1: Client 3 got award 207
+1338288027|Challenge: 3 1 1: Client 3 got award 1
+1338288027|Challenge: 5 2 1: Client 5 got award 2
+1338288027|Kill: 5 3 23: dennis killed Tamas by MOD_NAIL
+1338288027|PlayerScore: 5 4: dennis now has 4 points
+1338288027|Challenge: 5 212 1: Client 5 got award 212
+1338288027|Challenge: 5 1 1: Client 5 got award 1
+1338288027|Challenge: 3 2 1: Client 3 got award 2
+1338288027|Item: 2 weapon_shotgun
+1338288031|Item: 5 item_armor_shard
+1338288031|Item: 5 item_armor_shard
+1338288031|Item: 5 item_armor_shard
+1338288031|Item: 2 ammo_cells
+1338288031|Item: 5 item_armor_shard
+1338288032|Item: 2 ammo_slugs
+1338288033|Item: 4 ammo_slugs
+1338288034|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338288034|PlayerScore: 4 5: Enrique now has 5 points
+1338288034|Challenge: 4 205 1: Client 4 got award 205
+1338288034|Challenge: 4 1 1: Client 4 got award 1
+1338288034|Challenge: 3 2 1: Client 3 got award 2
+1338288034|Item: 2 weapon_rocketlauncher
+1338288036|Item: 3 weapon_shotgun
+1338288036|Item: 4 ammo_bullets
+1338288037|Item: 4 ammo_shells
+1338288037|Item: 5 weapon_lightning
+1338288037|Item: 4 item_health
+1338288038|Item: 5 item_health_small
+1338288038|Item: 5 item_health_small
+1338288039|Item: 4 ammo_grenades
+1338288040|Item: 5 weapon_rocketlauncher
+1338288042|Kill: 5 3 11: dennis killed Tamas by MOD_LIGHTNING
+1338288042|PlayerScore: 5 5: dennis now has 5 points
+1338288042|Challenge: 5 206 1: Client 5 got award 206
+1338288042|Challenge: 5 1 1: Client 5 got award 1
+1338288042|Challenge: 3 2 1: Client 3 got award 2
+1338288043|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338288043|PlayerScore: 4 6: Enrique now has 6 points
+1338288043|Challenge: 4 205 1: Client 4 got award 205
+1338288043|Challenge: 4 1 1: Client 4 got award 1
+1338288043|Challenge: 5 2 1: Client 5 got award 2
+1338288044|Item: 4 weapon_lightning
+1338288046|Item: 5 weapon_nailgun
+1338288048|Item: 4 weapon_shotgun
+1338288049|Item: 3 ammo_rockets
+1338288052|Kill: 4 3 11: Enrique killed Tamas by MOD_LIGHTNING
+1338288052|PlayerScore: 4 7: Enrique now has 7 points
+1338288052|Challenge: 4 206 1: Client 4 got award 206
+1338288052|Challenge: 4 1 1: Client 4 got award 1
+1338288052|Challenge: 3 2 1: Client 3 got award 2
+1338288054|Kill: 5 2 23: dennis killed Gerb by MOD_NAIL
+1338288054|PlayerScore: 5 6: dennis now has 6 points
+1338288054|Challenge: 5 212 1: Client 5 got award 212
+1338288054|Challenge: 5 1 1: Client 5 got award 1
+1338288054|Challenge: 2 2 1: Client 2 got award 2
+1338288056|Item: 2 ammo_cells
+1338288056|Item: 3 weapon_rocketlauncher
+1338288057|Item: 3 weapon_rocketlauncher
+1338288058|Item: 5 item_armor_shard
+1338288058|Item: 5 item_armor_shard
+1338288058|Item: 5 item_armor_shard
+1338288059|Item: 5 item_armor_shard
+1338288063|Kill: 5 4 23: dennis killed Enrique by MOD_NAIL
+1338288063|PlayerScore: 5 7: dennis now has 7 points
+1338288063|Challenge: 5 212 1: Client 5 got award 212
+1338288063|Challenge: 5 1 1: Client 5 got award 1
+1338288063|Challenge: 4 2 1: Client 4 got award 2
+1338288066|Kill: 2 5 3: Gerb killed dennis by MOD_MACHINEGUN
+1338288066|PlayerScore: 2 5: Gerb now has 5 points
+1338288066|Challenge: 2 202 1: Client 2 got award 202
+1338288066|Challenge: 2 1 1: Client 2 got award 1
+1338288066|Challenge: 5 2 1: Client 5 got award 2
+1338288066|Item: 2 weapon_nailgun
+1338288067|Item: 2 weapon_railgun
+1338288068|Item: 3 weapon_nailgun
+1338288068|Item: 3 weapon_lightning
+1338288069|Item: 3 weapon_plasmagun
+1338288070|Item: 4 ammo_bullets
+1338288070|Item: 5 weapon_grenadelauncher
+1338288071|Item: 3 ammo_rockets
+1338288072|Item: 5 ammo_slugs
+1338288072|Item: 5 ammo_cells
+1338288074|Kill: 4 3 2: Enrique killed Tamas by MOD_GAUNTLET
+1338288074|PlayerScore: 4 8: Enrique now has 8 points
+1338288074|Challenge: 4 201 1: Client 4 got award 201
+1338288074|Award: 4 0: Enrique gained the GAUNTLET award!
+1338288074|Challenge: 4 201 1: Client 4 got award 201
+1338288074|Challenge: 4 1 1: Client 4 got award 1
+1338288074|Challenge: 3 2 1: Client 3 got award 2
+1338288074|Item: 4 weapon_lightning
+1338288077|Item: 5 weapon_grenadelauncher
+1338288078|Kill: 2 5 23: Gerb killed dennis by MOD_NAIL
+1338288078|PlayerScore: 2 6: Gerb now has 6 points
+1338288078|Challenge: 2 212 1: Client 2 got award 212
+1338288078|Challenge: 2 1 1: Client 2 got award 1
+1338288078|Challenge: 5 2 1: Client 5 got award 2
+1338288078|Item: 3 weapon_rocketlauncher
+1338288079|Kill: 4 3 11: Enrique killed Tamas by MOD_LIGHTNING
+1338288079|PlayerScore: 4 9: Enrique now has 9 points
+1338288079|Challenge: 4 206 1: Client 4 got award 206
+1338288079|Challenge: 4 1 1: Client 4 got award 1
+1338288079|Challenge: 3 2 1: Client 3 got award 2
+1338288080|Item: 4 weapon_rocketlauncher
+1338288081|Item: 5 weapon_grenadelauncher
+1338288082|Item: 5 item_health
+1338288084|Kill: 5 4 3: dennis killed Enrique by MOD_MACHINEGUN
+1338288084|PlayerScore: 5 8: dennis now has 8 points
+1338288084|Challenge: 5 202 1: Client 5 got award 202
+1338288084|Challenge: 5 1 1: Client 5 got award 1
+1338288084|Challenge: 4 2 1: Client 4 got award 2
+1338288085|Kill: 2 5 23: Gerb killed dennis by MOD_NAIL
+1338288085|PlayerScore: 2 7: Gerb now has 7 points
+1338288085|Challenge: 2 212 1: Client 2 got award 212
+1338288085|Challenge: 2 1 1: Client 2 got award 1
+1338288085|Challenge: 5 2 1: Client 5 got award 2
+1338288085|Item: 2 weapon_rocketlauncher
+1338288086|Item: 3 weapon_rocketlauncher
+1338288087|Item: 3 ammo_bullets
+1338288088|Item: 3 ammo_shells
+1338288088|Item: 3 item_health
+1338288088|Kill: 3 4 6: Tamas killed Enrique by MOD_ROCKET
+1338288088|PlayerScore: 3 7: Tamas now has 7 points
+1338288088|Challenge: 3 205 1: Client 3 got award 205
+1338288088|Challenge: 3 1 1: Client 3 got award 1
+1338288088|Challenge: 4 2 1: Client 4 got award 2
+1338288091|Item: 3 weapon_shotgun
+1338288091|Item: 2 ammo_lightning
+1338288091|Item: 2 ammo_slugs
+1338288091|Kill: 3 4 1: Tamas killed Enrique by MOD_SHOTGUN
+1338288091|PlayerScore: 3 8: Tamas now has 8 points
+1338288091|Challenge: 3 203 1: Client 3 got award 203
+1338288091|Challenge: 3 1 1: Client 3 got award 1
+1338288091|Challenge: 4 2 1: Client 4 got award 2
+1338288091|Item: 5 weapon_plasmagun
+1338288093|Item: 3 ammo_lightning
+1338288095|Item: 2 item_armor_combat
+1338288096|Item: 5 ammo_grenades
+1338288098|Item: 4 weapon_rocketlauncher
+1338288102|Kill: 4 5 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1338288102|PlayerScore: 4 10: Enrique now has 10 points
+1338288102|Challenge: 4 205 1: Client 4 got award 205
+1338288102|Challenge: 4 1 1: Client 4 got award 1
+1338288102|Challenge: 5 2 1: Client 5 got award 2
+1338288102|Kill: 2 3 7: Gerb killed Tamas by MOD_ROCKET_SPLASH
+1338288102|PlayerScore: 2 8: Gerb now has 8 points
+1338288102|Challenge: 2 205 1: Client 2 got award 205
+1338288102|Challenge: 2 1 1: Client 2 got award 1
+1338288102|Challenge: 3 2 1: Client 3 got award 2
+1338288102|Item: 4 weapon_plasmagun
+1338288103|Item: 2 weapon_rocketlauncher
+1338288104|Kill: 3 2 3: Tamas killed Gerb by MOD_MACHINEGUN
+1338288104|PlayerScore: 3 9: Tamas now has 9 points
+1338288104|Challenge: 3 202 1: Client 3 got award 202
+1338288104|Challenge: 3 1 1: Client 3 got award 1
+1338288104|Challenge: 2 2 1: Client 2 got award 2
+1338288104|Item: 3 weapon_rocketlauncher
+1338288115|Item: 5 weapon_railgun
+1338288116|Item: 4 weapon_rocketlauncher
+1338288117|Item: 3 weapon_rocketlauncher
+1338288117|Item: 2 weapon_nailgun
+1338288118|Item: 2 ammo_bullets
+1338288118|Kill: 2 4 23: Gerb killed Enrique by MOD_NAIL
+1338288118|PlayerScore: 2 9: Gerb now has 9 points
+1338288118|Challenge: 2 212 1: Client 2 got award 212
+1338288118|Challenge: 2 1 1: Client 2 got award 1
+1338288118|Challenge: 4 2 1: Client 4 got award 2
+1338288118|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1338288118|PlayerScore: 4 11: Enrique now has 11 points
+1338288118|Challenge: 4 205 1: Client 4 got award 205
+1338288118|Challenge: 4 1 1: Client 4 got award 1
+1338288118|Challenge: 2 2 1: Client 2 got award 2
+1338288118|Item: 5 ammo_cells
+1338288119|Item: 5 item_health_large
+1338288121|Item: 5 ammo_cells
+1338288121|Item: 5 ammo_slugs
+1338288121|Item: 2 ammo_grenades
+1338288122|Item: 4 item_armor_shard
+1338288122|Item: 4 item_armor_shard
+1338288122|Item: 2 weapon_rocketlauncher
+1338288122|Item: 4 ammo_rockets
+1338288122|Item: 4 item_armor_shard
+1338288122|Item: 4 item_armor_shard
+1338288125|Item: 5 weapon_lightning
+1338288127|Item: 3 weapon_nailgun
+1338288129|Item: 5 ammo_nails
+1338288130|Kill: 2 2 7: Gerb killed Gerb by MOD_ROCKET_SPLASH
+1338288130|PlayerScore: 2 8: Gerb now has 8 points
+1338288130|Item: 4 weapon_rocketlauncher
+1338288132|Item: 5 item_armor_combat
+1338288133|Item: 4 ammo_slugs
+1338288133|Item: 4 ammo_lightning
+1338288135|Kill: 3 4 23: Tamas killed Enrique by MOD_NAIL
+1338288135|PlayerScore: 3 10: Tamas now has 10 points
+1338288135|Challenge: 3 212 1: Client 3 got award 212
+1338288135|Challenge: 3 1 1: Client 3 got award 1
+1338288135|Challenge: 4 2 1: Client 4 got award 2
+1338288135|Kill: 5 3 11: dennis killed Tamas by MOD_LIGHTNING
+1338288135|PlayerScore: 5 9: dennis now has 9 points
+1338288135|Challenge: 5 206 1: Client 5 got award 206
+1338288135|Challenge: 5 1 1: Client 5 got award 1
+1338288135|Challenge: 3 2 1: Client 3 got award 2
+1338288135|Item: 2 weapon_plasmagun
+1338288137|Item: 5 weapon_rocketlauncher
+1338288137|Item: 2 weapon_nailgun
+1338288138|Item: 4 ammo_nails
+1338288138|Item: 2 weapon_nailgun
+1338288138|Item: 2 weapon_rocketlauncher
+1338288139|Item: 4 weapon_shotgun
+1338288140|Item: 2 weapon_rocketlauncher
+1338288142|Item: 3 ammo_bullets
+1338288145|Kill: 3 5 3: Tamas killed dennis by MOD_MACHINEGUN
+1338288145|PlayerScore: 3 11: Tamas now has 11 points
+1338288145|Challenge: 3 202 1: Client 3 got award 202
+1338288145|Challenge: 3 1 1: Client 3 got award 1
+1338288145|Challenge: 5 2 1: Client 5 got award 2
+1338288147|Kill: 2 3 6: Gerb killed Tamas by MOD_ROCKET
+1338288147|PlayerScore: 2 9: Gerb now has 9 points
+1338288147|Challenge: 2 205 1: Client 2 got award 205
+1338288147|Challenge: 2 1 1: Client 2 got award 1
+1338288147|Challenge: 3 2 1: Client 3 got award 2
+1338288147|Item: 4 item_armor_shard
+1338288148|Item: 4 item_armor_shard
+1338288148|Item: 4 item_armor_shard
+1338288149|Item: 2 item_armor_shard
+1338288149|Item: 5 weapon_grenadelauncher
+1338288150|Item: 2 item_armor_shard
+1338288150|Item: 2 item_armor_shard
+1338288151|Item: 3 weapon_plasmagun
+1338288152|Item: 3 ammo_rockets
+1338288152|Item: 3 item_health
+1338288153|Item: 3 item_health
+1338288153|Item: 2 item_health
+1338288153|Kill: 3 4 8: Tamas killed Enrique by MOD_PLASMA
+1338288153|PlayerScore: 3 12: Tamas now has 12 points
+1338288153|Challenge: 3 207 1: Client 3 got award 207
+1338288153|Challenge: 3 1 1: Client 3 got award 1
+1338288153|Challenge: 4 2 1: Client 4 got award 2
+1338288154|Item: 2 weapon_rocketlauncher
+1338288155|Kill: 2 5 7: Gerb killed dennis by MOD_ROCKET_SPLASH
+1338288155|PlayerScore: 2 10: Gerb now has 10 points
+1338288155|Challenge: 2 205 1: Client 2 got award 205
+1338288155|Challenge: 2 1 1: Client 2 got award 1
+1338288155|Challenge: 5 2 1: Client 5 got award 2
+1338288156|Item: 4 weapon_rocketlauncher
+1338288158|Item: 4 item_armor_shard
+1338288160|Item: 4 ammo_grenades
+1338288160|Item: 5 weapon_lightning
+1338288162|Item: 2 item_health_small
+1338288163|Item: 2 item_health_small
+1338288164|Kill: 2 5 6: Gerb killed dennis by MOD_ROCKET
+1338288164|PlayerScore: 2 11: Gerb now has 11 points
+1338288164|Challenge: 2 205 1: Client 2 got award 205
+1338288164|Challenge: 2 1 1: Client 2 got award 1
+1338288164|Challenge: 5 2 1: Client 5 got award 2
+1338288164|Item: 2 weapon_rocketlauncher
+1338288164|Item: 3 weapon_nailgun
+1338288165|Item: 4 ammo_shells
+1338288166|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1338288166|PlayerScore: 4 12: Enrique now has 12 points
+1338288166|Challenge: 4 205 1: Client 4 got award 205
+1338288166|Challenge: 4 1 1: Client 4 got award 1
+1338288166|Challenge: 2 2 1: Client 2 got award 2
+1338288167|Item: 3 weapon_rocketlauncher
+1338288167|Item: 5 weapon_plasmagun
+1338288169|Kill: 4 4 7: Enrique killed Enrique by MOD_ROCKET_SPLASH
+1338288169|PlayerScore: 4 11: Enrique now has 11 points
+1338288169|Item: 2 ammo_slugs
+1338288169|Item: 2 ammo_cells
+1338288172|Kill: 5 3 8: dennis killed Tamas by MOD_PLASMA
+1338288172|PlayerScore: 5 10: dennis now has 10 points
+1338288172|Challenge: 5 207 1: Client 5 got award 207
+1338288172|Challenge: 5 1 1: Client 5 got award 1
+1338288172|Challenge: 3 2 1: Client 3 got award 2
+1338288173|Item: 2 weapon_lightning
+1338288174|Item: 5 weapon_rocketlauncher
+1338288175|Item: 3 weapon_rocketlauncher
+1338288178|Item: 5 item_armor_shard
+1338288179|Item: 5 item_armor_shard
+1338288179|Item: 5 ammo_rockets
+1338288179|Item: 5 item_armor_shard
+1338288180|Item: 4 item_health_large
+1338288182|Item: 5 weapon_plasmagun
+1338288182|Item: 4 weapon_rocketlauncher
+1338288182|Item: 3 weapon_nailgun
+1338288183|Kill: 4 2 3: Enrique killed Gerb by MOD_MACHINEGUN
+1338288183|PlayerScore: 4 12: Enrique now has 12 points
+1338288183|Challenge: 4 202 1: Client 4 got award 202
+1338288183|Challenge: 4 1 1: Client 4 got award 1
+1338288183|Challenge: 2 2 1: Client 2 got award 2
+1338288186|Item: 4 weapon_rocketlauncher
+1338288186|Item: 4 ammo_slugs
+1338288186|Item: 4 ammo_lightning
+1338288188|Item: 5 item_armor_shard
+1338288188|Kill: 3 4 23: Tamas killed Enrique by MOD_NAIL
+1338288188|PlayerScore: 3 13: Tamas now has 13 points
+1338288188|Challenge: 3 212 1: Client 3 got award 212
+1338288188|Challenge: 3 1 1: Client 3 got award 1
+1338288188|Challenge: 4 2 1: Client 4 got award 2
+1338288189|Item: 2 weapon_rocketlauncher
+1338288190|Item: 2 weapon_rocketlauncher
+1338288191|Item: 4 weapon_shotgun
+1338288191|Item: 5 item_health
+1338288191|Item: 4 ammo_nails
+1338288192|Item: 5 ammo_bullets
+1338288193|Item: 4 weapon_rocketlauncher
+1338288197|Kill: 2 3 6: Gerb killed Tamas by MOD_ROCKET
+1338288197|PlayerScore: 2 12: Gerb now has 12 points
+1338288197|Challenge: 2 205 1: Client 2 got award 205
+1338288197|Challenge: 2 1 1: Client 2 got award 1
+1338288197|Challenge: 3 2 1: Client 3 got award 2
+1338288198|Item: 2 weapon_rocketlauncher
+1338288200|Item: 3 weapon_nailgun
+1338288200|Item: 5 item_armor_combat
+1338288202|Item: 3 weapon_plasmagun
+1338288205|Item: 4 weapon_rocketlauncher
+1338288205|Kill: 4 3 6: Enrique killed Tamas by MOD_ROCKET
+1338288205|PlayerScore: 4 13: Enrique now has 13 points
+1338288205|Challenge: 4 205 1: Client 4 got award 205
+1338288205|Challenge: 4 1 1: Client 4 got award 1
+1338288205|Challenge: 3 2 1: Client 3 got award 2
+1338288206|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1338288206|PlayerScore: 4 14: Enrique now has 14 points
+1338288206|Challenge: 4 205 1: Client 4 got award 205
+1338288206|Challenge: 4 1 1: Client 4 got award 1
+1338288206|Challenge: 2 2 1: Client 2 got award 2
+1338288206|Award: 4 1: Enrique gained the EXCELLENT award!
+1338288206|Challenge: 4 302 1: Client 4 got award 302
+1338288207|Item: 4 weapon_plasmagun
+1338288208|Item: 4 weapon_rocketlauncher
+1338288210|Item: 5 item_health
+1338288210|Item: 3 weapon_nailgun
+1338288210|Item: 2 weapon_plasmagun
+1338288211|Item: 4 item_armor_shard
+1338288212|Item: 3 ammo_grenades
+1338288212|Item: 2 weapon_rocketlauncher
+1338288212|Item: 5 weapon_rocketlauncher
+1338288212|Item: 5 item_health
+1338288212|Item: 5 ammo_grenades
+1338288214|Item: 5 item_armor_shard
+1338288214|Item: 5 ammo_bullets
+1338288214|Item: 2 ammo_shells
+1338288215|Kill: 3 4 23: Tamas killed Enrique by MOD_NAIL
+1338288215|PlayerScore: 3 14: Tamas now has 14 points
+1338288215|Challenge: 3 212 1: Client 3 got award 212
+1338288215|Challenge: 3 1 1: Client 3 got award 1
+1338288215|Challenge: 4 2 1: Client 4 got award 2
+1338288215|Item: 5 weapon_nailgun
+1338288217|Item: 3 weapon_rocketlauncher
+1338288218|Item: 5 ammo_rockets
+1338288218|Item: 2 item_armor_shard
+1338288218|Item: 4 weapon_plasmagun
+1338288219|Item: 2 item_armor_shard
+1338288219|Item: 2 item_armor_shard
+1338288220|Item: 3 ammo_rockets
+1338288221|Item: 5 item_health
+1338288221|Kill: 5 4 23: dennis killed Enrique by MOD_NAIL
+1338288221|PlayerScore: 5 11: dennis now has 11 points
+1338288221|Challenge: 5 212 1: Client 5 got award 212
+1338288221|Challenge: 5 1 1: Client 5 got award 1
+1338288221|Challenge: 4 2 1: Client 4 got award 2
+1338288221|Item: 5 weapon_plasmagun
+1338288222|Item: 2 item_armor_shard
+1338288222|Item: 5 item_health
+1338288222|Item: 2 item_armor_shard
+1338288222|Kill: 2 3 7: Gerb killed Tamas by MOD_ROCKET_SPLASH
+1338288222|PlayerScore: 2 13: Gerb now has 13 points
+1338288222|Challenge: 2 205 1: Client 2 got award 205
+1338288222|Challenge: 2 1 1: Client 2 got award 1
+1338288222|Challenge: 3 2 1: Client 3 got award 2
+1338288223|Item: 4 ammo_cells
+1338288223|Item: 5 weapon_plasmagun
+1338288224|Item: 4 weapon_shotgun
+1338288224|Item: 2 weapon_rocketlauncher
+1338288224|Kill: 5 2 23: dennis killed Gerb by MOD_NAIL
+1338288224|PlayerScore: 5 12: dennis now has 12 points
+1338288224|Challenge: 5 212 1: Client 5 got award 212
+1338288224|Challenge: 5 1 1: Client 5 got award 1
+1338288224|Challenge: 2 2 1: Client 2 got award 2
+1338288225|Kill: 2 5 6: Gerb killed dennis by MOD_ROCKET
+1338288225|PlayerScore: 2 14: Gerb now has 14 points
+1338288225|Challenge: 2 205 1: Client 2 got award 205
+1338288225|Challenge: 2 1 1: Client 2 got award 1
+1338288225|Challenge: 5 2 1: Client 5 got award 2
+1338288225|Award: 2 1: Gerb gained the EXCELLENT award!
+1338288225|Challenge: 2 302 1: Client 2 got award 302
+1338288228|Item: 2 weapon_grenadelauncher
+1338288229|Item: 3 weapon_rocketlauncher
+1338288229|Item: 3 weapon_nailgun
+1338288230|Kill: 4 5 1: Enrique killed dennis by MOD_SHOTGUN
+1338288230|PlayerScore: 4 15: Enrique now has 15 points
+1338288230|Exit: Fraglimit hit.
+1338288230|score: 15  ping: 3  client: 4 Enrique
+1338288230|score: 14  ping: 1  client: 2 Gerb
+1338288230|score: 14  ping: 3  client: 3 Tamas
+1338288230|score: 12  ping: 2  client: 5 dennis
+1338288230|broadcast: print "Enrique^7 hit the fraglimit.\n"
+1338288230|Challenge: 4 203 1: Client 4 got award 203
+1338288230|Challenge: 4 1 1: Client 4 got award 1
+1338288230|Challenge: 5 2 1: Client 5 got award 2
+1338288230|Item: 3 weapon_nailgun
+1338288237|broadcast: print "Gerb^7 disconnected\n"
+1338288237|Playerstore: Stored player with guid: 7A788D51E4ED819681A5D70F9CF0BBFB in 0
+1338288237|ClientDisconnect: 2
+1338288237|==== ShutdownGame ====
+1338288237|ShutdownGame:
+1338288237|------------------------------------------------------------
+1338288237|AAS shutdown.
+1338288237|------ Server Initialization ------
+1338288237|Server: dm6ish
+1338288237|Hunk_Clear: reset the hunk ok
+1338288237|----- FS_Startup -----
+1338288237|Current search path:
+1338288237|/home/jeroen/.openarena/baseoa
+1338288237|/usr/lib/openarena-server/baseoa
+1338288237|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1338288237|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1338288237|
+1338288237|----------------------
+1338288237|5433 files in pk3 files
+1338288237|Loading vm file vm/qagame.qvm...
+1338288237|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1338288237|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1338288237|... trying pak6-patch088/qagame
+1338288237|... trying qagame
+1338288237|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1338288237|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1338288237|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f0062f73ab6
+1338288237|------- Gam
