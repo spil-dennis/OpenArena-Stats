@@ -1,5 +1,4 @@
 <?php
-ini_set('display_errors', 'on');
 
 class oaStatistics {
     private $logPath = 'logfiles/';
@@ -8,6 +7,8 @@ class oaStatistics {
     private $unknownTypes = array();
     private $currentGame = array();
     private $regenerate = false;
+    public $logFileCount = 0;
+    public $gameCount = 0;
 
     public $gameTypes = array(
             0 => 'GT_FFA',						// Deathmatch
@@ -106,40 +107,42 @@ class oaStatistics {
     	
     	if(!file_exists($this->logPath)) {
     		$msg = "Log Path doesn't exist : ".$logPath;
-    		echo $msg."\n";
+    		if(!$this->silent) echo $msg."\n";
     		throw Exception($msg);    		
     	}
     	if(!file_exists($this->gamePath)) {
     		$msg = "Game Path doesn't exist : ".$logPath;
-    		echo $msg."\n";
+    		if(!$this->silent) echo $msg."\n";
     		throw Exception($msg);
     	}
     	 
     }
 
-    public function process($minDate = false, $regenerate = false) {
+    public function process($minDate = false, $options = array()) {
         $dir = dir($this->logPath);
         
         if($minDate) {
         	$minTimestamp = strtotime($minDate.' 00:00:00');
         }
         
-        $this->regenerate = $regenerate ? true : false;
+        $this->regenerate = @$options['regenerate'] ? true : false;
+        $this->silent = @$options['silent'] ? true : false;
         
         while($entry = $dir->read()) {
             if(preg_match("/^openarena_(\d+-\d+-\d+)\.log/", $entry, $match)) {
             	
-            	if($minDate && $minTimestamp >= strtotime($match[1].' 00:00:00')) {
+            	if($minDate && $minTimestamp > strtotime($match[1].' 00:00:00')) {
             		continue;
             	}
             	
+            	$this->logfileCount++;
                 $this->parseLog($entry, $match[1]);
             }
         }
     }
 
     private function parseLog($entry, $date) {
-        echo "Parsing ".$entry."\n";
+        if(!$this->silent) echo "Parsing ".$entry."\n";
 
         $this->playerMap = array();
         $f = fopen($this->logPath.'/'.$entry, 'r');
@@ -186,13 +189,23 @@ class oaStatistics {
      */
     private function setCurrentGame($data, $timestamp) {
     	if(!$this->regenerate && file_exists($this->getGameFilename($timestamp))) {
-    	//	echo "Skipping game ".$this->getGameFilename($timestamp)."\n";
+    	//	if(!$this->silent) echo "Skipping game ".$this->getGameFilename($timestamp)."\n";
     		$this->currentGame = array();
     		$this->playerMap = array();
     		return;
     	} else {
-    		echo "Processing game ".$timestamp."\n";
+    		if(!$this->silent) echo "Processing game ".$timestamp."\n";
     	}
+    	
+    	$this->gameCount++;
+    	
+    	// If game has no end after 4 hours, write a file..
+    	if(count($this->currentGame) && $timestamp < (time()-14400)) {
+    		
+    		$file = $this->getGameFilename($this->currentGame['timestamp']);
+    		$this->finishCurrentGame('No end detected.', $timestamp);
+    	}
+    	
         $this->currentGame = array('timestamp' => $timestamp, 'start' => 0, 'map' => 'unknown', 'type' => 'unknown', 'players' => array(), 'score' => array(), 'kills' => array(), 'awards' => array(), 'CTF' => array());
         $this->playerMap = array();
 
@@ -233,7 +246,7 @@ class oaStatistics {
         }
 
         if(!isset($this->currentGame['start'])) {
-            echo  "no game start ".$this->lineCount."\n";
+            if(!$this->silent) echo  "no game start ".$this->lineCount."\n";
         }
         $this->currentGame['duration']=$timestamp - $this->currentGame['start'];
 
@@ -248,9 +261,15 @@ class oaStatistics {
         
         $file = $this->getGameFilename($this->currentGame['timestamp']);
         
-        file_put_contents($file, "<?php\n\$games[".$this->currentGame['timestamp']."]=".var_export($this->currentGame, true).";\n");
+        if($data == 'No end detected.') {
+        	$comment = "/* Game not properly ended. Data not used.\n\n";
+        } else {
+        	$comment = "";
+        }
         
-        echo "Saved ".$file."\r\n";
+        file_put_contents($file, "<?php\n$comment\$games[".$this->currentGame['timestamp']."]=".var_export($this->currentGame, true).";\n");
+        
+        if(!$this->silent) echo "Saved ".$file."\r\n";
         
         $this->currentGame = array();
         $this->playerMap = array();
@@ -314,7 +333,8 @@ class oaStatistics {
     		$this->currentGame['start']=$timestamp;
     	}
     	
-    	$id = $this->playerMap[trim($data)];
+    	$id = @$this->playerMap[trim($data)];
+    	if(!$id) return;
     	
     	// Just continue if we had no end but we're already started.
     	if($this->currentGame['players'][$id]['start'] && !$this->currentGame['players'][$id]['end']) return;
@@ -329,7 +349,8 @@ class oaStatistics {
     private function playerEnd($data, $timestamp) {
     	if(!count($this->currentGame)) return;
     	
-        $id = $this->playerMap[trim($data)];
+        $id = @$this->playerMap[trim($data)];
+        if(!$id) return;
         
         // Prevent ending twice if the player is already ended or ending if not started..
         if(!$this->currentGame['players'][$id]['start'] || $this->currentGame['players'][$id]['end']) return;
@@ -534,12 +555,16 @@ foreach($argv as $arg) {
 		$minDate = $arg;
 	}
 	
+	$options = array();
 	if($arg == '-r') {
-		$regen = true;
+		$options['regenerate'] = true;
+	}
+	if($arg == '-s') {
+		$options['silent'] = true;
 	}
 }
 
 
-$stats->process($minDate, $regen);
+$stats->process($minDate, $options);
 
 ?>
