@@ -1,166 +1,67 @@
-<?php include('stats.php');
-    $curr_player = isset($_GET['player']) ? $_GET['player'] : 'All';
+<?php
+//ini_set('display_errors', 'on');
+// Parse todays logs
+	$argv = array('-s','-r',date('Y-m-d'));
+	$s = microtime(true);
+	include('oaStatistics.php');
+	$e = microtime(true)-$s;
+	
+	include('oaAggregate.php');
 
-    if ( $curr_player == 'All' ) {
-        $allstats = array();
-        $max_kill_streak = 0;
-        $max_death_streak = 0;
-        foreach ( $stats as $player ) {
-            foreach ( $player as $stat => $data ) {
-                foreach ( $data as $key => $value ) {
-                    @$allstats[$stat][$key] += $value;
-                }
-            }
 
-            if ( $player['KILLS']['Kill streak'] > $max_kill_streak ) {
-                $max_kill_streak = $player['KILLS']['Kill streak'];
-            }
-            if ( $player['KILLS']['Death streak'] > $max_death_streak ) {
-                $max_death_streak = $player['KILLS']['Death streak'];
-            }
-        }
+	$players = array_unique(array_values(oaMapper::$playermap));
+	
+	$argv = array('-s','-r',date('Y-m-d'));
+	
+	$log = array('parsedfiles' => $stats->logFileCount, 'gamesparsed' => $stats->gameCount, 'time' => round($e,3));
+	
 
-        $allstats['KILLS']['Ratio'] = number_format($allstats['KILLS']['Frags'] / ($allstats['KILLS']['Deaths']), 2);
-        $allstats['KILLS']['Kill streak'] = $max_kill_streak;
-        $allstats['KILLS']['Death streak'] = $max_death_streak;
-	    $allstats['KILLS']['Position'] = 'N/A';
-        $stats['All'] = $allstats;
+	$weeks = array(date('W') => $t=mktime(0,0,0,date('m'), date('d')-date('N')+1, date('Y')));
+	for($i=0; $i<16; $i++) {
+		$t=($t - 86400*7);
+		$w=date('W', $t);
+		$weeks[$w] = $t;
+	}
+	
+	if(is_numeric($_GET['start']) && is_numeric($_GET['end'])) {
+		$start = $_GET['start'];
+		$end = $_GET['end'];
+		$queryStart = '&start='.$start.'&end='.$end;
+	} elseif($_GET['start'] == 'alltime') {
+		$start = 0;
+		$end = date('Ymd');
+		$queryStart = '&start=alltime';
+	} else {
+		$_GET['start'] = '4weeks';
+		$start = date('Ymd', time()-(28*86400));
+		$end = date('Ymd');
+		$queryStart = '&start=4weeks';
+	}
+	
+	
+	if(isset($_GET['player']) && in_array($_GET['player'], oaMapper::$playermap)) {
+		$currentPlayer = $_GET['player'];
+		$queryPlayer = "&player=".$currentPlayer;
+	} else {
+		$currentPlayer = false;
+		$queryPlayer = "";
+	}
+	
+	$aggregator = new oaAggregate(array('start'=>$start, 'end'=>$end));
 
-        // Sort awards
-        arsort($stats['All']['AWARDS']);
+	$s = microtime(true);
+	$stats = $aggregator->process();
+	$e = microtime(true)-$s;
+	
+	
+	$log['processtime'] = round($e,3);
+	$log['gamesprocessed'] = $aggregator->gameCount();
+	
 
-        // Sort weapons
-        arsort($stats['All']['WEAPONS']);
-
-        // Sort victims
-        arsort($stats['All']['VICTIMS']);
-
-        // Sort enemies
-        arsort($stats['All']['ENEMIES']);
-    } else {
-        $stats['All'] = array();
-    }
-?>
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>OpenArena :: Statistics</title>
-    <link rel="stylesheet" href="/css/reset.css">
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-
-    <div id="wrapper">
-
-        <div id="main">
-        <header>
-            <h1>OpenArena Statistics</h1>
-            <?php if (isset($curr_player) && array_key_exists($curr_player, $stats)) : ?>
-                <h2><?php echo $curr_player; ?></h2>
-            <?php else: ?>
-                <h2>&nbsp;</h2>
-            <?php endif; ?>
-            <nav>
-                <?php foreach ($stats as $name => $info) : ?>
-                    <?php if (isset($curr_player) && $name == $curr_player) : ?>
-                    <a href="?player=<?php echo $name; ?>" class="active"><?php echo $name; ?></a>
-                    <?php else: ?>
-                    <a href="?player=<?php echo $name; ?>"><?php echo $name; ?></a>
-                    <?php endif; ?>
-                <?php endforeach; ?>
-            </nav>
-        </header>
-
-        <?php if (isset($curr_player) && array_key_exists($curr_player, $stats)) : ?>
-        <div id="content">
-            <section id="kill">
-                <div id="kills">
-                    <h3>Kill stats</h3>
-                    <table>
-                    <?php
-                    foreach($stats[$curr_player]['KILLS'] as $stat => $amount) {
-                        echo '<tr><td class="stat">'. $stat .'</td><td>'. $amount .'</td></tr>';
-                    }
-                    ?>
-                    </table>
-                </div>
-                <div id="victims">
-                    <h3>You killed</h3>
-                    <table>
-                    <?php
-                    foreach($stats[$curr_player]['VICTIMS'] as $victim => $amount) {
-                        echo '<tr><td class="stat">'. $victim .'</td><td>'. $amount .'</td></tr>';
-                    }
-                    ?>
-                    </table>
-                </div>
-                <div id="enemies">
-                    <h3>Killed by</h3>
-                    <table>
-                    <?php
-                    foreach($stats[$curr_player]['ENEMIES'] as $enemy => $amount) {
-                        echo '<tr><td class="stat">'. $enemy .'</td><td>'. $amount .'</td></tr>';
-                    }
-                    ?>
-                    </table>
-                </div>
-                <div id="weapons">
-                    <h3>Weapons</h3>
-                    <table>
-                    <?php
-                    foreach($stats[$curr_player]['WEAPONS'] as $weapon => $amount) {
-                        if($amount > 0) {
-                            echo '<tr><td class="stat">'. $weapon .'</td><td>'. $amount .'</td></tr>';
-                        }
-                    }
-                    ?>
-                    </table>
-                </div>
-            </section>
-
-            <section id="awards">
-                <h3>Awards</h3>
-                <div><img src="/images/excellent.png" alt="Awarded when the player gains two frags within two seconds." title="Awarded when the player gains two frags within two seconds." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Excellent'])) ? $stats[$curr_player]['AWARDS']['Excellent'] : 0; ?></span></div>
-                <div><img src="/images/impressive.png" alt="Awarded when the player achieves two consecutive hits with the railgun." title="Awarded when the player achieves two consecutive hits with the railgun." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Impressive'])) ? $stats[$curr_player]['AWARDS']['Impressive'] : 0; ?></span></div>
-                <div><img src="/images/gauntlet.png" alt="Awarded when the player successfully frags someone with the gauntlet." title="Awarded when the player successfully frags someone with the gauntlet." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Gauntlet'])) ? $stats[$curr_player]['AWARDS']['Gauntlet'] : 0; ?></span></div>
-                <div><img src="/images/capture.jpg" alt="Awarded when the player captures the flag." title="Awarded when the player captures the flag." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Capture'])) ? $stats[$curr_player]['AWARDS']['Capture'] : 0; ?></span></div>
-                <div><img src="/images/assist.jpg" alt="Awarded when player returns the flag within ten seconds before a teammate makes a capture." title="Awarded when player returns the flag within ten seconds before a teammate makes a capture." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Assist'])) ? $stats[$curr_player]['AWARDS']['Assist'] : 0; ?></span></div>
-                <div><img src="/images/defence.jpg" alt="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." title="Awarded when the player kills an enemy that was inside his base, or was hitting a team-mate that was carrying the flag." width="65" height="65" /><span><?php echo (isset($stats[$curr_player]['AWARDS']['Defence'])) ? $stats[$curr_player]['AWARDS']['Defence'] : 0; ?></span></div>
-            </section>
-
-            <section id="ctf">
-                <h3>CTF</h3>
-                <table>
-                    <?php
-                    foreach($stats[$curr_player]['CTF'] as $stat => $amount) {
-                        echo '<tr><td class="stat">'. $stat .'</td><td>'. $amount .'</td></tr>';
-                    }
-                    ?>
-                </table>
-            </section>
-
-            <section id="ctf">
-                <h3>Fraglimit Rankings (non-ctf)</h3>
-                <table>
-                    <?php
-		            ksort($stats[$curr_player]['RANKINGS']);
-                    foreach($stats[$curr_player]['RANKINGS'] as $position => $count) {
-                        echo '<tr><td class="stat">'. ($position+1) .'</td><td>'. $count .'</td></tr>';
-                    }
-                    ?>
-                </table>
-            </section>
-
-        </div>
-        <?php else: ?>
-            <div id="select"><p>Select a player from the list above to see his/her statistics.</p></div>
-        <?php endif; ?>
-        </div>
-
-    </div>
-
-    <footer><p>Parsed <?php echo count($logfiles); ?> logfiles (<?php echo round($size/1024, 1); ?> Kb) in <?php echo number_format($totaltime, 2); ?> seconds.</p></footer>
-
-</body>
-</html>
+	
+	if(is_string($_GET['player']) && array_key_exists($_GET['player'], $stats)) {
+		$player = $_GET['player'];
+		include('views/player.php');	
+	} else {
+		include('views/overview.php');
+	}

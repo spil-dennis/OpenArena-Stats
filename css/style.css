@@ -16,6 +16,18 @@ h1,h2,h3,h4,h5,h6 {
     font-family: Helvetica;
 }
 
+.highlight {
+	font-weight : bold;
+}
+
+th {
+	font-size: 16px;
+	text-align : left;
+	font-weight: bold;
+	padding : 5px;
+	margin : 10px;
+}
+
 h1 {
     font-size: 20px;
     margin-bottom: 10px;
@@ -41,6 +53,15 @@ nav {
     border-bottom: 1px solid #333;
 }
 
+nav#nav_date {
+	border-bottom: 0;
+	margin-bottom: 0;
+}
+
+nav#nav_player {
+	margin-top : 0;
+}
+
 nav > a {
     color: #333;
     text-decoration: none;
@@ -54,7 +75,7 @@ nav > a.active {
 }
 
 #wrapper {
-    width: 800px;
+    width: 900px;
     margin: 0 auto;
     min-height: 100%;
 }
@@ -73,49 +94,45 @@ nav > a.active {
 }
 
 section {
-    width: 750px;
+    width: 900px;
     margin: 10px auto;
     padding-bottom: 10px;
     border-bottom: 1px solid #333;
 }
 
-section#kill {
+section.kill {
     text-align: center;
 }
 
-section#kill > div {
+section.kill > div {
     text-align: left;
     display: inline-block;
     margin: 0 10px;
-}
-
-section#kill > div > h3 {
-    text-align: center;
-    margin: 0 0 10px;
-}
-
-section#kill > #victims {
-    padding: 0 20px;
-    border-left: 1px solid #DDD;
-    border-right: 1px solid #DDD;
-}
-
-section#kill > #enemies {
     padding: 0 20px 0 0;
     border-right: 1px solid #DDD;
 }
 
-section#kill td {
+section.kill > div.right {
+	border-right : none;
+	padding : none;
+}
+
+section.kill > div > h3 {
+    text-align: center;
+    margin: 0 0 10px;
+}
+
+section.kill td {
     border-bottom: 1px solid #DDD;
     line-height: 15px;
     padding: 5px;
 }
 
-section#kill tr:last-child td {
+section.kill tr:last-child td {
     border-bottom: none;
 }
 
-section#kill td.stat {
+section.kill td.stat {
     width: 75px;
     font-weight: bold;
 }
