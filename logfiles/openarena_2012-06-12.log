@@ -1,0 +1,170 @@
+1339497682|Client 0 connecting with 0 challenge ping
+1339497682|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339497682|ClientConnect: 2
+1339497682|broadcast: print "Gerb^7 connected\n"
+1339497686|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339497686|ClientBegin: 2
+1339497689|ClientUserinfoChanged: 2 n\Gerb\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339497689|ClientUserinfoChanged: 2 n\Gerb\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1339497689|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1339497689|Item: 2 weapon_shotgun
+1339497689|broadcast: print "Gerb^7 entered the game\n"
+1339497689|ClientBegin: 2
+1339497692|Item: 2 weapon_railgun
+1339497706|Item: 2 ammo_bullets
+1339497710|Item: 2 team_CTF_redflag
+1339497710|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497710|CTF: 2 1 0: Gerb got the RED flag!
+1339497710|PlayerScore: 2 0: Gerb now has 0 points
+1339497715|Item: 2 item_armor_combat
+1339497724|Item: 2 weapon_rocketlauncher
+1339497730|Item: 2 team_CTF_blueflag
+1339497730|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497730|CTF: 2 1 1: Gerb captured the RED flag!
+1339497730|Award: 2 4: Gerb gained the CAPTURE award!
+1339497730|PlayerScore: 2 5: Gerb now has 5 points
+1339497733|Item: 2 item_armor_combat
+1339497738|Item: 2 item_health_mega
+1339497743|Item: 2 item_armor_combat
+1339497745|Item: 2 team_CTF_redflag
+1339497745|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497745|CTF: 2 1 0: Gerb got the RED flag!
+1339497745|PlayerScore: 2 5: Gerb now has 5 points
+1339497757|Item: 2 weapon_railgun
+1339497765|Item: 2 team_CTF_blueflag
+1339497765|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497765|CTF: 2 1 1: Gerb captured the RED flag!
+1339497765|Award: 2 4: Gerb gained the CAPTURE award!
+1339497765|PlayerScore: 2 10: Gerb now has 10 points
+1339497770|Item: 2 item_armor_combat
+1339497788|Item: 2 team_CTF_redflag
+1339497788|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497788|CTF: 2 1 0: Gerb got the RED flag!
+1339497788|PlayerScore: 2 10: Gerb now has 10 points
+1339497791|Item: 2 item_armor_combat
+1339497796|Item: 2 item_health_mega
+1339497800|Item: 2 weapon_railgun
+1339497803|Item: 2 team_CTF_blueflag
+1339497803|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497803|CTF: 2 1 1: Gerb captured the RED flag!
+1339497803|Award: 2 4: Gerb gained the CAPTURE award!
+1339497803|PlayerScore: 2 15: Gerb now has 15 points
+1339497812|Item: 2 ammo_rockets
+1339497823|Item: 2 ammo_bullets
+1339497827|Item: 2 team_CTF_redflag
+1339497827|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497827|CTF: 2 1 0: Gerb got the RED flag!
+1339497827|PlayerScore: 2 15: Gerb now has 15 points
+1339497830|Item: 2 item_armor_combat
+1339497835|Item: 2 item_health_mega
+1339497839|Item: 2 weapon_railgun
+1339497843|Item: 2 team_CTF_blueflag
+1339497843|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497843|CTF: 2 1 1: Gerb captured the RED flag!
+1339497843|Award: 2 4: Gerb gained the CAPTURE award!
+1339497843|PlayerScore: 2 20: Gerb now has 20 points
+1339497854|Item: 2 weapon_railgun
+1339497858|Item: 2 team_CTF_redflag
+1339497858|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497858|CTF: 2 1 0: Gerb got the RED flag!
+1339497858|PlayerScore: 2 20: Gerb now has 20 points
+1339497877|Item: 2 weapon_rocketlauncher
+1339497879|Item: 2 item_armor_shard
+1339497879|Item: 2 item_armor_shard
+1339497879|Item: 2 item_armor_shard
+1339497879|Item: 2 item_armor_shard
+1339497882|Item: 2 ammo_shells
+1339497887|Item: 2 team_CTF_blueflag
+1339497887|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497887|CTF: 2 1 1: Gerb captured the RED flag!
+1339497887|Award: 2 4: Gerb gained the CAPTURE award!
+1339497887|PlayerScore: 2 25: Gerb now has 25 points
+1339497892|Item: 2 item_armor_combat
+1339497896|Item: 2 item_health_mega
+1339497900|Item: 2 weapon_railgun
+1339497904|Item: 2 team_CTF_redflag
+1339497904|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497904|CTF: 2 1 0: Gerb got the RED flag!
+1339497904|PlayerScore: 2 25: Gerb now has 25 points
+1339497913|Item: 2 ammo_rockets
+1339497926|Item: 2 team_CTF_blueflag
+1339497926|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497926|CTF: 2 1 1: Gerb captured the RED flag!
+1339497926|Award: 2 4: Gerb gained the CAPTURE award!
+1339497926|PlayerScore: 2 30: Gerb now has 30 points
+1339497929|Item: 2 item_armor_combat
+1339497933|Item: 2 item_health_mega
+1339497938|Item: 2 weapon_railgun
+1339497941|Item: 2 team_CTF_redflag
+1339497941|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497941|CTF: 2 1 0: Gerb got the RED flag!
+1339497941|PlayerScore: 2 30: Gerb now has 30 points
+1339497952|Item: 2 weapon_railgun
+1339497956|Item: 2 team_CTF_blueflag
+1339497956|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497956|CTF: 2 1 1: Gerb captured the RED flag!
+1339497956|Award: 2 4: Gerb gained the CAPTURE award!
+1339497956|PlayerScore: 2 35: Gerb now has 35 points
+1339497967|Item: 2 weapon_railgun
+1339497971|Item: 2 team_CTF_redflag
+1339497971|broadcast: print "Gerb^7 got the RED flag!\n"
+1339497971|CTF: 2 1 0: Gerb got the RED flag!
+1339497971|PlayerScore: 2 35: Gerb now has 35 points
+1339497978|Item: 2 item_health_mega
+1339497982|Item: 2 weapon_railgun
+1339497990|Item: 2 team_CTF_blueflag
+1339497990|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339497990|CTF: 2 1 1: Gerb captured the RED flag!
+1339497990|Award: 2 4: Gerb gained the CAPTURE award!
+1339497990|PlayerScore: 2 40: Gerb now has 40 points
+1339497992|Item: 2 item_armor_combat
+1339498001|Item: 2 weapon_railgun
+1339498004|Item: 2 team_CTF_redflag
+1339498004|broadcast: print "Gerb^7 got the RED flag!\n"
+1339498004|CTF: 2 1 0: Gerb got the RED flag!
+1339498004|PlayerScore: 2 40: Gerb now has 40 points
+1339498017|Item: 2 weapon_railgun
+1339498020|Item: 2 team_CTF_blueflag
+1339498020|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339498020|CTF: 2 1 1: Gerb captured the RED flag!
+1339498020|Award: 2 4: Gerb gained the CAPTURE award!
+1339498020|PlayerScore: 2 45: Gerb now has 45 points
+1339498027|Item: 2 item_health_mega
+1339498031|Item: 2 weapon_railgun
+1339498035|Item: 2 team_CTF_redflag
+1339498035|broadcast: print "Gerb^7 got the RED flag!\n"
+1339498035|CTF: 2 1 0: Gerb got the RED flag!
+1339498035|PlayerScore: 2 45: Gerb now has 45 points
+1339498046|Item: 2 weapon_railgun
+1339498050|Item: 2 team_CTF_blueflag
+1339498050|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339498050|CTF: 2 1 1: Gerb captured the RED flag!
+1339498050|Award: 2 4: Gerb gained the CAPTURE award!
+1339498050|PlayerScore: 2 50: Gerb now has 50 points
+1339498062|Item: 2 weapon_railgun
+1339498069|Item: 2 team_CTF_redflag
+1339498069|broadcast: print "Gerb^7 got the RED flag!\n"
+1339498069|CTF: 2 1 0: Gerb got the RED flag!
+1339498069|PlayerScore: 2 50: Gerb now has 50 points
+1339498072|Item: 2 item_armor_combat
+1339498077|Item: 2 item_health_mega
+1339498081|Item: 2 weapon_railgun
+1339498084|Item: 2 team_CTF_blueflag
+1339498084|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339498084|CTF: 2 1 1: Gerb captured the RED flag!
+1339498084|Award: 2 4: Gerb gained the CAPTURE award!
+1339498084|PlayerScore: 2 55: Gerb now has 55 points
+1339498099|Item: 2 weapon_railgun
+1339498102|Item: 2 team_CTF_redflag
+1339498102|broadcast: print "Gerb^7 got the RED flag!\n"
+1339498102|CTF: 2 1 0: Gerb got the RED flag!
+1339498102|PlayerScore: 2 55: Gerb now has 55 points
+1339498120|Item: 2 team_CTF_blueflag
+1339498120|broadcast: print "Gerb^7 captured the RED flag!\n"
+1339498120|CTF: 2 1 1: Gerb captured the RED flag!
+1339498120|Award: 2 4: Gerb gained the CAPTURE award!
+1339498120|PlayerScore: 2 60: Gerb now has 60 points
+1339498127|Item: 2 item_health_mega
+1339498131|Item: 2 weapon_railgun
+1339498135|Item: 2 team_CTF_redflag
+13394981

@@ -1,0 +1,1726 @@
+1340101086|Client 0 connecting with 0 challenge ping
+1340101086|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340101086|ClientConnect: 2
+1340101086|broadcast: print "TT^7 connected\n"
+1340101088|ClientUserinfoChanged: 2 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340101088|ClientBegin: 2
+1340101091|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1340101091|ClientUserinfoChanged: 2 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\0FF9D843C712925CF1023CDDE010CD83
+1340101091|Restored player with guid: 0FF9D843C712925CF1023CDDE010CD83
+1340101091|broadcast: print "TT^7 entered the game\n"
+1340101091|ClientBegin: 2
+1340101094|Item: 2 weapon_railgun
+1340101097|Item: 2 item_armor_combat
+1340101097|Item: 2 weapon_nailgun
+1340101104|Item: 2 item_health_mega
+1340101112|Item: 2 team_CTF_blueflag
+1340101112|broadcast: print "TT^7 got the BLUE flag!\n"
+1340101112|CTF: 2 2 0: TT got the BLUE flag!
+1340101112|PlayerScore: 2 6: TT now has 6 points
+1340101128|broadcast: print "TT^7 disconnected\n"
+1340101128|Kill: 1022 2 20: <world> killed TT by MOD_SUICIDE
+1340101128|PlayerScore: 2 5: TT now has 5 points
+1340101128|broadcast: print "The BLUE flag has returned!\n"
+1340101128|Playerstore: Stored player with guid: 0FF9D843C712925CF1023CDDE010CD83 in 1
+1340101128|ClientDisconnect: 2
+1340102592|Client 0 connecting with 0 challenge ping
+1340102592|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340102592|ClientConnect: 2
+1340102592|broadcast: print "Gerb^7 connected\n"
+1340102595|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340102595|ClientUserinfoChanged: 2 n\Gerb\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340102595|ClientBegin: 2
+1340102599|Client 1 connecting with 0 challenge ping
+1340102599|ClientUserinfoChanged: 3 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340102599|ClientConnect: 3
+1340102599|broadcast: print "Tamas^7 connected\n"
+1340102600|ClientUserinfoChanged: 2 n\Gerb\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340102600|ClientUserinfoChanged: 2 n\Gerb\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340102600|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1340102600|broadcast: print "Gerb^7 entered the game\n"
+1340102600|ClientBegin: 2
+1340102600|ClientUserinfoChanged: 3 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340102600|ClientBegin: 3
+1340102600|Client 2 connecting with 40 challenge ping
+1340102600|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340102600|ClientConnect: 4
+1340102600|broadcast: print "Enrique^7 connected\n"
+1340102600|Client 3 connecting with 0 challenge ping
+1340102600|ClientUserinfoChanged: 5 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340102600|ClientConnect: 5
+1340102600|broadcast: print "TT^7 connected\n"
+1340102601|Item: 2 weapon_rocketlauncher
+1340102602|ClientUserinfoChanged: 5 n\TT\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340102602|ClientBegin: 5
+1340102602|ClientUserinfoChanged: 4 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340102602|ClientBegin: 4
+1340102603|ClientUserinfoChanged: 3 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1340102603|ClientUserinfoChanged: 3 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1340102603|Restored player with guid: 913EEAB8EE1A36416CB417D6374CFB07
+1340102603|broadcast: print "Tamas^7 entered the game\n"
+1340102603|ClientBegin: 3
+1340102604|ClientUserinfoChanged: 5 n\TT\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340102604|Restored player with guid: 0FF9D843C712925CF1023CDDE010CD83
+1340102604|broadcast: print "TT^7 entered the game\n"
+1340102604|ClientBegin: 5
+1340102605|Item: 2 item_armor_shard
+1340102605|Client 4 connecting with 0 challenge ping
+1340102605|ClientUserinfoChanged: 6 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340102605|ClientConnect: 6
+1340102605|broadcast: print "Rolph^7 connected\n"
+1340102605|Item: 2 item_armor_shard
+1340102605|Item: 3 weapon_railgun
+1340102605|ClientUserinfoChanged: 4 n\Enrique\t\2\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340102605|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1340102605|broadcast: print "Enrique^7 entered the game\n"
+1340102605|ClientBegin: 4
+1340102605|Item: 2 item_armor_shard
+1340102606|Item: 2 item_armor_shard
+1340102606|Item: 2 weapon_plasmagun
+1340102608|ClientUserinfoChanged: 6 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340102608|ClientBegin: 6
+1340102608|Item: 3 weapon_rocketlauncher
+1340102610|Item: 5 item_armor_combat
+1340102611|Item: 5 weapon_nailgun
+1340102611|ClientUserinfoChanged: 6 n\Rolph\t\2\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340102611|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1340102611|broadcast: print "Rolph^7 entered the game\n"
+1340102611|ClientBegin: 6
+1340102613|Item: 3 weapon_plasmagun
+1340102613|Item: 6 item_armor_combat
+1340102614|Item: 6 weapon_nailgun
+1340102615|Item: 3 team_CTF_redflag
+1340102615|broadcast: print "Tamas^7 got the RED flag!\n"
+1340102615|CTF: 3 1 0: Tamas got the RED flag!
+1340102615|PlayerScore: 3 0: Tamas now has 0 points
+1340102616|Kill: 2 3 8: Gerb killed Tamas by MOD_PLASMA
+1340102616|PlayerScore: 2 1: Gerb now has 1 points
+1340102616|Challenge: 2 207 1: Client 2 got award 207
+1340102616|Challenge: 2 1 1: Client 2 got award 1
+1340102616|Challenge: 3 2 1: Client 3 got award 2
+1340102616|PlayerScore: 2 3: Gerb now has 3 points
+1340102616|broadcast: print "Gerb^7 fragged BLUE's flag carrier!\n"
+1340102616|CTF: 2 2 3: Gerb fragged BLUE's flag carrier!
+1340102616|Item: 5 weapon_plasmagun
+1340102616|Item: 5 team_CTF_redflag
+1340102616|broadcast: print "TT^7 returned the RED flag!\n"
+1340102616|PlayerScore: 5 6: TT now has 6 points
+1340102616|CTF: 5 1 2: TT returned the RED flag!
+1340102619|Item: 3 weapon_rocketlauncher
+1340102620|Item: 6 item_health_mega
+1340102620|Kill: 6 2 23: Rolph killed Gerb by MOD_NAIL
+1340102620|PlayerScore: 6 1: Rolph now has 1 points
+1340102620|Challenge: 6 212 1: Client 6 got award 212
+1340102620|Challenge: 6 1 1: Client 6 got award 1
+1340102620|Challenge: 2 2 1: Client 2 got award 2
+1340102622|Item: 6 weapon_rocketlauncher
+1340102622|Item: 5 weapon_rocketlauncher
+1340102623|Item: 3 item_armor_shard
+1340102624|Item: 5 item_health_small
+1340102624|Item: 3 item_armor_shard
+1340102624|Item: 3 item_armor_shard
+1340102625|Item: 3 item_armor_shard
+1340102629|Kill: 6 2 23: Rolph killed Gerb by MOD_NAIL
+1340102629|PlayerScore: 6 2: Rolph now has 2 points
+1340102629|Challenge: 6 212 1: Client 6 got award 212
+1340102629|Challenge: 6 1 1: Client 6 got award 1
+1340102629|Challenge: 2 2 1: Client 2 got award 2
+1340102630|Item: 5 ammo_nails
+1340102631|Item: 4 weapon_shotgun
+1340102631|Item: 6 weapon_nailgun
+1340102632|Item: 3 weapon_nailgun
+1340102633|Item: 2 weapon_rocketlauncher
+1340102634|Item: 5 team_CTF_blueflag
+1340102634|broadcast: print "TT^7 got the BLUE flag!\n"
+1340102634|CTF: 5 2 0: TT got the BLUE flag!
+1340102634|PlayerScore: 5 6: TT now has 6 points
+1340102635|Item: 2 weapon_railgun
+1340102637|Item: 6 team_CTF_redflag
+1340102637|broadcast: print "Rolph^7 got the RED flag!\n"
+1340102637|CTF: 6 1 0: Rolph got the RED flag!
+1340102637|PlayerScore: 6 2: Rolph now has 2 points
+1340102638|Kill: 5 4 23: TT killed Enrique by MOD_NAIL
+1340102638|PlayerScore: 5 7: TT now has 7 points
+1340102638|Challenge: 5 212 1: Client 5 got award 212
+1340102638|Challenge: 5 1 1: Client 5 got award 1
+1340102638|Challenge: 4 2 1: Client 4 got award 2
+1340102638|PlayerScore: 5 9: TT now has 9 points
+1340102638|Challenge: 5 305 1: Client 5 got award 305
+1340102638|Award: 5 3: TT gained the DEFENCE award!
+1340102641|Item: 2 item_health_small
+1340102642|Item: 5 item_health
+1340102642|Item: 5 item_health
+1340102643|Item: 5 weapon_plasmagun
+1340102643|Item: 4 item_armor_combat
+1340102644|Item: 4 weapon_nailgun
+1340102646|Kill: 3 5 23: Tamas killed TT by MOD_NAIL
+1340102646|PlayerScore: 3 1: Tamas now has 1 points
+1340102646|Challenge: 3 212 1: Client 3 got award 212
+1340102646|Challenge: 3 1 1: Client 3 got award 1
+1340102646|Challenge: 5 2 1: Client 5 got award 2
+1340102646|PlayerScore: 3 3: Tamas now has 3 points
+1340102646|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1340102646|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1340102648|Item: 3 team_CTF_blueflag
+1340102648|broadcast: print "Tamas^7 returned the BLUE flag!\n"
+1340102648|PlayerScore: 3 4: Tamas now has 4 points
+1340102648|CTF: 3 2 2: Tamas returned the BLUE flag!
+1340102648|Item: 3 weapon_nailgun
+1340102648|Item: 3 item_health
+1340102649|Item: 6 team_CTF_blueflag
+1340102649|broadcast: print "Rolph^7 captured the RED flag!\n"
+1340102649|CTF: 6 1 1: Rolph captured the RED flag!
+1340102649|Award: 6 4: Rolph gained the CAPTURE award!
+1340102649|Challenge: 6 303 1: Client 6 got award 303
+1340102649|PlayerScore: 6 7: Rolph now has 7 points
+1340102649|PlayerScore: 3 4: Tamas now has 4 points
+1340102649|PlayerScore: 3 5: Tamas now has 5 points
+1340102649|Challenge: 3 304 1: Client 3 got award 304
+1340102649|Award: 3 5: Tamas gained the ASSIST award!
+1340102649|PlayerScore: 3 7: Tamas now has 7 points
+1340102649|Challenge: 3 304 1: Client 3 got award 304
+1340102649|Award: 3 5: Tamas gained the ASSIST award!
+1340102649|PlayerScore: 4 0: Enrique now has 0 points
+1340102649|Item: 4 item_armor_shard
+1340102649|Item: 2 item_armor_shard
+1340102649|Item: 4 item_armor_shard
+1340102650|Award: 2 2: Gerb gained the IMPRESSIVE award!
+1340102650|Challenge: 2 301 1: Client 2 got award 301
+1340102652|Kill: 6 2 23: Rolph killed Gerb by MOD_NAIL
+1340102652|PlayerScore: 6 8: Rolph now has 8 points
+1340102652|Challenge: 6 212 1: Client 6 got award 212
+1340102652|Challenge: 6 1 1: Client 6 got award 1
+1340102652|Challenge: 2 2 1: Client 2 got award 2
+1340102652|PlayerScore: 6 9: Rolph now has 9 points
+1340102652|Challenge: 6 305 1: Client 6 got award 305
+1340102652|Award: 6 3: Rolph gained the DEFENCE award!
+1340102652|Item: 4 item_armor_shard
+1340102653|Item: 6 weapon_plasmagun
+1340102653|Item: 3 weapon_railgun
+1340102653|Kill: 3 6 10: Tamas killed Rolph by MOD_RAILGUN
+1340102653|Item: 5 item_armor_combat
+1340102654|Item: 5 weapon_nailgun
+1340102656|Item: 3 weapon_nailgun
+1340102659|Item: 4 weapon_shotgun
+1340102659|Item: 5 item_health_mega
+1340102660|Item: 6 weapon_nailgun
+1340102665|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102665|PlayerScore: 4 1: Enrique now has 1 points
+1340102665|Challenge: 4 212 1: Client 4 got award 212
+1340102665|Challenge: 4 1 1: Client 4 got award 1
+1340102665|Challenge: 2 2 1: Client 2 got award 2
+1340102665|Kill: 6 5 23: Rolph killed TT by MOD_NAIL
+1340102665|PlayerScore: 6 10: Rolph now has 10 points
+1340102665|Challenge: 6 212 1: Client 6 got award 212
+1340102665|Challenge: 6 1 1: Client 6 got award 1
+1340102665|Challenge: 5 2 1: Client 5 got award 2
+1340102665|PlayerScore: 6 11: Rolph now has 11 points
+1340102665|Challenge: 6 305 1: Client 6 got award 305
+1340102665|Award: 6 3: Rolph gained the DEFENCE award!
+1340102666|Item: 4 item_health_large
+1340102666|Item: 6 weapon_nailgun
+1340102669|Item: 5 weapon_rocketlauncher
+1340102669|Item: 2 weapon_railgun
+1340102671|Item: 5 weapon_railgun
+1340102674|Item: 5 item_armor_combat
+1340102675|Item: 5 weapon_nailgun
+1340102676|Item: 6 weapon_rocketlauncher
+1340102679|Item: 3 team_CTF_redflag
+1340102679|broadcast: print "Tamas^7 got the RED flag!\n"
+1340102679|CTF: 3 1 0: Tamas got the RED flag!
+1340102679|PlayerScore: 3 7: Tamas now has 7 points
+1340102680|Item: 3 item_health
+1340102680|Item: 3 item_health
+1340102680|Item: 2 item_health
+1340102681|Item: 5 team_CTF_blueflag
+1340102681|broadcast: print "TT^7 got the BLUE flag!\n"
+1340102681|CTF: 5 2 0: TT got the BLUE flag!
+1340102681|PlayerScore: 5 9: TT now has 9 points
+1340102681|Kill: 6 2 23: Rolph killed Gerb by MOD_NAIL
+1340102681|PlayerScore: 6 12: Rolph now has 12 points
+1340102681|Challenge: 6 212 1: Client 6 got award 212
+1340102681|Challenge: 6 1 1: Client 6 got award 1
+1340102681|Challenge: 2 2 1: Client 2 got award 2
+1340102682|Item: 4 item_armor_shard
+1340102682|Item: 3 item_armor_shard
+1340102682|Item: 6 weapon_railgun
+1340102682|Item: 3 item_armor_shard
+1340102682|Item: 3 item_armor_shard
+1340102683|Item: 3 ammo_nails
+1340102684|Item: 3 item_health_small
+1340102685|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102685|PlayerScore: 4 2: Enrique now has 2 points
+1340102685|Challenge: 4 212 1: Client 4 got award 212
+1340102685|Challenge: 4 1 1: Client 4 got award 1
+1340102685|Challenge: 2 2 1: Client 2 got award 2
+1340102689|Item: 2 weapon_railgun
+1340102690|Item: 6 item_regen
+1340102690|Item: 5 weapon_railgun
+1340102691|Item: 2 weapon_rocketlauncher
+1340102692|Item: 4 item_armor_combat
+1340102692|Item: 4 item_health_large
+1340102693|Item: 3 item_armor_shard
+1340102693|Kill: 3 2 23: Tamas killed Gerb by MOD_NAIL
+1340102693|PlayerScore: 3 8: Tamas now has 8 points
+1340102693|Challenge: 3 212 1: Client 3 got award 212
+1340102693|Challenge: 3 1 1: Client 3 got award 1
+1340102693|Challenge: 2 2 1: Client 2 got award 2
+1340102693|PlayerScore: 3 9: Tamas now has 9 points
+1340102693|Challenge: 3 305 1: Client 3 got award 305
+1340102693|Award: 3 3: Tamas gained the DEFENCE award!
+1340102694|Item: 5 weapon_rocketlauncher
+1340102694|Item: 3 item_armor_shard
+1340102695|Item: 6 item_health_small
+1340102696|Kill: 5 6 23: TT killed Rolph by MOD_NAIL
+1340102696|PlayerScore: 5 10: TT now has 10 points
+1340102696|Challenge: 5 212 1: Client 5 got award 212
+1340102696|Challenge: 5 1 1: Client 5 got award 1
+1340102696|Challenge: 6 2 1: Client 6 got award 2
+1340102696|Challenge: 5 411 1: Client 5 got award 411
+1340102696|PlayerScore: 5 12: TT now has 12 points
+1340102696|Challenge: 5 305 1: Client 5 got award 305
+1340102696|Award: 5 3: TT gained the DEFENCE award!
+1340102696|Item: 4 item_health_mega
+1340102697|Item: 2 weapon_railgun
+1340102698|Item: 5 weapon_plasmagun
+1340102700|Item: 2 weapon_rocketlauncher
+1340102701|Item: 6 weapon_plasmagun
+1340102702|Item: 6 item_armor_shard
+1340102703|Item: 2 item_armor_shard
+1340102703|Kill: 6 6 9: Rolph killed Rolph by MOD_PLASMA_SPLASH
+1340102703|Item: 2 weapon_plasmagun
+1340102704|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102704|PlayerScore: 4 3: Enrique now has 3 points
+1340102704|Challenge: 4 212 1: Client 4 got award 212
+1340102704|Challenge: 4 1 1: Client 4 got award 1
+1340102704|Challenge: 2 2 1: Client 2 got award 2
+1340102704|PlayerScore: 4 5: Enrique now has 5 points
+1340102704|Award: 4 3: Enrique gained the DEFENCE award!
+1340102704|Challenge: 4 305 1: Client 4 got award 305
+1340102706|Item: 3 weapon_shotgun
+1340102707|Item: 6 item_armor_combat
+1340102707|Item: 4 weapon_rocketlauncher
+1340102708|Item: 6 weapon_nailgun
+1340102709|Item: 2 weapon_railgun
+1340102715|Item: 6 weapon_railgun
+1340102715|Item: 2 weapon_rocketlauncher
+1340102716|Item: 5 weapon_shotgun
+1340102717|Item: 6 weapon_rocketlauncher
+1340102719|Item: 5 item_health
+1340102720|Item: 5 item_health
+1340102720|Item: 6 item_regen
+1340102720|Item: 6 weapon_nailgun
+1340102721|Item: 6 item_armor_shard
+1340102721|Kill: 2 4 6: Gerb killed Enrique by MOD_ROCKET
+1340102721|PlayerScore: 2 4: Gerb now has 4 points
+1340102721|Challenge: 2 205 1: Client 2 got award 205
+1340102721|Challenge: 2 1 1: Client 2 got award 1
+1340102721|Challenge: 4 2 1: Client 4 got award 2
+1340102722|Item: 6 item_armor_shard
+1340102722|Item: 6 item_armor_shard
+1340102724|Item: 2 item_armor_shard
+1340102725|Kill: 3 2 23: Tamas killed Gerb by MOD_NAIL
+1340102725|PlayerScore: 3 10: Tamas now has 10 points
+1340102725|Challenge: 3 212 1: Client 3 got award 212
+1340102725|Challenge: 3 1 1: Client 3 got award 1
+1340102725|Challenge: 2 2 1: Client 2 got award 2
+1340102725|PlayerScore: 3 11: Tamas now has 11 points
+1340102725|Challenge: 3 305 1: Client 3 got award 305
+1340102725|Award: 3 3: Tamas gained the DEFENCE award!
+1340102725|Item: 3 item_health
+1340102727|Item: 4 weapon_rocketlauncher
+1340102730|Item: 4 weapon_rocketlauncher
+1340102730|Kill: 6 5 23: Rolph killed TT by MOD_NAIL
+1340102730|PlayerScore: 6 13: Rolph now has 13 points
+1340102730|Challenge: 6 212 1: Client 6 got award 212
+1340102730|Challenge: 6 1 1: Client 6 got award 1
+1340102730|Challenge: 5 2 1: Client 5 got award 2
+1340102730|PlayerScore: 6 15: Rolph now has 15 points
+1340102730|broadcast: print "Rolph^7 fragged RED's flag carrier!\n"
+1340102730|CTF: 6 1 3: Rolph fragged RED's flag carrier!
+1340102731|Item: 6 team_CTF_blueflag
+1340102731|broadcast: print "Rolph^7 returned the BLUE flag!\n"
+1340102731|PlayerScore: 6 16: Rolph now has 16 points
+1340102731|CTF: 6 2 2: Rolph returned the BLUE flag!
+1340102731|Item: 6 weapon_nailgun
+1340102733|Item: 4 weapon_railgun
+1340102733|Item: 3 team_CTF_blueflag
+1340102733|broadcast: print "Tamas^7 captured the RED flag!\n"
+1340102733|CTF: 3 1 1: Tamas captured the RED flag!
+1340102733|Award: 3 4: Tamas gained the CAPTURE award!
+1340102733|Challenge: 3 303 1: Client 3 got award 303
+1340102733|PlayerScore: 3 16: Tamas now has 16 points
+1340102733|PlayerScore: 4 5: Enrique now has 5 points
+1340102733|PlayerScore: 6 16: Rolph now has 16 points
+1340102733|PlayerScore: 6 17: Rolph now has 17 points
+1340102733|Challenge: 6 304 1: Client 6 got award 304
+1340102733|Award: 6 5: Rolph gained the ASSIST award!
+1340102733|PlayerScore: 6 19: Rolph now has 19 points
+1340102733|Challenge: 6 304 1: Client 6 got award 304
+1340102733|Award: 6 5: Rolph gained the ASSIST award!
+1340102734|Item: 5 item_armor_combat
+1340102735|Kill: 6 2 23: Rolph killed Gerb by MOD_NAIL
+1340102735|PlayerScore: 6 20: Rolph now has 20 points
+1340102735|Challenge: 6 212 1: Client 6 got award 212
+1340102735|Challenge: 6 1 1: Client 6 got award 1
+1340102735|Challenge: 2 2 1: Client 2 got award 2
+1340102735|Item: 5 weapon_nailgun
+1340102736|Item: 6 team_CTF_redflag
+1340102736|broadcast: print "Rolph^7 got the RED flag!\n"
+1340102736|CTF: 6 1 0: Rolph got the RED flag!
+1340102736|PlayerScore: 6 20: Rolph now has 20 points
+1340102738|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1340102738|PlayerScore: 4 6: Enrique now has 6 points
+1340102738|Challenge: 4 205 1: Client 4 got award 205
+1340102738|Challenge: 4 1 1: Client 4 got award 1
+1340102738|Challenge: 2 2 1: Client 2 got award 2
+1340102738|PlayerScore: 4 8: Enrique now has 8 points
+1340102738|Award: 4 3: Enrique gained the DEFENCE award!
+1340102738|Challenge: 4 305 1: Client 4 got award 305
+1340102739|Item: 3 item_health_mega
+1340102739|Kill: 5 4 23: TT killed Enrique by MOD_NAIL
+1340102739|PlayerScore: 5 13: TT now has 13 points
+1340102739|Challenge: 5 212 1: Client 5 got award 212
+1340102739|Challenge: 5 1 1: Client 5 got award 1
+1340102739|Challenge: 4 2 1: Client 4 got award 2
+1340102739|PlayerScore: 5 14: TT now has 14 points
+1340102739|Challenge: 5 305 1: Client 5 got award 305
+1340102739|Award: 5 3: TT gained the DEFENCE award!
+1340102741|Item: 5 ammo_nails
+1340102742|Item: 5 item_health_small
+1340102742|Item: 2 weapon_rocketlauncher
+1340102743|Item: 4 item_armor_combat
+1340102744|Item: 4 weapon_nailgun
+1340102744|Item: 2 item_health_small
+1340102744|Item: 2 item_health_small
+1340102745|Item: 2 item_health_small
+1340102745|Item: 2 item_health_small
+1340102746|Item: 2 item_health_small
+1340102748|Item: 6 team_CTF_blueflag
+1340102748|broadcast: print "Rolph^7 captured the RED flag!\n"
+1340102748|CTF: 6 1 1: Rolph captured the RED flag!
+1340102748|Award: 6 4: Rolph gained the CAPTURE award!
+1340102748|Challenge: 6 303 1: Client 6 got award 303
+1340102748|PlayerScore: 6 25: Rolph now has 25 points
+1340102748|PlayerScore: 3 16: Tamas now has 16 points
+1340102748|PlayerScore: 4 8: Enrique now has 8 points
+1340102749|Item: 5 item_health_small
+1340102750|Item: 5 item_armor_shard
+1340102750|Item: 6 weapon_plasmagun
+1340102751|Item: 5 item_armor_shard
+1340102751|Item: 6 item_armor_shard
+1340102751|Kill: 6 5 23: Rolph killed TT by MOD_NAIL
+1340102751|PlayerScore: 6 26: Rolph now has 26 points
+1340102751|Challenge: 6 212 1: Client 6 got award 212
+1340102751|Challenge: 6 1 1: Client 6 got award 1
+1340102751|Challenge: 5 2 1: Client 5 got award 2
+1340102751|PlayerScore: 6 27: Rolph now has 27 points
+1340102751|Challenge: 6 305 1: Client 6 got award 305
+1340102751|Award: 6 3: Rolph gained the DEFENCE award!
+1340102753|Item: 4 weapon_rocketlauncher
+1340102753|Item: 2 ammo_nails
+1340102754|Item: 3 item_armor_shard
+1340102754|Item: 3 weapon_nailgun
+1340102754|Item: 4 team_CTF_redflag
+1340102754|broadcast: print "Enrique^7 got the RED flag!\n"
+1340102754|CTF: 4 1 0: Enrique got the RED flag!
+1340102754|PlayerScore: 4 8: Enrique now has 8 points
+1340102755|Item: 5 weapon_nailgun
+1340102757|Item: 2 team_CTF_blueflag
+1340102757|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1340102757|CTF: 2 2 0: Gerb got the BLUE flag!
+1340102757|PlayerScore: 2 4: Gerb now has 4 points
+1340102757|Kill: 6 2 23: Rolph killed Gerb by MOD_NAIL
+1340102757|PlayerScore: 6 28: Rolph now has 28 points
+1340102757|Challenge: 6 212 1: Client 6 got award 212
+1340102757|Challenge: 6 1 1: Client 6 got award 1
+1340102757|Challenge: 2 2 1: Client 2 got award 2
+1340102757|PlayerScore: 6 30: Rolph now has 30 points
+1340102757|broadcast: print "Rolph^7 fragged RED's flag carrier!\n"
+1340102757|CTF: 6 1 3: Rolph fragged RED's flag carrier!
+1340102758|Item: 6 team_CTF_blueflag
+1340102758|broadcast: print "Rolph^7 returned the BLUE flag!\n"
+1340102758|PlayerScore: 6 31: Rolph now has 31 points
+1340102758|CTF: 6 2 2: Rolph returned the BLUE flag!
+1340102758|Item: 6 weapon_rocketlauncher
+1340102759|Kill: 4 5 23: Enrique killed TT by MOD_NAIL
+1340102759|PlayerScore: 4 9: Enrique now has 9 points
+1340102759|Challenge: 4 212 1: Client 4 got award 212
+1340102759|Challenge: 4 1 1: Client 4 got award 1
+1340102759|Challenge: 5 2 1: Client 5 got award 2
+1340102759|Item: 4 weapon_nailgun
+1340102759|Item: 3 weapon_railgun
+1340102762|Item: 5 weapon_rocketlauncher
+1340102762|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102762|PlayerScore: 4 10: Enrique now has 10 points
+1340102762|Challenge: 4 212 1: Client 4 got award 212
+1340102762|Challenge: 4 1 1: Client 4 got award 1
+1340102762|Challenge: 2 2 1: Client 2 got award 2
+1340102762|PlayerScore: 4 12: Enrique now has 12 points
+1340102762|Challenge: 4 305 1: Client 4 got award 305
+1340102762|Award: 4 3: Enrique gained the DEFENCE award!
+1340102762|Item: 6 weapon_plasmagun
+1340102765|Item: 5 weapon_railgun
+1340102765|Item: 6 item_health_small
+1340102766|Item: 6 item_health_small
+1340102766|Item: 6 item_health_small
+1340102769|Kill: 5 4 10: TT killed Enrique by MOD_RAILGUN
+1340102769|PlayerScore: 5 15: TT now has 15 points
+1340102769|Challenge: 5 208 1: Client 5 got award 208
+1340102769|Challenge: 5 1 1: Client 5 got award 1
+1340102769|Challenge: 4 2 1: Client 4 got award 2
+1340102769|PlayerScore: 5 17: TT now has 17 points
+1340102769|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340102769|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340102770|Item: 5 team_CTF_redflag
+1340102770|broadcast: print "TT^7 returned the RED flag!\n"
+1340102770|PlayerScore: 5 18: TT now has 18 points
+1340102770|CTF: 5 1 2: TT returned the RED flag!
+1340102772|Item: 3 team_CTF_redflag
+1340102772|broadcast: print "Tamas^7 got the RED flag!\n"
+1340102772|CTF: 3 1 0: Tamas got the RED flag!
+1340102772|PlayerScore: 3 16: Tamas now has 16 points
+1340102773|Item: 2 weapon_nailgun
+1340102773|Item: 5 team_CTF_blueflag
+1340102773|broadcast: print "TT^7 got the BLUE flag!\n"
+1340102773|CTF: 5 2 0: TT got the BLUE flag!
+1340102773|PlayerScore: 5 18: TT now has 18 points
+1340102773|Item: 4 weapon_railgun
+1340102777|Item: 6 item_health_small
+1340102778|Item: 2 item_health_mega
+1340102781|Item: 4 item_armor_combat
+1340102782|Item: 4 weapon_nailgun
+1340102784|Item: 2 item_health_small
+1340102784|Item: 3 item_armor_shard
+1340102785|Item: 3 item_armor_shard
+1340102785|Item: 6 weapon_rocketlauncher
+1340102785|Item: 3 item_armor_shard
+1340102785|Item: 3 item_armor_shard
+1340102788|Item: 5 weapon_shotgun
+1340102795|Item: 4 item_armor_combat
+1340102796|Item: 6 weapon_nailgun
+1340102798|Item: 2 item_health
+1340102799|Item: 5 weapon_shotgun
+1340102800|Item: 6 weapon_railgun
+1340102800|Kill: 3 2 23: Tamas killed Gerb by MOD_NAIL
+1340102800|PlayerScore: 3 17: Tamas now has 17 points
+1340102800|Challenge: 3 212 1: Client 3 got award 212
+1340102800|Challenge: 3 1 1: Client 3 got award 1
+1340102800|Challenge: 2 2 1: Client 2 got award 2
+1340102800|PlayerScore: 3 19: Tamas now has 19 points
+1340102800|Challenge: 3 305 1: Client 3 got award 305
+1340102800|Award: 3 3: Tamas gained the DEFENCE award!
+1340102800|Item: 3 weapon_shotgun
+1340102802|Kill: 4 5 23: Enrique killed TT by MOD_NAIL
+1340102802|PlayerScore: 4 13: Enrique now has 13 points
+1340102802|Challenge: 4 212 1: Client 4 got award 212
+1340102802|Challenge: 4 1 1: Client 4 got award 1
+1340102802|Challenge: 5 2 1: Client 5 got award 2
+1340102802|PlayerScore: 4 15: Enrique now has 15 points
+1340102802|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340102802|CTF: 4 1 3: Enrique fragged RED's flag carrier!
+1340102803|Item: 4 weapon_rocketlauncher
+1340102803|Item: 4 team_CTF_blueflag
+1340102803|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1340102803|PlayerScore: 4 16: Enrique now has 16 points
+1340102803|CTF: 4 2 2: Enrique returned the BLUE flag!
+1340102803|Item: 6 weapon_rocketlauncher
+1340102804|Item: 3 team_CTF_blueflag
+1340102804|broadcast: print "Tamas^7 captured the RED flag!\n"
+1340102804|CTF: 3 1 1: Tamas captured the RED flag!
+1340102804|Award: 3 4: Tamas gained the CAPTURE award!
+1340102804|Challenge: 3 303 1: Client 3 got award 303
+1340102804|PlayerScore: 3 24: Tamas now has 24 points
+1340102804|PlayerScore: 4 16: Enrique now has 16 points
+1340102804|PlayerScore: 4 17: Enrique now has 17 points
+1340102804|Challenge: 4 304 1: Client 4 got award 304
+1340102804|Award: 4 5: Enrique gained the ASSIST award!
+1340102804|PlayerScore: 4 19: Enrique now has 19 points
+1340102804|Challenge: 4 304 1: Client 4 got award 304
+1340102804|Award: 4 5: Enrique gained the ASSIST award!
+1340102804|PlayerScore: 6 31: Rolph now has 31 points
+1340102805|Item: 3 weapon_nailgun
+1340102805|Item: 2 weapon_nailgun
+1340102806|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102806|PlayerScore: 4 20: Enrique now has 20 points
+1340102806|Challenge: 4 212 1: Client 4 got award 212
+1340102806|Challenge: 4 1 1: Client 4 got award 1
+1340102806|Challenge: 2 2 1: Client 2 got award 2
+1340102806|Item: 6 ammo_nails
+1340102807|Item: 5 weapon_railgun
+1340102807|Item: 6 item_armor_shard
+1340102807|Item: 6 item_armor_shard
+1340102807|Item: 4 weapon_nailgun
+1340102807|Item: 6 item_armor_shard
+1340102808|Item: 6 item_armor_shard
+1340102808|Item: 4 item_health_large
+1340102809|Item: 6 weapon_plasmagun
+1340102811|Item: 6 team_CTF_redflag
+1340102811|broadcast: print "Rolph^7 got the RED flag!\n"
+1340102811|CTF: 6 1 0: Rolph got the RED flag!
+1340102811|PlayerScore: 6 31: Rolph now has 31 points
+1340102813|Item: 3 weapon_railgun
+1340102813|Item: 2 weapon_rocketlauncher
+1340102816|Kill: 2 4 6: Gerb killed Enrique by MOD_ROCKET
+1340102816|PlayerScore: 2 5: Gerb now has 5 points
+1340102816|Challenge: 2 205 1: Client 2 got award 205
+1340102816|Challenge: 2 1 1: Client 2 got award 1
+1340102816|Challenge: 4 2 1: Client 4 got award 2
+1340102816|PlayerScore: 2 6: Gerb now has 6 points
+1340102816|Challenge: 2 305 1: Client 2 got award 305
+1340102816|Award: 2 3: Gerb gained the DEFENCE award!
+1340102817|Item: 2 weapon_nailgun
+1340102819|Kill: 5 6 10: TT killed Rolph by MOD_RAILGUN
+1340102819|PlayerScore: 5 19: TT now has 19 points
+1340102819|Challenge: 5 208 1: Client 5 got award 208
+1340102819|Challenge: 5 1 1: Client 5 got award 1
+1340102819|Challenge: 6 2 1: Client 6 got award 2
+1340102819|PlayerScore: 5 21: TT now has 21 points
+1340102819|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340102819|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340102819|Award: 5 2: TT gained the IMPRESSIVE award!
+1340102819|Challenge: 5 301 1: Client 5 got award 301
+1340102819|Item: 5 team_CTF_redflag
+1340102819|broadcast: print "TT^7 returned the RED flag!\n"
+1340102819|PlayerScore: 5 22: TT now has 22 points
+1340102819|CTF: 5 1 2: TT returned the RED flag!
+1340102819|Item: 5 weapon_nailgun
+1340102819|Item: 4 weapon_rocketlauncher
+1340102823|Kill: 2 5 7: Gerb killed TT by MOD_ROCKET_SPLASH
+1340102824|Item: 4 item_armor_shard
+1340102824|Item: 6 ammo_nails
+1340102824|Item: 4 item_armor_shard
+1340102824|Item: 4 item_armor_shard
+1340102824|Item: 6 item_armor_shard
+1340102825|Item: 4 weapon_plasmagun
+1340102825|Item: 3 weapon_rocketlauncher
+1340102827|Item: 5 item_armor_combat
+1340102828|Item: 5 weapon_nailgun
+1340102829|Item: 2 item_health
+1340102830|Item: 2 item_health
+1340102830|Kill: 2 3 6: Gerb killed Tamas by MOD_ROCKET
+1340102830|PlayerScore: 2 7: Gerb now has 7 points
+1340102830|Challenge: 2 205 1: Client 2 got award 205
+1340102830|Challenge: 2 1 1: Client 2 got award 1
+1340102830|Challenge: 3 2 1: Client 3 got award 2
+1340102830|PlayerScore: 2 8: Gerb now has 8 points
+1340102830|Challenge: 2 305 1: Client 2 got award 305
+1340102830|Award: 2 3: Gerb gained the DEFENCE award!
+1340102831|Item: 2 weapon_nailgun
+1340102832|Item: 2 weapon_plasmagun
+1340102832|Item: 4 item_armor_combat
+1340102833|Item: 6 weapon_nailgun
+1340102834|Item: 3 weapon_railgun
+1340102834|Item: 2 item_armor_shard
+1340102835|Kill: 3 2 10: Tamas killed Gerb by MOD_RAILGUN
+1340102835|PlayerScore: 3 25: Tamas now has 25 points
+1340102835|Challenge: 3 208 1: Client 3 got award 208
+1340102835|Challenge: 3 1 1: Client 3 got award 1
+1340102835|Challenge: 2 2 1: Client 2 got award 2
+1340102836|Item: 4 item_health_mega
+1340102839|Item: 2 weapon_railgun
+1340102839|Award: 3 2: Tamas gained the IMPRESSIVE award!
+1340102839|Challenge: 3 301 1: Client 3 got award 301
+1340102841|Item: 5 weapon_shotgun
+1340102842|Item: 2 weapon_rocketlauncher
+1340102842|Item: 4 team_CTF_redflag
+1340102842|broadcast: print "Enrique^7 got the RED flag!\n"
+1340102842|CTF: 4 1 0: Enrique got the RED flag!
+1340102842|PlayerScore: 4 20: Enrique now has 20 points
+1340102843|Kill: 4 5 7: Enrique killed TT by MOD_ROCKET_SPLASH
+1340102843|PlayerScore: 4 21: Enrique now has 21 points
+1340102843|Challenge: 4 205 1: Client 4 got award 205
+1340102843|Challenge: 4 1 1: Client 4 got award 1
+1340102843|Challenge: 5 2 1: Client 5 got award 2
+1340102843|PlayerScore: 4 23: Enrique now has 23 points
+1340102843|Challenge: 4 305 1: Client 4 got award 305
+1340102843|Award: 4 3: Enrique gained the DEFENCE award!
+1340102844|Item: 6 weapon_nailgun
+1340102848|Item: 2 team_CTF_blueflag
+1340102848|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1340102848|CTF: 2 2 0: Gerb got the BLUE flag!
+1340102848|PlayerScore: 2 8: Gerb now has 8 points
+1340102848|Item: 5 weapon_nailgun
+1340102849|Kill: 4 5 7: Enrique killed TT by MOD_ROCKET_SPLASH
+1340102849|PlayerScore: 4 24: Enrique now has 24 points
+1340102849|Challenge: 4 205 1: Client 4 got award 205
+1340102849|Challenge: 4 1 1: Client 4 got award 1
+1340102849|Challenge: 5 2 1: Client 5 got award 2
+1340102849|PlayerScore: 4 26: Enrique now has 26 points
+1340102849|Challenge: 4 305 1: Client 4 got award 305
+1340102849|Award: 4 3: Enrique gained the DEFENCE award!
+1340102851|Item: 2 item_health_small
+1340102853|Item: 5 weapon_railgun
+1340102855|Item: 2 item_regen
+1340102857|Kill: 6 6 20: Rolph killed Rolph by MOD_SUICIDE
+1340102857|Playerstore: Stored player with guid: 8D9D8FAD284359ED36F095C64975783B in 0
+1340102857|ClientUserinfoChanged: 6 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340102857|Restored player with guid: 8D9D8FAD284359ED36F095C64975783B
+1340102857|broadcast: print "Rolph^7 entered the game\n"
+1340102857|ClientBegin: 6
+1340102858|Item: 6 weapon_rocketlauncher
+1340102860|Item: 4 weapon_shotgun
+1340102861|Item: 6 item_health_small
+1340102861|Item: 5 item_armor_shard
+1340102862|Item: 5 item_armor_shard
+1340102862|Item: 2 item_armor_shard
+1340102862|Item: 5 item_armor_shard
+1340102862|Item: 2 item_armor_shard
+1340102863|Item: 5 item_armor_shard
+1340102863|Item: 2 item_armor_shard
+1340102863|Item: 2 item_armor_shard
+1340102864|Item: 2 weapon_plasmagun
+1340102865|Item: 5 item_health
+1340102865|Item: 5 item_health
+1340102866|Item: 6 weapon_rocketlauncher
+1340102866|Kill: 5 4 10: TT killed Enrique by MOD_RAILGUN
+1340102866|PlayerScore: 5 23: TT now has 23 points
+1340102866|Challenge: 5 208 1: Client 5 got award 208
+1340102866|Challenge: 5 1 1: Client 5 got award 1
+1340102866|Challenge: 4 2 1: Client 4 got award 2
+1340102866|PlayerScore: 5 25: TT now has 25 points
+1340102866|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340102866|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340102867|Item: 5 team_CTF_redflag
+1340102867|broadcast: print "TT^7 returned the RED flag!\n"
+1340102867|PlayerScore: 5 26: TT now has 26 points
+1340102867|CTF: 5 1 2: TT returned the RED flag!
+1340102869|Item: 2 team_CTF_redflag
+1340102869|broadcast: print "Gerb^7 captured the BLUE flag!\n"
+1340102869|CTF: 2 2 1: Gerb captured the BLUE flag!
+1340102869|Award: 2 4: Gerb gained the CAPTURE award!
+1340102869|Challenge: 2 303 1: Client 2 got award 303
+1340102869|PlayerScore: 2 13: Gerb now has 13 points
+1340102869|PlayerScore: 5 26: TT now has 26 points
+1340102869|PlayerScore: 5 27: TT now has 27 points
+1340102869|Challenge: 5 304 1: Client 5 got award 304
+1340102869|Award: 5 5: TT gained the ASSIST award!
+1340102869|PlayerScore: 5 29: TT now has 29 points
+1340102869|Challenge: 5 304 1: Client 5 got award 304
+1340102869|Award: 5 5: TT gained the ASSIST award!
+1340102869|PlayerScore: 6 31: Rolph now has 31 points
+1340102871|Item: 3 weapon_railgun
+1340102871|Kill: 6 3 6: Rolph killed Tamas by MOD_ROCKET
+1340102871|PlayerScore: 6 32: Rolph now has 32 points
+1340102871|Challenge: 6 205 1: Client 6 got award 205
+1340102871|Challenge: 6 1 1: Client 6 got award 1
+1340102871|Challenge: 3 2 1: Client 3 got award 2
+1340102871|Item: 2 weapon_plasmagun
+1340102871|Item: 4 weapon_railgun
+1340102872|Item: 5 item_armor_combat
+1340102872|Item: 5 item_health_large
+1340102873|Item: 5 weapon_nailgun
+1340102874|Item: 6 weapon_rocketlauncher
+1340102874|Item: 3 weapon_plasmagun
+1340102875|Kill: 2 4 6: Gerb killed Enrique by MOD_ROCKET
+1340102875|PlayerScore: 2 14: Gerb now has 14 points
+1340102875|Challenge: 2 205 1: Client 2 got award 205
+1340102875|Challenge: 2 1 1: Client 2 got award 1
+1340102875|Challenge: 4 2 1: Client 4 got award 2
+1340102878|Item: 5 item_health_mega
+1340102878|Item: 2 weapon_railgun
+1340102879|Item: 6 ammo_nails
+1340102880|Item: 4 weapon_rocketlauncher
+1340102881|Item: 6 weapon_plasmagun
+1340102882|Item: 6 item_health
+1340102882|Item: 6 item_health
+1340102885|Kill: 5 3 23: TT killed Tamas by MOD_NAIL
+1340102885|PlayerScore: 5 30: TT now has 30 points
+1340102885|Challenge: 5 212 1: Client 5 got award 212
+1340102885|Challenge: 5 1 1: Client 5 got award 1
+1340102885|Challenge: 3 2 1: Client 3 got award 2
+1340102889|Item: 3 weapon_rocketlauncher
+1340102889|Item: 6 item_armor_combat
+1340102890|Item: 6 weapon_nailgun
+1340102891|Kill: 5 4 23: TT killed Enrique by MOD_NAIL
+1340102891|PlayerScore: 5 31: TT now has 31 points
+1340102891|Challenge: 5 212 1: Client 5 got award 212
+1340102891|Challenge: 5 1 1: Client 5 got award 1
+1340102891|Challenge: 4 2 1: Client 4 got award 2
+1340102891|Item: 3 item_armor_shard
+1340102892|Item: 3 item_armor_shard
+1340102892|Item: 2 team_CTF_blueflag
+1340102892|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1340102892|CTF: 2 2 0: Gerb got the BLUE flag!
+1340102892|PlayerScore: 2 14: Gerb now has 14 points
+1340102892|Item: 2 weapon_rocketlauncher
+1340102892|Item: 3 item_armor_shard
+1340102893|Item: 3 item_armor_shard
+1340102893|Kill: 3 2 6: Tamas killed Gerb by MOD_ROCKET
+1340102893|PlayerScore: 3 26: Tamas now has 26 points
+1340102893|Challenge: 3 205 1: Client 3 got award 205
+1340102893|Challenge: 3 1 1: Client 3 got award 1
+1340102893|Challenge: 2 2 1: Client 2 got award 2
+1340102893|PlayerScore: 3 28: Tamas now has 28 points
+1340102893|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1340102893|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1340102894|Kill: 4 5 3: Enrique killed TT by MOD_MACHINEGUN
+1340102894|PlayerScore: 4 27: Enrique now has 27 points
+1340102894|Challenge: 4 202 1: Client 4 got award 202
+1340102894|Challenge: 4 1 1: Client 4 got award 1
+1340102894|Challenge: 5 2 1: Client 5 got award 2
+1340102894|PlayerScore: 4 28: Enrique now has 28 points
+1340102894|Challenge: 4 305 1: Client 4 got award 305
+1340102894|Award: 4 3: Enrique gained the DEFENCE award!
+1340102894|Item: 4 weapon_nailgun
+1340102894|Item: 3 team_CTF_blueflag
+1340102894|broadcast: print "Tamas^7 returned the BLUE flag!\n"
+1340102894|PlayerScore: 3 29: Tamas now has 29 points
+1340102894|CTF: 3 2 2: Tamas returned the BLUE flag!
+1340102895|Item: 3 weapon_rocketlauncher
+1340102897|Item: 2 weapon_rocketlauncher
+1340102898|Kill: 6 3 7: Rolph killed Tamas by MOD_ROCKET_SPLASH
+1340102898|PlayerScore: 6 33: Rolph now has 33 points
+1340102898|Challenge: 6 205 1: Client 6 got award 205
+1340102898|Challenge: 6 1 1: Client 6 got award 1
+1340102898|Challenge: 3 2 1: Client 3 got award 2
+1340102899|Item: 5 weapon_nailgun
+1340102899|Item: 2 item_health_small
+1340102899|Item: 2 item_health_small
+1340102900|Item: 2 item_health_small
+1340102900|Item: 2 item_health_small
+1340102900|Item: 6 team_CTF_blueflag
+1340102900|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340102900|CTF: 6 2 0: Rolph got the BLUE flag!
+1340102900|PlayerScore: 6 33: Rolph now has 33 points
+1340102900|Item: 2 item_health_small
+1340102901|Item: 2 item_health_small
+1340102901|Kill: 3 6 3: Tamas killed Rolph by MOD_MACHINEGUN
+1340102901|PlayerScore: 3 30: Tamas now has 30 points
+1340102901|Challenge: 3 202 1: Client 3 got award 202
+1340102901|Challenge: 3 1 1: Client 3 got award 1
+1340102901|Challenge: 6 2 1: Client 6 got award 2
+1340102901|PlayerScore: 3 32: Tamas now has 32 points
+1340102901|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1340102901|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1340102901|Item: 3 team_CTF_blueflag
+1340102901|broadcast: print "Tamas^7 returned the BLUE flag!\n"
+1340102901|PlayerScore: 3 33: Tamas now has 33 points
+1340102901|CTF: 3 2 2: Tamas returned the BLUE flag!
+1340102902|Item: 4 weapon_rocketlauncher
+1340102902|Item: 2 item_armor_shard
+1340102903|Item: 2 item_armor_shard
+1340102903|Item: 2 item_armor_shard
+1340102903|Item: 2 item_armor_shard
+1340102904|Item: 2 weapon_plasmagun
+1340102904|Item: 4 weapon_shotgun
+1340102905|Item: 3 weapon_rocketlauncher
+1340102905|Item: 6 weapon_rocketlauncher
+1340102908|Item: 6 weapon_railgun
+1340102908|Item: 3 weapon_nailgun
+1340102909|Item: 4 item_health_large
+1340102909|Item: 4 item_armor_combat
+1340102912|Item: 2 weapon_shotgun
+1340102913|Item: 5 weapon_nailgun
+1340102914|Item: 5 item_armor_combat
+1340102914|Kill: 4 3 23: Enrique killed Tamas by MOD_NAIL
+1340102915|Kill: 4 6 23: Enrique killed Rolph by MOD_NAIL
+1340102915|PlayerScore: 4 29: Enrique now has 29 points
+1340102915|Challenge: 4 212 1: Client 4 got award 212
+1340102915|Challenge: 4 1 1: Client 4 got award 1
+1340102915|Challenge: 6 2 1: Client 6 got award 2
+1340102917|Item: 4 weapon_rocketlauncher
+1340102917|Item: 4 weapon_nailgun
+1340102918|Item: 5 weapon_railgun
+1340102918|Item: 2 weapon_shotgun
+1340102919|Item: 3 weapon_shotgun
+1340102920|Item: 6 weapon_nailgun
+1340102920|Item: 4 item_health_mega
+1340102924|Item: 5 item_armor_shard
+1340102924|Item: 5 item_armor_shard
+1340102925|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102925|PlayerScore: 4 30: Enrique now has 30 points
+1340102925|Challenge: 4 212 1: Client 4 got award 212
+1340102925|Challenge: 4 1 1: Client 4 got award 1
+1340102925|Challenge: 2 2 1: Client 2 got award 2
+1340102925|Item: 6 weapon_railgun
+1340102925|Item: 5 item_armor_shard
+1340102926|Item: 4 weapon_rocketlauncher
+1340102928|Item: 6 weapon_rocketlauncher
+1340102929|Item: 5 team_CTF_blueflag
+1340102929|broadcast: print "TT^7 got the BLUE flag!\n"
+1340102929|CTF: 5 2 0: TT got the BLUE flag!
+1340102929|PlayerScore: 5 31: TT now has 31 points
+1340102930|Item: 4 team_CTF_redflag
+1340102930|broadcast: print "Enrique^7 got the RED flag!\n"
+1340102930|CTF: 4 1 0: Enrique got the RED flag!
+1340102930|PlayerScore: 4 30: Enrique now has 30 points
+1340102930|Item: 6 item_armor_shard
+1340102931|Item: 3 weapon_shotgun
+1340102931|Kill: 2 4 3: Gerb killed Enrique by MOD_MACHINEGUN
+1340102931|PlayerScore: 2 15: Gerb now has 15 points
+1340102931|Challenge: 2 202 1: Client 2 got award 202
+1340102931|Challenge: 2 1 1: Client 2 got award 1
+1340102931|Challenge: 4 2 1: Client 4 got award 2
+1340102931|PlayerScore: 2 17: Gerb now has 17 points
+1340102931|broadcast: print "Gerb^7 fragged BLUE's flag carrier!\n"
+1340102931|CTF: 2 2 3: Gerb fragged BLUE's flag carrier!
+1340102931|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340102931|PlayerScore: 4 31: Enrique now has 31 points
+1340102931|Challenge: 4 212 1: Client 4 got award 212
+1340102931|Challenge: 4 1 1: Client 4 got award 1
+1340102931|Challenge: 2 2 1: Client 2 got award 2
+1340102933|Item: 5 item_health_small
+1340102934|Item: 5 item_health_small
+1340102934|Item: 5 item_health_small
+1340102935|Item: 5 item_health_small
+1340102935|Item: 5 item_health_small
+1340102935|Item: 2 ammo_shells
+1340102935|Item: 2 ammo_bullets
+1340102935|Item: 4 weapon_railgun
+1340102936|Kill: 6 3 23: Rolph killed Tamas by MOD_NAIL
+1340102936|PlayerScore: 6 34: Rolph now has 34 points
+1340102936|Challenge: 6 212 1: Client 6 got award 212
+1340102936|Challenge: 6 1 1: Client 6 got award 1
+1340102936|Challenge: 3 2 1: Client 3 got award 2
+1340102936|PlayerScore: 6 36: Rolph now has 36 points
+1340102936|Award: 6 3: Rolph gained the DEFENCE award!
+1340102936|Challenge: 6 305 1: Client 6 got award 305
+1340102937|Item: 6 item_health_small
+1340102938|Item: 4 weapon_rocketlauncher
+1340102939|Item: 2 team_CTF_redflag
+1340102939|broadcast: print "Gerb^7 returned the RED flag!\n"
+1340102939|PlayerScore: 2 18: Gerb now has 18 points
+1340102939|CTF: 2 1 2: Gerb returned the RED flag!
+1340102939|Item: 2 weapon_nailgun
+1340102939|Item: 3 weapon_rocketlauncher
+1340102941|Item: 4 item_armor_shard
+1340102941|Item: 4 item_armor_shard
+1340102942|Item: 4 item_armor_shard
+1340102942|Item: 2 weapon_plasmagun
+1340102942|Item: 4 item_armor_shard
+1340102943|Item: 5 ammo_nails
+1340102945|Kill: 4 2 7: Enrique killed Gerb by MOD_ROCKET_SPLASH
+1340102945|PlayerScore: 4 32: Enrique now has 32 points
+1340102945|Challenge: 4 205 1: Client 4 got award 205
+1340102945|Challenge: 4 1 1: Client 4 got award 1
+1340102945|Challenge: 2 2 1: Client 2 got award 2
+1340102946|Item: 4 team_CTF_redflag
+1340102946|broadcast: print "Enrique^7 got the RED flag!\n"
+1340102946|CTF: 4 1 0: Enrique got the RED flag!
+1340102946|PlayerScore: 4 32: Enrique now has 32 points
+1340102947|Kill: 5 4 23: TT killed Enrique by MOD_NAIL
+1340102947|PlayerScore: 5 32: TT now has 32 points
+1340102947|Challenge: 5 212 1: Client 5 got award 212
+1340102947|Challenge: 5 1 1: Client 5 got award 1
+1340102947|Challenge: 4 2 1: Client 4 got award 2
+1340102947|PlayerScore: 5 34: TT now has 34 points
+1340102947|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340102947|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340102947|Item: 5 weapon_rocketlauncher
+1340102947|Item: 5 team_CTF_redflag
+1340102947|broadcast: print "TT^7 returned the RED flag!\n"
+1340102947|PlayerScore: 5 35: TT now has 35 points
+1340102947|CTF: 5 1 2: TT returned the RED flag!
+1340102947|Item: 5 team_CTF_redflag
+1340102947|broadcast: print "TT^7 captured the BLUE flag!\n"
+1340102947|CTF: 5 2 1: TT captured the BLUE flag!
+1340102947|Award: 5 4: TT gained the CAPTURE award!
+1340102947|Challenge: 5 303 1: Client 5 got award 303
+1340102947|PlayerScore: 5 40: TT now has 40 points
+1340102947|PlayerScore: 2 18: Gerb now has 18 points
+1340102947|PlayerScore: 2 19: Gerb now has 19 points
+1340102947|Challenge: 2 304 1: Client 2 got award 304
+1340102947|Award: 2 5: Gerb gained the ASSIST award!
+1340102947|PlayerScore: 6 36: Rolph now has 36 points
+1340102947|Item: 6 weapon_plasmagun
+1340102949|Item: 2 item_armor_combat
+1340102949|Item: 5 weapon_nailgun
+1340102950|Kill: 6 5 23: Rolph killed TT by MOD_NAIL
+1340102950|Item: 2 weapon_nailgun
+1340102950|Item: 6 weapon_nailgun
+1340102951|Item: 4 weapon_railgun
+1340102953|Item: 3 team_CTF_redflag
+1340102953|broadcast: print "Tamas^7 got the RED flag!\n"
+1340102953|CTF: 3 1 0: Tamas got the RED flag!
+1340102953|PlayerScore: 3 33: Tamas now has 33 points
+1340102954|Item: 4 weapon_rocketlauncher
+1340102956|Kill: 3 6 6: Tamas killed Rolph by MOD_ROCKET
+1340102956|PlayerScore: 3 34: Tamas now has 34 points
+1340102956|Challenge: 3 205 1: Client 3 got award 205
+1340102956|Challenge: 3 1 1: Client 3 got award 1
+1340102956|Challenge: 6 2 1: Client 6 got award 2
+1340102960|Item: 6 weapon_railgun
+1340102960|Item: 3 weapon_nailgun
+1340102961|Kill: 4 5 7: Enrique killed TT by MOD_ROCKET_SPLASH
+1340102961|PlayerScore: 4 33: Enrique now has 33 points
+1340102961|Challenge: 4 205 1: Client 4 got award 205
+1340102961|Challenge: 4 1 1: Client 4 got award 1
+1340102961|Challenge: 5 2 1: Client 5 got award 2
+1340102961|Item: 3 item_health
+1340102962|Item: 2 weapon_plasmagun
+1340102962|Item: 4 weapon_rocketlauncher
+1340102963|Item: 6 weapon_rocketlauncher
+1340102964|Item: 4 item_health
+1340102964|Item: 4 item_health
+1340102965|Item: 6 ammo_nails
+1340102966|Item: 6 item_armor_shard
+1340102966|Item: 6 item_armor_shard
+1340102966|Item: 6 item_armor_shard
+1340102967|Item: 5 weapon_nailgun
+1340102967|Item: 6 item_armor_shard
+1340102967|Item: 4 item_armor_shard
+1340102967|Item: 6 weapon_plasmagun
+1340102967|Item: 4 item_armor_shard
+1340102968|Item: 4 item_armor_shard
+1340102968|Item: 4 item_armor_shard
+1340102969|Kill: 5 3 23: TT killed Tamas by MOD_NAIL
+1340102969|PlayerScore: 5 41: TT now has 41 points
+1340102969|Challenge: 5 212 1: Client 5 got award 212
+1340102969|Challenge: 5 1 1: Client 5 got award 1
+1340102969|Challenge: 3 2 1: Client 3 got award 2
+1340102969|PlayerScore: 5 43: TT now has 43 points
+1340102969|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340102969|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340102969|Item: 6 team_CTF_blueflag
+1340102969|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340102969|CTF: 6 2 0: Rolph got the BLUE flag!
+1340102969|PlayerScore: 6 36: Rolph now has 36 points
+1340102970|Item: 4 item_health
+1340102970|Item: 5 team_CTF_redflag
+1340102970|broadcast: print "TT^7 returned the RED flag!\n"
+1340102970|PlayerScore: 5 44: TT now has 44 points
+1340102970|CTF: 5 1 2: TT returned the RED flag!
+1340102970|Item: 5 item_health_mega
+1340102971|Item: 2 weapon_nailgun
+1340102971|Item: 4 team_CTF_redflag
+1340102971|broadcast: print "Enrique^7 got the RED flag!\n"
+1340102971|CTF: 4 1 0: Enrique got the RED flag!
+1340102971|PlayerScore: 4 33: Enrique now has 33 points
+1340102973|Kill: 5 3 23: TT killed Tamas by MOD_NAIL
+1340102973|PlayerScore: 5 45: TT now has 45 points
+1340102973|Challenge: 5 212 1: Client 5 got award 212
+1340102973|Challenge: 5 1 1: Client 5 got award 1
+1340102973|Challenge: 3 2 1: Client 3 got award 2
+1340102973|PlayerScore: 5 46: TT now has 46 points
+1340102973|Challenge: 5 305 1: Client 5 got award 305
+1340102973|Award: 5 3: TT gained the DEFENCE award!
+1340102977|Item: 3 weapon_rocketlauncher
+1340102978|Item: 6 weapon_railgun
+1340102980|Kill: 5 4 23: TT killed Enrique by MOD_NAIL
+1340102980|PlayerScore: 5 47: TT now has 47 points
+1340102980|Challenge: 5 212 1: Client 5 got award 212
+1340102980|Challenge: 5 1 1: Client 5 got award 1
+1340102980|Challenge: 4 2 1: Client 4 got award 2
+1340102980|PlayerScore: 5 49: TT now has 49 points
+1340102980|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340102980|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340102980|Item: 6 weapon_rocketlauncher
+1340102981|Item: 5 team_CTF_redflag
+1340102981|broadcast: print "TT^7 returned the RED flag!\n"
+1340102981|PlayerScore: 5 50: TT now has 50 points
+1340102981|CTF: 5 1 2: TT returned the RED flag!
+1340102982|Item: 2 weapon_plasmagun
+1340102983|Item: 5 weapon_rocketlauncher
+1340102984|Item: 5 weapon_nailgun
+1340102985|Item: 5 item_health_large
+1340102985|Item: 5 item_armor_combat
+1340102985|Kill: 2 3 23: Gerb killed Tamas by MOD_NAIL
+1340102985|PlayerScore: 2 20: Gerb now has 20 points
+1340102985|Challenge: 2 212 1: Client 2 got award 212
+1340102985|Challenge: 2 1 1: Client 2 got award 1
+1340102985|Challenge: 3 2 1: Client 3 got award 2
+1340102986|Item: 6 team_CTF_redflag
+1340102986|broadcast: print "Rolph^7 captured the BLUE flag!\n"
+1340102986|CTF: 6 2 1: Rolph captured the BLUE flag!
+1340102986|Award: 6 4: Rolph gained the CAPTURE award!
+1340102986|Challenge: 6 303 1: Client 6 got award 303
+1340102986|PlayerScore: 6 41: Rolph now has 41 points
+1340102986|PlayerScore: 2 20: Gerb now has 20 points
+1340102986|PlayerScore: 5 50: TT now has 50 points
+1340102986|PlayerScore: 5 51: TT now has 51 points
+1340102986|Challenge: 5 304 1: Client 5 got award 304
+1340102986|Award: 5 5: TT gained the ASSIST award!
+1340102986|PlayerScore: 5 53: TT now has 53 points
+1340102986|Challenge: 5 304 1: Client 5 got award 304
+1340102986|Award: 5 5: TT gained the ASSIST award!
+1340102987|Item: 2 team_CTF_blueflag
+1340102987|broadcast: print "Gerb^7 got the BLUE flag!\n"
+1340102987|CTF: 2 2 0: Gerb got the BLUE flag!
+1340102987|PlayerScore: 2 20: Gerb now has 20 points
+1340102987|Item: 2 weapon_rocketlauncher
+1340102988|Item: 5 ammo_shells
+1340102988|Kill: 3 2 3: Tamas killed Gerb by MOD_MACHINEGUN
+1340102988|PlayerScore: 3 35: Tamas now has 35 points
+1340102988|Challenge: 3 202 1: Client 3 got award 202
+1340102988|Challenge: 3 1 1: Client 3 got award 1
+1340102988|Challenge: 2 2 1: Client 2 got award 2
+1340102988|PlayerScore: 3 37: Tamas now has 37 points
+1340102988|broadcast: print "Tamas^7 fragged RED's flag carrier!\n"
+1340102988|CTF: 3 1 3: Tamas fragged RED's flag carrier!
+1340102988|Item: 4 team_CTF_blueflag
+1340102988|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1340102988|PlayerScore: 4 34: Enrique now has 34 points
+1340102988|CTF: 4 2 2: Enrique returned the BLUE flag!
+1340102988|Item: 4 weapon_nailgun
+1340102988|Item: 5 ammo_bullets
+1340102988|Item: 4 item_health
+1340102991|Item: 4 weapon_shotgun
+1340102993|Item: 2 weapon_plasmagun
+1340102994|Kill: 4 5 1: Enrique killed TT by MOD_SHOTGUN
+1340102994|PlayerScore: 4 35: Enrique now has 35 points
+1340102994|Challenge: 4 203 1: Client 4 got award 203
+1340102994|Challenge: 4 1 1: Client 4 got award 1
+1340102994|Challenge: 5 2 1: Client 5 got award 2
+1340102994|PlayerScore: 4 36: Enrique now has 36 points
+1340102994|Challenge: 4 305 1: Client 4 got award 305
+1340102994|Award: 4 3: Enrique gained the DEFENCE award!
+1340102995|Item: 2 weapon_rocketlauncher
+1340102995|Item: 4 weapon_nailgun
+1340102997|Item: 6 item_armor_combat
+1340102998|Item: 2 item_health_small
+1340102998|Item: 6 weapon_nailgun
+1340102998|Item: 2 item_health_small
+1340102998|Item: 2 item_health_small
+1340102999|Item: 5 item_armor_shard
+1340102999|Item: 2 item_health_small
+1340102999|Item: 5 item_armor_shard
+1340102999|Item: 2 item_health_small
+1340102999|Item: 5 item_armor_shard
+1340103000|Item: 2 item_health_small
+1340103000|Item: 5 item_armor_shard
+1340103000|Item: 2 item_health_small
+1340103000|Item: 5 weapon_plasmagun
+1340103002|Item: 3 weapon_nailgun
+1340103003|Item: 6 weapon_railgun
+1340103004|Item: 2 item_regen
+1340103006|Item: 6 weapon_rocketlauncher
+1340103007|Item: 3 item_health_mega
+1340103008|Kill: 5 4 8: TT killed Enrique by MOD_PLASMA
+1340103008|PlayerScore: 5 54: TT now has 54 points
+1340103008|Challenge: 5 207 1: Client 5 got award 207
+1340103008|Challenge: 5 1 1: Client 5 got award 1
+1340103008|Challenge: 4 2 1: Client 4 got award 2
+1340103008|PlayerScore: 5 55: TT now has 55 points
+1340103008|Challenge: 5 305 1: Client 5 got award 305
+1340103008|Award: 5 3: TT gained the DEFENCE award!
+1340103009|Item: 6 item_armor_shard
+1340103009|Item: 6 item_armor_shard
+1340103010|Item: 6 item_armor_shard
+1340103010|Item: 6 item_armor_shard
+1340103012|Kill: 3 5 23: Tamas killed TT by MOD_NAIL
+1340103012|PlayerScore: 3 38: Tamas now has 38 points
+1340103012|Challenge: 3 212 1: Client 3 got award 212
+1340103012|Challenge: 3 1 1: Client 3 got award 1
+1340103012|Challenge: 5 2 1: Client 5 got award 2
+1340103012|Item: 6 team_CTF_blueflag
+1340103012|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340103012|CTF: 6 2 0: Rolph got the BLUE flag!
+1340103012|PlayerScore: 6 41: Rolph now has 41 points
+1340103012|Item: 4 item_armor_combat
+1340103013|Item: 4 weapon_nailgun
+1340103013|Item: 3 team_CTF_redflag
+1340103013|broadcast: print "Tamas^7 got the RED flag!\n"
+1340103013|CTF: 3 1 0: Tamas got the RED flag!
+1340103013|PlayerScore: 3 38: Tamas now has 38 points
+1340103016|Kill: 4 2 23: Enrique killed Gerb by MOD_NAIL
+1340103016|PlayerScore: 4 37: Enrique now has 37 points
+1340103016|Challenge: 4 212 1: Client 4 got award 212
+1340103016|Challenge: 4 1 1: Client 4 got award 1
+1340103016|Challenge: 2 2 1: Client 2 got award 2
+1340103016|Challenge: 4 411 1: Client 4 got award 411
+1340103016|PlayerScore: 4 38: Enrique now has 38 points
+1340103016|Challenge: 4 305 1: Client 4 got award 305
+1340103016|Award: 4 3: Enrique gained the DEFENCE award!
+1340103016|Item: 4 item_regen
+1340103016|Item: 4 weapon_rocketlauncher
+1340103016|Item: 3 weapon_plasmagun
+1340103016|Kill: 5 3 3: TT killed Tamas by MOD_MACHINEGUN
+1340103016|PlayerScore: 5 56: TT now has 56 points
+1340103016|Challenge: 5 202 1: Client 5 got award 202
+1340103016|Challenge: 5 1 1: Client 5 got award 1
+1340103016|Challenge: 3 2 1: Client 3 got award 2
+1340103016|PlayerScore: 5 58: TT now has 58 points
+1340103016|broadcast: print "TT^7 fragged BLUE's flag carrier!\n"
+1340103016|CTF: 5 2 3: TT fragged BLUE's flag carrier!
+1340103017|Kill: 4 6 23: Enrique killed Rolph by MOD_NAIL
+1340103017|PlayerScore: 4 39: Enrique now has 39 points
+1340103017|Challenge: 4 212 1: Client 4 got award 212
+1340103017|Challenge: 4 1 1: Client 4 got award 1
+1340103017|Challenge: 6 2 1: Client 6 got award 2
+1340103017|Award: 4 1: Enrique gained the EXCELLENT award!
+1340103017|Challenge: 4 302 1: Client 4 got award 302
+1340103017|PlayerScore: 4 41: Enrique now has 41 points
+1340103017|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340103017|CTF: 4 1 3: Enrique fragged RED's flag carrier!
+1340103017|Item: 5 weapon_nailgun
+1340103017|Item: 5 team_CTF_redflag
+1340103017|broadcast: print "TT^7 returned the RED flag!\n"
+1340103017|PlayerScore: 5 59: TT now has 59 points
+1340103017|CTF: 5 1 2: TT returned the RED flag!
+1340103018|Item: 4 weapon_nailgun
+1340103018|Item: 4 team_CTF_blueflag
+1340103018|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1340103018|PlayerScore: 4 42: Enrique now has 42 points
+1340103018|CTF: 4 2 2: Enrique returned the BLUE flag!
+1340103020|Item: 5 weapon_nailgun
+1340103023|Item: 3 weapon_nailgun
+1340103024|Item: 2 weapon_nailgun
+1340103025|Kill: 5 4 23: TT killed Enrique by MOD_NAIL
+1340103025|PlayerScore: 5 60: TT now has 60 points
+1340103025|Challenge: 5 212 1: Client 5 got award 212
+1340103025|Challenge: 5 1 1: Client 5 got award 1
+1340103025|Challenge: 4 2 1: Client 4 got award 2
+1340103025|Challenge: 5 411 1: Client 5 got award 411
+1340103025|Item: 2 item_armor_combat
+1340103025|Item: 6 weapon_nailgun
+1340103026|Item: 6 item_regen
+1340103027|Item: 5 item_health_large
+1340103027|Item: 3 weapon_railgun
+1340103030|Item: 4 weapon_shotgun
+1340103031|Item: 5 weapon_railgun
+1340103033|Item: 3 ammo_nails
+1340103033|Item: 6 team_CTF_blueflag
+1340103033|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340103033|CTF: 6 2 0: Rolph got the BLUE flag!
+1340103033|PlayerScore: 6 41: Rolph now has 41 points
+1340103034|Item: 2 item_armor_shard
+1340103034|Item: 5 weapon_rocketlauncher
+1340103035|Item: 3 item_health_small
+1340103035|Item: 6 weapon_shotgun
+1340103036|Kill: 4 6 1: Enrique killed Rolph by MOD_SHOTGUN
+1340103036|PlayerScore: 4 43: Enrique now has 43 points
+1340103036|Challenge: 4 203 1: Client 4 got award 203
+1340103036|Challenge: 4 1 1: Client 4 got award 1
+1340103036|Challenge: 6 2 1: Client 6 got award 2
+1340103036|PlayerScore: 4 45: Enrique now has 45 points
+1340103036|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340103036|CTF: 4 1 3: Enrique fragged RED's flag carrier!
+1340103036|Item: 4 weapon_nailgun
+1340103036|Item: 5 item_armor_shard
+1340103036|Item: 4 team_CTF_blueflag
+1340103036|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1340103036|PlayerScore: 4 46: Enrique now has 46 points
+1340103036|CTF: 4 2 2: Enrique returned the BLUE flag!
+1340103037|Item: 5 item_armor_shard
+1340103037|Item: 2 item_health
+1340103037|Item: 5 item_armor_shard
+1340103038|Item: 5 item_armor_shard
+1340103038|Item: 2 weapon_plasmagun
+1340103039|Item: 3 item_armor_shard
+1340103039|Item: 5 team_CTF_blueflag
+1340103039|broadcast: print "TT^7 got the BLUE flag!\n"
+1340103039|CTF: 5 2 0: TT got the BLUE flag!
+1340103039|PlayerScore: 5 60: TT now has 60 points
+1340103041|Item: 4 item_armor_combat
+1340103041|Item: 4 item_health_large
+1340103042|Item: 6 item_armor_shard
+1340103042|Item: 4 weapon_nailgun
+1340103043|Item: 5 ammo_nails
+1340103044|Item: 5 item_health_small
+1340103045|Item: 2 weapon_plasmagun
+1340103050|Kill: 2 3 23: Gerb killed Tamas by MOD_NAIL
+1340103050|PlayerScore: 2 21: Gerb now has 21 points
+1340103050|Challenge: 2 212 1: Client 2 got award 212
+1340103050|Challenge: 2 1 1: Client 2 got award 1
+1340103050|Challenge: 3 2 1: Client 3 got award 2
+1340103050|PlayerScore: 2 22: Gerb now has 22 points
+1340103050|Challenge: 2 305 1: Client 2 got award 305
+1340103050|Award: 2 3: Gerb gained the DEFENCE award!
+1340103051|Item: 6 weapon_rocketlauncher
+1340103054|Item: 6 weapon_railgun
+1340103055|Item: 2 weapon_shotgun
+1340103055|Item: 4 item_health_mega
+1340103055|Item: 6 weapon_nailgun
+1340103055|Item: 3 weapon_nailgun
+1340103056|Item: 5 team_CTF_redflag
+1340103056|broadcast: print "TT^7 captured the BLUE flag!\n"
+1340103056|CTF: 5 2 1: TT captured the BLUE flag!
+1340103056|Award: 5 4: TT gained the CAPTURE award!
+1340103056|Challenge: 5 303 1: Client 5 got award 303
+1340103056|PlayerScore: 5 65: TT now has 65 points
+1340103056|broadcast: print "Red hit the capturelimit.\n"
+1340103056|Exit: Capturelimit hit.
+1340103056|red:5  blue:4
+1340103056|score: 65  ping: 0  client: 5 TT
+1340103056|score: 46  ping: 3  client: 4 Enrique
+1340103056|score: 41  ping: 1  client: 6 Rolph
+1340103056|score: 38  ping: 3  client: 3 Tamas
+1340103056|score: 22  ping: 2  client: 2 Gerb
+1340103056|PlayerScore: 2 22: Gerb now has 22 points
+1340103056|PlayerScore: 6 41: Rolph now has 41 points
+1340103070|g_gametype will be changed upon restarting.
+1340103070|==== ShutdownGame ====
+1340103070|ShutdownGame:
+1340103070|------------------------------------------------------------
+1340103070|AAS shutdown.
+1340103070|------ Server Initialization ------
+1340103070|Server: oa_dm1
+1340103070|Hunk_Clear: reset the hunk ok
+1340103070|----- FS_Startup -----
+1340103070|Current search path:
+1340103070|/home/jeroen/.openarena/baseoa
+1340103070|/usr/lib/openarena-server/baseoa
+1340103070|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340103070|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340103070|
+1340103070|----------------------
+1340103070|5433 files in pk3 files
+1340103070|Loading vm file vm/qagame.qvm...
+1340103070|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1340103070|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1340103070|... trying pak6-patch088/qagame
+1340103070|... trying qagame
+1340103070|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1340103070|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1340103070|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1340103070|------- Game Initialization -------
+1340103070|gamename: baseoa
+1340103070|gamedate: Apr  1 2012
+1340103070|------------------------------------------------------------
+1340103070|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_dm1\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-19 12:51:10
+1340103070|Info: ServerInfo length: 788 of 1024
+1340103070|Gametype changed, clearing session data.
+1340103070|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1340103070|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1340103070|0 teams with 0 entities
+1340103070|19 items registered
+1340103070|-----------------------------------
+1340103070|------- BotLib Initialization -------
+1340103070|loaded weapons.c
+1340103070|loaded items.c
+1340103070|loaded syn.c
+1340103070|loaded rnd.c
+1340103070|loaded match.c
+1340103070|loaded rchat.c
+1340103070|------------ Map Loading ------------
+1340103070|trying to load maps/oa_dm1.aas
+1340103070|loaded maps/oa_dm1.aas
+1340103070|found 30 level items
+1340103070|-------------------------------------
+1340103070|33 bots parsed
+1340103070|58 arenas parsed
+1340103070|AAS initialized.
+1340103070|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340103070|ClientConnect: 2
+1340103070|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340103070|ClientConnect: 3
+1340103070|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340103070|ClientConnect: 4
+1340103070|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340103070|ClientConnect: 5
+1340103070|ClientUserinfoChanged: 6 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340103070|ClientConnect: 6
+1340103070|-----------------------------------
+1340103071|ClientUserinfoChanged: 3 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340103071|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1340103071|broadcast: print "Tamas^7 entered the game\n"
+1340103071|ClientBegin: 3
+1340103072|ClientUserinfoChanged: 5 n\TT\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0FF9D843C712925CF1023CDDE010CD83
+1340103072|Playerstore: Nothing to restore. Guid: 0FF9D843C712925CF1023CDDE010CD83
+1340103072|broadcast: print "TT^7 entered the game\n"
+1340103072|ClientBegin: 5
+1340103072|ClientUserinfoChanged: 4 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340103072|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1340103072|broadcast: print "Enrique^7 entered the game\n"
+1340103072|ClientBegin: 4
+1340103073|ClientUserinfoChanged: 6 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340103073|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1340103073|broadcast: print "Rolph^7 entered the game\n"
+1340103073|ClientBegin: 6
+1340103074|Item: 6 ammo_rockets
+1340103074|ClientUserinfoChanged: 2 n\Gerb\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7A788D51E4ED819681A5D70F9CF0BBFB
+1340103074|Playerstore: Nothing to restore. Guid: 7A788D51E4ED819681A5D70F9CF0BBFB
+1340103074|broadcast: print "Gerb^7 entered the game\n"
+1340103074|ClientBegin: 2
+1340103074|Item: 4 weapon_rocketlauncher
+1340103076|Item: 3 weapon_grenadelauncher
+1340103077|Item: 3 weapon_rocketlauncher
+1340103077|Item: 6 item_armor_shard
+1340103078|Item: 6 item_armor_shard
+1340103078|Item: 6 item_armor_shard
+1340103078|Item: 6 item_armor_shard
+1340103078|Item: 4 weapon_shotgun
+1340103078|Item: 6 item_armor_shard
+1340103078|Item: 6 item_armor_shard
+1340103079|Item: 6 item_armor_shard
+1340103079|Item: 6 item_armor_shard
+1340103079|Item: 5 weapon_lightning
+1340103081|Kill: 2 3 2: Gerb killed Tamas by MOD_GAUNTLET
+1340103081|PlayerScore: 2 1: Gerb now has 1 points
+1340103081|Challenge: 2 201 1: Client 2 got award 201
+1340103081|Award: 2 0: Gerb gained the GAUNTLET award!
+1340103081|Challenge: 2 201 1: Client 2 got award 201
+1340103081|Challenge: 2 1 1: Client 2 got award 1
+1340103081|Challenge: 3 2 1: Client 3 got award 2
+1340103081|Item: 2 weapon_rocketlauncher
+1340103082|Item: 4 item_health_large
+1340103082|Item: 2 weapon_grenadelauncher
+1340103082|Kill: 6 5 3: Rolph killed TT by MOD_MACHINEGUN
+1340103082|PlayerScore: 6 1: Rolph now has 1 points
+1340103082|Challenge: 6 202 1: Client 6 got award 202
+1340103082|Challenge: 6 1 1: Client 6 got award 1
+1340103082|Challenge: 5 2 1: Client 5 got award 2
+1340103083|Item: 2 weapon_rocketlauncher
+1340103084|Item: 6 weapon_lightning
+1340103085|Item: 3 ammo_cells
+1340103086|Item: 5 weapon_rocketlauncher
+1340103088|Kill: 5 3 7: TT killed Tamas by MOD_ROCKET_SPLASH
+1340103088|PlayerScore: 5 1: TT now has 1 points
+1340103088|Challenge: 5 205 1: Client 5 got award 205
+1340103088|Challenge: 5 1 1: Client 5 got award 1
+1340103088|Challenge: 3 2 1: Client 3 got award 2
+1340103090|Item: 5 item_health
+1340103090|Kill: 4 6 1: Enrique killed Rolph by MOD_SHOTGUN
+1340103090|PlayerScore: 4 1: Enrique now has 1 points
+1340103090|Challenge: 4 203 1: Client 4 got award 203
+1340103090|Challenge: 4 1 1: Client 4 got award 1
+1340103090|Challenge: 6 2 1: Client 6 got award 2
+1340103091|Item: 3 ammo_rockets
+1340103092|Kill: 4 2 1: Enrique killed Gerb by MOD_SHOTGUN
+1340103092|PlayerScore: 4 2: Enrique now has 2 points
+1340103092|Challenge: 4 203 1: Client 4 got award 203
+1340103092|Challenge: 4 1 1: Client 4 got award 1
+1340103092|Challenge: 2 2 1: Client 2 got award 2
+1340103092|Award: 4 1: Enrique gained the EXCELLENT award!
+1340103092|Challenge: 4 302 1: Client 4 got award 302
+1340103094|Kill: 2 6 2: Gerb killed Rolph by MOD_GAUNTLET
+1340103094|PlayerScore: 2 2: Gerb now has 2 points
+1340103094|Challenge: 2 201 1: Client 2 got award 201
+1340103094|Award: 2 0: Gerb gained the GAUNTLET award!
+1340103094|Challenge: 2 201 1: Client 2 got award 201
+1340103094|Challenge: 2 1 1: Client 2 got award 1
+1340103094|Challenge: 6 2 1: Client 6 got award 2
+1340103095|Item: 4 item_health_large
+1340103096|Item: 3 ammo_grenades
+1340103097|Item: 4 weapon_lightning
+1340103097|Item: 2 weapon_rocketlauncher
+1340103097|Item: 5 weapon_plasmagun
+1340103099|Kill: 5 2 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1340103099|PlayerScore: 5 2: TT now has 2 points
+1340103099|Challenge: 5 205 1: Client 5 got award 205
+1340103099|Challenge: 5 1 1: Client 5 got award 1
+1340103099|Challenge: 2 2 1: Client 2 got award 2
+1340103100|Item: 4 weapon_shotgun
+1340103101|Item: 5 weapon_grenadelauncher
+1340103102|Item: 5 item_health
+1340103103|Kill: 4 6 11: Enrique killed Rolph by MOD_LIGHTNING
+1340103103|PlayerScore: 4 3: Enrique now has 3 points
+1340103103|Challenge: 4 206 1: Client 4 got award 206
+1340103103|Challenge: 4 1 1: Client 4 got award 1
+1340103103|Challenge: 6 2 1: Client 6 got award 2
+1340103103|Item: 5 weapon_rocketlauncher
+1340103105|Kill: 3 2 2: Tamas killed Gerb by MOD_GAUNTLET
+1340103105|PlayerScore: 3 1: Tamas now has 1 points
+1340103105|Challenge: 3 201 1: Client 3 got award 201
+1340103105|Award: 3 0: Tamas gained the GAUNTLET award!
+1340103105|Challenge: 3 201 1: Client 3 got award 201
+1340103105|Challenge: 3 1 1: Client 3 got award 1
+1340103105|Challenge: 2 2 1: Client 2 got award 2
+1340103105|Kill: 5 3 7: TT killed Tamas by MOD_ROCKET_SPLASH
+1340103105|PlayerScore: 5 3: TT now has 3 points
+1340103105|Challenge: 5 205 1: Client 5 got award 205
+1340103105|Challenge: 5 1 1: Client 5 got award 1
+1340103105|Challenge: 3 2 1: Client 3 got award 2
+1340103106|Item: 5 weapon_grenadelauncher
+1340103107|Item: 4 weapon_lightning
+1340103109|Item: 2 weapon_rocketlauncher
+1340103109|Item: 6 weapon_plasmagun
+1340103110|Item: 4 weapon_shotgun
+1340103111|Item: 6 weapon_rocketlauncher
+1340103114|Kill: 3 6 2: Tamas killed Rolph by MOD_GAUNTLET
+1340103114|PlayerScore: 3 2: Tamas now has 2 points
+1340103114|Challenge: 3 201 1: Client 3 got award 201
+1340103114|Award: 3 0: Tamas gained the GAUNTLET award!
+1340103114|Challenge: 3 201 1: Client 3 got award 201
+1340103114|Challenge: 3 1 1: Client 3 got award 1
+1340103114|Challenge: 6 2 1: Client 6 got award 2
+1340103114|Item: 3 weapon_plasmagun
+1340103115|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1340103115|PlayerScore: 5 4: TT now has 4 points
+1340103115|Challenge: 5 205 1: Client 5 got award 205
+1340103115|Challenge: 5 1 1: Client 5 got award 1
+1340103115|Challenge: 4 2 1: Client 4 got award 2
+1340103116|Item: 5 weapon_lightning
+1340103116|Kill: 2 5 2: Gerb killed TT by MOD_GAUNTLET
+1340103116|PlayerScore: 2 3: Gerb now has 3 points
+1340103116|Challenge: 2 201 1: Client 2 got award 201
+1340103116|Award: 2 0: Gerb gained the GAUNTLET award!
+1340103116|Challenge: 2 201 1: Client 2 got award 201
+1340103116|Challenge: 2 1 1: Client 2 got award 1
+1340103116|Challenge: 5 2 1: Client 5 got award 2
+1340103116|Item: 2 weapon_rocketlauncher
+1340103116|Item: 3 weapon_plasmagun
+1340103117|Item: 5 ammo_rockets
+1340103118|Kill: 4 3 3: Enrique killed Tamas by MOD_MACHINEGUN
+1340103118|PlayerScore: 4 4: Enrique now has 4 points
+1340103118|Challenge: 4 202 1: Client 4 got award 202
+1340103118|Challenge: 4 1 1: Client 4 got award 1
+1340103118|Challenge: 3 2 1: Client 3 got award 2
+1340103118|Item: 5 item_armor_shard
+1340103118|Item: 5 item_armor_shard
+1340103118|Item: 5 item_armor_shard
+1340103119|Item: 5 item_armor_shard
+1340103119|Item: 5 item_armor_shard
+1340103119|Item: 4 weapon_grenadelauncher
+1340103119|Item: 4 weapon_plasmagun
+1340103120|Item: 2 item_health_large
+1340103120|Item: 5 weapon_lightning
+1340103121|Item: 6 item_armor_shard
+1340103121|Item: 6 item_armor_shard
+1340103121|Item: 6 item_armor_shard
+1340103122|Item: 6 item_quad
+1340103123|Item: 4 weapon_rocketlauncher
+1340103124|Kill: 5 2 11: TT killed Gerb by MOD_LIGHTNING
+1340103124|PlayerScore: 5 5: TT now has 5 points
+1340103124|Challenge: 5 206 1: Client 5 got award 206
+1340103124|Challenge: 5 1 1: Client 5 got award 1
+1340103124|Challenge: 2 2 1: Client 2 got award 2
+1340103126|Item: 4 weapon_grenadelauncher
+1340103126|Item: 2 ammo_bullets
+1340103126|Kill: 5 6 11: TT killed Rolph by MOD_LIGHTNING
+1340103126|PlayerScore: 5 6: TT now has 6 points
+1340103126|Challenge: 5 206 1: Client 5 got award 206
+1340103126|Challenge: 5 1 1: Client 5 got award 1
+1340103126|Challenge: 6 2 1: Client 6 got award 2
+1340103126|Challenge: 5 406 1: Client 5 got award 406
+1340103126|Award: 5 1: TT gained the EXCELLENT award!
+1340103126|Challenge: 5 302 1: Client 5 got award 302
+1340103127|Item: 5 item_quad
+1340103127|Item: 3 ammo_cells
+1340103128|Item: 5 weapon_lightning
+1340103130|Item: 3 weapon_rocketlauncher
+1340103130|Kill: 4 3 7: Enrique killed Tamas by MOD_ROCKET_SPLASH
+1340103130|PlayerScore: 4 5: Enrique now has 5 points
+1340103130|Challenge: 4 205 1: Client 4 got award 205
+1340103130|Challenge: 4 1 1: Client 4 got award 1
+1340103130|Challenge: 3 2 1: Client 3 got award 2
+1340103131|Item: 4 weapon_rocketlauncher
+1340103132|Item: 6 item_invis
+1340103132|Kill: 5 2 11: TT killed Gerb by MOD_LIGHTNING
+1340103132|PlayerScore: 5 7: TT now has 7 points
+1340103132|Challenge: 5 206 1: Client 5 got award 206
+1340103132|Challenge: 5 1 1: Client 5 got award 1
+1340103132|Challenge: 2 2 1: Client 2 got award 2
+1340103132|Challenge: 5 401 1: Client 5 got award 401
+1340103134|Item: 6 item_health_large
+1340103135|Item: 4 weapon_grenadelauncher
+1340103136|Item: 5 weapon_lightning
+1340103137|Kill: 5 3 11: TT killed Tamas by MOD_LIGHTNING
+1340103137|PlayerScore: 5 8: TT now has 8 points
+1340103137|Challenge: 5 206 1: Client 5 got award 206
+1340103137|Challenge: 5 1 1: Client 5 got award 1
+1340103137|Challenge: 3 2 1: Client 3 got award 2
+1340103137|Challenge: 5 401 1: Client 5 got award 401
+1340103138|Kill: 6 5 3: Rolph killed TT by MOD_MACHINEGUN
+1340103138|PlayerScore: 6 2: Rolph now has 2 points
+1340103138|Challenge: 6 202 1: Client 6 got award 202
+1340103138|Challenge: 6 1 1: Client 6 got award 1
+1340103138|Challenge: 5 2 1: Client 5 got award 2
+1340103138|Challenge: 6 406 1: Client 6 got award 406
+1340103138|Challenge: 6 404 1: Client 6 got award 404
+1340103138|Item: 6 item_quad
+1340103139|Item: 6 weapon_lightning
+1340103141|Kill: 4 6 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1340103141|PlayerScore: 4 6: Enrique now has 6 points
+1340103141|Challenge: 4 205 1: Client 4 got award 205
+1340103141|Challenge: 4 1 1: Client 4 got award 1
+1340103141|Challenge: 6 2 1: Client 6 got award 2
+1340103141|Challenge: 4 406 1: Client 4 got award 406
+1340103141|Challenge: 4 409 1: Client 4 got award 409
+1340103141|Challenge: 4 412 1: Client 4 got award 412
+1340103142|Item: 5 weapon_grenadelauncher
+1340103143|Item: 5 weapon_rocketlauncher
+1340103143|Item: 3 item_armor_shard
+1340103143|Item: 3 item_armor_shard
+1340103143|Kill: 4 2 6: Enrique killed Gerb by MOD_ROCKET
+1340103143|PlayerScore: 4 7: Enrique now has 7 points
+1340103143|Challenge: 4 205 1: Client 4 got award 205
+1340103143|Challenge: 4 1 1: Client 4 got award 1
+1340103143|Challenge: 2 2 1: Client 2 got award 2
+1340103143|Award: 4 1: Enrique gained the EXCELLENT award!
+1340103143|Challenge: 4 302 1: Client 4 got award 302
+1340103145|Item: 3 weapon_lightning
+1340103145|Kill: 5 6 7: TT killed Rolph by MOD_ROCKET_SPLASH
+1340103145|PlayerScore: 5 9: TT now has 9 points
+1340103145|Challenge: 5 205 1: Client 5 got award 205
+1340103145|Challenge: 5 1 1: Client 5 got award 1
+1340103145|Challenge: 6 2 1: Client 6 got award 2
+1340103146|Item: 2 weapon_rocketlauncher
+1340103146|Item: 3 item_invis
+1340103147|Item: 3 item_quad
+1340103147|Item: 5 weapon_grenadelauncher
+1340103150|Item: 5 item_health
+1340103150|Kill: 3 4 11: Tamas killed Enrique by MOD_LIGHTNING
+1340103150|PlayerScore: 3 3: Tamas now has 3 points
+1340103150|Challenge: 3 206 1: Client 3 got award 206
+1340103150|Challenge: 3 1 1: Client 3 got award 1
+1340103150|Challenge: 4 2 1: Client 4 got award 2
+1340103150|Challenge: 3 401 1: Client 3 got award 401
+1340103150|Challenge: 3 404 1: Client 3 got award 404
+1340103150|Challenge: 3 405 1: Client 3 got award 405
+1340103151|Item: 6 item_armor_shard
+1340103151|Item: 5 weapon_rocketlauncher
+1340103151|Item: 6 item_armor_shard
+1340103152|Item: 6 item_armor_shard
+1340103152|Item: 3 weapon_rocketlauncher
+1340103152|Item: 6 item_armor_shard
+1340103152|Item: 6 item_armor_shard
+1340103153|Kill: 5 2 7: TT killed Gerb by MOD_ROCKET_SPLASH
+1340103153|PlayerScore: 5 10: TT now has 10 points
+1340103153|Challenge: 5 205 1: Client 5 got award 205
+1340103153|Challenge: 5 1 1: Client 5 got award 1
+1340103153|Challenge: 2 2 1: Client 2 got award 2
+1340103153|Item: 5 item_health
+1340103156|Item: 6 weapon_shotgun
+1340103156|Item: 5 weapon_grenadelauncher
+1340103156|Item: 4 weapon_lightning
+1340103158|Kill: 4 6 11: Enrique killed Rolph by MOD_LIGHTNING
+1340103158|PlayerScore: 4 8: Enrique now has 8 points
+1340103158|Challenge: 4 206 1: Client 4 got award 206
+1340103158|Challenge: 4 1 1: Client 4 got award 1
+1340103158|Challenge: 6 2 1: Client 6 got award 2
+1340103159|Item: 4 weapon_shotgun
+1340103161|Item: 2 weapon_rocketlauncher
+1340103161|Kill: 2 5 6: Gerb killed TT by MOD_ROCKET
+1340103161|PlayerScore: 2 4: Gerb now has 4 points
+1340103161|Challenge: 2 205 1: Client 2 got award 205
+1340103161|Challenge: 2 1 1: Client 2 got award 1
+1340103161|Challenge: 5 2 1: Client 5 got award 2
+1340103161|Kill: 2 2 7: Gerb killed Gerb by MOD_ROCKET_SPLASH
+1340103161|PlayerScore: 2 3: Gerb now has 3 points
+1340103161|Kill: 3 4 6: Tamas killed Enrique by MOD_ROCKET
+1340103161|PlayerScore: 3 4: Tamas now has 4 points
+1340103161|Challenge: 3 205 1: Client 3 got award 205
+1340103161|Challenge: 3 1 1: Client 3 got award 1
+1340103161|Challenge: 4 2 1: Client 4 got award 2
+1340103161|Challenge: 3 404 1: Client 3 got award 404
+1340103162|Item: 3 item_health_large
+1340103162|Item: 5 ammo_rockets
+1340103163|Item: 3 weapon_lightning
+1340103163|Item: 5 item_armor_shard
+1340103164|Item: 3 weapon_lightning
+1340103164|Item: 4 ammo_shells
+1340103166|Item: 2 weapon_rocketlauncher
+1340103166|Item: 2 weapon_rocketlauncher
+1340103166|Item: 2 weapon_rocketlauncher
+1340103167|Kill: 6 5 3: Rolph killed TT by MOD_MACHINEGUN
+1340103167|PlayerScore: 6 3: Rolph now has 3 points
+1340103167|Challenge: 6 202 1: Client 6 got award 202
+1340103167|Challenge: 6 1 1: Client 6 got award 1
+1340103167|Challenge: 5 2 1: Client 5 got award 2
+1340103167|Item: 4 weapon_shotgun
+1340103168|Item: 2 weapon_grenadelauncher
+1340103171|Kill: 4 3 1: Enrique killed Tamas by MOD_SHOTGUN
+1340103171|PlayerScore: 4 9: Enrique now has 9 points
+1340103171|Challenge: 4 203 1: Client 4 got award 203
+1340103171|Challenge: 4 1 1: Client 4 got award 1
+1340103171|Challenge: 3 2 1: Client 3 got award 2
+1340103172|Item: 5 weapon_plasmagun
+1340103174|Kill: 4 6 1: Enrique killed Rolph by MOD_SHOTGUN
+1340103174|PlayerScore: 4 10: Enrique now has 10 points
+1340103174|Challenge: 4 203 1: Client 4 got award 203
+1340103174|Challenge: 4 1 1: Client 4 got award 1
+1340103174|Challenge: 6 2 1: Client 6 got award 2
+1340103174|Kill: 5 2 8: TT killed Gerb by MOD_PLASMA
+1340103174|PlayerScore: 5 11: TT now has 11 points
+1340103174|Challenge: 5 207 1: Client 5 got award 207
+1340103174|Challenge: 5 1 1: Client 5 got award 1
+1340103174|Challenge: 2 2 1: Client 2 got award 2
+1340103174|Item: 3 weapon_shotgun
+1340103174|Item: 4 weapon_lightning
+1340103175|Kill: 3 4 1: Tamas killed Enrique by MOD_SHOTGUN
+1340103175|PlayerScore: 3 5: Tamas now has 5 points
+1340103175|Challenge: 3 203 1: Client 3 got award 203
+1340103175|Challenge: 3 1 1: Client 3 got award 1
+1340103175|Challenge: 4 2 1: Client 4 got award 2
+1340103175|Item: 3 weapon_lightning
+1340103175|Item: 5 weapon_rocketlauncher
+1340103176|Item: 2 item_armor_shard
+1340103177|Item: 2 item_armor_shard
+1340103177|Item: 2 item_armor_shard
+1340103177|Item: 2 item_armor_shard
+1340103177|Item: 2 item_armor_shard
+1340103177|Item: 2 item_armor_shard
+1340103178|Item: 2 item_armor_shard
+1340103180|Item: 6 weapon_lightning
+1340103181|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1340103181|PlayerScore: 5 12: TT now has 12 points
+1340103181|Challenge: 5 205 1: Client 5 got award 205
+1340103181|Challenge: 5 1 1: Client 5 got award 1
+1340103181|Challenge: 4 2 1: Client 4 got award 2
+1340103181|Item: 2 weapon_shotgun
+1340103182|Kill: 3 2 11: Tamas killed Gerb by MOD_LIGHTNING
+1340103182|PlayerScore: 3 6: Tamas now has 6 points
+1340103182|Challenge: 3 206 1: Client 3 got award 206
+1340103182|Challenge: 3 1 1: Client 3 got award 1
+1340103182|Challenge: 2 2 1: Client 2 got award 2
+1340103184|Item: 4 ammo_rockets
+1340103186|Kill: 5 4 7: TT killed Enrique by MOD_ROCKET_SPLASH
+1340103186|PlayerScore: 5 13: TT now has 13 points
+1340103186|Challenge: 5 205 1: Client 5 got award 205
+1340103186|Challenge: 5 1 1: Client 5 got award 1
+1340103186|Challenge: 4 2 1: Client 4 got award 2
+1340103187|Kill: 3 6 1: Tamas killed Rolph by MOD_SHOTGUN
+1340103187|PlayerScore: 3 7: Tamas now has 7 points
+1340103187|Challenge: 3 203 1: Client 3 got award 203
+1340103187|Challenge: 3 1 1: Client 3 got award 1
+1340103187|Challenge: 6 2 1: Client 6 got award 2
+1340103189|Item: 5 item_armor_shard
+1340103190|Item: 3 weapon_lightning
+1340103190|Item: 2 item_health_large
+1340103191|Kill: 5 2 6: TT killed Gerb by MOD_ROCKET
+1340103191|PlayerScore: 5 14: TT now has 14 points
+1340103191|Challenge: 5 205 1: Client 5 got award 205
+1340103191|Challenge: 5 1 1: Client 5 got award 1
+1340103191|Challenge: 2 2 1: Client 2 got award 2
+1340103191|Item: 4 ammo_grenades
+1340103192|Item: 6 weapon_plasmagun
+1340103192|Kill: 3 5 11: Tamas killed TT by MOD_LIGHTNING
+1340103192|PlayerScore: 3 8: Tamas now has 8 points
+1340103192|Challenge: 3 206 1: Client 3 got award 206
+1340103192|Challenge: 3 1 1: Client 3 got award 1
+1340103192|Challenge: 5 2 1: Client 5 got award 2
+1340103195|Item: 5 weapon_rocketlauncher
+1340103197|Item: 6 weapon_rocketlauncher
+1340103198|Kill: 5 3 6: TT killed Tamas by MOD_ROCKET
+1340103198|PlayerScore: 5 15: TT now has 15 points
+1340103198|Exit: Fraglimit hit.
+1340103198|score: 15  ping: 3  client: 5 TT
+1340103198|score: 10  ping: 3  client: 4 Enrique
+1340103198|score: 8  ping: 0  client: 3 Tamas
+1340103198|score: 3  ping: 0  client: 2 Gerb
+1340103198|score: 3  ping: 0  client: 6 Rolph
+1340103198|broadcast: print "TT^7 hit the fraglimit.\n"
+1340103198|Challenge: 5 205 1: Client 5 got award 205
+1340103198|Challenge: 5 1 1: Client 5 got award 1
+1340103198|Challenge: 3 2 1: Client 3 got award 2
+1340103204|broadcast: print "Rolph^7 disconnected\n"
+1340103204|Playerstore: Stored player with guid: 8D9D8FAD284359ED36F095C64975783B in 0
+1340103204|ClientDisconnect: 6
+1340103204|broadcast: print "TT^7 disconnected\n"
+1340103204|Playerstore: Stored player with guid: 0FF9D843C712925CF1023CDDE010CD83 in 1
+1340103204|ClientDisconnect: 5
+1340103204|broadcast: print "Gerb^7 disconnected\n"
+1340103204|Playerstore: Stored player with guid: 7A788D51E4ED819681A5D70F9CF0BBFB in 2
+1340103204|ClientDisconnect: 2
+1340103205|g_gametype will be changed upon restarting.
+1340103205|==== ShutdownGame ====
+1340103205|ShutdownGame:
+1340103205|------------------------------------------------------------
+1340103205|AAS shutdown.
+1340103205|------ Server Initialization ------
+1340103205|Server: pul1ctf
+1340103205|Hunk_Clear: reset the hunk ok
+1340103205|----- FS_Startup -----
+1340103205|Current search path:
+1340103205|/home/jeroen/.openarena/baseoa
+1340103205|/usr/lib/openarena-server/baseoa
+1340103205|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340103205|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340103205|
+1340103205|

@@ -1,0 +1,2534 @@
+1340187863|Client 0 connecting with 0 challenge ping
+1340187863|ClientUserinfoChanged: 2 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340187863|ClientConnect: 2
+1340187863|broadcast: print "Tamas^7 connected\n"
+1340187864|ClientUserinfoChanged: 2 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340187864|ClientBegin: 2
+1340187867|ClientUserinfoChanged: 2 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1340187867|ClientUserinfoChanged: 2 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1340187867|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1340187867|Item: 2 weapon_shotgun
+1340187867|broadcast: print "Tamas^7 entered the game\n"
+1340187867|ClientBegin: 2
+1340187873|Item: 2 weapon_railgun
+1340187880|Item: 2 item_armor_combat
+1340187880|Item: 2 item_health_small
+1340187890|Item: 2 ammo_lightning
+1340187898|Client 1 connecting with 0 challenge ping
+1340187898|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340187898|ClientConnect: 3
+1340187898|broadcast: print "Rolph^7 connected\n"
+1340187903|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340187903|ClientBegin: 3
+1340187910|ClientUserinfoChanged: 3 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\8D9D8FAD284359ED36F095C64975783B
+1340187910|ClientUserinfoChanged: 3 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\8D9D8FAD284359ED36F095C64975783B
+1340187910|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1340187910|Item: 3 weapon_shotgun
+1340187910|broadcast: print "Rolph^7 entered the game\n"
+1340187910|ClientBegin: 3
+1340187914|Item: 3 item_armor_shard
+1340187921|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340187921|PlayerScore: 2 1: Tamas now has 1 points
+1340187921|Challenge: 2 208 1: Client 2 got award 208
+1340187921|Challenge: 2 1 1: Client 2 got award 1
+1340187921|Challenge: 3 2 1: Client 3 got award 2
+1340187921|Award: 2 2: Tamas gained the IMPRESSIVE award!
+1340187921|Challenge: 2 301 1: Client 2 got award 301
+1340187923|Item: 3 weapon_shotgun
+1340187924|Client 2 connecting with 40 challenge ping
+1340187924|ClientUserinfoChanged: 4 n\Thz\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340187924|ClientConnect: 4
+1340187924|broadcast: print "Thz^7 connected\n"
+1340187924|Item: 2 team_CTF_redflag
+1340187924|broadcast: print "Tamas^7 got the RED flag!\n"
+1340187924|CTF: 2 1 0: Tamas got the RED flag!
+1340187924|PlayerScore: 2 1: Tamas now has 1 points
+1340187926|Item: 3 item_armor_combat
+1340187926|Item: 3 item_health_small
+1340187926|Item: 3 item_health_small
+1340187926|Item: 2 item_armor_combat
+1340187930|ClientUserinfoChanged: 4 n\Thz\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340187930|ClientBegin: 4
+1340187931|Item: 2 item_health
+1340187933|Item: 2 ammo_rockets
+1340187933|Item: 3 item_armor_combat
+1340187934|ClientUserinfoChanged: 4 n\Thz\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340187934|Playerstore: Nothing to restore. Guid: 2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340187934|Item: 4 weapon_shotgun
+1340187934|broadcast: print "Thz^7 entered the game\n"
+1340187934|ClientBegin: 4
+1340187936|Item: 4 weapon_rocketlauncher
+1340187937|Item: 4 ammo_shells
+1340187939|Item: 3 team_CTF_blueflag
+1340187939|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340187939|CTF: 3 2 0: Rolph got the BLUE flag!
+1340187939|PlayerScore: 3 0: Rolph now has 0 points
+1340187947|Item: 3 item_health_mega
+1340187951|Item: 3 weapon_railgun
+1340187958|Item: 3 ammo_bullets
+1340187958|Item: 4 weapon_rocketlauncher
+1340187959|Item: 4 ammo_shells
+1340187962|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340187962|PlayerScore: 4 1: Thz now has 1 points
+1340187962|Challenge: 4 205 1: Client 4 got award 205
+1340187962|Challenge: 4 1 1: Client 4 got award 1
+1340187962|Challenge: 3 2 1: Client 3 got award 2
+1340187962|PlayerScore: 4 3: Thz now has 3 points
+1340187962|broadcast: print "Thz^7 fragged RED's flag carrier!\n"
+1340187962|CTF: 4 1 3: Thz fragged RED's flag carrier!
+1340187963|Item: 4 team_CTF_blueflag
+1340187963|broadcast: print "Thz^7 returned the BLUE flag!\n"
+1340187963|PlayerScore: 4 4: Thz now has 4 points
+1340187963|CTF: 4 2 2: Thz returned the BLUE flag!
+1340187966|Item: 2 team_CTF_blueflag
+1340187966|broadcast: print "Tamas^7 captured the RED flag!\n"
+1340187966|CTF: 2 1 1: Tamas captured the RED flag!
+1340187966|Award: 2 4: Tamas gained the CAPTURE award!
+1340187966|Challenge: 2 303 1: Client 2 got award 303
+1340187966|PlayerScore: 2 6: Tamas now has 6 points
+1340187966|PlayerScore: 4 4: Thz now has 4 points
+1340187966|PlayerScore: 4 5: Thz now has 5 points
+1340187966|Challenge: 4 304 1: Client 4 got award 304
+1340187966|Award: 4 5: Thz gained the ASSIST award!
+1340187966|PlayerScore: 4 7: Thz now has 7 points
+1340187966|Challenge: 4 304 1: Client 4 got award 304
+1340187966|Award: 4 5: Thz gained the ASSIST award!
+1340187968|Item: 2 item_armor_combat
+1340187969|Item: 4 team_CTF_redflag
+1340187969|broadcast: print "Thz^7 got the RED flag!\n"
+1340187969|CTF: 4 1 0: Thz got the RED flag!
+1340187969|PlayerScore: 4 7: Thz now has 7 points
+1340187972|Item: 4 item_armor_combat
+1340187975|Item: 3 weapon_shotgun
+1340187980|Item: 2 weapon_rocketlauncher
+1340187984|Item: 4 team_CTF_blueflag
+1340187984|broadcast: print "Thz^7 captured the RED flag!\n"
+1340187984|CTF: 4 1 1: Thz captured the RED flag!
+1340187984|Award: 4 4: Thz gained the CAPTURE award!
+1340187984|Challenge: 4 303 1: Client 4 got award 303
+1340187984|PlayerScore: 4 12: Thz now has 12 points
+1340187984|PlayerScore: 2 6: Tamas now has 6 points
+1340187988|Item: 2 weapon_railgun
+1340187999|Item: 3 item_health_mega
+1340188000|Item: 2 item_health
+1340188001|Item: 3 ammo_lightning
+1340188004|Item: 2 item_armor_combat
+1340188009|Item: 3 item_health_small
+1340188009|Item: 3 item_armor_combat
+1340188009|Item: 3 item_health_small
+1340188009|Item: 2 team_CTF_redflag
+1340188009|broadcast: print "Tamas^7 got the RED flag!\n"
+1340188009|CTF: 2 1 0: Tamas got the RED flag!
+1340188009|PlayerScore: 2 6: Tamas now has 6 points
+1340188010|Item: 4 item_armor_combat
+1340188010|Item: 3 weapon_grenadelauncher
+1340188016|Item: 3 weapon_railgun
+1340188018|Item: 4 weapon_rocketlauncher
+1340188037|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340188037|PlayerScore: 2 7: Tamas now has 7 points
+1340188037|Challenge: 2 208 1: Client 2 got award 208
+1340188037|Challenge: 2 1 1: Client 2 got award 1
+1340188037|Challenge: 3 2 1: Client 3 got award 2
+1340188037|PlayerScore: 2 9: Tamas now has 9 points
+1340188037|Challenge: 2 305 1: Client 2 got award 305
+1340188037|Award: 2 3: Tamas gained the DEFENCE award!
+1340188038|Item: 3 weapon_shotgun
+1340188040|Item: 2 team_CTF_blueflag
+1340188040|broadcast: print "Tamas^7 captured the RED flag!\n"
+1340188040|CTF: 2 1 1: Tamas captured the RED flag!
+1340188040|Award: 2 4: Tamas gained the CAPTURE award!
+1340188040|Challenge: 2 303 1: Client 2 got award 303
+1340188040|PlayerScore: 2 14: Tamas now has 14 points
+1340188040|PlayerScore: 4 12: Thz now has 12 points
+1340188041|Item: 3 item_armor_shard
+1340188041|Item: 3 item_armor_shard
+1340188041|Item: 3 item_armor_shard
+1340188041|Item: 3 item_armor_shard
+1340188042|Item: 3 weapon_lightning
+1340188043|Item: 2 item_armor_combat
+1340188045|Item: 3 item_armor_combat
+1340188047|Item: 4 weapon_rocketlauncher
+1340188049|Item: 4 item_armor_shard
+1340188049|Item: 3 weapon_railgun
+1340188049|Item: 4 item_armor_shard
+1340188049|Item: 4 item_armor_shard
+1340188050|Item: 4 item_armor_shard
+1340188051|Item: 2 item_health_mega
+1340188055|Item: 2 weapon_railgun
+1340188059|Award: 2 2: Tamas gained the IMPRESSIVE award!
+1340188059|Challenge: 2 301 1: Client 2 got award 301
+1340188062|Item: 4 team_CTF_redflag
+1340188062|broadcast: print "Thz^7 got the RED flag!\n"
+1340188062|CTF: 4 1 0: Thz got the RED flag!
+1340188062|PlayerScore: 4 12: Thz now has 12 points
+1340188069|Item: 4 item_health
+1340188078|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340188078|PlayerScore: 2 15: Tamas now has 15 points
+1340188078|Challenge: 2 208 1: Client 2 got award 208
+1340188078|Challenge: 2 1 1: Client 2 got award 1
+1340188078|Challenge: 3 2 1: Client 3 got award 2
+1340188079|Item: 4 team_CTF_blueflag
+1340188079|broadcast: print "Thz^7 captured the RED flag!\n"
+1340188079|CTF: 4 1 1: Thz captured the RED flag!
+1340188079|Award: 4 4: Thz gained the CAPTURE award!
+1340188079|Challenge: 4 303 1: Client 4 got award 303
+1340188079|PlayerScore: 4 17: Thz now has 17 points
+1340188079|PlayerScore: 2 15: Tamas now has 15 points
+1340188080|Item: 3 weapon_shotgun
+1340188081|Item: 2 team_CTF_redflag
+1340188081|broadcast: print "Tamas^7 got the RED flag!\n"
+1340188081|CTF: 2 1 0: Tamas got the RED flag!
+1340188081|PlayerScore: 2 15: Tamas now has 15 points
+1340188082|Item: 4 item_armor_combat
+1340188083|Item: 3 weapon_railgun
+1340188084|Item: 2 item_armor_combat
+1340188087|Item: 4 item_health_mega
+1340188094|Kill: 3 2 10: Rolph killed Tamas by MOD_RAILGUN
+1340188094|PlayerScore: 3 1: Rolph now has 1 points
+1340188094|Challenge: 3 208 1: Client 3 got award 208
+1340188094|Challenge: 3 1 1: Client 3 got award 1
+1340188094|Challenge: 2 2 1: Client 2 got award 2
+1340188094|PlayerScore: 3 3: Rolph now has 3 points
+1340188094|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1340188094|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1340188094|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188094|Challenge: 3 301 1: Client 3 got award 301
+1340188096|Item: 2 weapon_shotgun
+1340188097|Item: 3 team_CTF_redflag
+1340188097|broadcast: print "Rolph^7 returned the RED flag!\n"
+1340188097|PlayerScore: 3 4: Rolph now has 4 points
+1340188097|CTF: 3 1 2: Rolph returned the RED flag!
+1340188097|Item: 3 weapon_railgun
+1340188097|Item: 2 weapon_rocketlauncher
+1340188099|Kill: 4 3 7: Thz killed Rolph by MOD_ROCKET_SPLASH
+1340188099|PlayerScore: 4 18: Thz now has 18 points
+1340188099|Challenge: 4 205 1: Client 4 got award 205
+1340188099|Challenge: 4 1 1: Client 4 got award 1
+1340188099|Challenge: 3 2 1: Client 3 got award 2
+1340188102|Item: 3 weapon_shotgun
+1340188106|Item: 3 weapon_railgun
+1340188107|Item: 2 weapon_railgun
+1340188109|Item: 4 weapon_rocketlauncher
+1340188115|Item: 2 weapon_railgun
+1340188115|Item: 4 team_CTF_redflag
+1340188115|broadcast: print "Thz^7 got the RED flag!\n"
+1340188115|CTF: 4 1 0: Thz got the RED flag!
+1340188115|PlayerScore: 4 18: Thz now has 18 points
+1340188118|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188118|Challenge: 3 301 1: Client 3 got award 301
+1340188123|Item: 4 item_health_mega
+1340188130|Kill: 3 4 10: Rolph killed Thz by MOD_RAILGUN
+1340188130|PlayerScore: 3 5: Rolph now has 5 points
+1340188130|Challenge: 3 208 1: Client 3 got award 208
+1340188130|Challenge: 3 1 1: Client 3 got award 1
+1340188130|Challenge: 4 2 1: Client 4 got award 2
+1340188130|PlayerScore: 3 7: Rolph now has 7 points
+1340188130|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1340188130|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1340188131|Item: 4 weapon_shotgun
+1340188132|Item: 4 weapon_rocketlauncher
+1340188134|Item: 3 weapon_rocketlauncher
+1340188134|Item: 3 team_CTF_redflag
+1340188134|broadcast: print "Rolph^7 returned the RED flag!\n"
+1340188134|PlayerScore: 3 8: Rolph now has 8 points
+1340188134|CTF: 3 1 2: Rolph returned the RED flag!
+1340188136|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188136|Challenge: 3 301 1: Client 3 got award 301
+1340188137|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188137|PlayerScore: 4 19: Thz now has 19 points
+1340188137|Challenge: 4 205 1: Client 4 got award 205
+1340188137|Challenge: 4 1 1: Client 4 got award 1
+1340188137|Challenge: 3 2 1: Client 3 got award 2
+1340188137|PlayerScore: 4 20: Thz now has 20 points
+1340188137|Challenge: 4 305 1: Client 4 got award 305
+1340188137|Award: 4 3: Thz gained the DEFENCE award!
+1340188138|Item: 2 weapon_railgun
+1340188139|Item: 3 weapon_shotgun
+1340188139|Item: 4 item_health
+1340188139|Item: 4 ammo_bullets
+1340188141|Item: 3 weapon_grenadelauncher
+1340188142|Item: 3 item_armor_combat
+1340188142|Item: 3 item_health_small
+1340188142|Item: 4 weapon_rocketlauncher
+1340188142|Item: 3 item_health_small
+1340188144|Item: 4 item_armor_shard
+1340188144|Item: 4 item_armor_shard
+1340188145|Item: 4 item_armor_shard
+1340188145|Item: 4 item_armor_shard
+1340188150|Item: 3 weapon_railgun
+1340188151|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340188151|PlayerScore: 2 16: Tamas now has 16 points
+1340188151|Challenge: 2 208 1: Client 2 got award 208
+1340188151|Challenge: 2 1 1: Client 2 got award 1
+1340188151|Challenge: 3 2 1: Client 3 got award 2
+1340188151|PlayerScore: 2 17: Tamas now has 17 points
+1340188151|Challenge: 2 305 1: Client 2 got award 305
+1340188151|Award: 2 3: Tamas gained the DEFENCE award!
+1340188151|Award: 2 2: Tamas gained the IMPRESSIVE award!
+1340188151|Challenge: 2 301 1: Client 2 got award 301
+1340188153|Item: 2 weapon_grenadelauncher
+1340188154|Item: 2 item_armor_combat
+1340188154|Item: 3 weapon_shotgun
+1340188154|Item: 3 ammo_shells
+1340188156|Item: 3 weapon_rocketlauncher
+1340188158|Item: 4 weapon_rocketlauncher
+1340188160|Item: 3 item_armor_combat
+1340188164|Item: 2 item_health_large
+1340188165|Item: 2 ammo_lightning
+1340188165|Item: 4 item_health_mega
+1340188174|Item: 2 team_CTF_redflag
+1340188174|broadcast: print "Tamas^7 got the RED flag!\n"
+1340188174|CTF: 2 1 0: Tamas got the RED flag!
+1340188174|PlayerScore: 2 17: Tamas now has 17 points
+1340188176|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188176|PlayerScore: 4 21: Thz now has 21 points
+1340188176|Challenge: 4 205 1: Client 4 got award 205
+1340188176|Challenge: 4 1 1: Client 4 got award 1
+1340188176|Challenge: 3 2 1: Client 3 got award 2
+1340188176|PlayerScore: 4 22: Thz now has 22 points
+1340188176|Challenge: 4 305 1: Client 4 got award 305
+1340188176|Award: 4 3: Thz gained the DEFENCE award!
+1340188177|Item: 4 weapon_rocketlauncher
+1340188178|Item: 4 weapon_rocketlauncher
+1340188178|Item: 3 weapon_shotgun
+1340188180|Item: 4 ammo_bullets
+1340188184|Kill: 3 2 1: Rolph killed Tamas by MOD_SHOTGUN
+1340188184|PlayerScore: 3 9: Rolph now has 9 points
+1340188184|Challenge: 3 203 1: Client 3 got award 203
+1340188184|Challenge: 3 1 1: Client 3 got award 1
+1340188184|Challenge: 2 2 1: Client 2 got award 2
+1340188184|PlayerScore: 3 11: Rolph now has 11 points
+1340188184|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1340188184|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1340188184|Item: 4 weapon_railgun
+1340188184|Kill: 4 3 7: Thz killed Rolph by MOD_ROCKET_SPLASH
+1340188184|PlayerScore: 4 23: Thz now has 23 points
+1340188184|Challenge: 4 205 1: Client 4 got award 205
+1340188184|Challenge: 4 1 1: Client 4 got award 1
+1340188184|Challenge: 3 2 1: Client 3 got award 2
+1340188186|Item: 4 weapon_shotgun
+1340188186|Item: 2 weapon_shotgun
+1340188186|Item: 4 team_CTF_redflag
+1340188186|broadcast: print "Thz^7 got the RED flag!\n"
+1340188186|CTF: 4 1 0: Thz got the RED flag!
+1340188186|PlayerScore: 4 23: Thz now has 23 points
+1340188186|Item: 3 weapon_shotgun
+1340188189|Item: 2 weapon_lightning
+1340188192|Item: 2 item_armor_combat
+1340188196|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188196|PlayerScore: 4 24: Thz now has 24 points
+1340188196|Challenge: 4 205 1: Client 4 got award 205
+1340188196|Challenge: 4 1 1: Client 4 got award 1
+1340188196|Challenge: 3 2 1: Client 3 got award 2
+1340188196|PlayerScore: 4 26: Thz now has 26 points
+1340188196|Challenge: 4 305 1: Client 4 got award 305
+1340188196|Award: 4 3: Thz gained the DEFENCE award!
+1340188197|Item: 2 weapon_railgun
+1340188198|Item: 3 weapon_shotgun
+1340188199|Item: 3 weapon_rocketlauncher
+1340188200|Item: 4 item_health
+1340188200|Item: 2 weapon_shotgun
+1340188201|Item: 3 item_armor_shard
+1340188202|Item: 3 item_armor_shard
+1340188202|Item: 3 item_armor_shard
+1340188202|Item: 3 item_armor_shard
+1340188203|Item: 2 item_health_mega
+1340188204|Item: 4 team_CTF_blueflag
+1340188204|broadcast: print "Thz^7 captured the RED flag!\n"
+1340188204|CTF: 4 1 1: Thz captured the RED flag!
+1340188204|Award: 4 4: Thz gained the CAPTURE award!
+1340188204|Challenge: 4 303 1: Client 4 got award 303
+1340188204|PlayerScore: 4 31: Thz now has 31 points
+1340188204|broadcast: print "Blue hit the capturelimit.\n"
+1340188204|Exit: Capturelimit hit.
+1340188204|red:0  blue:5
+1340188204|score: 31  ping: 3  client: 4 Thz
+1340188204|score: 17  ping: 3  client: 2 Tamas
+1340188204|score: 11  ping: 1  client: 3 Rolph
+1340188204|PlayerScore: 2 17: Tamas now has 17 points
+1340188210|g_gametype will be changed upon restarting.
+1340188210|==== ShutdownGame ====
+1340188210|ShutdownGame:
+1340188210|------------------------------------------------------------
+1340188210|AAS shutdown.
+1340188210|------ Server Initialization ------
+1340188210|Server: oa_dm2
+1340188210|Hunk_Clear: reset the hunk ok
+1340188210|----- FS_Startup -----
+1340188210|Current search path:
+1340188210|/home/jeroen/.openarena/baseoa
+1340188210|/usr/lib/openarena-server/baseoa
+1340188210|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340188210|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340188210|
+1340188210|----------------------
+1340188210|5433 files in pk3 files
+1340188210|Loading vm file vm/qagame.qvm...
+1340188210|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1340188210|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1340188210|... trying pak6-patch088/qagame
+1340188210|... trying qagame
+1340188210|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1340188210|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1340188210|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1340188210|------- Game Initialization -------
+1340188210|gamename: baseoa
+1340188210|gamedate: Apr  1 2012
+1340188210|------------------------------------------------------------
+1340188210|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_dm2\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-20 12:30:10
+1340188210|Info: ServerInfo length: 788 of 1024
+1340188210|Gametype changed, clearing session data.
+1340188210|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1340188210|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1340188210|2 teams with 4 entities
+1340188210|19 items registered
+1340188210|-----------------------------------
+1340188210|------- BotLib Initialization -------
+1340188210|loaded weapons.c
+1340188210|loaded items.c
+1340188210|loaded syn.c
+1340188210|loaded rnd.c
+1340188210|loaded match.c
+1340188210|loaded rchat.c
+1340188210|------------ Map Loading ------------
+1340188210|trying to load maps/oa_dm2.aas
+1340188210|loaded maps/oa_dm2.aas
+1340188210|found 32 level items
+1340188210|-------------------------------------
+1340188210|33 bots parsed
+1340188210|58 arenas parsed
+1340188210|AAS initialized.
+1340188210|ClientUserinfoChanged: 2 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340188210|ClientConnect: 2
+1340188210|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340188210|ClientConnect: 3
+1340188210|ClientUserinfoChanged: 4 n\Thz\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188210|ClientConnect: 4
+1340188210|-----------------------------------
+1340188212|ClientUserinfoChanged: 2 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340188212|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1340188212|broadcast: print "Tamas^7 entered the game\n"
+1340188212|ClientBegin: 2
+1340188214|ClientUserinfoChanged: 4 n\Thz\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188214|Playerstore: Nothing to restore. Guid: 2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188214|broadcast: print "Thz^7 entered the game\n"
+1340188214|ClientBegin: 4
+1340188215|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340188215|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1340188215|broadcast: print "Rolph^7 entered the game\n"
+1340188215|ClientBegin: 3
+1340188216|Item: 2 item_armor_body
+1340188218|Item: 3 ammo_rockets
+1340188222|Item: 3 item_health_mega
+1340188223|Item: 2 weapon_rocketlauncher
+1340188227|Kill: 2 4 6: Tamas killed Thz by MOD_ROCKET
+1340188227|PlayerScore: 2 1: Tamas now has 1 points
+1340188227|Challenge: 2 205 1: Client 2 got award 205
+1340188227|Challenge: 2 1 1: Client 2 got award 1
+1340188227|Challenge: 4 2 1: Client 4 got award 2
+1340188229|Item: 2 item_health
+1340188229|Item: 3 item_armor_body
+1340188235|Kill: 1022 3 4: <world> killed Rolph by MOD_GRENADE
+1340188245|Kill: 4 2 3: Thz killed Tamas by MOD_MACHINEGUN
+1340188245|PlayerScore: 4 1: Thz now has 1 points
+1340188245|Challenge: 4 202 1: Client 4 got award 202
+1340188245|Challenge: 4 1 1: Client 4 got award 1
+1340188245|Challenge: 2 2 1: Client 2 got award 2
+1340188245|Item: 4 weapon_rocketlauncher
+1340188248|Kill: 4 3 7: Thz killed Rolph by MOD_ROCKET_SPLASH
+1340188248|PlayerScore: 4 2: Thz now has 2 points
+1340188248|Challenge: 4 205 1: Client 4 got award 205
+1340188248|Challenge: 4 1 1: Client 4 got award 1
+1340188248|Challenge: 3 2 1: Client 3 got award 2
+1340188248|Award: 4 1: Thz gained the EXCELLENT award!
+1340188248|Challenge: 4 302 1: Client 4 got award 302
+1340188249|Item: 4 item_health
+1340188249|Item: 4 item_health
+1340188251|Item: 4 item_health
+1340188255|Item: 2 holdable_medkit
+1340188255|Item: 4 item_health
+1340188255|Kill: 1022 3 16: <world> killed Rolph by MOD_LAVA
+1340188258|Item: 3 ammo_bullets
+1340188260|Item: 4 weapon_rocketlauncher
+1340188260|Item: 2 weapon_plasmagun
+1340188260|Item: 2 ammo_cells
+1340188262|Kill: 3 4 3: Rolph killed Thz by MOD_MACHINEGUN
+1340188262|PlayerScore: 3 1: Rolph now has 1 points
+1340188262|Challenge: 3 202 1: Client 3 got award 202
+1340188262|Challenge: 3 1 1: Client 3 got award 1
+1340188262|Challenge: 4 2 1: Client 4 got award 2
+1340188263|Item: 3 weapon_rocketlauncher
+1340188264|Item: 2 item_quad
+1340188267|Item: 4 weapon_rocketlauncher
+1340188272|Item: 2 ammo_rockets
+1340188274|Kill: 2 3 9: Tamas killed Rolph by MOD_PLASMA_SPLASH
+1340188274|PlayerScore: 2 2: Tamas now has 2 points
+1340188274|Challenge: 2 207 1: Client 2 got award 207
+1340188274|Challenge: 2 1 1: Client 2 got award 1
+1340188274|Challenge: 3 2 1: Client 3 got award 2
+1340188274|Challenge: 2 401 1: Client 2 got award 401
+1340188274|Item: 4 item_armor_body
+1340188275|Item: 2 weapon_rocketlauncher
+1340188276|Item: 2 item_health_mega
+1340188277|Item: 3 weapon_rocketlauncher
+1340188287|Item: 4 weapon_rocketlauncher
+1340188288|Item: 3 item_health
+1340188288|Item: 3 item_health
+1340188289|Kill: 4 3 7: Thz killed Rolph by MOD_ROCKET_SPLASH
+1340188289|PlayerScore: 4 3: Thz now has 3 points
+1340188289|Challenge: 4 205 1: Client 4 got award 205
+1340188289|Challenge: 4 1 1: Client 4 got award 1
+1340188289|Challenge: 3 2 1: Client 3 got award 2
+1340188292|Kill: 2 4 8: Tamas killed Thz by MOD_PLASMA
+1340188292|PlayerScore: 2 3: Tamas now has 3 points
+1340188292|Challenge: 2 207 1: Client 2 got award 207
+1340188292|Challenge: 2 1 1: Client 2 got award 1
+1340188292|Challenge: 4 2 1: Client 4 got award 2
+1340188292|Challenge: 2 401 1: Client 2 got award 401
+1340188293|Item: 2 weapon_rocketlauncher
+1340188294|Item: 2 weapon_rocketlauncher
+1340188296|Item: 4 weapon_shotgun
+1340188298|Item: 4 ammo_slugs
+1340188301|Item: 2 weapon_rocketlauncher
+1340188302|Item: 2 ammo_bullets
+1340188305|Item: 3 item_armor_body
+1340188306|Item: 4 item_armor_body
+1340188308|Item: 2 weapon_rocketlauncher
+1340188313|Item: 3 weapon_railgun
+1340188315|Item: 4 item_health
+1340188317|Item: 3 item_health
+1340188320|Item: 3 ammo_rockets
+1340188325|Kill: 3 4 2: Rolph killed Thz by MOD_GAUNTLET
+1340188325|PlayerScore: 3 2: Rolph now has 2 points
+1340188325|Challenge: 3 201 1: Client 3 got award 201
+1340188325|Award: 3 0: Rolph gained the GAUNTLET award!
+1340188325|Challenge: 3 201 1: Client 3 got award 201
+1340188325|Challenge: 3 1 1: Client 3 got award 1
+1340188325|Challenge: 4 2 1: Client 4 got award 2
+1340188325|Item: 3 weapon_shotgun
+1340188330|Kill: 2 4 7: Tamas killed Thz by MOD_ROCKET_SPLASH
+1340188330|PlayerScore: 2 4: Tamas now has 4 points
+1340188330|Challenge: 2 205 1: Client 2 got award 205
+1340188330|Challenge: 2 1 1: Client 2 got award 1
+1340188330|Challenge: 4 2 1: Client 4 got award 2
+1340188333|Item: 3 item_health_mega
+1340188333|Item: 4 weapon_rocketlauncher
+1340188335|Kill: 4 2 6: Thz killed Tamas by MOD_ROCKET
+1340188335|PlayerScore: 4 4: Thz now has 4 points
+1340188335|Challenge: 4 205 1: Client 4 got award 205
+1340188335|Challenge: 4 1 1: Client 4 got award 1
+1340188335|Challenge: 2 2 1: Client 2 got award 2
+1340188337|Item: 4 weapon_rocketlauncher
+1340188340|Item: 4 weapon_rocketlauncher
+1340188341|Kill: 4 2 7: Thz killed Tamas by MOD_ROCKET_SPLASH
+1340188341|PlayerScore: 4 5: Thz now has 5 points
+1340188341|Challenge: 4 205 1: Client 4 got award 205
+1340188341|Challenge: 4 1 1: Client 4 got award 1
+1340188341|Challenge: 2 2 1: Client 2 got award 2
+1340188345|Item: 4 ammo_bullets
+1340188349|Item: 4 weapon_rocketlauncher
+1340188351|Kill: 3 2 2: Rolph killed Tamas by MOD_GAUNTLET
+1340188351|PlayerScore: 3 3: Rolph now has 3 points
+1340188351|Challenge: 3 201 1: Client 3 got award 201
+1340188351|Award: 3 0: Rolph gained the GAUNTLET award!
+1340188351|Challenge: 3 201 1: Client 3 got award 201
+1340188351|Challenge: 3 1 1: Client 3 got award 1
+1340188351|Challenge: 2 2 1: Client 2 got award 2
+1340188351|Item: 4 item_health
+1340188351|Item: 4 item_health
+1340188355|Item: 4 weapon_rocketlauncher
+1340188356|Item: 3 weapon_railgun
+1340188360|Item: 2 holdable_medkit
+1340188364|Item: 3 ammo_rockets
+1340188364|Item: 2 item_health_mega
+1340188364|Item: 2 ammo_grenades
+1340188365|Item: 2 weapon_grenadelauncher
+1340188373|Item: 2 weapon_grenadelauncher
+1340188383|Item: 4 weapon_rocketlauncher
+1340188386|Item: 4 ammo_bullets
+1340188389|Item: 4 item_health
+1340188391|Item: 4 weapon_rocketlauncher
+1340188392|Item: 3 item_health
+1340188392|Item: 3 item_health
+1340188396|Item: 4 weapon_rocketlauncher
+1340188397|Kill: 2 3 3: Tamas killed Rolph by MOD_MACHINEGUN
+1340188397|PlayerScore: 2 5: Tamas now has 5 points
+1340188397|Challenge: 2 202 1: Client 2 got award 202
+1340188397|Challenge: 2 1 1: Client 2 got award 1
+1340188397|Challenge: 3 2 1: Client 3 got award 2
+1340188399|Item: 2 weapon_shotgun
+1340188401|Item: 4 weapon_rocketlauncher
+1340188403|Item: 2 weapon_railgun
+1340188406|Item: 4 weapon_rocketlauncher
+1340188409|Kill: 3 2 3: Rolph killed Tamas by MOD_MACHINEGUN
+1340188409|PlayerScore: 3 4: Rolph now has 4 points
+1340188409|Challenge: 3 202 1: Client 3 got award 202
+1340188409|Challenge: 3 1 1: Client 3 got award 1
+1340188409|Challenge: 2 2 1: Client 2 got award 2
+1340188410|Item: 3 weapon_railgun
+1340188411|Item: 4 weapon_rocketlauncher
+1340188415|Item: 3 weapon_railgun
+1340188415|Item: 4 item_health
+1340188416|Kill: 4 2 7: Thz killed Tamas by MOD_ROCKET_SPLASH
+1340188416|PlayerScore: 4 6: Thz now has 6 points
+1340188416|Challenge: 4 205 1: Client 4 got award 205
+1340188416|Challenge: 4 1 1: Client 4 got award 1
+1340188416|Challenge: 2 2 1: Client 2 got award 2
+1340188417|Item: 4 weapon_rocketlauncher
+1340188419|Item: 2 weapon_shotgun
+1340188420|Item: 2 ammo_slugs
+1340188424|Item: 4 item_health
+1340188426|Kill: 4 2 6: Thz killed Tamas by MOD_ROCKET
+1340188426|PlayerScore: 4 7: Thz now has 7 points
+1340188426|Challenge: 4 205 1: Client 4 got award 205
+1340188426|Challenge: 4 1 1: Client 4 got award 1
+1340188426|Challenge: 2 2 1: Client 2 got award 2
+1340188426|Item: 4 weapon_rocketlauncher
+1340188426|Item: 4 weapon_shotgun
+1340188430|Kill: 4 2 6: Thz killed Tamas by MOD_ROCKET
+1340188430|PlayerScore: 4 8: Thz now has 8 points
+1340188430|Challenge: 4 205 1: Client 4 got award 205
+1340188430|Challenge: 4 1 1: Client 4 got award 1
+1340188430|Challenge: 2 2 1: Client 2 got award 2
+1340188431|Item: 4 weapon_rocketlauncher
+1340188433|Item: 2 ammo_bullets
+1340188441|Kill: 1022 4 16: <world> killed Thz by MOD_LAVA
+1340188441|PlayerScore: 4 7: Thz now has 7 points
+1340188443|Item: 2 weapon_rocketlauncher
+1340188444|Item: 3 weapon_railgun
+1340188445|Item: 4 ammo_rockets
+1340188449|Item: 2 weapon_shotgun
+1340188450|Kill: 1022 4 16: <world> killed Thz by MOD_LAVA
+1340188450|PlayerScore: 4 6: Thz now has 6 points
+1340188454|Item: 2 weapon_rocketlauncher
+1340188455|Item: 3 item_health_mega
+1340188455|Item: 2 item_health
+1340188458|Kill: 2 2 7: Tamas killed Tamas by MOD_ROCKET_SPLASH
+1340188458|PlayerScore: 2 4: Tamas now has 4 points
+1340188461|Item: 4 weapon_rocketlauncher
+1340188464|Item: 4 item_health
+1340188466|Item: 2 weapon_rocketlauncher
+1340188466|Kill: 2 4 7: Tamas killed Thz by MOD_ROCKET_SPLASH
+1340188466|PlayerScore: 2 5: Tamas now has 5 points
+1340188466|Challenge: 2 205 1: Client 2 got award 205
+1340188466|Challenge: 2 1 1: Client 2 got award 1
+1340188466|Challenge: 4 2 1: Client 4 got award 2
+1340188468|Item: 2 weapon_rocketlauncher
+1340188469|Item: 4 weapon_railgun
+1340188471|Item: 2 weapon_rocketlauncher
+1340188472|Item: 4 item_health
+1340188473|Item: 4 item_health
+1340188475|Kill: 3 4 10: Rolph killed Thz by MOD_RAILGUN
+1340188475|PlayerScore: 3 5: Rolph now has 5 points
+1340188475|Challenge: 3 208 1: Client 3 got award 208
+1340188475|Challenge: 3 1 1: Client 3 got award 1
+1340188475|Challenge: 4 2 1: Client 4 got award 2
+1340188475|Item: 3 weapon_railgun
+1340188476|Item: 3 weapon_railgun
+1340188481|Item: 3 item_health
+1340188484|Item: 4 weapon_railgun
+1340188486|Item: 3 item_health
+1340188487|Kill: 4 3 10: Thz killed Rolph by MOD_RAILGUN
+1340188487|PlayerScore: 4 7: Thz now has 7 points
+1340188487|Challenge: 4 208 1: Client 4 got award 208
+1340188487|Challenge: 4 1 1: Client 4 got award 1
+1340188487|Challenge: 3 2 1: Client 3 got award 2
+1340188489|Item: 4 ammo_bullets
+1340188490|Kill: 2 4 7: Tamas killed Thz by MOD_ROCKET_SPLASH
+1340188490|PlayerScore: 2 6: Tamas now has 6 points
+1340188490|Challenge: 2 205 1: Client 2 got award 205
+1340188490|Challenge: 2 1 1: Client 2 got award 1
+1340188490|Challenge: 4 2 1: Client 4 got award 2
+1340188493|Item: 2 item_health
+1340188493|Item: 4 weapon_shotgun
+1340188494|Item: 3 weapon_railgun
+1340188495|Item: 4 ammo_slugs
+1340188498|Item: 4 ammo_bullets
+1340188498|Kill: 2 3 7: Tamas killed Rolph by MOD_ROCKET_SPLASH
+1340188498|PlayerScore: 2 7: Tamas now has 7 points
+1340188498|Challenge: 2 205 1: Client 2 got award 205
+1340188498|Challenge: 2 1 1: Client 2 got award 1
+1340188498|Challenge: 3 2 1: Client 3 got award 2
+1340188499|Item: 2 weapon_railgun
+1340188499|Item: 4 weapon_rocketlauncher
+1340188508|Item: 3 weapon_shotgun
+1340188510|Item: 2 weapon_rocketlauncher
+1340188511|Item: 4 ammo_rockets
+1340188512|Item: 2 item_health
+1340188512|Item: 2 item_health
+1340188517|Item: 3 weapon_rocketlauncher
+1340188518|Item: 4 item_health_mega
+1340188521|Client 3 connecting with 0 challenge ping
+1340188521|ClientUserinfoChanged: 5 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188521|ClientConnect: 5
+1340188521|broadcast: print "Revell^7 connected\n"
+1340188523|Item: 3 weapon_shotgun
+1340188524|ClientUserinfoChanged: 5 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188524|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1340188524|broadcast: print "Revell^7 entered the game\n"
+1340188524|ClientBegin: 5
+1340188524|Item: 4 weapon_grenadelauncher
+1340188525|Item: 3 item_armor_body
+1340188527|Item: 4 item_health_mega
+1340188528|Item: 5 weapon_railgun
+1340188529|Item: 4 weapon_grenadelauncher
+1340188532|Item: 4 ammo_grenades
+1340188532|Item: 3 weapon_rocketlauncher
+1340188532|Kill: 4 2 7: Thz killed Tamas by MOD_ROCKET_SPLASH
+1340188532|PlayerScore: 4 8: Thz now has 8 points
+1340188532|Challenge: 4 205 1: Client 4 got award 205
+1340188532|Challenge: 4 1 1: Client 4 got award 1
+1340188532|Challenge: 2 2 1: Client 2 got award 2
+1340188535|Item: 5 weapon_railgun
+1340188536|Item: 4 weapon_grenadelauncher
+1340188540|Item: 2 weapon_railgun
+1340188540|Client 4 connecting with 0 challenge ping
+1340188540|ClientUserinfoChanged: 6 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1340188540|ClientConnect: 6
+1340188540|broadcast: print "dennis^7 connected\n"
+1340188543|ClientUserinfoChanged: 6 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1340188543|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1340188543|broadcast: print "dennis^7 entered the game\n"
+1340188543|ClientBegin: 6
+1340188543|Kill: 1022 4 4: <world> killed Thz by MOD_GRENADE
+1340188543|PlayerScore: 4 7: Thz now has 7 points
+1340188543|Item: 2 item_health
+1340188545|Item: 3 item_health
+1340188545|Item: 3 item_health
+1340188545|Item: 2 ammo_bullets
+1340188550|Item: 6 weapon_railgun
+1340188551|Kill: 3 2 6: Rolph killed Tamas by MOD_ROCKET
+1340188551|PlayerScore: 3 6: Rolph now has 6 points
+1340188551|Challenge: 3 205 1: Client 3 got award 205
+1340188551|Challenge: 3 1 1: Client 3 got award 1
+1340188551|Challenge: 2 2 1: Client 2 got award 2
+1340188552|Kill: 4 5 2: Thz killed Revell by MOD_GAUNTLET
+1340188552|PlayerScore: 4 8: Thz now has 8 points
+1340188552|Challenge: 4 201 1: Client 4 got award 201
+1340188552|Award: 4 0: Thz gained the GAUNTLET award!
+1340188552|Challenge: 4 201 1: Client 4 got award 201
+1340188552|Challenge: 4 1 1: Client 4 got award 1
+1340188552|Challenge: 5 2 1: Client 5 got award 2
+1340188552|Item: 4 weapon_railgun
+1340188554|Kill: 4 6 10: Thz killed dennis by MOD_RAILGUN
+1340188554|PlayerScore: 4 9: Thz now has 9 points
+1340188554|Challenge: 4 208 1: Client 4 got award 208
+1340188554|Challenge: 4 1 1: Client 4 got award 1
+1340188554|Challenge: 6 2 1: Client 6 got award 2
+1340188554|Award: 4 1: Thz gained the EXCELLENT award!
+1340188554|Challenge: 4 302 1: Client 4 got award 302
+1340188555|Kill: 3 4 7: Rolph killed Thz by MOD_ROCKET_SPLASH
+1340188555|PlayerScore: 3 7: Rolph now has 7 points
+1340188555|Challenge: 3 205 1: Client 3 got award 205
+1340188555|Challenge: 3 1 1: Client 3 got award 1
+1340188555|Challenge: 4 2 1: Client 4 got award 2
+1340188555|Item: 2 weapon_railgun
+1340188555|broadcast: print "Revell^7 disconnected\n"
+1340188555|Playerstore: Stored player with guid: 978E21D180BF6D8EBEAA5D3897170E94 in 0
+1340188555|ClientDisconnect: 5
+1340188556|Item: 3 weapon_railgun
+1340188559|Item: 6 ammo_bullets
+1340188559|Client 3 connecting with 40 challenge ping
+1340188559|ClientUserinfoChanged: 5 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188559|ClientConnect: 5
+1340188559|broadcast: print "Revell^7 connected\n"
+1340188560|Item: 6 weapon_rocketlauncher
+1340188561|Item: 3 item_health
+1340188561|ClientUserinfoChanged: 5 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188561|Restored player with guid: 978E21D180BF6D8EBEAA5D3897170E94
+1340188561|broadcast: print "Revell^7 entered the game\n"
+1340188561|ClientBegin: 5
+1340188564|Item: 2 ammo_rockets
+1340188567|Kill: 3 5 10: Rolph killed Revell by MOD_RAILGUN
+1340188567|PlayerScore: 3 8: Rolph now has 8 points
+1340188567|Challenge: 3 208 1: Client 3 got award 208
+1340188567|Challenge: 3 1 1: Client 3 got award 1
+1340188567|Challenge: 5 2 1: Client 5 got award 2
+1340188567|Item: 4 weapon_rocketlauncher
+1340188568|Item: 6 ammo_slugs
+1340188569|Kill: 3 2 10: Rolph killed Tamas by MOD_RAILGUN
+1340188569|PlayerScore: 3 9: Rolph now has 9 points
+1340188569|Challenge: 3 208 1: Client 3 got award 208
+1340188569|Challenge: 3 1 1: Client 3 got award 1
+1340188569|Challenge: 2 2 1: Client 2 got award 2
+1340188569|Award: 3 1: Rolph gained the EXCELLENT award!
+1340188569|Challenge: 3 302 1: Client 3 got award 302
+1340188569|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188569|Challenge: 3 301 1: Client 3 got award 301
+1340188570|Item: 3 weapon_railgun
+1340188571|broadcast: print "Revell^7 disconnected\n"
+1340188571|Playerstore: Stored player with guid: 978E21D180BF6D8EBEAA5D3897170E94 in 0
+1340188571|ClientDisconnect: 5
+1340188574|Kill: 4 2 7: Thz killed Tamas by MOD_ROCKET_SPLASH
+1340188574|PlayerScore: 4 10: Thz now has 10 points
+1340188574|Challenge: 4 205 1: Client 4 got award 205
+1340188574|Challenge: 4 1 1: Client 4 got award 1
+1340188574|Challenge: 2 2 1: Client 2 got award 2
+1340188574|Item: 3 item_health_mega
+1340188577|Item: 2 weapon_shotgun
+1340188579|Item: 3 holdable_medkit
+1340188580|Item: 6 ammo_bullets
+1340188583|Item: 2 weapon_rocketlauncher
+1340188587|Kill: 4 2 7: Thz killed Tamas by MOD_ROCKET_SPLASH
+1340188587|PlayerScore: 4 11: Thz now has 11 points
+1340188587|Challenge: 4 205 1: Client 4 got award 205
+1340188587|Challenge: 4 1 1: Client 4 got award 1
+1340188587|Challenge: 2 2 1: Client 2 got award 2
+1340188588|Item: 3 item_health_mega
+1340188588|Item: 3 ammo_grenades
+1340188590|Item: 4 weapon_rocketlauncher
+1340188590|Item: 3 weapon_grenadelauncher
+1340188591|Item: 4 weapon_rocketlauncher
+1340188592|Item: 4 item_health
+1340188592|Kill: 2 6 2: Tamas killed dennis by MOD_GAUNTLET
+1340188592|PlayerScore: 2 8: Tamas now has 8 points
+1340188592|Challenge: 2 201 1: Client 2 got award 201
+1340188592|Award: 2 0: Tamas gained the GAUNTLET award!
+1340188592|Challenge: 2 201 1: Client 2 got award 201
+1340188592|Challenge: 2 1 1: Client 2 got award 1
+1340188592|Challenge: 6 2 1: Client 6 got award 2
+1340188592|Item: 2 weapon_rocketlauncher
+1340188596|Item: 4 weapon_rocketlauncher
+1340188604|Kill: 1022 2 4: <world> killed Tamas by MOD_GRENADE
+1340188604|PlayerScore: 2 7: Tamas now has 7 points
+1340188604|Item: 6 ammo_rockets
+1340188607|Item: 2 weapon_railgun
+1340188608|Item: 4 weapon_rocketlauncher
+1340188608|Item: 3 item_health
+1340188609|Item: 3 item_health
+1340188610|Item: 4 ammo_bullets
+1340188613|Item: 3 item_health
+1340188615|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340188615|PlayerScore: 2 8: Tamas now has 8 points
+1340188615|Challenge: 2 208 1: Client 2 got award 208
+1340188615|Challenge: 2 1 1: Client 2 got award 1
+1340188615|Challenge: 3 2 1: Client 3 got award 2
+1340188615|Item: 2 weapon_railgun
+1340188617|Item: 2 item_health_mega
+1340188618|Item: 4 weapon_rocketlauncher
+1340188621|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188621|PlayerScore: 4 12: Thz now has 12 points
+1340188621|Challenge: 4 205 1: Client 4 got award 205
+1340188621|Challenge: 4 1 1: Client 4 got award 1
+1340188621|Challenge: 3 2 1: Client 3 got award 2
+1340188621|Item: 4 item_health
+1340188622|Kill: 1022 6 7: <world> killed dennis by MOD_ROCKET_SPLASH
+1340188625|Item: 6 weapon_shotgun
+1340188625|Item: 3 weapon_rocketlauncher
+1340188626|Item: 2 item_quad
+1340188627|Item: 4 item_health
+1340188627|Item: 6 ammo_slugs
+1340188633|Item: 3 item_health
+1340188634|Item: 4 item_health
+1340188636|Item: 6 weapon_rocketlauncher
+1340188636|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340188636|PlayerScore: 2 9: Tamas now has 9 points
+1340188636|Challenge: 2 208 1: Client 2 got award 208
+1340188636|Challenge: 2 1 1: Client 2 got award 1
+1340188636|Challenge: 3 2 1: Client 3 got award 2
+1340188636|Challenge: 2 401 1: Client 2 got award 401
+1340188638|Kill: 6 4 1: dennis killed Thz by MOD_SHOTGUN
+1340188638|PlayerScore: 6 1: dennis now has 1 points
+1340188638|Challenge: 6 203 1: Client 6 got award 203
+1340188638|Challenge: 6 1 1: Client 6 got award 1
+1340188638|Challenge: 4 2 1: Client 4 got award 2
+1340188638|Item: 6 weapon_rocketlauncher
+1340188640|Item: 3 weapon_railgun
+1340188640|Kill: 2 6 10: Tamas killed dennis by MOD_RAILGUN
+1340188640|PlayerScore: 2 10: Tamas now has 10 points
+1340188640|Challenge: 2 208 1: Client 2 got award 208
+1340188640|Challenge: 2 1 1: Client 2 got award 1
+1340188640|Challenge: 6 2 1: Client 6 got award 2
+1340188640|Challenge: 2 401 1: Client 2 got award 401
+1340188640|Award: 2 2: Tamas gained the IMPRESSIVE award!
+1340188640|Challenge: 2 301 1: Client 2 got award 301
+1340188643|Item: 2 weapon_rocketlauncher
+1340188644|Item: 6 ammo_rockets
+1340188647|Item: 2 weapon_rocketlauncher
+1340188650|Item: 2 ammo_bullets
+1340188650|Item: 6 item_health
+1340188652|Item: 4 weapon_shotgun
+1340188652|Kill: 2 4 6: Tamas killed Thz by MOD_ROCKET
+1340188652|PlayerScore: 2 11: Tamas now has 11 points
+1340188652|Challenge: 2 205 1: Client 2 got award 205
+1340188652|Challenge: 2 1 1: Client 2 got award 1
+1340188652|Challenge: 4 2 1: Client 4 got award 2
+1340188652|Challenge: 2 401 1: Client 2 got award 401
+1340188652|Item: 2 weapon_rocketlauncher
+1340188652|Kill: 3 6 10: Rolph killed dennis by MOD_RAILGUN
+1340188652|PlayerScore: 3 10: Rolph now has 10 points
+1340188652|Challenge: 3 208 1: Client 3 got award 208
+1340188652|Challenge: 3 1 1: Client 3 got award 1
+1340188652|Challenge: 6 2 1: Client 6 got award 2
+1340188652|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188652|Challenge: 3 301 1: Client 3 got award 301
+1340188654|Item: 2 weapon_shotgun
+1340188658|Item: 3 item_health_mega
+1340188662|Kill: 3 4 10: Rolph killed Thz by MOD_RAILGUN
+1340188662|PlayerScore: 3 11: Rolph now has 11 points
+1340188662|Challenge: 3 208 1: Client 3 got award 208
+1340188662|Challenge: 3 1 1: Client 3 got award 1
+1340188662|Challenge: 4 2 1: Client 4 got award 2
+1340188664|Item: 4 weapon_railgun
+1340188665|Item: 2 holdable_medkit
+1340188667|Item: 6 item_health
+1340188667|Item: 6 item_health
+1340188669|Item: 6 item_health
+1340188669|Client 3 connecting with 0 challenge ping
+1340188669|ClientUserinfoChanged: 5 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188669|ClientConnect: 5
+1340188669|broadcast: print "Enrique^7 connected\n"
+1340188671|Item: 4 weapon_rocketlauncher
+1340188672|ClientUserinfoChanged: 5 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188672|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188672|broadcast: print "Enrique^7 entered the game\n"
+1340188672|ClientBegin: 5
+1340188673|Item: 3 weapon_railgun
+1340188680|Kill: 2 5 7: Tamas killed Enrique by MOD_ROCKET_SPLASH
+1340188680|PlayerScore: 2 12: Tamas now has 12 points
+1340188680|Challenge: 2 205 1: Client 2 got award 205
+1340188680|Challenge: 2 1 1: Client 2 got award 1
+1340188680|Challenge: 5 2 1: Client 5 got award 2
+1340188682|Kill: 2 4 7: Tamas killed Thz by MOD_ROCKET_SPLASH
+1340188682|PlayerScore: 2 13: Tamas now has 13 points
+1340188682|Challenge: 2 205 1: Client 2 got award 205
+1340188682|Challenge: 2 1 1: Client 2 got award 1
+1340188682|Challenge: 4 2 1: Client 4 got award 2
+1340188682|Award: 2 1: Tamas gained the EXCELLENT award!
+1340188682|Challenge: 2 302 1: Client 2 got award 302
+1340188683|Item: 5 weapon_shotgun
+1340188685|Item: 5 ammo_slugs
+1340188685|Item: 2 item_health
+1340188685|Item: 2 item_health
+1340188688|Item: 4 weapon_rocketlauncher
+1340188690|Item: 6 item_health_mega
+1340188690|Item: 5 weapon_rocketlauncher
+1340188690|Item: 6 weapon_grenadelauncher
+1340188691|Item: 4 weapon_railgun
+1340188695|Kill: 5 2 6: Enrique killed Tamas by MOD_ROCKET
+1340188695|PlayerScore: 5 1: Enrique now has 1 points
+1340188695|Challenge: 5 205 1: Client 5 got award 205
+1340188695|Challenge: 5 1 1: Client 5 got award 1
+1340188695|Challenge: 2 2 1: Client 2 got award 2
+1340188696|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188696|PlayerScore: 4 13: Thz now has 13 points
+1340188696|Challenge: 4 205 1: Client 4 got award 205
+1340188696|Challenge: 4 1 1: Client 4 got award 1
+1340188696|Challenge: 3 2 1: Client 3 got award 2
+1340188696|Item: 5 weapon_rocketlauncher
+1340188697|Item: 4 weapon_railgun
+1340188699|Item: 2 ammo_bullets
+1340188700|Item: 2 weapon_rocketlauncher
+1340188702|Kill: 1022 5 16: <world> killed Enrique by MOD_LAVA
+1340188702|PlayerScore: 5 0: Enrique now has 0 points
+1340188704|Item: 4 item_health
+1340188704|Item: 4 item_health
+1340188705|Item: 6 ammo_grenades
+1340188705|Item: 5 weapon_rocketlauncher
+1340188706|Item: 6 weapon_grenadelauncher
+1340188706|Kill: 4 5 6: Thz killed Enrique by MOD_ROCKET
+1340188706|PlayerScore: 4 14: Thz now has 14 points
+1340188706|Challenge: 4 205 1: Client 4 got award 205
+1340188706|Challenge: 4 1 1: Client 4 got award 1
+1340188706|Challenge: 5 2 1: Client 5 got award 2
+1340188708|Kill: 2 4 6: Tamas killed Thz by MOD_ROCKET
+1340188708|PlayerScore: 2 14: Tamas now has 14 points
+1340188708|Challenge: 2 205 1: Client 2 got award 205
+1340188708|Challenge: 2 1 1: Client 2 got award 1
+1340188708|Challenge: 4 2 1: Client 4 got award 2
+1340188711|Item: 4 weapon_shotgun
+1340188712|Item: 3 weapon_railgun
+1340188717|Item: 2 item_health
+1340188718|Item: 5 weapon_rocketlauncher
+1340188720|Kill: 2 3 7: Tamas killed Rolph by MOD_ROCKET_SPLASH
+1340188720|PlayerScore: 2 15: Tamas now has 15 points
+1340188720|Exit: Fraglimit hit.
+1340188720|score: 15  ping: 3  client: 2 Tamas
+1340188720|score: 14  ping: 0  client: 4 Thz
+1340188720|score: 11  ping: 6  client: 3 Rolph
+1340188720|score: 1  ping: 0  client: 6 dennis
+1340188720|score: 0  ping: 3  client: 5 Enrique
+1340188720|broadcast: print "Tamas^7 hit the fraglimit.\n"
+1340188720|Challenge: 2 205 1: Client 2 got award 205
+1340188720|Challenge: 2 1 1: Client 2 got award 1
+1340188720|Challenge: 3 2 1: Client 3 got award 2
+1340188721|Item: 4 weapon_railgun
+1340188729|g_gametype will be changed upon restarting.
+1340188729|==== ShutdownGame ====
+1340188729|ShutdownGame:
+1340188729|------------------------------------------------------------
+1340188729|AAS shutdown.
+1340188729|------ Server Initialization ------
+1340188729|Server: ctf_gate1
+1340188729|Hunk_Clear: reset the hunk ok
+1340188729|----- FS_Startup -----
+1340188729|Current search path:
+1340188729|/home/jeroen/.openarena/baseoa
+1340188729|/usr/lib/openarena-server/baseoa
+1340188729|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340188729|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340188729|
+1340188729|----------------------
+1340188729|5433 files in pk3 files
+1340188729|Loading vm file vm/qagame.qvm...
+1340188729|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1340188729|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1340188729|... trying pak6-patch088/qagame
+1340188729|... trying qagame
+1340188729|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1340188729|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1340188729|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1340188729|------- Game Initialization -------
+1340188729|gamename: baseoa
+1340188729|gamedate: Apr  1 2012
+1340188729|------------------------------------------------------------
+1340188729|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\4\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\ctf_gate1\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-20 12:38:49
+1340188729|Info: ServerInfo length: 791 of 1024
+1340188729|Gametype changed, clearing session data.
+1340188729|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1340188729|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1340188729|0 teams with 0 entities
+1340188729|23 items registered
+1340188729|-----------------------------------
+1340188729|------- BotLib Initialization -------
+1340188729|loaded weapons.c
+1340188729|loaded items.c
+1340188729|loaded syn.c
+1340188729|loaded rnd.c
+1340188729|loaded match.c
+1340188729|loaded rchat.c
+1340188729|------------ Map Loading ------------
+1340188729|trying to load maps/ctf_gate1.aas
+1340188729|loaded maps/ctf_gate1.aas
+1340188729|found 71 level items
+1340188729|-------------------------------------
+1340188729|33 bots parsed
+1340188729|58 arenas parsed
+1340188729|AAS initialized.
+1340188729|ClientUserinfoChanged: 2 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340188729|ClientConnect: 2
+1340188729|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340188729|ClientConnect: 3
+1340188729|ClientUserinfoChanged: 4 n\Thz\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188729|ClientConnect: 4
+1340188729|ClientUserinfoChanged: 5 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188729|ClientConnect: 5
+1340188729|ClientUserinfoChanged: 6 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1340188729|ClientConnect: 6
+1340188729|-----------------------------------
+1340188731|ClientUserinfoChanged: 2 n\Tamas\t\3\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340188731|ClientBegin: 2
+1340188732|ClientUserinfoChanged: 5 n\Enrique\t\3\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188732|ClientBegin: 5
+1340188732|ClientUserinfoChanged: 6 n\dennis\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1340188732|ClientBegin: 6
+1340188733|ClientUserinfoChanged: 2 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1340188733|ClientUserinfoChanged: 2 n\Tamas\t\2\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\1\id\913EEAB8EE1A36416CB417D6374CFB07
+1340188733|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1340188733|broadcast: print "Tamas^7 entered the game\n"
+1340188733|ClientBegin: 2
+1340188734|ClientUserinfoChanged: 4 n\Thz\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188734|ClientBegin: 4
+1340188734|ClientUserinfoChanged: 3 n\Rolph\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340188734|ClientBegin: 3
+1340188734|Item: 2 weapon_plasmagun
+1340188735|ClientUserinfoChanged: 6 n\dennis\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\09B7CCF049BACED173FDB92196EBE8B3
+1340188735|ClientUserinfoChanged: 6 n\dennis\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\1\id\09B7CCF049BACED173FDB92196EBE8B3
+1340188735|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1340188735|broadcast: print "dennis^7 entered the game\n"
+1340188735|ClientBegin: 6
+1340188736|ClientUserinfoChanged: 4 n\Thz\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188736|Playerstore: Nothing to restore. Guid: 2BEA6F12C7F6A6FA1D2B46B4B41D1C44
+1340188736|broadcast: print "Thz^7 entered the game\n"
+1340188736|ClientBegin: 4
+1340188737|ClientUserinfoChanged: 3 n\Rolph\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340188737|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1340188737|broadcast: print "Rolph^7 entered the game\n"
+1340188737|ClientBegin: 3
+1340188737|Item: 2 item_armor_combat
+1340188738|Item: 2 ammo_grenades
+1340188738|Item: 4 weapon_rocketlauncher
+1340188738|Item: 6 weapon_shotgun
+1340188740|Item: 2 weapon_lightning
+1340188740|Item: 3 weapon_railgun
+1340188740|Item: 4 weapon_shotgun
+1340188741|Item: 6 ammo_rockets
+1340188742|Item: 3 ammo_cells
+1340188743|ClientUserinfoChanged: 5 n\Enrique\t\2\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188743|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1340188743|broadcast: print "Enrique^7 entered the game\n"
+1340188743|ClientBegin: 5
+1340188745|Item: 3 item_health
+1340188745|Item: 5 weapon_plasmagun
+1340188745|Kill: 3 2 10: Rolph killed Tamas by MOD_RAILGUN
+1340188745|PlayerScore: 3 1: Rolph now has 1 points
+1340188745|Challenge: 3 208 1: Client 3 got award 208
+1340188745|Challenge: 3 1 1: Client 3 got award 1
+1340188745|Challenge: 2 2 1: Client 2 got award 2
+1340188745|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188745|Challenge: 3 301 1: Client 3 got award 301
+1340188746|Item: 6 ammo_slugs
+1340188747|Item: 5 weapon_rocketlauncher
+1340188748|Item: 3 weapon_lightning
+1340188748|Item: 3 weapon_shotgun
+1340188749|Item: 6 item_health
+1340188750|Item: 6 team_CTF_blueflag
+1340188750|broadcast: print "dennis^7 got the BLUE flag!\n"
+1340188750|CTF: 6 2 0: dennis got the BLUE flag!
+1340188750|PlayerScore: 6 0: dennis now has 0 points
+1340188750|Item: 3 item_health
+1340188752|Item: 6 item_health
+1340188752|Client 5 connecting with 0 challenge ping
+1340188752|ClientUserinfoChanged: 7 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188752|ClientConnect: 7
+1340188752|broadcast: print "Revell^7 connected\n"
+1340188752|Item: 2 weapon_rocketlauncher
+1340188753|Item: 3 item_health
+1340188753|Kill: 5 6 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1340188753|PlayerScore: 5 1: Enrique now has 1 points
+1340188753|Challenge: 5 205 1: Client 5 got award 205
+1340188753|Challenge: 5 1 1: Client 5 got award 1
+1340188753|Challenge: 6 2 1: Client 6 got award 2
+1340188753|PlayerScore: 5 3: Enrique now has 3 points
+1340188753|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340188753|CTF: 5 1 3: Enrique fragged RED's flag carrier!
+1340188754|Item: 4 team_CTF_blueflag
+1340188754|broadcast: print "Thz^7 returned the BLUE flag!\n"
+1340188754|PlayerScore: 4 1: Thz now has 1 points
+1340188754|CTF: 4 2 2: Thz returned the BLUE flag!
+1340188754|Item: 4 ammo_bullets
+1340188754|ClientUserinfoChanged: 7 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188754|ClientBegin: 7
+1340188755|Item: 3 item_health_small
+1340188756|Item: 6 weapon_plasmagun
+1340188756|Item: 3 item_health_small
+1340188756|Item: 3 item_health_small
+1340188756|Item: 3 item_health_small
+1340188757|Item: 5 weapon_shotgun
+1340188757|Item: 4 weapon_rocketlauncher
+1340188758|Item: 2 weapon_lightning
+1340188758|Item: 3 ammo_lightning
+1340188759|Item: 5 item_health
+1340188759|Item: 3 item_armor_body
+1340188760|ClientUserinfoChanged: 7 n\Revell\t\1\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340188760|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1340188760|broadcast: print "Revell^7 entered the game\n"
+1340188760|ClientBegin: 7
+1340188760|Item: 2 ammo_slugs
+1340188761|Item: 5 item_health_large
+1340188763|Item: 7 weapon_plasmagun
+1340188763|Item: 2 ammo_rockets
+1340188765|Item: 7 ammo_bullets
+1340188765|Item: 5 weapon_rocketlauncher
+1340188766|Kill: 3 2 10: Rolph killed Tamas by MOD_RAILGUN
+1340188766|PlayerScore: 3 2: Rolph now has 2 points
+1340188766|Challenge: 3 208 1: Client 3 got award 208
+1340188766|Challenge: 3 1 1: Client 3 got award 1
+1340188766|Challenge: 2 2 1: Client 2 got award 2
+1340188766|PlayerScore: 3 3: Rolph now has 3 points
+1340188766|Challenge: 3 305 1: Client 3 got award 305
+1340188766|Award: 3 3: Rolph gained the DEFENCE award!
+1340188766|Item: 6 weapon_rocketlauncher
+1340188769|Kill: 3 5 10: Rolph killed Enrique by MOD_RAILGUN
+1340188769|PlayerScore: 3 4: Rolph now has 4 points
+1340188769|Challenge: 3 208 1: Client 3 got award 208
+1340188769|Challenge: 3 1 1: Client 3 got award 1
+1340188769|Challenge: 5 2 1: Client 5 got award 2
+1340188769|PlayerScore: 3 5: Rolph now has 5 points
+1340188769|Challenge: 3 305 1: Client 3 got award 305
+1340188769|Award: 3 3: Rolph gained the DEFENCE award!
+1340188769|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188769|Challenge: 3 301 1: Client 3 got award 301
+1340188769|Item: 3 weapon_shotgun
+1340188769|Item: 7 ammo_rockets
+1340188770|Item: 7 weapon_rocketlauncher
+1340188770|Item: 3 weapon_rocketlauncher
+1340188771|Item: 4 team_CTF_redflag
+1340188771|broadcast: print "Thz^7 got the RED flag!\n"
+1340188771|CTF: 4 1 0: Thz got the RED flag!
+1340188771|PlayerScore: 4 1: Thz now has 1 points
+1340188771|Item: 2 weapon_rocketlauncher
+1340188771|Kill: 7 4 7: Revell killed Thz by MOD_ROCKET_SPLASH
+1340188771|PlayerScore: 7 1: Revell now has 1 points
+1340188771|Challenge: 7 205 1: Client 7 got award 205
+1340188771|Challenge: 7 1 1: Client 7 got award 1
+1340188771|Challenge: 4 2 1: Client 4 got award 2
+1340188771|PlayerScore: 7 3: Revell now has 3 points
+1340188771|broadcast: print "Revell^7 fragged BLUE's flag carrier!\n"
+1340188771|CTF: 7 2 3: Revell fragged BLUE's flag carrier!
+1340188772|Item: 5 weapon_railgun
+1340188773|Item: 6 team_CTF_blueflag
+1340188773|broadcast: print "dennis^7 got the BLUE flag!\n"
+1340188773|CTF: 6 2 0: dennis got the BLUE flag!
+1340188773|PlayerScore: 6 0: dennis now has 0 points
+1340188773|Item: 3 weapon_rocketlauncher
+1340188773|Item: 7 team_CTF_redflag
+1340188773|broadcast: print "Revell^7 returned the RED flag!\n"
+1340188773|PlayerScore: 7 4: Revell now has 4 points
+1340188773|CTF: 7 1 2: Revell returned the RED flag!
+1340188774|Item: 4 ammo_lightning
+1340188775|Item: 4 item_armor_body
+1340188776|Item: 3 weapon_shotgun
+1340188777|Item: 7 weapon_grenadelauncher
+1340188779|Item: 5 weapon_railgun
+1340188779|Item: 4 weapon_rocketlauncher
+1340188779|Kill: 7 2 7: Revell killed Tamas by MOD_ROCKET_SPLASH
+1340188779|PlayerScore: 7 5: Revell now has 5 points
+1340188779|Challenge: 7 205 1: Client 7 got award 205
+1340188779|Challenge: 7 1 1: Client 7 got award 1
+1340188779|Challenge: 2 2 1: Client 2 got award 2
+1340188780|Kill: 6 5 6: dennis killed Enrique by MOD_ROCKET
+1340188780|PlayerScore: 6 1: dennis now has 1 points
+1340188780|Challenge: 6 205 1: Client 6 got award 205
+1340188780|Challenge: 6 1 1: Client 6 got award 1
+1340188780|Challenge: 5 2 1: Client 5 got award 2
+1340188781|Item: 3 weapon_rocketlauncher
+1340188782|Item: 6 item_health
+1340188786|Item: 3 weapon_railgun
+1340188786|Item: 7 weapon_lightning
+1340188786|Item: 2 weapon_plasmagun
+1340188787|Item: 3 item_health
+1340188787|Item: 6 weapon_railgun
+1340188789|Item: 6 ammo_cells
+1340188790|Item: 6 ammo_bullets
+1340188790|Kill: 7 7 7: Revell killed Revell by MOD_ROCKET_SPLASH
+1340188791|Item: 3 ammo_cells
+1340188791|Item: 2 weapon_rocketlauncher
+1340188791|Item: 4 weapon_rocketlauncher
+1340188792|Item: 6 weapon_shotgun
+1340188792|Kill: 5 6 3: Enrique killed dennis by MOD_MACHINEGUN
+1340188792|PlayerScore: 5 4: Enrique now has 4 points
+1340188792|Challenge: 5 202 1: Client 5 got award 202
+1340188792|Challenge: 5 1 1: Client 5 got award 1
+1340188792|Challenge: 6 2 1: Client 6 got award 2
+1340188792|PlayerScore: 5 6: Enrique now has 6 points
+1340188792|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340188792|CTF: 5 1 3: Enrique fragged RED's flag carrier!
+1340188792|Item: 7 weapon_railgun
+1340188793|Item: 2 item_armor_combat
+1340188793|Item: 5 weapon_plasmagun
+1340188793|Item: 2 ammo_grenades
+1340188793|Item: 5 team_CTF_blueflag
+1340188793|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1340188793|PlayerScore: 5 7: Enrique now has 7 points
+1340188793|CTF: 5 2 2: Enrique returned the BLUE flag!
+1340188795|Item: 6 weapon_shotgun
+1340188795|Item: 3 item_health
+1340188796|Item: 2 weapon_lightning
+1340188796|Item: 6 ammo_shells
+1340188797|Item: 4 ammo_bullets
+1340188797|Item: 3 item_health_small
+1340188797|Item: 6 ammo_bullets
+1340188797|Item: 3 item_health_small
+1340188797|Item: 3 item_health_small
+1340188798|Item: 6 ammo_cells
+1340188798|Item: 7 weapon_railgun
+1340188798|Item: 5 weapon_rocketlauncher
+1340188800|Item: 3 ammo_lightning
+1340188801|Item: 3 item_armor_body
+1340188804|Item: 4 ammo_rockets
+1340188804|Kill: 3 2 10: Rolph killed Tamas by MOD_RAILGUN
+1340188804|PlayerScore: 3 6: Rolph now has 6 points
+1340188804|Challenge: 3 208 1: Client 3 got award 208
+1340188804|Challenge: 3 1 1: Client 3 got award 1
+1340188804|Challenge: 2 2 1: Client 2 got award 2
+1340188805|Item: 3 weapon_rocketlauncher
+1340188805|Item: 5 weapon_lightning
+1340188806|Item: 6 item_enviro
+1340188806|Item: 4 item_health_large
+1340188806|Item: 5 ammo_slugs
+1340188808|Item: 2 weapon_railgun
+1340188811|Item: 3 weapon_shotgun
+1340188811|Item: 6 ammo_slugs
+1340188812|Item: 2 weapon_plasmagun
+1340188812|Kill: 3 5 10: Rolph killed Enrique by MOD_RAILGUN
+1340188812|PlayerScore: 3 7: Rolph now has 7 points
+1340188812|Challenge: 3 208 1: Client 3 got award 208
+1340188812|Challenge: 3 1 1: Client 3 got award 1
+1340188812|Challenge: 5 2 1: Client 5 got award 2
+1340188812|PlayerScore: 3 8: Rolph now has 8 points
+1340188812|Challenge: 3 305 1: Client 3 got award 305
+1340188812|Award: 3 3: Rolph gained the DEFENCE award!
+1340188812|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340188812|Challenge: 3 301 1: Client 3 got award 301
+1340188812|Item: 3 weapon_rocketlauncher
+1340188813|Item: 4 item_health
+1340188814|Item: 6 weapon_lightning
+1340188815|Item: 4 team_CTF_redflag
+1340188815|broadcast: print "Thz^7 got the RED flag!\n"
+1340188815|CTF: 4 1 0: Thz got the RED flag!
+1340188815|PlayerScore: 4 1: Thz now has 1 points
+1340188815|Item: 5 ammo_lightning
+1340188816|Item: 3 weapon_shotgun
+1340188816|Item: 5 item_armor_body
+1340188816|Item: 6 ammo_slugs
+1340188817|Item: 4 ammo_bullets
+1340188818|Kill: 2 6 10: Tamas killed dennis by MOD_RAILGUN
+1340188818|PlayerScore: 2 1: Tamas now has 1 points
+1340188818|Challenge: 2 208 1: Client 2 got award 208
+1340188818|Challenge: 2 1 1: Client 2 got award 1
+1340188818|Challenge: 6 2 1: Client 6 got award 2
+1340188818|Challenge: 2 410 1: Client 2 got award 410
+1340188823|Item: 3 item_health
+1340188823|Item: 2 weapon_lightning
+1340188823|Item: 5 weapon_rocketlauncher
+1340188824|Item: 4 weapon_rocketlauncher
+1340188825|Item: 5 item_enviro
+1340188825|Kill: 7 4 10: Revell killed Thz by MOD_RAILGUN
+1340188825|PlayerScore: 7 6: Revell now has 6 points
+1340188825|Challenge: 7 208 1: Client 7 got award 208
+1340188825|Challenge: 7 1 1: Client 7 got award 1
+1340188825|Challenge: 4 2 1: Client 4 got award 2
+1340188825|PlayerScore: 7 8: Revell now has 8 points
+1340188825|broadcast: print "Revell^7 fragged BLUE's flag carrier!\n"
+1340188825|CTF: 7 2 3: Revell fragged BLUE's flag carrier!
+1340188826|Item: 3 team_CTF_redflag
+1340188826|broadcast: print "Rolph^7 returned the RED flag!\n"
+1340188826|PlayerScore: 3 9: Rolph now has 9 points
+1340188826|CTF: 3 1 2: Rolph returned the RED flag!
+1340188826|Item: 7 weapon_rocketlauncher
+1340188827|Item: 7 weapon_plasmagun
+1340188828|Kill: 5 6 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1340188828|PlayerScore: 5 8: Enrique now has 8 points
+1340188828|Challenge: 5 205 1: Client 5 got award 205
+1340188828|Challenge: 5 1 1: Client 5 got award 1
+1340188828|Challenge: 6 2 1: Client 6 got award 2
+1340188828|Item: 4 weapon_shotgun
+1340188831|Item: 7 weapon_shotgun
+1340188831|Item: 5 item_armor_combat
+1340188832|Item: 3 item_health
+1340188834|Item: 4 weapon_rocketlauncher
+1340188834|Item: 5 weapon_lightning
+1340188834|Item: 3 ammo_rockets
+1340188835|Item: 7 weapon_railgun
+1340188835|Item: 3 item_health_small
+1340188835|Item: 3 item_health_small
+1340188836|Item: 3 item_health_small
+1340188836|Kill: 7 2 10: Revell killed Tamas by MOD_RAILGUN
+1340188836|PlayerScore: 7 9: Revell now has 9 points
+1340188836|Challenge: 7 208 1: Client 7 got award 208
+1340188836|Challenge: 7 1 1: Client 7 got award 1
+1340188836|Challenge: 2 2 1: Client 2 got award 2
+1340188836|Award: 7 2: Revell gained the IMPRESSIVE award!
+1340188836|Challenge: 7 301 1: Client 7 got award 301
+1340188839|Item: 2 item_health
+1340188839|Item: 3 item_armor_body
+1340188839|Item: 5 weapon_shotgun
+1340188842|Kill: 6 2 3: dennis killed Tamas by MOD_MACHINEGUN
+1340188842|PlayerScore: 6 2: dennis now has 2 points
+1340188842|Challenge: 6 202 1: Client 6 got award 202
+1340188842|Challenge: 6 1 1: Client 6 got award 1
+1340188842|Challenge: 2 2 1: Client 2 got award 2
+1340188844|Item: 4 weapon_shotgun
+1340188845|Item: 7 item_health
+1340188846|Item: 2 weapon_rocketlauncher
+1340188847|Kill: 5 7 6: Enrique killed Revell by MOD_ROCKET
+1340188847|PlayerScore: 5 9: Enrique now has 9 points
+1340188847|Challenge: 5 205 1: Client 5 got award 205
+1340188847|Challenge: 5 1 1: Client 5 got award 1
+1340188847|Challenge: 7 2 1: Client 7 got award 2
+1340188848|Item: 6 item_health
+1340188848|Item: 4 ammo_bullets
+1340188848|Item: 5 weapon_rocketlauncher
+1340188849|Item: 6 team_CTF_blueflag
+1340188849|broadcast: print "dennis^7 got the BLUE flag!\n"
+1340188849|CTF: 6 2 0: dennis got the BLUE flag!
+1340188849|PlayerScore: 6 2: dennis now has 2 points
+1340188850|Item: 7 weapon_shotgun
+1340188850|Item: 5 item_health
+1340188852|Item: 3 weapon_grenadelauncher
+1340188852|Kill: 4 6 7: Thz killed dennis by MOD_ROCKET_SPLASH
+1340188852|PlayerScore: 4 2: Thz now has 2 points
+1340188852|Challenge: 4 205 1: Client 4 got award 205
+1340188852|Challenge: 4 1 1: Client 4 got award 1
+1340188852|Challenge: 6 2 1: Client 6 got award 2
+1340188852|PlayerScore: 4 4: Thz now has 4 points
+1340188852|broadcast: print "Thz^7 fragged RED's flag carrier!\n"
+1340188852|CTF: 4 1 3: Thz fragged RED's flag carrier!
+1340188852|Item: 5 team_CTF_redflag
+1340188852|broadcast: print "Enrique^7 got the RED flag!\n"
+1340188852|CTF: 5 1 0: Enrique got the RED flag!
+1340188852|PlayerScore: 5 9: Enrique now has 9 points
+1340188853|Item: 4 team_CTF_blueflag
+1340188853|broadcast: print "Thz^7 returned the BLUE flag!\n"
+1340188853|PlayerScore: 4 5: Thz now has 5 points
+1340188853|CTF: 4 2 2: Thz returned the BLUE flag!
+1340188854|Item: 2 weapon_plasmagun
+1340188855|Item: 4 item_health
+1340188856|Kill: 5 7 6: Enrique killed Revell by MOD_ROCKET
+1340188856|PlayerScore: 5 10: Enrique now has 10 points
+1340188856|Challenge: 5 205 1: Client 5 got award 205
+1340188856|Challenge: 5 1 1: Client 5 got award 1
+1340188856|Challenge: 7 2 1: Client 7 got award 2
+1340188856|PlayerScore: 5 12: Enrique now has 12 points
+1340188856|Challenge: 5 305 1: Client 5 got award 305
+1340188856|Award: 5 3: Enrique gained the DEFENCE award!
+1340188857|Item: 6 weapon_rocketlauncher
+1340188857|Item: 3 ammo_rockets
+1340188858|Item: 4 weapon_rocketlauncher
+1340188858|Kill: 3 5 10: Rolph killed Enrique by MOD_RAILGUN
+1340188858|PlayerScore: 3 10: Rolph now has 10 points
+1340188858|Challenge: 3 208 1: Client 3 got award 208
+1340188858|Challenge: 3 1 1: Client 3 got award 1
+1340188858|Challenge: 5 2 1: Client 5 got award 2
+1340188858|PlayerScore: 3 12: Rolph now has 12 points
+1340188858|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1340188858|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1340188859|Item: 7 weapon_railgun
+1340188859|Item: 3 team_CTF_redflag
+1340188859|broadcast: print "Rolph^7 returned the RED flag!\n"
+1340188859|PlayerScore: 3 13: Rolph now has 13 points
+1340188859|CTF: 3 1 2: Rolph returned the RED flag!
+1340188859|Item: 3 weapon_rocketlauncher
+1340188861|Item: 5 ammo_lightning
+1340188862|Item: 5 item_armor_body
+1340188864|Item: 2 team_CTF_redflag
+1340188864|broadcast: print "Tamas^7 got the RED flag!\n"
+1340188864|CTF: 2 1 0: Tamas got the RED flag!
+1340188864|PlayerScore: 2 1: Tamas now has 1 points
+1340188865|Item: 6 weapon_lightning
+1340188866|Item: 5 weapon_rocketlauncher
+1340188866|Kill: 7 2 10: Revell killed Tamas by MOD_RAILGUN
+1340188866|PlayerScore: 7 10: Revell now has 10 points
+1340188866|Challenge: 7 208 1: Client 7 got award 208
+1340188866|Challenge: 7 1 1: Client 7 got award 1
+1340188866|Challenge: 2 2 1: Client 2 got award 2
+1340188866|PlayerScore: 7 12: Revell now has 12 points
+1340188866|broadcast: print "Revell^7 fragged BLUE's flag carrier!\n"
+1340188866|CTF: 7 2 3: Revell fragged BLUE's flag carrier!
+1340188866|Item: 7 ammo_bullets
+1340188866|Item: 7 weapon_rocketlauncher
+1340188867|Item: 7 team_CTF_redflag
+1340188867|broadcast: print "Revell^7 returned the RED flag!\n"
+1340188867|PlayerScore: 7 13: Revell now has 13 points
+1340188867|CTF: 7 1 2: Revell returned the RED flag!
+1340188868|Item: 4 ammo_shells
+1340188868|Item: 7 ammo_cells
+1340188868|Item: 2 weapon_shotgun
+1340188869|Item: 5 item_armor_combat
+1340188869|Item: 5 ammo_shells
+1340188870|Item: 3 weapon_railgun
+1340188870|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188870|PlayerScore: 4 6: Thz now has 6 points
+1340188870|Challenge: 4 205 1: Client 4 got award 205
+1340188870|Challenge: 4 1 1: Client 4 got award 1
+1340188870|Challenge: 3 2 1: Client 3 got award 2
+1340188870|Kill: 4 7 6: Thz killed Revell by MOD_ROCKET
+1340188870|PlayerScore: 4 7: Thz now has 7 points
+1340188870|Challenge: 4 205 1: Client 4 got award 205
+1340188870|Challenge: 4 1 1: Client 4 got award 1
+1340188870|Challenge: 7 2 1: Client 7 got award 2
+1340188870|Award: 4 1: Thz gained the EXCELLENT award!
+1340188870|Challenge: 4 302 1: Client 4 got award 302
+1340188871|Item: 2 ammo_rockets
+1340188872|Item: 4 weapon_railgun
+1340188872|Item: 5 weapon_plasmagun
+1340188876|Item: 5 team_CTF_redflag
+1340188876|broadcast: print "Enrique^7 got the RED flag!\n"
+1340188876|CTF: 5 1 0: Enrique got the RED flag!
+1340188876|PlayerScore: 5 12: Enrique now has 12 points
+1340188877|Item: 6 weapon_grenadelauncher
+1340188880|Item: 3 item_armor_body
+1340188880|Item: 6 item_health_small
+1340188880|Item: 6 item_health_small
+1340188880|Item: 5 weapon_shotgun
+1340188880|Kill: 2 6 1: Tamas killed dennis by MOD_SHOTGUN
+1340188880|PlayerScore: 2 2: Tamas now has 2 points
+1340188880|Challenge: 2 203 1: Client 2 got award 203
+1340188880|Challenge: 2 1 1: Client 2 got award 1
+1340188880|Challenge: 6 2 1: Client 6 got award 2
+1340188880|PlayerScore: 2 3: Tamas now has 3 points
+1340188880|Challenge: 2 305 1: Client 2 got award 305
+1340188880|Award: 2 3: Tamas gained the DEFENCE award!
+1340188880|Item: 2 weapon_lightning
+1340188881|Item: 3 ammo_lightning
+1340188883|Item: 5 ammo_rockets
+1340188883|Item: 6 weapon_shotgun
+1340188883|Item: 3 weapon_grenadelauncher
+1340188884|Item: 3 item_health_small
+1340188884|Item: 3 item_health_small
+1340188884|Item: 3 item_health_small
+1340188885|Item: 2 ammo_shells
+1340188885|Item: 4 item_health
+1340188885|Item: 3 ammo_rockets
+1340188886|Item: 2 ammo_cells
+1340188886|Item: 5 weapon_rocketlauncher
+1340188887|Item: 2 weapon_railgun
+1340188890|Item: 5 team_CTF_blueflag
+1340188890|broadcast: print "Enrique^7 captured the RED flag!\n"
+1340188890|CTF: 5 1 1: Enrique captured the RED flag!
+1340188890|Award: 5 4: Enrique gained the CAPTURE award!
+1340188890|Challenge: 5 303 1: Client 5 got award 303
+1340188890|PlayerScore: 5 17: Enrique now has 17 points
+1340188890|PlayerScore: 2 3: Tamas now has 3 points
+1340188890|PlayerScore: 4 7: Thz now has 7 points
+1340188890|Item: 3 weapon_railgun
+1340188891|Item: 3 weapon_lightning
+1340188891|Item: 4 item_health
+1340188892|Item: 2 weapon_railgun
+1340188892|Item: 6 weapon_lightning
+1340188893|Item: 5 ammo_bullets
+1340188894|Item: 4 weapon_rocketlauncher
+1340188897|Item: 2 weapon_railgun
+1340188900|Item: 2 item_health
+1340188900|Item: 3 ammo_cells
+1340188901|Item: 4 weapon_rocketlauncher
+1340188901|Item: 6 weapon_lightning
+1340188903|Item: 4 item_health
+1340188903|Item: 2 item_armor_combat
+1340188904|Item: 2 ammo_grenades
+1340188904|Item: 6 ammo_slugs
+1340188905|Item: 4 team_CTF_redflag
+1340188905|broadcast: print "Thz^7 got the RED flag!\n"
+1340188905|CTF: 4 1 0: Thz got the RED flag!
+1340188905|PlayerScore: 4 7: Thz now has 7 points
+1340188908|Item: 6 team_CTF_blueflag
+1340188908|broadcast: print "dennis^7 got the BLUE flag!\n"
+1340188908|CTF: 6 2 0: dennis got the BLUE flag!
+1340188908|PlayerScore: 6 2: dennis now has 2 points
+1340188910|Item: 5 item_health
+1340188910|Item: 3 ammo_bullets
+1340188911|Item: 6 weapon_grenadelauncher
+1340188912|Kill: 5 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1340188912|PlayerScore: 5 18: Enrique now has 18 points
+1340188912|Challenge: 5 205 1: Client 5 got award 205
+1340188912|Challenge: 5 1 1: Client 5 got award 1
+1340188912|Challenge: 3 2 1: Client 3 got award 2
+1340188913|Item: 6 ammo_lightning
+1340188913|Item: 5 weapon_railgun
+1340188914|Item: 6 item_armor_body
+1340188914|Item: 2 ammo_slugs
+1340188914|Item: 4 weapon_rocketlauncher
+1340188916|Item: 5 item_health
+1340188918|Item: 3 weapon_rocketlauncher
+1340188921|Item: 5 weapon_shotgun
+1340188923|Kill: 5 6 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1340188923|PlayerScore: 5 19: Enrique now has 19 points
+1340188923|Challenge: 5 205 1: Client 5 got award 205
+1340188923|Challenge: 5 1 1: Client 5 got award 1
+1340188923|Challenge: 6 2 1: Client 6 got award 2
+1340188923|PlayerScore: 5 21: Enrique now has 21 points
+1340188923|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340188923|CTF: 5 1 3: Enrique fragged RED's flag carrier!
+1340188926|Item: 2 weapon_lightning
+1340188926|Item: 2 team_CTF_blueflag
+1340188926|broadcast: print "Tamas^7 returned the BLUE flag!\n"
+1340188926|PlayerScore: 2 4: Tamas now has 4 points
+1340188926|CTF: 2 2 2: Tamas returned the BLUE flag!
+1340188926|Kill: 5 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1340188926|PlayerScore: 5 22: Enrique now has 22 points
+1340188926|Challenge: 5 205 1: Client 5 got award 205
+1340188926|Challenge: 5 1 1: Client 5 got award 1
+1340188926|Challenge: 3 2 1: Client 3 got award 2
+1340188926|Award: 5 1: Enrique gained the EXCELLENT award!
+1340188926|Challenge: 5 302 1: Client 5 got award 302
+1340188926|Item: 2 weapon_rocketlauncher
+1340188928|Item: 6 weapon_plasmagun
+1340188928|Item: 4 ammo_shells
+1340188929|Item: 2 ammo_rockets
+1340188930|Item: 4 team_CTF_blueflag
+1340188930|broadcast: print "Thz^7 captured the RED flag!\n"
+1340188930|CTF: 4 1 1: Thz captured the RED flag!
+1340188930|Award: 4 4: Thz gained the CAPTURE award!
+1340188930|Challenge: 4 303 1: Client 4 got award 303
+1340188930|PlayerScore: 4 12: Thz now has 12 points
+1340188930|PlayerScore: 2 4: Tamas now has 4 points
+1340188930|PlayerScore: 2 5: Tamas now has 5 points
+1340188930|Challenge: 2 304 1: Client 2 got award 304
+1340188930|Award: 2 5: Tamas gained the ASSIST award!
+1340188930|PlayerScore: 5 22: Enrique now has 22 points
+1340188930|PlayerScore: 5 24: Enrique now has 24 points
+1340188930|Challenge: 5 304 1: Client 5 got award 304
+1340188930|Award: 5 5: Enrique gained the ASSIST award!
+1340188930|Item: 6 weapon_rocketlauncher
+1340188930|Item: 5 weapon_shotgun
+1340188931|Item: 4 ammo_rockets
+1340188932|Item: 5 ammo_shells
+1340188935|Item: 2 item_armor_body
+1340188936|Item: 6 ammo_shells
+1340188936|Kill: 5 3 8: Enrique killed Rolph by MOD_PLASMA
+1340188936|PlayerScore: 5 25: Enrique now has 25 points
+1340188936|Challenge: 5 207 1: Client 5 got award 207
+1340188936|Challenge: 5 1 1: Client 5 got award 1
+1340188936|Challenge: 3 2 1: Client 3 got award 2
+1340188937|Item: 4 ammo_rockets
+1340188939|Item: 3 weapon_plasmagun
+1340188939|Item: 5 team_CTF_redflag
+1340188939|broadcast: print "Enrique^7 got the RED flag!\n"
+1340188939|CTF: 5 1 0: Enrique got the RED flag!
+1340188939|===== pending server commands =====
+1340188939|cmd   201: tinfo 3  3 4 129 100 4 0 6 12 118 0 3 0 7 4 0 0 0 0
+1340188939|cmd   202: tinfo 3  3 4 128 100 4 0 6 12 117 0 3 0 7 4 0 0 0 0
+1340188939|cmd   203: print "Enrique^7 captured the RED flag!
+1340188939|"
+1340188939|cmd   204: cs 7 "1"
+1340188939|
+1340188939|cmd   205: cs 23 "00"
+1340188939|
+1340188939|cmd   206: tinfo 3  3 4 127 100 4 0 6 12 116 0 3 0 7 4 0 0 0 0
+1340188939|cmd   207: tinfo 3  3 4 126 100 6 0 6 10 115 0 3 0 7 4 0 0 0 0
+1340188939|cmd   208: tinfo 3  3 4 125 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   209: tinfo 3  3 4 124 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   210: tinfo 3  3 4 123 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   211: tinfo 3  3 2 122 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   212: tinfo 3  3 2 121 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   213: tinfo 3  3 2 120 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   214: tinfo 3  3 2 119 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   215: tinfo 3  3 9 118 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   216: tinfo 3  3 5 117 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   217: tinfo 3  3 5 116 100 7 0 6 10 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   218: tinfo 3  3 6 115 100 7 0 6 16 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   219: print "Thz^7 got the RED flag!
+1340188939|"
+1340188939|cmd   220: cs 23 "10"
+1340188939|
+1340188939|cmd   221: tinfo 3  3 9 114 100 7 0 6 14 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   222: tinfo 3  3 2 113 100 7 0 6 17 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   223: tinfo 3  3 2 112 100 7 0 6 17 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   224: tinfo 3  3 2 77 34 7 0 6 19 15 0 6 0 7 4 0 0 0 0
+1340188939|cmd   225: print "dennis^7 got the BLUE flag!
+1340188939|"
+1340188939|cmd   226: cs 23 "11"
+1340188939|
+1340188939|cmd   227: tinfo 3  3 2 77 34 7 0 6 19 15 0 6 256 7 4 0 0 0 0
+1340188939|cmd   228: tinfo 3  3 9 77 34 7 0 6 19 15 0 6 256 7 4 0 0 0 0
+1340188939|cmd   229: tinfo 3  3 9 73 24 7 0 6 13 15 0 6 256 7 4 0 0 0 0
+1340188939|cmd   230: tinfo 3  3 9 39 0 7 0 6 13 15 0 6 256 7 4 0 0 0 0
+1340188939|cmd   231: tinfo 3  3 9 0 0 0 0 6 18 15 0 6 256 7 4 0 0 0 0
+1340188939|cmd   232: tinfo 3  3 9 0 0 0 0 6 18 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   233: tinfo 3  3 9 0 0 0 0 6 13 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   234: tinfo 3  3 8 125 0 2 0 6 12 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   235: tinfo 3  3 5 124 0 2 0 6 8 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   236: tinfo 3  3 5 123 0 5 0 6 10 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   237: tinfo 3  3 7 122 0 5 0 6 8 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   238: tinfo 3  3 7 98 0 5 0 6 5 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   239: tinfo 3  3 9 49 0 5 0 6 5 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   240: tinfo 3  3 9 49 0 5 0 6 9 15 100 6 256 7 4 0 0 0 0
+1340188939|cmd   241: print "Enrique^7 fragged RED's flag carrier!
+1340188939|"
+1340188939|cmd   242: cs 23 "12"
+1340188939|
+1340188939|cmd   243: tinfo 3  3 2 49 0 5 0 6 2 0 65 6 0 7 4 0 0 0 0
+1340188939|cmd   244: tinfo 3  3 2 26 0 5 0 6 2 0 0 0 0 7 4 0 0 0 0
+1340188939|cmd   245: tinfo 3  3 2 26 0 5 0 6 2 0 0 0 0 7 4 0 0 0 0
+1340188939|cmd   246: print "Tamas^7 returned the BLUE flag!
+1340188939|"
+1340188939|cmd   247: cs 23 "10"
+1340188939|
+1340188939|cmd   248: tinfo 3  3 9 0 0 0 0 6 2 0 0 0 0 7 4 0 0 0 0
+1340188939|cmd   249: tinfo 3  3 9 0 0 0 0 6 6 125 0 2 0 7 4 0 0 0 0
+1340188939|cmd   250: tinfo 3  3 6 125 0 2 0 6 6 123 0 8 0 7 4 0 0 0 0
+1340188939|cmd   251: tinfo 3  3 6 124 0 2 0 6 5 122 0 8 0 7 4 0 0 0 0
+1340188939|cmd   252: print "Thz^7 captured the RED flag!
+1340188939|"
+1340188939|cmd   253: cs 7 "2"
+1340188939|
+1340188939|cmd   254: cs 23 "00"
+1340188939|
+1340188939|cmd   255: tinfo 3  3 9 123 0 2 0 6 5 121 0 8 0 7 4 0 0 0 0
+1340188939|cmd   256: tinfo 3  3 2 122 0 2 0 6 9 120 0 8 0 7 4 0 0 0 0
+1340188939|cmd   257: tinfo 3  3 2 121 0 2 0 6 9 119 0 8 0 7 4 0 0 0 0
+1340188939|cmd   258: tinfo 3  3 2 120 0 2 0 6 5 118 0 8 0 7 4 0 0 0 0
+1340188939|cmd   259: tinfo 3  3 2 60 0 2 0 6 6 117 0 8 0 7 4 0 0 0 0
+1340188939|cmd   260: tinfo 3  3 2 20 0 2 0 6 11 116 0 8 0 7 4 0 0 0 0
+1340188939|cmd   261: tinfo 3  3 2 0 0 0 0 6 11 115 0 8 0 7 4 0 0 0 0
+1340188939|cmd   262: tinfo 3  3 2 0 0 0 0 6 15 114 0 5 0 7 4 0 0 0 0
+1340188939|cmd   263: tinfo 3  3 6 124 0 2 0 6 15 113 0 8 0 7 4 0 0 0 0
+1340188939|cmd   264: print "Enrique^7 got the RED flag!
+1340188939|"
+1340188939|cmd   265: tinfo 3  3 4 129 100 4 0 6 12 118 0 3 0 7 4 0 0 0 0
+1340188939|cmd   266: cs 23 "10"
+1340188939|
+1340188939|broadcast: print "Revell^7 Server command overflow\n"
+1340188939|Playerstore: Stored player with guid: 978E21D180BF6D8EBEAA5D3897170E94 in 0
+1340188939|ClientDisconnect: 7
+1340188939|PlayerScore: 5 25: Enrique now has 25 points
+1340188940|Item: 4 item_enviro
+1340188941|Kill: 3 5 8: Rolph killed Enrique by MOD_PLASMA
+1340188941|PlayerScore: 3 14: Rolph now has 14 points
+1340188941|Challenge: 3 207 1: Client 3 got award 207
+1340188941|Challenge: 3 1 1: Client 3 got award 1
+1340188941|Challenge: 5 2 1: Client 5 got award 2
+1340188941|PlayerScore: 3 16: Rolph now has 16 points
+1340188941|broadcast: print "Rolph^7 fragged BLUE's flag carrier!\n"
+1340188941|CTF: 3 2 3: Rolph fragged BLUE's flag carrier!
+1340188941|Item: 3 team_CTF_redflag
+1340188941|broadcast: print "Rolph^7 returned the RED flag!\n"
+1340188941|PlayerScore: 3 17: Rolph now has 17 points
+1340188941|CTF: 3 1 2: Rolph returned the RED flag!
+1340188941|Item: 3 weapon_plasmagun
+1340188942|Item: 4 weapon_rocketlauncher
+1340188943|Item: 6 team_CTF_blueflag
+1340188943|broadcast: print "dennis^7 got the BLUE flag!\n"
+1340188943|CTF: 6 2 0: dennis got the BLUE flag!
+1340188943|PlayerScore: 6 2: dennis now has 2 points
+1340188943|Item: 2 team_CTF_redflag
+1340188943|broadcast: print "Tamas^7 got the RED flag!\n"
+1340188943|CTF: 2 1 0: Tamas got the RED flag!
+1340188943|PlayerScore: 2 5: Tamas now has 5 points
+1340188944|Item: 5 weapon_shotgun
+1340188944|Kill: 2 3 10: Tamas killed Rolph by MOD_RAILGUN
+1340188944|PlayerScore: 2 6: Tamas now has 6 points
+1340188944|Challenge: 2 208 1: Client 2 got award 208
+1340188944|Challenge: 2 1 1: Client 2 got award 1
+1340188944|Challenge: 3 2 1: Client 3 got award 2
+1340188944|PlayerScore: 2 8: Tamas now has 8 points
+1340188944|Challenge: 2 305 1: Client 2 got award 305
+1340188944|Award: 2 3: Tamas gained the DEFENCE award!
+1340188944|Award: 2 2: Tamas gained the IMPRESSIVE award!
+1340188944|Challenge: 2 301 1: Client 2 got award 301
+1340188944|Item: 6 item_health
+1340188946|Item: 4 weapon_plasmagun
+1340188946|Item: 3 ammo_lightning
+1340188947|Item: 2 item_health
+1340188948|Item: 6 item_health
+1340188948|Item: 4 ammo_cells
+1340188949|Item: 5 weapon_rocketlauncher
+1340188952|Item: 5 item_armor_combat
+1340188954|Item: 4 ammo_slugs
+1340188954|Item: 6 ammo_slugs
+1340188955|Item: 3 ammo_rockets
+1340188957|Item: 4 weapon_rocketlauncher
+1340188958|Item: 2 item_health
+1340188959|Item: 3 weapon_rocketlauncher
+1340188960|Kill: 5 6 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1340188960|PlayerScore: 5 26: Enrique now has 26 points
+1340188960|Challenge: 5 205 1: Client 5 got award 205
+1340188960|Challenge: 5 1 1: Client 5 got award 1
+1340188960|Challenge: 6 2 1: Client 6 got award 2
+1340188960|PlayerScore: 5 28: Enrique now has 28 points
+1340188960|broadcast: print "Enrique^7 fragged RED's flag carrier!\n"
+1340188960|CTF: 5 1 3: Enrique fragged RED's flag carrier!
+1340188962|Item: 5 team_CTF_blueflag
+1340188962|broadcast: print "Enrique^7 returned the BLUE flag!\n"
+1340188962|PlayerScore: 5 29: Enrique now has 29 points
+1340188962|CTF: 5 2 2: Enrique returned the BLUE flag!
+1340188962|Item: 5 weapon_plasmagun
+1340188962|Item: 2 ammo_cells
+1340188964|Item: 6 item_armor_body
+1340188967|Item: 2 weapon_railgun
+1340188967|Item: 3 item_enviro
+1340188967|Item: 6 weapon_plasmagun
+1340188968|Item: 3 weapon_rocketlauncher
+1340188970|Item: 6 item_health
+1340188973|Kill: 5 6 8: Enrique killed dennis by MOD_PLASMA
+1340188973|PlayerScore: 5 30: Enrique now has 30 points
+1340188973|Challenge: 5 207 1: Client 5 got award 207
+1340188973|Challenge: 5 1 1: Client 5 got award 1
+1340188973|Challenge: 6 2 1: Client 6 got award 2
+1340188974|Item: 2 ammo_bullets
+1340188975|Item: 6 weapon_railgun
+1340188976|Item: 5 item_health
+1340188977|Item: 3 team_CTF_blueflag
+1340188977|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340188977|CTF: 3 2 0: Rolph got the BLUE flag!
+1340188977|PlayerScore: 3 17: Rolph now has 17 points
+1340188977|Item: 5 weapon_rocketlauncher
+1340188978|Item: 4 weapon_shotgun
+1340188978|Item: 6 ammo_bullets
+1340188979|Item: 3 item_health_small
+1340188979|Item: 3 item_health_small
+1340188979|Item: 3 weapon_grenadelauncher
+1340188980|Item: 6 weapon_shotgun
+1340188980|Item: 2 item_armor_body
+1340188981|Item: 3 ammo_lightning
+1340188982|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340188982|PlayerScore: 4 13: Thz now has 13 points
+1340188982|Challenge: 4 205 1: Client 4 got award 205
+1340188982|Challenge: 4 1 1: Client 4 got award 1
+1340188982|Challenge: 3 2 1: Client 3 got award 2
+1340188982|Challenge: 4 410 1: Client 4 got award 410
+1340188982|PlayerScore: 4 15: Thz now has 15 points
+1340188982|broadcast: print "Thz^7 fragged RED's flag carrier!\n"
+1340188982|CTF: 4 1 3: Thz fragged RED's flag carrier!
+1340188982|Item: 4 team_CTF_blueflag
+1340188982|broadcast: print "Thz^7 returned the BLUE flag!\n"
+1340188982|PlayerScore: 4 16: Thz now has 16 points
+1340188982|CTF: 4 2 2: Thz returned the BLUE flag!
+1340188983|Item: 6 weapon_grenadelauncher
+1340188983|Item: 6 item_health_small
+1340188983|Item: 5 ammo_rockets
+1340188983|Item: 4 weapon_rocketlauncher
+1340188983|Item: 2 item_enviro
+1340188984|Item: 6 item_health_small
+1340188985|Kill: 5 6 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1340188985|PlayerScore: 5 31: Enrique now has 31 points
+1340188985|Challenge: 5 205 1: Client 5 got award 205
+1340188985|Challenge: 5 1 1: Client 5 got award 1
+1340188985|Challenge: 6 2 1: Client 6 got award 2
+1340188985|Item: 5 weapon_railgun
+1340188986|Item: 4 ammo_cells
+1340188986|Item: 2 ammo_rockets
+1340188987|Item: 5 item_health_small
+1340188987|Item: 3 ammo_lightning
+1340188987|Item: 6 weapon_railgun
+1340188988|Item: 5 item_health_small
+1340188988|Item: 2 team_CTF_blueflag
+1340188988|broadcast: print "Tamas^7 captured the RED flag!\n"
+1340188988|CTF: 2 1 1: Tamas captured the RED flag!
+1340188988|Award: 2 4: Tamas gained the CAPTURE award!
+1340188988|Challenge: 2 303 1: Client 2 got award 303
+1340188988|PlayerScore: 2 13: Tamas now has 13 points
+1340188988|PlayerScore: 4 16: Thz now has 16 points
+1340188988|PlayerScore: 4 17: Thz now has 17 points
+1340188988|Challenge: 4 304 1: Client 4 got award 304
+1340188988|Award: 4 5: Thz gained the ASSIST award!
+1340188988|PlayerScore: 4 19: Thz now has 19 points
+1340188988|Challenge: 4 304 1: Client 4 got award 304
+1340188988|Award: 4 5: Thz gained the ASSIST award!
+1340188988|PlayerScore: 5 31: Enrique now has 31 points
+1340188989|Item: 4 ammo_slugs
+1340188989|Item: 3 weapon_grenadelauncher
+1340188989|Item: 6 ammo_cells
+1340188992|Item: 2 item_health
+1340188992|Item: 3 weapon_shotgun
+1340188993|Kill: 6 5 10: dennis killed Enrique by MOD_RAILGUN
+1340188993|PlayerScore: 6 3: dennis now has 3 points
+1340188993|Challenge: 6 208 1: Client 6 got award 208
+1340188993|Challenge: 6 1 1: Client 6 got award 1
+1340188993|Challenge: 5 2 1: Client 5 got award 2
+1340188993|PlayerScore: 6 4: dennis now has 4 points
+1340188993|Challenge: 6 305 1: Client 6 got award 305
+1340188993|Award: 6 3: dennis gained the DEFENCE award!
+1340188993|Item: 4 item_armor_combat
+1340188994|Item: 2 ammo_grenades
+1340188994|Item: 6 weapon_rocketlauncher
+1340188997|Item: 4 weapon_rocketlauncher
+1340188997|Item: 5 weapon_railgun
+1340188998|Item: 6 weapon_railgun
+1340188999|Item: 5 weapon_plasmagun
+1340188999|Item: 4 item_health
+1340189000|Item: 3 item_health
+1340189001|Item: 2 ammo_slugs
+1340189002|Item: 4 team_CTF_redflag
+1340189002|broadcast: print "Thz^7 got the RED flag!\n"
+1340189002|CTF: 4 1 0: Thz got the RED flag!
+1340189002|PlayerScore: 4 19: Thz now has 19 points
+1340189002|Award: 6 2: dennis gained the IMPRESSIVE award!
+1340189002|Challenge: 6 301 1: Client 6 got award 301
+1340189002|Item: 3 ammo_cells
+1340189004|Item: 6 weapon_railgun
+1340189006|Item: 3 ammo_rockets
+1340189006|Item: 2 weapon_shotgun
+1340189006|Item: 5 weapon_rocketlauncher
+1340189008|Item: 3 item_armor_body
+1340189009|Kill: 6 2 10: dennis killed Tamas by MOD_RAILGUN
+1340189009|PlayerScore: 6 5: dennis now has 5 points
+1340189009|Challenge: 6 208 1: Client 6 got award 208
+1340189009|Challenge: 6 1 1: Client 6 got award 1
+1340189009|Challenge: 2 2 1: Client 2 got award 2
+1340189010|Item: 6 weapon_lightning
+1340189011|Item: 6 ammo_slugs
+1340189012|Item: 3 weapon_grenadelauncher
+1340189013|Item: 5 weapon_railgun
+1340189014|Item: 2 weapon_rocketlauncher
+1340189014|Item: 4 item_health
+1340189016|Kill: 4 6 6: Thz killed dennis by MOD_ROCKET
+1340189016|PlayerScore: 4 20: Thz now has 20 points
+1340189016|Challenge: 4 205 1: Client 4 got award 205
+1340189016|Challenge: 4 1 1: Client 4 got award 1
+1340189016|Challenge: 6 2 1: Client 6 got award 2
+1340189016|PlayerScore: 4 21: Thz now has 21 points
+1340189016|Challenge: 4 305 1: Client 4 got award 305
+1340189016|Award: 4 3: Thz gained the DEFENCE award!
+1340189017|Kill: 3 5 4: Rolph killed Enrique by MOD_GRENADE
+1340189017|PlayerScore: 3 18: Rolph now has 18 points
+1340189017|Challenge: 3 204 1: Client 3 got award 204
+1340189017|Challenge: 3 1 1: Client 3 got award 1
+1340189017|Challenge: 5 2 1: Client 5 got award 2
+1340189017|PlayerScore: 3 19: Rolph now has 19 points
+1340189017|Challenge: 3 305 1: Client 3 got award 305
+1340189017|Award: 3 3: Rolph gained the DEFENCE award!
+1340189018|Item: 4 team_CTF_blueflag
+1340189018|broadcast: print "Thz^7 captured the RED flag!\n"
+1340189018|CTF: 4 1 1: Thz captured the RED flag!
+1340189018|Award: 4 4: Thz gained the CAPTURE award!
+1340189018|Challenge: 4 303 1: Client 4 got award 303
+1340189018|PlayerScore: 4 26: Thz now has 26 points
+1340189018|PlayerScore: 2 13: Tamas now has 13 points
+1340189018|PlayerScore: 5 31: Enrique now has 31 points
+1340189018|Item: 3 ammo_shells
+1340189020|Item: 3 ammo_bullets
+1340189020|Item: 3 weapon_rocketlauncher
+1340189022|Item: 6 ammo_bullets
+1340189022|Item: 4 weapon_railgun
+1340189024|Item: 3 item_health
+1340189024|Kill: 2 6 7: Tamas killed dennis by MOD_ROCKET_SPLASH
+1340189024|PlayerScore: 2 14: Tamas now has 14 points
+1340189024|Challenge: 2 205 1: Client 2 got award 205
+1340189024|Challenge: 2 1 1: Client 2 got award 1
+1340189024|Challenge: 6 2 1: Client 6 got award 2
+1340189025|Item: 5 weapon_rocketlauncher
+1340189027|Kill: 2 3 6: Tamas killed Rolph by MOD_ROCKET
+1340189027|PlayerScore: 2 15: Tamas now has 15 points
+1340189027|Challenge: 2 205 1: Client 2 got award 205
+1340189027|Challenge: 2 1 1: Client 2 got award 1
+1340189027|Challenge: 3 2 1: Client 3 got award 2
+1340189028|Item: 5 item_armor_combat
+1340189028|Item: 5 ammo_shells
+1340189028|Item: 2 weapon_grenadelauncher
+1340189030|Kill: 6 2 3: dennis killed Tamas by MOD_MACHINEGUN
+1340189030|PlayerScore: 6 6: dennis now has 6 points
+1340189030|Challenge: 6 202 1: Client 6 got award 202
+1340189030|Challenge: 6 1 1: Client 6 got award 1
+1340189030|Challenge: 2 2 1: Client 2 got award 2
+1340189030|Item: 3 weapon_plasmagun
+1340189031|Item: 6 weapon_rocketlauncher
+1340189033|Item: 4 weapon_rocketlauncher
+1340189035|Item: 2 weapon_rocketlauncher
+1340189036|Item: 4 item_health
+1340189036|Kill: 5 6 7: Enrique killed dennis by MOD_ROCKET_SPLASH
+1340189036|PlayerScore: 5 32: Enrique now has 32 points
+1340189036|Challenge: 5 205 1: Client 5 got award 205
+1340189036|Challenge: 5 1 1: Client 5 got award 1
+1340189036|Challenge: 6 2 1: Client 6 got award 2
+1340189037|Item: 5 weapon_rocketlauncher
+1340189037|Item: 3 weapon_shotgun
+1340189038|Item: 2 ammo_grenades
+1340189040|Item: 5 team_CTF_redflag
+1340189040|broadcast: print "Enrique^7 got the RED flag!\n"
+1340189040|CTF: 5 1 0: Enrique got the RED flag!
+1340189040|PlayerScore: 5 32: Enrique now has 32 points
+1340189040|Item: 2 weapon_lightning
+1340189041|Item: 6 weapon_rocketlauncher
+1340189041|Kill: 4 3 7: Thz killed Rolph by MOD_ROCKET_SPLASH
+1340189041|PlayerScore: 4 27: Thz now has 27 points
+1340189041|Challenge: 4 205 1: Client 4 got award 205
+1340189041|Challenge: 4 1 1: Client 4 got award 1
+1340189041|Challenge: 3 2 1: Client 3 got award 2
+1340189041|PlayerScore: 4 29: Thz now has 29 points
+1340189041|Award: 4 3: Thz gained the DEFENCE award!
+1340189041|Challenge: 4 305 1: Client 4 got award 305
+1340189044|Item: 5 weapon_shotgun
+1340189044|Item: 3 weapon_railgun
+1340189045|Kill: 2 6 11: Tamas killed dennis by MOD_LIGHTNING
+1340189045|PlayerScore: 2 16: Tamas now has 16 points
+1340189045|Challenge: 2 206 1: Client 2 got award 206
+1340189045|Challenge: 2 1 1: Client 2 got award 1
+1340189045|Challenge: 6 2 1: Client 6 got award 2
+1340189046|Item: 2 weapon_rocketlauncher
+1340189049|Item: 3 weapon_rocketlauncher
+1340189050|Item: 5 item_health
+1340189050|Item: 2 ammo_lightning
+1340189051|Kill: 5 4 6: Enrique killed Thz by MOD_ROCKET
+1340189052|Item: 2 item_armor_body
+1340189052|Item: 6 weapon_shotgun
+1340189053|Item: 4 ammo_lightning
+1340189054|Kill: 5 3 7: Enrique killed Rolph by MOD_ROCKET_SPLASH
+1340189054|PlayerScore: 5 33: Enrique now has 33 points
+1340189054|Challenge: 5 205 1: Client 5 got award 205
+1340189054|Challenge: 5 1 1: Client 5 got award 1
+1340189054|Challenge: 3 2 1: Client 3 got award 2
+1340189055|Item: 4 item_armor_body
+1340189055|Item: 6 weapon_rocketlauncher
+1340189055|Kill: 6 5 3: dennis killed Enrique by MOD_MACHINEGUN
+1340189055|PlayerScore: 6 7: dennis now has 7 points
+1340189055|Challenge: 6 202 1: Client 6 got award 202
+1340189055|Challenge: 6 1 1: Client 6 got award 1
+1340189055|Challenge: 5 2 1: Client 5 got award 2
+1340189055|PlayerScore: 6 9: dennis now has 9 points
+1340189055|broadcast: print "dennis^7 fragged BLUE's flag carrier!\n"
+1340189055|CTF: 6 2 3: dennis fragged BLUE's flag carrier!
+1340189056|Client 5 connecting with 0 challenge ping
+1340189056|ClientUserinfoChanged: 7 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340189056|ClientConnect: 7
+1340189056|broadcast: print "Revell^7 connected\n"
+1340189057|Item: 6 team_CTF_redflag
+1340189057|broadcast: print "dennis^7 returned the RED flag!\n"
+1340189057|PlayerScore: 6 10: dennis now has 10 points
+1340189057|CTF: 6 1 2: dennis returned the RED flag!
+1340189057|Item: 6 weapon_rocketlauncher
+1340189058|Item: 2 weapon_plasmagun
+1340189058|Item: 4 weapon_rocketlauncher
+1340189058|Item: 5 weapon_railgun
+1340189058|ClientUserinfoChanged: 7 n\Revell\t\3\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340189058|ClientBegin: 7
+1340189058|Item: 6 item_health_large
+1340189059|Item: 6 ammo_rockets
+1340189059|Item: 3 weapon_railgun
+1340189060|Item: 2 ammo_cells
+1340189061|Item: 3 weapon_rocketlauncher
+1340189061|Item: 6 item_health
+1340189062|Item: 2 weapon_railgun
+1340189063|Item: 4 weapon_rocketlauncher
+1340189064|Item: 5 item_armor_combat
+1340189065|ClientUserinfoChanged: 7 n\Revell\t\1\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340189065|Restored player with guid: 978E21D180BF6D8EBEAA5D3897170E94
+1340189065|broadcast: print "Revell^7 entered the game\n"
+1340189065|ClientBegin: 7
+1340189066|Item: 2 team_CTF_redflag
+1340189066|broadcast: print "Tamas^7 got the RED flag!\n"
+1340189066|CTF: 2 1 0: Tamas got the RED flag!
+1340189066|PlayerScore: 2 16: Tamas now has 16 points
+1340189066|Item: 3 weapon_lightning
+1340189067|Kill: 4 6 6: Thz killed dennis by MOD_ROCKET
+1340189067|PlayerScore: 4 30: Thz now has 30 points
+1340189067|Challenge: 4 205 1: Client 4 got award 205
+1340189067|Challenge: 4 1 1: Client 4 got award 1
+1340189067|Challenge: 6 2 1: Client 6 got award 2
+1340189068|Item: 7 item_enviro
+1340189068|Item: 4 weapon_rocketlauncher
+1340189068|Item: 4 item_health
+1340189069|Item: 3 ammo_slugs
+1340189071|Item: 4 weapon_rocketlauncher
+1340189071|Item: 6 weapon_shotgun
+1340189072|Item: 3 ammo_rockets
+1340189073|Item: 6 weapon_rocketlauncher
+1340189074|Item: 3 team_CTF_blueflag
+1340189074|broadcast: print "Rolph^7 got the BLUE flag!\n"
+1340189074|CTF: 3 2 0: Rolph got the BLUE flag!
+1340189074|PlayerScore: 3 19: Rolph now has 19 points
+1340189075|Item: 3 ammo_rockets
+1340189078|Kill: 4 6 7: Thz killed dennis by MOD_ROCKET_SPLASH
+1340189078|PlayerScore: 4 31: Thz now has 31 points
+1340189078|Challenge: 4 205 1: Client 4 got award 205
+1340189078|Challenge: 4 1 1: Client 4 got award 1
+1340189078|Challenge: 6 2 1: Client 6 got award 2
+1340189078|Item: 5 item_health
+1340189079|Item: 3 ammo_cells
+1340189080|Item: 4 weapon_rocketlauncher
+1340189081|Item: 6 item_armor_body
+1340189081|Item: 5 weapon_rocketlauncher
+1340189082|Kill: 7 5 3: Revell killed Enrique by MOD_MACHINEGUN
+1340189082|PlayerScore: 7 14: Revell now has 14 points
+1340189082|Challenge: 7 202 1: Client 7 got award 202
+1340189082|Challenge: 7 1 1: Client 7 got award 1
+1340189082|Challenge: 5 2 1: Client 5 got award 2
+1340189082|Item: 2 ammo_shells
+1340189083|Item: 7 weapon_railgun
+1340189083|Item: 3 weapon_lightning
+1340189083|Item: 4 weapon_shotgun
+1340189085|Item: 5 weapon_railgun
+1340189086|Item: 4 weapon_rocketlauncher
+1340189086|Item: 6 ammo_bullets
+1340189087|Item: 3 ammo_cells
+1340189088|Kill: 7 4 10: Revell killed Thz by MOD_RAILGUN
+1340189088|PlayerScore: 7 15: Revell now has 15 points
+1340189088|Challenge: 7 208 1: Client 7 got award 208
+1340189088|Challenge: 7 1 1: Client 7 got award 1
+1340189088|Challenge: 4 2 1: Client 4 got award 2
+1340189088|PlayerScore: 7 16: Revell now has 16 points
+1340189088|Challenge: 7 305 1: Client 7 got award 305
+1340189088|Award: 7 3: Revell gained the DEFENCE award!
+1340189089|Item: 5 ammo_grenades
+1340189090|Item: 6 weapon_rocketlauncher
+1340189091|Item: 3 item_health
+1340189092|Item: 5 weapon_lightning
+1340189092|Item: 4 item_armor_body
+1340189092|Item: 7 weapon_shotgun
+1340189093|Item: 3 item_health
+1340189093|Item: 7 item_health
+1340189094|Item: 3 ammo_rockets
+1340189095|Item: 4 weapon_rocketlauncher
+1340189095|Item: 2 ammo_bullets
+1340189095|Item: 3 item_health_small
+1340189095|Item: 7 item_health_large
+1340189096|Item: 3 item_health_small
+1340189096|Item: 3 item_health_small
+1340189096|Item: 3 item_health_small
+1340189096|Item: 5 weapon_rocketlauncher
+1340189098|Item: 3 ammo_lightning
+1340189098|Item: 7 weapon_lightning
+1340189099|Item: 4 item_armor_combat
+1340189100|Item: 5 weapon_plasmagun
+1340189102|Award: 7 2: Revell gained the IMPRESSIVE award!
+1340189102|Challenge: 7 301 1: Client 7 got award 301
+1340189105|Kill: 7 2 10: Revell killed Tamas by MOD_RAILGUN
+1340189105|PlayerScore: 7 17: Revell now has 17 points
+1340189105|Challenge: 7 208 1: Client 7 got award 208
+1340189105|Challenge: 7 1 1: Client 7 got award 1
+1340189105|Challenge: 2 2 1: Client 2 got award 2
+1340189105|PlayerScore: 7 19: Revell now has 19 points
+1340189105|broadcast: print "Revell^7 fragged BLUE's flag carrier!\n"
+1340189105|CTF: 7 2 3: Revell fragged BLUE's flag carrier!
+1340189105|Item: 7 weapon_railgun
+1340189105|Kill: 3 5 10: Rolph killed Enrique by MOD_RAILGUN
+1340189105|PlayerScore: 3 20: Rolph now has 20 points
+1340189105|Challenge: 3 208 1: Client 3 got award 208
+1340189105|Challenge: 3 1 1: Client 3 got award 1
+1340189105|Challenge: 5 2 1: Client 5 got award 2
+1340189105|PlayerScore: 3 21: Rolph now has 21 points
+1340189105|Challenge: 3 305 1: Client 3 got award 305
+1340189105|Award: 3 3: Rolph gained the DEFENCE award!
+1340189105|Item: 7 team_CTF_redflag
+1340189105|broadcast: print "Revell^7 returned the RED flag!\n"
+1340189105|PlayerScore: 7 20: Revell now has 20 points
+1340189105|CTF: 7 1 2: Revell returned the RED flag!
+1340189106|Item: 3 weapon_rocketlauncher
+1340189107|Kill: 4 3 6: Thz killed Rolph by MOD_ROCKET
+1340189107|PlayerScore: 4 32: Thz now has 32 points
+1340189107|Challenge: 4 205 1: Client 4 got award 205
+1340189107|Challenge: 4 1 1: Client 4 got award 1
+1340189107|Challenge: 3 2 1: Client 3 got award 2
+1340189107|PlayerScore: 4 34: Thz now has 34 points
+1340189107|broadcast: print "Thz^7 fragged RED's flag carrier!\n"
+1340189107|CTF: 4 1 3: Thz fragged RED's flag carrier!
+1340189107|Item: 7 item_health_small
+1340189107|Item: 7 item_health_small
+1340189107|Item: 4 weapon_shotgun
+1340189108|Item: 2 weapon_shotgun
+1340189108|Item: 6 team_CTF_blueflag
+1340189108|broadcast: print "dennis^7 got the BLUE flag!\n"
+1340189108|CTF: 6 2 0: dennis got the BLUE flag!
+1340189108|PlayerScore: 6 10: dennis now has 10 points
+1340189108|Item: 5 weapon_shotgun
+1340189108|Award: 7 2: Revell gained the IMPRESSIVE award!
+1340189108|Challenge: 7 301 1: Client 7 got award 301
+1340189109|Item: 4 weapon_railgun
+1340189110|Kill: 7 2 10: Revell killed Tamas by MOD_RAILGUN
+1340189110|PlayerScore: 7 21: Revell now has 21 points
+1340189110|Challenge: 7 208 1: Client 7 got award 208
+1340189110|Challenge: 7 1 1: Client 7 got award 1
+1340189110|Challenge: 2 2 1: Client 2 got award 2
+1340189110|Kill: 4 6 10: Thz killed dennis by MOD_RAILGUN
+1340189110|PlayerScore: 4 35: Thz now has 35 points
+1340189110|Challenge: 4 208 1: Client 4 got award 208
+1340189110|Challenge: 4 1 1: Client 4 got award 1
+1340189110|Challenge: 6 2 1: Client 6 got award 2
+1340189110|PlayerScore: 4 37: Thz now has 37 points
+1340189110|broadcast: print "Thz^7 fragged RED's flag carrier!\n"
+1340189110|CTF: 4 1 3: Thz fragged RED's flag carrier!
+1340189111|Item: 4 team_CTF_blueflag
+1340189111|broadcast: print "Thz^7 returned the BLUE flag!\n"
+1340189111|PlayerScore: 4 38: Thz now has 38 points
+1340189111|CTF: 4 2 2: Thz returned the BLUE flag!
+1340189111|Item: 4 weapon_rocketlauncher
+1340189111|Item: 5 item_enviro
+1340189111|Item: 4 team_CTF_redflag
+1340189111|broadcast: print "Thz^7 got the RED flag!\n"
+1340189111|CTF: 4 1 0: Thz got the RED flag!
+1340189111|PlayerScore: 4 38: Thz now has 38 points
+1340189112|Item: 3 item_armor_body
+1340189113|Item: 7 weapon_grenadelauncher
+1340189113|Item: 7 item_health_small
+1340189113|Item: 7 item_health_small
+1340189115|Item: 7 ammo_lightning
+1340189116|Item: 6 weapon_rocketlauncher
+1340189116|Item: 2 weapon_shotgun
+1340189119|Award: 7 2: Revell gained the IMPRESSIVE award!
+1340189119|Challenge: 7 301 1: Client 7 got award 301
+1340189120|Item: 3 weapon_plasmagun
+1340189120|Item: 2 ammo_rockets
+1340189121|Item: 5 item_health
+1340189123|Item: 4 item_health
+1340189124|Item: 7 ammo_cells
+1340189124|Item: 4 team_CTF_blueflag
+1340189124|broadcast: print "Thz^7 captured the RED flag!\n"
+1340189124|CTF: 4 1 1: Thz captured the RED flag!
+1340189124|Award: 4 4: Thz gained the CAPTURE award!
+1340189124|Challenge: 4 303 1: Client 4 got award 303
+1340189124|PlayerScore: 4 43: Thz now has 43 points
+1340189124|broadcast: print "Blue hit the capturelimit.\n"
+1340189124|Exit: Capturelimit hit.
+1340189124|red:0  blue:5
+1340189124|score: 43  ping: 0  client: 4 Thz
+1340189124|score: 33  ping: 3  client: 5 Enrique
+1340189124|score: 21  ping: 3  client: 3 Rolph
+1340189124|score: 21  ping: 0  client: 7 Revell
+1340189124|score: 16  ping: 0  client: 2 Tamas
+1340189124|score: 10  ping: 1  client: 6 dennis
+1340189124|PlayerScore: 2 16: Tamas now has 16 points
+1340189124|PlayerScore: 5 33: Enrique now has 33 points
+1340189130|broadcast: print "Thz^7 disconnected\n"
+1340189130|Playerstore: Stored player with guid: 2BEA6F12C7F6A6FA1D2B46B4B41D1C44 in 0
+1340189130|ClientDisconnect: 4
+1340189130|g_gametype will be changed upon restarting.
+1340189130|==== ShutdownGame ====
+1340189130|ShutdownGame:
+1340189130|------------------------------------------------------------
+1340189130|AAS shutdown.
+1340189130|------ Server Initialization ------
+1340189130|Server: oa_dm3
+1340189130|Hunk_Clear: reset the hunk ok
+1340189130|----- FS_Startup -----
+1340189130|Current search path:
+1340189130|/home/jeroen/.openarena/baseoa
+1340189130|/usr/lib/openarena-server/baseoa
+1340189130|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340189130|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340189130|
+1340189130|----------------------
+1340189130|5433 files in pk3 files
+1340189130|Loading vm file vm/qagame.qvm...
+1340189130|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1340189130|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1340189130|... trying pak6-patch088/qagame
+1340189130|... trying qagame
+1340189130|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1340189130|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1340189130|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7f67cdfe7ab6
+1340189130|------- Game Initialization -------
+1340189130|gamename: baseoa
+1340189130|gamedate: Apr  1 2012
+1340189130|------------------------------------------------------------
+1340189130|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\bot_minplayers\0\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_floodProtect\1\sv_minRate\0\g_maxGameClients\0\videoflags\7\g_doWarmup\0\elimination_roundtime\120\g_lms_mode\0\g_gametype\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\sv_dlRate\100\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\oa_dm3\gamename\baseoa\elimflags\0\voteflags\2\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-20 12:45:30
+1340189130|Info: ServerInfo length: 788 of 1024
+1340189130|Gametype changed, clearing session data.
+1340189130|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1340189130|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1340189130|info_intermission doesn't have a spawn function
+1340189130|0 teams with 0 entities
+1340189130|22 items registered
+1340189130|-----------------------------------
+1340189130|------- BotLib Initialization -------
+1340189130|loaded weapons.c
+1340189130|loaded items.c
+1340189130|loaded syn.c
+1340189130|loaded rnd.c
+1340189130|loaded match.c
+1340189130|loaded rchat.c
+1340189130|------------ Map Loading ------------
+1340189130|trying to load maps/oa_dm3.aas
+1340189130|loaded maps/oa_dm3.aas
+1340189130|item_botroam in solid at (1160.0 504.0 40.0)
+1340189130|item_botroam in solid at (-768.0 840.0 104.0)
+1340189130|found 53 level items
+1340189130|-------------------------------------
+1340189130|33 bots parsed
+1340189130|58 arenas parsed
+1340189130|G_PickTarget called with NULL targetname
+1340189130|G_PickTarget called with NULL targetname
+1340189130|AAS initialized.
+1340189130|ClientUserinfoChanged: 2 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340189130|ClientConnect: 2
+1340189130|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340189130|ClientConnect: 3
+1340189130|ClientUserinfoChanged: 5 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340189130|ClientConnect: 5
+1340189130|ClientUserinfoChanged: 6 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1340189130|ClientConnect: 6
+1340189130|ClientUserinfoChanged: 7 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340189130|ClientConnect: 7
+1340189130|-----------------------------------
+1340189131|ClientUserinfoChanged: 2 n\Tamas\t\0\model\smarine/red\hmodel\smarine/red\g_redteam\\g_blueteam\\c1\3\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\913EEAB8EE1A36416CB417D6374CFB07
+1340189131|Playerstore: Nothing to restore. Guid: 913EEAB8EE1A36416CB417D6374CFB07
+1340189131|broadcast: print "Tamas^7 entered the game\n"
+1340189131|ClientBegin: 2
+1340189132|ClientUserinfoChanged: 7 n\Revell\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\7\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\978E21D180BF6D8EBEAA5D3897170E94
+1340189132|Playerstore: Nothing to restore. Guid: 978E21D180BF6D8EBEAA5D3897170E94
+1340189132|broadcast: print "Revell^7 entered the game\n"
+1340189132|ClientBegin: 7
+1340189132|broadcast: print "Revell^7 disconnected\n"
+1340189132|Kill: 1022 7 20: <world> killed Revell by MOD_SUICIDE
+1340189132|Playerstore: Stored player with guid: 978E21D180BF6D8EBEAA5D3897170E94 in 0
+1340189132|ClientDisconnect: 7
+1340189132|ClientUserinfoChanged: 5 n\Enrique\t\0\model\beret/headcrash\hmodel\beret/headcrash\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\2EF47499FF1CAD2316F9FD0918CDDAAA
+1340189132|Playerstore: Nothing to restore. Guid: 2EF47499FF1CAD2316F9FD0918CDDAAA
+1340189132|broadcast: print "Enrique^7 entered the game\n"
+1340189132|ClientBegin: 5
+1340189132|ClientUserinfoChanged: 6 n\dennis\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\09B7CCF049BACED173FDB92196EBE8B3
+1340189132|Playerstore: Nothing to restore. Guid: 09B7CCF049BACED173FDB92196EBE8B3
+1340189132|broadcast: print "dennis^7 entered the game\n"
+1340189132|ClientBegin: 6
+1340189134|ClientUserinfoChanged: 3 n\Rolph\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8D9D8FAD284359ED36F095C64975783B
+1340189134|Playerstore: Nothing to restore. Guid: 8D9D8FAD284359ED36F095C64975783B
+1340189134|broadcast: print "Rolph^7 entered the game\n"
+1340189134|ClientBegin: 3
+1340189136|Item: 2 item_health_mega
+1340189137|Item: 5 ammo_bullets
+1340189139|Item: 2 ammo_cells
+1340189141|Item: 2 weapon_lightning
+1340189143|Kill: 2 3 11: Tamas killed Rolph by MOD_LIGHTNING
+1340189143|PlayerScore: 2 1: Tamas now has 1 points
+1340189143|Challenge: 2 206 1: Client 2 got award 206
+1340189143|Challenge: 2 1 1: Client 2 got award 1
+1340189143|Challenge: 3 2 1: Client 3 got award 2
+1340189145|Item: 3 ammo_shells
+1340189149|Item: 3 weapon_railgun
+1340189150|Item: 3 ammo_slugs
+1340189154|Item: 3 ammo_cells
+1340189155|Item: 2 ammo_cells
+1340189155|Item: 2 weapon_rocketlauncher
+1340189157|Kill: 2 5 6: Tamas killed Enrique by MOD_ROCKET
+1340189157|PlayerScore: 2 2: Tamas now has 2 points
+1340189157|Challenge: 2 205 1: Client 2 got award 205
+1340189157|Challenge: 2 1 1: Client 2 got award 1
+1340189157|Challenge: 5 2 1: Client 5 got award 2
+1340189157|Item: 3 ammo_rockets
+1340189158|Item: 3 ammo_shells
+1340189159|Item: 6 weapon_lightning
+1340189165|Item: 3 item_invis
+1340189165|Item: 2 item_armor_combat
+1340189167|Kill: 3 5 10: Rolph killed Enrique by MOD_RAILGUN
+1340189167|PlayerScore: 3 1: Rolph now has 1 points
+1340189167|Challenge: 3 208 1: Client 3 got award 208
+1340189167|Challenge: 3 1 1: Client 3 got award 1
+1340189167|Challenge: 5 2 1: Client 5 got award 2
+1340189167|Challenge: 3 404 1: Client 3 got award 404
+1340189167|Award: 3 2: Rolph gained the IMPRESSIVE award!
+1340189167|Challenge: 3 301 1: Client 3 got award 301
+1340189169|Item: 6 weapon_rocketlauncher
+1340189173|Item: 3 ammo_shells
+1340189174|Item: 3 weapon_plasmagun
+1340189177|Item: 6 item_health_mega
+1340189177|Item: 3 ammo_slugs
+1340189182|Item: 2 ammo_slugs
+1340189182|Item: 6 ammo_shells
+1340189182|Item: 2 item_quad
+1340189184|Item: 2 ammo_bullets
+1340189184|Item: 6 weapon_plasmagun
+1340189188|Item: 2 ammo_rockets
+1340189192|Kill: 6 3 7: dennis killed Rolph by MOD_ROCKET_SPLASH
+1340189192|PlayerScore: 6 1: dennis now has 1 points
+1340189192|Challenge: 6 205 1: Client 6 got award 205
+1340189192|Challenge: 6 1 1: Client 6 got award 1
+1340189192|Challenge: 3 2 1: Client 3 got award 2
+1340189192|Challenge: 6 409 1: Client 6 got award 409
+1340189193|Item: 6 weapon_railgun
+1340189193|Item: 5 weapon_plasmagun
+1340189193|Item: 6 item_invis
+1340189195|Item: 2 ammo_shells
+1340189195|Item: 5 ammo_grenades
+1340189197|Item: 2 ammo_bullets
+1340189197|Item: 3 weapon_rocketlauncher
+1340189197|Item: 3 ammo_cells
+1340189200|Kill: 5 6 9: Enrique killed dennis by MOD_PLASMA_SPLASH
+1340189200|PlayerScore: 5 1: Enrique now has 1 points
+1340189200|Challenge: 5 207 1: Client 5 got award 207
+1340189200|Challenge: 5 1 1: Client 5 got award 1
+1340189200|Challenge: 6 2 1: Client 6 got award 2
+1340189201|Item: 5 weapon_railgun
+1340189204|Item: 3 weapon_lightning
+1340189204|Item: 5 ammo_cells
+1340189205|broadcast: print "dennis^7 disconnected\n"
+1340189205|Playerstore: Stored player with guid: 09B7CCF049BACED173FDB92196EBE8B3 in 1
+1340189205|ClientDisconnect: 6
+1340189205|Item: 2 weapon_plasmagun
+1340189206|Item: 5 item_health
+1340189207|Item: 3 ammo_lightning
+1340189207|Item: 5 ammo_cells
+1340189210|Item: 2 ammo_rockets
+1340189211|Item: 2 ammo_shells
+1340189212|Item: 2 ammo_cells
+1340189212|Item: 5 ammo_shells
+1340189214|Kill: 2 5 8: Tamas killed Enrique by MOD_PLASMA
+1340189214|PlayerScore: 2 3: Tamas now has 3 points
+1340189214|Challenge: 2 207 1: Client 2 got award 207
+1340189214|Challenge: 2 1 1: Client 2 got award 1
+1340189214|Challenge: 5 2 1: Client 5 got award 2
+1340189214|Item: 3 item_health_mega
+1340189216|Item: 2 weapon_plasmagun
+1340189217|Item: 3 ammo_slugs
+1340189220|Kill: 5 2 2: Enrique killed Tamas by MOD_GAUNTLET
+1340189220|PlayerScore: 5 2: Enrique now has 2 points
+1340189220|Challenge: 5 201 1: Client 5 got award 201
+1340189220|Award: 5 0: Enrique gained the GAUNTLET award!
+1340189220|Challenge: 5 201 1: Client 5 got award 201
+1340189220|Challenge: 5 1 1: Client 5 got award 1
+1340189220|Challenge: 2 2 1: Client 2 got award 2
+1340189220|Item: 5 weapon_plasmagun
+1340189220|Item: 3 weapon_plasmagun
+1340189237|Kill: 5 2 8: Enrique killed Tamas by MOD_PLASMA
+1340189237|PlayerScore: 5 3: Enrique now has 3 points
+1340189237|Challenge: 5 207 1: Client 5 got award 207
+1340189237|Challenge: 5 1 1: Client 5 got award 1
+1340189237|Challenge: 2 2 1: Client 2 got award 2
+1340189243|Kill: 2 5 2: Tamas killed Enrique by MOD_GAUNTLET
+1340189243|PlayerScore: 2 4: Tamas now has 4 points
+1340189243|Challenge: 2 201 1: Client 2 got award 201
+1340189243|Award: 2 0: Tamas gained the GAUNTLET award!
+1340189243|Challenge: 2 201 1: Client 2 got award 201
+1340189243|Challenge: 2 1 1: Client 2 got award 1
+1340189243|Challenge: 5 2 1: Client 5 got award 2
+1340189246|Item: 2 ammo_cells
+1340189247|Item: 2 weapon_lightning
+1340189248|Kill: 2 3 11: Tamas killed Rolph by MOD_LIGHTNING
+1340189248|PlayerScore: 2 5: Tamas now has 5 points
+1340189248|Challenge: 2 206 1: Client 2 got award 206
+1340189248|Challenge: 2 1 1: Client 2 got award 1
+1340189248|Challenge: 3 2 1: Client 3 got award 2
+1340189249|Item: 2 weapon_lightning
+1340189255|Item: 5 item_health_mega
+1340189256|Item: 3 ammo_bullets
+1340189257|Item: 5 ammo_slugs
+1340189260|Item: 3 weapon_shotgun
+1340189260|Item: 5 weapon_plasmagun
+1340189261|Item: 3 ammo_rockets
+1340189263|Item: 3 ammo_shells
+1340189266|Item: 3 ammo_rockets
+1340189266|Kill: 5 2 8: Enrique killed Tamas by MOD_PLASMA
+1340189266|PlayerScore: 5 4: Enrique now has 4 points
+1340189266|Challenge: 5 207 1: Client 5 got award 207
+1340189266|Challenge: 5 1 1: Client 5 got award 1
+1340189266|Challenge: 2 2 1: Client 2 got award 2
+1340189267|Item: 3 ammo_bullets
+1340189268|Item: 5 weapon_lightning
+1340189268|Item: 3 ammo_slugs
+1340189269|Item: 5 weapon_plasmagun
+1340189273|Item: 5 ammo_rockets
+1340189274|Item: 2 weapon_lightning
+1340189274|Item: 5 ammo_shells
+1340189275|Item: 5 ammo_cells
+1340189285|Item: 2 weapon_plasmagun
+1340189287|Item: 3 weapon_lightning
+1340189288|Item: 2 ammo_cells
+1340189290|Item: 3 ammo_lightning
+1340189290|Item: 3 ammo_grenades
+1340189291|Item: 2 item_invis
+1340189297|Item: 3 ammo_lightning
+1340189301|Kill: 5 2 8: Enrique killed Tamas by MOD_PLASMA
+1340189301|PlayerScore: 5 5: Enrique now has 5 points
+1340189301|Challenge: 5 207 1: Client 5 got award 207
+1340189301|Challenge: 5 1 1: Client 5 got award 1
+1340189301|Challenge: 2 2 1: Client 2 got award 2
+1340189301|Challenge: 5 409 1: Client 5 got award 409
+1340189302|Item: 5 item_invis
+1340189305|Item: 3 item_enviro
+1340189306|Item: 2 ammo_cells
+1340189307|Item: 5 ammo_shells
+1340189307|Item: 2 weapon_rocketlauncher
+1340189310|Item: 5 ammo_cells
+1340189310|Item: 3 item_health_mega
+1340189311|Item: 5 item_health
+1340189315|Item: 5 ammo_rockets
+1340189316|Item: 2 ammo_rockets
+1340189316|Item: 5 ammo_shells
+1340189317|Item: 5 ammo_cells
+1340189319|Item: 2 ammo_shells
+1340189319|Item: 5 item_health_mega
+1340189319|Item: 3 weapon_lightning
+1340189322|Item: 2 ammo_bullets
+1340189322|Item: 5 ammo_cells
+1340189323|Item: 2 item_quad
+1340189326|Kill: 3 5 11: Rolph killed Enrique by MOD_LIGHTNING
+1340189326|PlayerScore: 3 2: Rolph now has 2 points
+1340189326|Challenge: 3 206 1: Client 3 got award 206
+1340189326|Challenge: 3 1 1: Client 3 got award 1
+1340189326|Challenge: 5 2 1: Client 5 got award 2
+1340189327|Item: 3 weapon_plasmagun
+1340189328|Item: 2 ammo_slugs
+1340189331|Item: 2 weapon_plasmagun
+1340189333|Item: 5 ammo_shells
+1340189342|Item: 3 weapon_plasmagun
+1340189346|Kill: 2 5 8: Tamas killed Enrique by MOD_PLASMA
+1340189346|PlayerScore: 2 6: Tamas now has 6 points
+1340189346|Challenge: 2 207 1: Client 2 got award 207
+1340189346|Challenge: 2 1 1: Client 2 got award 1
+1340189346|Challenge: 5 2 1: Client 5 got award 2
+1340189346|Challenge: 2 401 1: Client 2 got award 401
+1340189347|Item: 2 ammo_shells
+1340189349|Item: 5 weapon_rocketlauncher
+1340189351|Item: 2 item_health
+1340189353|Item: 2 ammo_cells
+1340189355|Item: 3 weapon_railgun
+1340189355|Item: 2 weapon_plasmagun
+1340189357|Item: 5 weapon_lightning
+1340189360|Item: 2 ammo_shells
+1340189361|Item: 2 ammo_cells
+1340189362|Item: 3 item_health
+1340189362|Item: 3 item_health
+1340189362|Item: 2 item_health_mega
+1340189365|Kill: 2 5 8: Tamas killed Enrique by MOD_PLASMA
+1340189365|PlayerScore: 2 7: Tamas now has 7 points
+1340189365|Challenge: 2 207 1: Client 2 got award 207
+1340189365|Challenge: 2 1 1: Client 2 got award 1
+1340189365|Challenge: 5 2 1: Client 5 got award 2
+1340189368|Item: 2 ammo_1340189826|ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012
+1340189826|Have SSE support
+1340189826|----- FS_Startup -----
+1340189826|Current search path:
+1340189826|/home/jeroen/.openarena/baseoa
+1340189826|/usr/lib/openarena-server/baseoa
+1340189826|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340189826|
+1340189826|----------------------
+1340189826|5433 files in pk3 files
+1340189826|execing default.cfg
+1340189826|execing q3config_server.cfg
+1340189826|execing autoexec.cfg
+1340189826|Hunk_Clear: reset the hunk ok
+1340189826|^3Couldn't write /tmp/ioq3_server.pid.
+1340189826|--- Common Initialization Complete ---
+1340189826|IP: 127.0.0.1
+1340189826|IP: 192.168.96.9
+1340189826|IP6: ::1
+1340189826|IP6: fe80::224:e8ff:fe23:4f72%eth0
+1340189826|Opening IP6 socket: [::]:27960
+1340189826|Opening IP socket: 192.168.96.9:27960
+1340189826|WARNING: NET_IPSocket: bind: Address already in use
+1340189826|Opening IP socket: 192.168.96.9:27961
+1340189826|tty console mode disabled
+1340189826|execing old.cfg
+1340189826|------ Server Initialization ------
+1340189826|Server: aggressor
+1340189826|Hunk_Clear: reset the hunk ok
+1340189826|----- FS_Startup -----
+1340189826|Current search path:
+1340189826|/home/jeroen/.openarena/baseoa
+1340189826|/usr/lib/openarena-server/baseoa
+1340189826|/usr/lib/openarena-server/baseoa/pak6-patch088.pk3 (711 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak6-patch085.pk3 (559 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak6-misc.pk3 (229 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak5-TA.pk3 (139 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak4-textures.pk3 (1753 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak2-players.pk3 (669 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak2-players-mature.pk3 (231 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak1-maps.pk3 (100 files)
+1340189826|/usr/lib/openarena-server/baseoa/pak0.pk3 (1042 files)
+1340189826|
+1340189826|----------------------
+1340189826|5433 files in pk3 files
+1340189826|Loading vm file vm/qagame.qvm...
+1340189826|File "vm/qagame.qvm" found in "/usr/lib/openarena-server/baseoa/pak6-patch088.pk3"
+1340189826|...which has vmMagic VM_MAGIC_USE_NATIVE.
+1340189826|... trying pak6-patch088/qagame
+1340189826|... trying qagame
+1340189826|Loading DLL file /usr/lib/openarena-server/baseoa/qagamex86_64.so instead.
+1340189826|Loading DLL file: /usr/lib/openarena-server/baseoa/qagamex86_64.so
+1340189826|Sys_LoadGameDll(/usr/lib/openarena-server/baseoa/qagamex86_64.so) found vmMain function at 0x7fe1b57b7ab6
+1340189826|------- Game Initialization -------
+1340189826|gamename: baseoa
+1340189826|gamedate: Apr  1 2012
+1340189826|------------------------------------------------------------
+1340189826|InitGame: \com_protocol\71\sv_hostname\Spil OA Server\sv_maxclients\16\sv_minPing\0\sv_maxPing\400\sv_maxRate\25000\sv_allowdownload\1\sv_privateClients\2\capturelimit\5\timelimit\0\fraglimit\15\g_allowvote\1\g_voteGametypes\/0/3/4/5/8/10\g_delagHitscan\1\dmflags\88\g_instantgib\0\g_rockets\0\sv_dlRate\100\g_voteMaxTimelimit\1000\g_voteMinTimelimit\0\g_voteMaxFraglimit\0\g_voteMinFraglimit\0\g_gametype\0\g_lms_mode\0\elimination_roundtime\120\g_doWarmup\0\videoflags\7\g_maxGameClients\0\sv_minRate\0\sv_floodProtect\1\version\ioq3 1.36+svn2224-3/Debian linux-x86_64 Mar 31 2012\com_gamename\Quake3Arena\mapname\aggressor\gamename\baseoa\elimflags\0\voteflags\0\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2012-06-20 12:57:06
+1340189826|Info: ServerInfo length: 774 of 1024
+1340189826|!readconfig: loaded 0 levels, 0 admins, 0 bans, 0 commands, 0 warnings
+1340189826|Sprees/Kills: loaded 1 killing sprees, 0 death sprees, and 0 multikills.
+1340189826|0 teams with 0 entities
+1340189826|17 items registered
+1340189826|-----------------------------------
+1340189826|------- BotLib Initialization -------
+1340189826|loaded weapons.c
+1340189826|loaded items.c
+1340189826|loaded syn.c
+1340189826|loaded rnd.c
+1340189826|loaded match.c
+1340189826|loaded rchat.c
+1340189826|------------ Map Loading ------------
+1340189826|trying to load maps/aggressor.aas
+1340189826|loaded maps/aggressor.aas
+1340189826|found 29 level items
+1340189826|-------------------------------------
+1340189826|33 bots parsed
+1340189826|58 arenas parsed
+1340189826|AAS initialized.
+1340189826|-----------------------------------
