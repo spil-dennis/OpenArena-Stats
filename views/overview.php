@@ -1,4 +1,4 @@
-<?php include('header.php'); 
+<?php include('header.php');
 
 foreach($stats as $player => &$p) {
 	$sort[$player] = $p['ratio'];
@@ -19,7 +19,7 @@ arsort($sort);
 		<th>FPM</th>
 		<th>DPM</th>
 		<th>FPG</th>
-		<th>DPG</th>		
+		<th>DPG</th>
 		<th>Games</th>
 		<th>Weapon</th>
 
@@ -27,7 +27,7 @@ arsort($sort);
 	<tbody>
 <?php foreach($sort as $player => $ratio) {
 $p = &$stats[$player];
-	
+
 	?>
 <tr>
 	<td> <a href="?player=<?php echo $player; ?><?php echo $queryStart ?>"><?php echo $player; ?></a></td>
@@ -42,8 +42,8 @@ $p = &$stats[$player];
 	<td><?php echo round($p['avgkilledbypergame'],2) ?>(<?php echo $p['maxkilledbypergame']?>)</td>
 	<td><?php echo $p['games'] ?></td>
 	<td><?php echo reset(array_keys($p['kill_weapons'])) ?>(<?php echo reset($p['kill_weapons']) ?>)</td>
-	
-	
+
+
 	</tr>
 <?php } ?>
 	</tbody>
@@ -54,26 +54,26 @@ $p = &$stats[$player];
 <section class="kill">
             	<div id="legend"></div>
             	<div id="ratiochart"></div>
-            	
-            	<?php 
+
+            	<?php
             		$dt =array();
             		foreach($stats as $player => &$p) {
-            			
+
             			foreach($p['ratio_time'] as $date => $value) {
             				$d = strtotime($date.' 00:00:00');
             				$dt[$d][$player] = $value;
             				$series[$player][$d]="{x:$d, y:$value}";
             			}
             		}
-            		
+
             		ksort($dt);
-            		
+
             		$lastplayer = $player;
-            		
+            		$pd = 0;
             		foreach(array_keys($dt) as $d) {
             			foreach($series as $player => &$v) {
             				if(!isset($v[$d])) {
-								$dt[$d][$player]=(isset($dt[$pd][$player]) ? $dt[$pd][$player] : "0");  			
+								$dt[$d][$player]=(isset($dt[$pd][$player]) ? $dt[$pd][$player] : "0");
             					$v[$d]="{x:$d, y:".$dt[$d][$player]."}";
             				}
             			}
@@ -81,16 +81,16 @@ $p = &$stats[$player];
             		}
 
             		?>
-            	<script> 
+            	<script>
             	var palette = new Rickshaw.Color.Palette( { scheme: 'classic9' } );
 				var graph = new Rickshaw.Graph( {
-				    element: document.querySelector("#ratiochart"), 
-				    width: 600, 
+				    element: document.querySelector("#ratiochart"),
+				    width: 600,
 				    height: 200,
 				    renderer: 'line',
 				    series: [
-					<?php foreach($series as $player => $data) { ksort($data);?>				
-						{					    
+					<?php foreach($series as $player => $data) { ksort($data);?>
+						{
 						    color: palette.color(),
 						    name: '<?php echo $player; ?>',
 						    data: [	<?php echo implode(",\r\n", $data); ?> ]
@@ -109,14 +109,14 @@ $p = &$stats[$player];
 			if(series.name == 'Ratio') value = (y / 100);
 			else if(series.name == 'DPM' || series.name == "KPM") value = (y / 50);
 			else value = y;
-			
+
 			var content = swatch + series.name + ": " + value + '<br>' + date;
 			return content;
 		},
 		xFormatter: function(x) { return new Date(x * 1000).toDateString() },
 	} );
-	 
-	
+
+
 	var yAxis = new Rickshaw.Graph.Axis.Y({
 	    graph: graph,
 	    tickFormat: Rickshaw.Fixtures.Number.formatKMBT
@@ -140,14 +140,14 @@ $p = &$stats[$player];
 	    graph: graph,
 	    legend: legend
 	});
-	
+
 	graph.render();
 	xAxis.render();
 	yAxis.render();
-	
-	
+
+
 	</script>
-            
+
 </section>
 
 

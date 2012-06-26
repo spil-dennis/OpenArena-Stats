@@ -267,7 +267,7 @@ class oaStatistics {
         	$comment = "";
         }
         
-        file_put_contents($file, "<?php\n$comment\$games[".$this->currentGame['timestamp']."]=".var_export($this->currentGame, true).";\n");
+        file_put_contents($file, "<?php\n$comment\$games[".$this->currentGame['timestamp']."]=".var_export($this->currentGame, true).";\n".($comment?"*/\n":""));
         
         if(!$this->silent) echo "Saved ".$file."\r\n";
         

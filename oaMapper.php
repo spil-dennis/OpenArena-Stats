@@ -33,6 +33,23 @@ class oaMapper {
             "32A851D406DF2479F05FF32BD765C8E5" => "Mircea",
         );
 
+        public static $playernamemap = array(
+            'Aecrim'        => 'Mircea',
+            'Revell'        => 'Jeroen',
+            'Enrique'       => 'Enrique',
+            'dennis'        => 'Dennis',
+            'Schoende'      => 'Sven',
+            'Archangel'     => 'Sven',
+            'ArchAngel'     => 'Sven',
+            'TT'            => 'Thijs T',
+            'Thz'           => 'Thijs Z',
+            'Sitting Duck'  => 'Martin',
+            'Tamas'         => 'Tamas',
+            'Rolph'         => 'Rolph',
+            'Gerb'          => 'Gerben',
+        );
+
+
         public static $gameTypes = array(
                 0 => 'GT_FFA',						// Deathmatch
                 1 => 'GT_TOURNAMENT',				// 1 on 1
